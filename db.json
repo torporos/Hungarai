@@ -1,0 +1,107 @@
+{
+"lessons": [
+{
+"id": "l_01",
+"title": "Lekce 1: Dům a základy",
+"description": "Základní slovesa, dům a vokálová harmonie.",
+"xpRequired": 0,
+"task_ids": [
+{ "type": "cloze", "id": "s_001" },
+{ "type": "vowel", "id": "vh_001" },
+{ "type": "phonetic", "id": "ph_002" }
+]
+},
+{
+"id": "l_02",
+"title": "Lekce 2: Lidé a zdraví",
+"description": "Rozšíření slovní zásoby a záludné délky samohlásek.",
+"xpRequired": 50,
+"task_ids": [
+{ "type": "vowel", "id": "vh_002" },
+{ "type": "phonetic", "id": "ph_001" }
+]
+}
+],
+"tasks_pool": {
+"s_001": {
+"id": "s_001",
+"text": "A házamban vagyok.",
+"translation": "Jsem ve svém domě.",
+"tokens": [
+{ "word": "A", "components": [{ "text": "A", "type": "article", "translation": "ten/ta/to" }] },
+{ "word": "házamban", "components": [
+{ "text": "ház", "type": "root", "translation": "dům" },
+{ "text": "am", "type": "possessive_1sg", "translation": "můj" },
+{ "text": "ban", "type": "inessive_case", "translation": "v (uvnitř)" }
+]},
+{ "word": "vagyok", "components": [{ "text": "vagyok", "type": "verb_irregular", "translation": "jsem" }] }
+],
+"cloze_test": {
+"sentence_parts": ["A ", "_____", " vagyok."],
+"options": ["házamban", "házamben", "házamból", "házamből"],
+"correct_index": 0,
+"explanation": "Slovo 'ház' obsahuje zadní samohlásky (á), proto musíme v rámci vokálové harmonie použít příponu s hlubokou samohláskou -ban."
+}
+},
+"vh_001": {
+"id": "vh_001", "word": "asztal", "translation": "stůl", "type": "front_back",
+"options": [
+{ "text": "-ban / -ból / -nak", "type": "back", "isCorrect": true },
+{ "text": "-ben / -ből / -nek", "type": "front", "isCorrect": false }
+],
+"explanation": "Asztal obsahuje pouze zadní samohlásky (a), proto bere zadní přípony."
+},
+"vh_002": {
+"id": "vh_002", "word": "ember", "translation": "člověk", "type": "front_back",
+"options": [
+{ "text": "-ban / -ból / -nak", "type": "back", "isCorrect": false },
+{ "text": "-ben / -ből / -nek", "type": "front", "isCorrect": true }
+],
+"explanation": "Ember obsahuje pouze přední samohlásky (e), proto bere přední přípony."
+},
+"ph_001": {
+"id": "ph_001", "word": "kór", "translation": "nemoc", "correct_index": 1,
+"options": [{ "text": "kor", "translation": "věk" }, { "text": "kór", "translation": "nemoc" }],
+"explanation": "Slyšel jsi dlouhé 'ó'. Kór znamená nemoc, zatímco krátké kor znamená věk."
+},
+"ph_002": {
+"id": "ph_002", "word": "hal", "translation": "ryba", "correct_index": 0,
+"options": [{ "text": "hal", "translation": "ryba" }, { "text": "hál", "translation": "spí" }],
+"explanation": "Slyšel jsi krátké, hluboké 'a'. Hal je ryba, hál znamená spát."
+}
+},
+"stories": [
+{
+"id": "st_001",
+"title": "A kutya",
+"paragraphs": [
+{ "hu_text": "Ez egy nagy kutya. A kutya a házban van.", "cs_text": "To je velký pes. Pes je v domě." }
+],
+"comprehension_question": {
+"question": "Hol van a kutya?", "options": ["A házban.", "A kertben."], "correct_index": 0
+}
+}
+],
+"vocabulary": [
+{
+"id": "v_001", "base_word": "hó", "translation": "sníh", "pos": "podstatné jméno", "vowel_harmony": "zadní",
+"grammar_note": "Nepravidelný kmen (v-kmen). Akuzativ: havat."
+},
+{
+"id": "v_002", "base_word": "ház", "translation": "dům", "pos": "podstatné jméno", "vowel_harmony": "zadní",
+"grammar_note": "Pravidelné."
+},
+{
+"id": "v_003", "base_word": "ember", "translation": "člověk", "pos": "podstatné jméno", "vowel_harmony": "přední",
+"grammar_note": "Pravidelné."
+},
+{
+"id": "v_004", "base_word": "eszik", "translation": "jíst", "pos": "sloveso", "vowel_harmony": "smíšená",
+"grammar_note": "Ik-ové sloveso, nepravidelné. Infinitiv: enni."
+},
+{
+"id": "v_005", "base_word": "asztal", "translation": "stůl", "pos": "podstatné jméno", "vowel_harmony": "zadní",
+"grammar_note": "Pravidelné."
+}
+]
+}
