@@ -217,8 +217,21 @@ function App() {
     setLoadAttempt((attempt) => attempt + 1)
   }
 
-  function speak(text) {
-    if (!('speechSynthesis' in window)) return
+  async function speak(text) {
+    if (Capacitor.getPlatform() === 'android') {
+      try {
+        await HungarianTts.speak({ text })
+        setTtsSetupWarning('')
+      } catch {
+        setTtsSetupWarning('Maďarský hlas není dostupný. Nainstalujte hlasová data v nastavení Androidu a zkuste to znovu.')
+      }
+      return
+    }
+
+    if (!('speechSynthesis' in window)) {
+      setTtsSetupWarning('Tento prohlížeč nepodporuje hlasový výstup.')
+      return
+    }
     window.speechSynthesis.cancel()
     const utterance = new SpeechSynthesisUtterance(text)
     utterance.lang = 'hu-HU'

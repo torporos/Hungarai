@@ -21,6 +21,8 @@ npm.cmd run android:debug
 
 Debug APK se vytvoří v `android\app\build\outputs\apk\debug\app-debug.apk`. Jde o testovací APK podepsané vývojovým klíčem.
 
+V Android aplikaci se výslovnost přehrává přes systémový TextToSpeech, ne přes řečové API WebView. Při prvním spuštění aplikace ověří dostupnost maďarského hlasu a při jeho absenci otevře systémovou instalaci hlasových dat, kterou je potřeba potvrdit. Pro samotné přehrávání není potřeba oprávnění k mikrofonu.
+
 ## Zatím hotovo
 
 - Přehled a lekce s odemykáním podle zkušeností.
