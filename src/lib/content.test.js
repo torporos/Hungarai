@@ -59,6 +59,16 @@ test('published curriculum data is linked and lessons include reinforcement prac
       `${lesson.id} needs more than one exercise per new word`,
     )
   }
+
+  const q1Vocabulary = content.vocabulary.filter((word) => word.tags?.includes('military_basic'))
+  assert.equal(q1Vocabulary.length, 50)
+
+  const q1Lessons = content.lessons.filter((lesson) => lesson.theme_id === 'q1-novacek-kasarny')
+  assert.equal(q1Lessons.length, 5)
+  for (const lesson of q1Lessons) {
+    const story = content.stories.find((item) => item.id === lesson.story_ids[0])
+    assert.equal(story.curriculum_lesson_id, lesson.id)
+  }
 })
 
 test('loads all curriculum files from the configured remote base URL', async () => {
@@ -99,7 +109,7 @@ test('uses bundled lesson data if GitHub and the offline cache are unavailable',
   const content = await loadContent({ storage: memoryStorage(), fetcher: async () => { throw new Error('offline') } })
 
   assert.equal(content.source, 'bundled')
-  assert.equal(content.lessons.length, 13)
+  assert.equal(content.lessons.length, 18)
   assert.ok(content.exercises.length >= 90)
 })
 

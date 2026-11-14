@@ -352,5 +352,310 @@
       }
     ],
     "translation_cs": "V roce 1913 je Anna v Budapešti. Ve městě jezdí tramvaj. Anna jede tramvají na náměstí. Náměstí je ve městě. Host čeká na náměstí. Kočí je také na náměstí. Kůň je na náměstí. Kočár je na náměstí. Host jede kočárem do hotelu. Anna jede tramvají do muzea. Muzeum je na náměstí. Večer je Anna v hotelu."
+  },
+  {
+    "id": "q1-story-ranks",
+    "title_cs": "Nováček a jeho nadřízení",
+    "title_hu": "Az újonc a tisztek",
+    "level": "Q1 · UHER PŘED ROKEM 1914",
+    "reading_time_min": 2,
+    "prerequisite_lesson_ids": ["q1-hodnosti"],
+    "curriculum_lesson_id": "q1-hodnosti",
+    "new_vocabulary_ids": ["honved", "orrmester", "hadnagy", "szazados", "ezredes", "tabornok", "kozlegeny", "orvezeto", "szakaszvezeto", "zaszlos"],
+    "vocabulary_ids": ["honved", "orrmester", "hadnagy", "szazados", "ezredes", "tabornok", "kozlegeny", "orvezeto", "szakaszvezeto", "zaszlos", "kaszarnya", "laktanya", "viz", "kenyer", "varos"],
+    "segments": [
+      { "text": "1913-ban János a " },
+      { "text": "kaszárnyában", "vocabulary_id": "kaszarnya" },
+      { "text": " van. János " },
+      { "text": "honvéd", "vocabulary_id": "honved" },
+      { "text": "." },
+      { "text": " A " },
+      { "text": "közlegény", "vocabulary_id": "kozlegeny" },
+      { "text": " vizet kér. Az " },
+      { "text": "őrmester", "vocabulary_id": "orrmester" },
+      { "text": " vizet ad. A " },
+      { "text": "hadnagy", "vocabulary_id": "hadnagy" },
+      { "text": " a szobában van. A " },
+      { "text": "százados", "vocabulary_id": "szazados" },
+      { "text": " a " },
+      { "text": "laktanyában", "vocabulary_id": "laktanya" },
+      { "text": " van. Az " },
+      { "text": "őrvezető", "vocabulary_id": "orvezeto" },
+      { "text": " kenyeret kér. A " },
+      { "text": "szakaszvezető", "vocabulary_id": "szakaszvezeto" },
+      { "text": " a kaszárnyában van. Az " },
+      { "text": "ezredes", "vocabulary_id": "ezredes" },
+      { "text": " a városban van. A " },
+      { "text": "tábornok", "vocabulary_id": "tabornok" },
+      { "text": " Budapesten van. A " },
+      { "text": "zászlós", "vocabulary_id": "zaszlos" },
+      { "text": " vizet kér. János a kaszárnyában van." }
+    ],
+    "questions": [
+      {
+        "id": "q1-story-ranks-location",
+        "prompt_cs": "Kde je János v roce 1913?",
+        "options_cs": ["V kasárnách.", "Na nádraží.", "V kavárně."],
+        "answer_index": 0,
+        "feedback_cs": "János je v kasárnách: János a kaszárnyában van."
+      },
+      {
+        "id": "q1-story-ranks-water",
+        "prompt_cs": "Kdo dává vodu?",
+        "options_cs": ["Seržant.", "Vojín.", "Praporčík."],
+        "answer_index": 0,
+        "feedback_cs": "Vodu dává seržant: Az őrmester vizet ad."
+      },
+      {
+        "id": "q1-story-ranks-colonel",
+        "prompt_cs": "Kde je plukovník?",
+        "options_cs": ["Ve městě.", "V pokoji.", "Na náměstí."],
+        "answer_index": 0,
+        "feedback_cs": "Plukovník je ve městě: Az ezredes a városban van."
+      }
+    ],
+    "translation_cs": "V roce 1913 je János v kasárnách. János je honvéd. Vojín žádá o vodu. Seržant mu vodu dává. Poručík je v pokoji. Kapitán je v kasárnách. Desátník žádá o chléb. Četař je v kasárnách. Plukovník je ve městě. Generál je v Budapešti. Praporčík žádá o vodu. János je v kasárnách."
+  },
+  {
+    "id": "q1-story-uniform",
+    "title_cs": "Příprava uniformy",
+    "title_hu": "A honvéd ruhája",
+    "level": "Q1 · UHER PŘED ROKEM 1914",
+    "reading_time_min": 2,
+    "prerequisite_lesson_ids": ["q1-uniforma"],
+    "curriculum_lesson_id": "q1-uniforma",
+    "new_vocabulary_ids": ["csako", "zubbony", "csizma", "nadrag", "ing", "kopeny", "ov", "galler", "gomb", "vall-lap"],
+    "vocabulary_ids": ["csako", "zubbony", "csizma", "nadrag", "ing", "kopeny", "ov", "galler", "gomb", "vall-lap", "kaszarnya", "honved"],
+    "segments": [
+      { "text": "Reggel a honvéd a " },
+      { "text": "kaszárnyában", "vocabulary_id": "kaszarnya" },
+      { "text": " van. A " },
+      { "text": "csákó", "vocabulary_id": "csako" },
+      { "text": " az asztalon van. A " },
+      { "text": "zubbony", "vocabulary_id": "zubbony" },
+      { "text": " a széken van. A " },
+      { "text": "ing", "vocabulary_id": "ing" },
+      { "text": " a ládában van. A " },
+      { "text": "nadrág", "vocabulary_id": "nadrag" },
+      { "text": " az ágyon van. A " },
+      { "text": "csizma", "vocabulary_id": "csizma" },
+      { "text": " a szobában van. A " },
+      { "text": "köpeny", "vocabulary_id": "kopeny" },
+      { "text": " a széken van. Az " },
+      { "text": "öv", "vocabulary_id": "ov" },
+      { "text": " az asztalon van. A " },
+      { "text": "gallér", "vocabulary_id": "galler" },
+      { "text": " a zubbonyon van. A " },
+      { "text": "gomb", "vocabulary_id": "gomb" },
+      { "text": " a zubbonyon van. A " },
+      { "text": "váll-lap", "vocabulary_id": "vall-lap" },
+      { "text": " is a zubbonyon van. A honvéd felveszi a ruhát." }
+    ],
+    "questions": [
+      {
+        "id": "q1-story-uniform-csako",
+        "prompt_cs": "Kde je čákó?",
+        "options_cs": ["Na stole.", "Na posteli.", "Ve skříni."],
+        "answer_index": 0,
+        "feedback_cs": "Čákó je na stole: A csákó az asztalon van."
+      },
+      {
+        "id": "q1-story-uniform-shirt",
+        "prompt_cs": "Kde je košile?",
+        "options_cs": ["V truhle.", "Na židli.", "Na stole."],
+        "answer_index": 0,
+        "feedback_cs": "Košile je v truhle: A ing a ládában van."
+      },
+      {
+        "id": "q1-story-uniform-collar",
+        "prompt_cs": "Co je na blůze?",
+        "options_cs": ["Límec, knoflík a nárameník.", "Postel a přikrývka.", "Puška a náboj."],
+        "answer_index": 0,
+        "feedback_cs": "Na blůze jsou límec, knoflík a nárameník."
+      }
+    ],
+    "translation_cs": "Ráno je voják v kasárnách. Čákó je na stole. Blůza je na židli. Košile je v truhle. Kalhoty jsou na posteli. Vysoká bota je v pokoji. Plášť je na židli. Opasek je na stole. Límec je na blůze. Knoflík je na blůze. Nárameník je také na blůze. Voják si obléká uniformu."
+  },
+  {
+    "id": "q1-story-barracks",
+    "title_cs": "Pokoj v kasárnách",
+    "title_hu": "A kaszárnya szobája",
+    "level": "Q1 · UHER PŘED ROKEM 1914",
+    "reading_time_min": 2,
+    "prerequisite_lesson_ids": ["q1-kasarna"],
+    "curriculum_lesson_id": "q1-kasarna",
+    "new_vocabulary_ids": ["kaszarnya", "laktanya", "agy", "takaro", "lepedo", "szalmazsak", "lada", "szekreny", "lampa", "gyertya"],
+    "vocabulary_ids": ["kaszarnya", "laktanya", "agy", "takaro", "lepedo", "szalmazsak", "lada", "szekreny", "lampa", "gyertya", "honved", "szoba"],
+    "segments": [
+      { "text": "A honvéd a " },
+      { "text": "kaszárnyában", "vocabulary_id": "kaszarnya" },
+      { "text": " lakik. A " },
+      { "text": "laktanya", "vocabulary_id": "laktanya" },
+      { "text": " a városban van. A " },
+      { "text": "szobában", "vocabulary_id": "szoba" },
+      { "text": " van egy " },
+      { "text": "ágy", "vocabulary_id": "agy" },
+      { "text": ". A " },
+      { "text": "szalmazsák", "vocabulary_id": "szalmazsak" },
+      { "text": " az ágyon van. A " },
+      { "text": "lepedő", "vocabulary_id": "lepedo" },
+      { "text": " az ágyon van. A " },
+      { "text": "takaró", "vocabulary_id": "takaro" },
+      { "text": " is az ágyon van. A " },
+      { "text": "láda", "vocabulary_id": "lada" },
+      { "text": " a szobában van. A " },
+      { "text": "szekrény", "vocabulary_id": "szekreny" },
+      { "text": " a láda mellett van. A " },
+      { "text": "lámpa", "vocabulary_id": "lampa" },
+      { "text": " az asztalon van. Este a " },
+      { "text": "gyertya", "vocabulary_id": "gyertya" },
+      { "text": " is az asztalon van. A honvéd a szobában pihen." }
+    ],
+    "questions": [
+      {
+        "id": "q1-story-barracks-bed",
+        "prompt_cs": "Co je na posteli?",
+        "options_cs": ["Slamník, prostěradlo a přikrývka.", "Puška, šavle a náboj.", "Čákó, košile a opasek."],
+        "answer_index": 0,
+        "feedback_cs": "Na posteli jsou slamník, prostěradlo a přikrývka."
+      },
+      {
+        "id": "q1-story-barracks-lamp",
+        "prompt_cs": "Kde je lampa?",
+        "options_cs": ["Na stole.", "V truhle.", "Na posteli."],
+        "answer_index": 0,
+        "feedback_cs": "Lampa je na stole: A lámpa az asztalon van."
+      },
+      {
+        "id": "q1-story-barracks-evening",
+        "prompt_cs": "Kde odpočívá voják?",
+        "options_cs": ["V pokoji.", "Na náměstí.", "V kočáře."],
+        "answer_index": 0,
+        "feedback_cs": "Voják odpočívá v pokoji."
+      }
+    ],
+    "translation_cs": "Voják bydlí v kasárnách. Posádka je ve městě. V pokoji je postel. Na posteli je slamník. Na posteli je prostěradlo. Přikrývka je také na posteli. V pokoji je truhla. Skříň je vedle truhly. Lampa je na stole. Večer je na stole také svíčka. Voják odpočívá v pokoji."
+  },
+  {
+    "id": "q1-story-inventory",
+    "title_cs": "Inventář roku 1913",
+    "title_hu": "A felszerelés 1913-ban",
+    "level": "Q1 · UHER PŘED ROKEM 1914",
+    "reading_time_min": 2,
+    "prerequisite_lesson_ids": ["q1-vyzbroj"],
+    "curriculum_lesson_id": "q1-vyzbroj",
+    "new_vocabulary_ids": ["puska", "kard", "agyu", "szurony", "tolteny", "loszer", "pisztoly", "revolver", "tor", "tavcso"],
+    "vocabulary_ids": ["puska", "kard", "agyu", "szurony", "tolteny", "loszer", "pisztoly", "revolver", "tor", "tavcso", "laktanya", "lada", "szekreny", "honved"],
+    "segments": [
+      { "text": "1913-ban a " },
+      { "text": "laktanyában", "vocabulary_id": "laktanya" },
+      { "text": " leltárt tartanak. A " },
+      { "text": "puska", "vocabulary_id": "puska" },
+      { "text": " a ládában van. A " },
+      { "text": "szurony", "vocabulary_id": "szurony" },
+      { "text": " a puska mellett van. A " },
+      { "text": "töltény", "vocabulary_id": "tolteny" },
+      { "text": " a ládában van. A " },
+      { "text": "lőszer", "vocabulary_id": "loszer" },
+      { "text": " is a ládában van. A " },
+      { "text": "kard", "vocabulary_id": "kard" },
+      { "text": " a szekrényben van. A " },
+      { "text": "pisztoly", "vocabulary_id": "pisztoly" },
+      { "text": " az asztalon van. A " },
+      { "text": "revolver", "vocabulary_id": "revolver" },
+      { "text": " a szekrényben van. A " },
+      { "text": "tőr", "vocabulary_id": "tor" },
+      { "text": " a ládában van. A " },
+      { "text": "távcső", "vocabulary_id": "tavcso" },
+      { "text": " a szekrényben van. Az " },
+      { "text": "ágyú", "vocabulary_id": "agyu" },
+      { "text": " az udvaron van. A honvéd a leltárt látja." }
+    ],
+    "questions": [
+      {
+        "id": "q1-story-inventory-bayonet",
+        "prompt_cs": "Kde je bajonet?",
+        "options_cs": ["Vedle pušky.", "Na stole.", "V pokoji."],
+        "answer_index": 0,
+        "feedback_cs": "Bajonet je vedle pušky: A szurony a puska mellett van."
+      },
+      {
+        "id": "q1-story-inventory-cannon",
+        "prompt_cs": "Kde je dělo?",
+        "options_cs": ["Na dvoře.", "V truhle.", "Na posteli."],
+        "answer_index": 0,
+        "feedback_cs": "Dělo je na dvoře: Az ágyú az udvaron van."
+      },
+      {
+        "id": "q1-story-inventory-telescope",
+        "prompt_cs": "Kde je dalekohled?",
+        "options_cs": ["Ve skříni.", "Na dvoře.", "V kasárenském pokoji."],
+        "answer_index": 0,
+        "feedback_cs": "Dalekohled je ve skříni: A távcső a szekrényben van."
+      }
+    ],
+    "translation_cs": "V roce 1913 se v posádce provádí inventura. Puška je v bedně. Bajonet je vedle pušky. Náboj je v bedně. Munice je také v bedně. Šavle je ve skříni. Pistole je na stole. Revolver je ve skříni. Dýka je v bedně. Dalekohled je ve skříni. Dělo je na dvoře. Voják vidí inventář."
+  },
+  {
+    "id": "q1-story-drill",
+    "title_cs": "Ranní cvičení",
+    "title_hu": "Reggeli gyakorlat",
+    "level": "Q1 · UHER PŘED ROKEM 1914",
+    "reading_time_min": 2,
+    "prerequisite_lesson_ids": ["q1-cviciste"],
+    "curriculum_lesson_id": "q1-cviciste",
+    "new_vocabulary_ids": ["vigyaz", "pihen", "all", "fordul", "sorakozik", "lo-1913", "tolt", "tiszteleg", "vezenyel", "lep"],
+    "vocabulary_ids": ["vigyaz", "pihen", "all", "fordul", "sorakozik", "lo-1913", "tolt", "tiszteleg", "vezenyel", "lep", "honved", "orrmester", "kaszarnya"],
+    "segments": [
+      { "text": "1913-ban reggel a honvéd a " },
+      { "text": "kaszárnyában", "vocabulary_id": "kaszarnya" },
+      { "text": " van. Az " },
+      { "text": "őrmester", "vocabulary_id": "orrmester" },
+      { "text": " vezényel. A " },
+      { "text": "honvéd", "vocabulary_id": "honved" },
+      { "text": " " },
+      { "text": "sorakozik", "vocabulary_id": "sorakozik" },
+      { "text": ". A honvéd " },
+      { "text": "áll", "vocabulary_id": "all" },
+      { "text": ". A honvéd " },
+      { "text": "vigyáz", "vocabulary_id": "vigyaz" },
+      { "text": ". Az őrmester " },
+      { "text": "pihen", "vocabulary_id": "pihen" },
+      { "text": ". A honvéd jobbra " },
+      { "text": "fordul", "vocabulary_id": "fordul" },
+      { "text": ". A honvéd egyet " },
+      { "text": "lép", "vocabulary_id": "lep" },
+      { "text": ". A honvéd " },
+      { "text": "tiszteleg", "vocabulary_id": "tiszteleg" },
+      { "text": ". A honvéd " },
+      { "text": "tölt", "vocabulary_id": "tolt" },
+      { "text": ". A honvéd célra " },
+      { "text": "lő", "vocabulary_id": "lo-1913" },
+      { "text": ". A gyakorlat után a honvéd pihen." }
+    ],
+    "questions": [
+      {
+        "id": "q1-story-drill-officer",
+        "prompt_cs": "Kdo velí rannímu cvičení?",
+        "options_cs": ["Seržant.", "Kočí.", "Praporčík."],
+        "answer_index": 0,
+        "feedback_cs": "Cvičení řídí seržant: Az őrmester vezényel."
+      },
+      {
+        "id": "q1-story-drill-direction",
+        "prompt_cs": "Kam se voják otočí?",
+        "options_cs": ["Doprava.", "Doleva.", "Do města."],
+        "answer_index": 0,
+        "feedback_cs": "Voják se otočí doprava: A honvéd jobbra fordul."
+      },
+      {
+        "id": "q1-story-drill-after",
+        "prompt_cs": "Co dělá voják po cvičení?",
+        "options_cs": ["Odpočívá.", "Jede kočárem.", "Píše dopis."],
+        "answer_index": 0,
+        "feedback_cs": "Po cvičení voják odpočívá: A gyakorlat után a honvéd pihen."
+      }
+    ],
+    "translation_cs": "V roce 1913 je ráno voják v kasárnách. Seržant velí. Voják nastupuje do řady. Voják stojí. Voják dává pozor. Seržant odpočívá. Voják se otočí doprava. Voják udělá jeden krok. Voják salutuje. Voják nabíjí. Voják střílí na cíl. Po cvičení voják odpočívá."
   }
 ]

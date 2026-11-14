@@ -381,5 +381,50 @@
       "U slov zakončených souhláskou se v -val/-vel zdvojí poslední souhláska: vonat + -val = vonattal.",
       "Význam závisí na větě: villamossal megy = jede tramvají; lóval van = je s koněm."
     ]
+  },
+  {
+    "id": "q1-mnozne-cislo",
+    "title_cs": "Množné číslo: koncovka -k",
+    "level": "Q1 · ZÁKLADNÍ TVARY",
+    "summary_cs": "Koncovka -k tvoří množné číslo; před ní se často vloží samohláska podle zakončení a harmonie.",
+    "rule_cs": "Po samohlásce obvykle připojte -k: csákó → csákók. Po souhlásce se často vloží harmonická samohláska: gomb → gombok, ing → ingek. Některá slova mění kmen nebo délku samohlásky, proto se učte celý tvar.",
+    "groups": [
+      {
+        "name_cs": "Věci v kasárnách",
+        "suffix_hu": "-k",
+        "examples": [
+          { "form_hu": "csákó → csákók", "translation_cs": "čákó (jeden kus) → více čákó" },
+          { "form_hu": "gomb → gombok", "translation_cs": "knoflík → knoflíky" },
+          { "form_hu": "ing → ingek", "translation_cs": "košile (jedna) → košile (množné číslo)" },
+          { "form_hu": "ágy → ágyak", "translation_cs": "postel → postele" }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Po zadních samohláskách bývá vkládací samohláska -o/-a; po předních často -e/-ö.",
+      "Jednotlivé tvary se mohou lišit, například csizma → csizmák; množné číslo se proto procvičuje spolu se slovem."
+    ]
+  },
+  {
+    "id": "q1-neurcite-casovani",
+    "title_cs": "Přítomný čas: neurčitý předmět",
+    "level": "Q1 · PRVNÍ VĚTY",
+    "summary_cs": "U neurčitého předmětu použijte neurčité časování; u sloves bez předmětu zůstává jednoduchý přítomný tvar.",
+    "rule_cs": "Věta A honvéd vizet kér znamená „Voják žádá o vodu“. Předmět vizet není určitý konkrétní předmět, proto je sloveso kér v neurčitém časování. V této úvodní lekci procvičujeme hlavně krátké věty se slovníkovým tvarem slovesa.",
+    "groups": [
+      {
+        "name_cs": "Krátké věty z kasáren",
+        "suffix_hu": "neurčité časování",
+        "examples": [
+          { "form_hu": "A honvéd vizet kér.", "translation_cs": "Voják žádá o vodu." },
+          { "form_hu": "A közlegény kenyeret kér.", "translation_cs": "Vojín žádá o chléb." },
+          { "form_hu": "Az őrmester parancsot ad.", "translation_cs": "Seržant dává rozkaz." }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Neurčité časování se používá také tehdy, když sloveso nemá předmět: A honvéd pihen. = Voják odpočívá.",
+      "Rozdíl mezi neurčitým a určitým časováním se bude rozvíjet v pozdějším čtvrtletí."
+    ]
   }
 ]
