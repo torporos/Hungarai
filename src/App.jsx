@@ -1,4 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
+import { Capacitor } from '@capacitor/core'
+import { App as CapacitorApp } from '@capacitor/app'
 import { loadProgress, saveProgress, recordAnswer, isLessonUnlocked, getDueVocabulary } from './lib/progress.js'
 import { loadContent } from './lib/content.js'
 
@@ -34,6 +36,7 @@ function App() {
   const [content, setContent] = useState(null)
   const [contentError, setContentError] = useState('')
   const [loadAttempt, setLoadAttempt] = useState(0)
+  const [isRefreshing, setIsRefreshing] = useState(true)
   const [progress, setProgress] = useState(loadProgress)
   const [storageWarning, setStorageWarning] = useState(() => progress.storage_error || '')
   const [lessonId, setLessonId] = useState(null)
@@ -49,11 +52,15 @@ function App() {
 
     loadContent({ signal: controller.signal })
       .then((loadedContent) => {
-        if (active) setContent(loadedContent)
+        if (active) {
+          setContent(loadedContent)
+          setIsRefreshing(false)
+        }
       })
       .catch((error) => {
         if (active && !controller.signal.aborted) {
           setContentError(error instanceof Error ? error.message : 'Nepodařilo se načíst obsah z GitHubu.')
+          setIsRefreshing(false)
         }
       })
 
@@ -62,6 +69,39 @@ function App() {
       controller.abort()
     }
   }, [loadAttempt])
+
+  useEffect(() => {
+    if (!Capacitor.isNativePlatform()) return undefined
+
+    let active = true
+    let listener
+    CapacitorApp.addListener('backButton', () => {
+      if (view === 'practice') {
+        if (lessonId === reviewLesson.id) {
+          setLessonId(null)
+          setView('home')
+        } else {
+          setView('lesson-intro')
+        }
+      } else if (view === 'lesson-intro') {
+        setLessonId(null)
+        setView('lessons')
+      } else if (view !== 'home') {
+        setLessonId(null)
+        setView('home')
+      } else {
+        void CapacitorApp.exitApp()
+      }
+    }).then((handle) => {
+      if (active) listener = handle
+      else void handle.remove()
+    })
+
+    return () => {
+      active = false
+      if (listener) void listener.remove()
+    }
+  }, [lessonId, view])
 
   const contentData = useMemo(() => {
     if (!content) return null
@@ -152,6 +192,12 @@ function App() {
     setView('grammar')
   }
 
+  function refreshContent() {
+    setContentError('')
+    setIsRefreshing(true)
+    setLoadAttempt((attempt) => attempt + 1)
+  }
+
   function speak(text) {
     if (!('speechSynthesis' in window)) return
     window.speechSynthesis.cancel()
@@ -181,7 +227,25 @@ function App() {
           <span className="brand-mark" aria-hidden="true"><i /><i /><i /></span>
           <span><strong>HUNGARAI</strong><small>maďarština pro každý den</small></span>
         </button>
-        <div className={`top-status ${storageWarning ? 'warning' : ''}`}><span className="status-light" />{storageWarning || 'Obsah z GitHubu · pokrok v tomto zařízení'}</div>
+        <div className="top-actions">
+          <div
+            className={`top-status ${storageWarning || contentError || contentData.loadWarning ? 'warning' : ''}`}
+            title={storageWarning || contentError || contentData.loadWarning || ''}
+          >
+            <span className="status-light" />
+            {storageWarning || contentError || contentData.loadWarning || (contentData.source === 'github'
+              ? 'Obsah z GitHubu · pokrok v tomto zařízení'
+              : contentData.source === 'cache' ? 'Offline · poslední uložený obsah' : 'Offline · obsah v aplikaci')}
+          </div>
+          <button
+            className="refresh-content-button"
+            onClick={refreshContent}
+            disabled={isRefreshing || ['practice', 'lesson-intro'].includes(view)}
+            title={['practice', 'lesson-intro'].includes(view) ? 'Nejprve dokončete nebo opusťte lekci.' : 'Načíst nejnovější JSON z GitHubu'}
+          >
+            <span aria-hidden="true">↻</span><span className="refresh-content-label">{isRefreshing ? 'Aktualizuji…' : 'Aktualizovat'}</span>
+          </button>
+        </div>
       </header>
 
       <div className="workspace">
@@ -206,7 +270,9 @@ function App() {
         </aside>
 
         <main className="main-panel">
-          {storageWarning && <p className="storage-warning" role="alert">{storageWarning}</p>}
+          {(storageWarning || contentError || contentData.loadWarning) && (
+            <p className="storage-warning" role={storageWarning ? 'alert' : 'status'}>{storageWarning || contentError || contentData.loadWarning}</p>
+          )}
           {view === 'home' && (
             <Dashboard content={contentData} progress={progress} onStart={() => setView('lessons')} onReview={startReview} onNavigate={setView} />
           )}

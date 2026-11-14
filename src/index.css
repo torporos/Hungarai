@@ -45,6 +45,11 @@ button:focus-visible { outline: 2px solid #e39b6c; outline-offset: 3px; }
 .status-light { width: 7px; height: 7px; background: #70bd82; border-radius: 50%; box-shadow: 0 0 7px #70bd82; }
 .top-status.warning { color: #f0a293; }
 .top-status.warning .status-light { background: #d66b64; box-shadow: 0 0 7px #d66b64; }
+.top-actions { display: flex; align-items: center; gap: 13px; }
+.refresh-content-button { min-height: 34px; padding: 0 10px; display: inline-flex; align-items: center; justify-content: center; gap: 7px; border: 1px solid #7d3b3d; background: #3b1113; color: #e6c6bd; cursor: pointer; font-size: 11px; }
+.refresh-content-button:hover:not(:disabled) { border-color: #b76660; background: #4a1518; color: #fff0e8; }
+.refresh-content-button:disabled { cursor: default; opacity: .58; }
+.refresh-content-button > span:first-child { font-size: 16px; line-height: 1; }
 .storage-warning { margin: 0 0 18px; padding: 10px 12px; border-left: 3px solid #d66b64; background: #5a171a; color: #f0c0b5; font-size: 12px; }
 
 .workspace { display: grid; grid-template-columns: 220px minmax(0, 1fr); min-height: calc(100vh - 72px); max-width: 1500px; margin: 0 auto; }
@@ -344,11 +349,14 @@ h1, h2, h3, p { margin-top: 0; }
   .page-heading { flex-wrap: wrap; align-items: flex-start; }
   .mascot-note { flex-basis: 100%; max-width: 360px; }
   .topbar { height: 62px; padding: 0 18px; }
+  .top-actions { gap: 7px; }
   .top-status { font-size: 0; }
+  .refresh-content-button { width: 35px; min-height: 35px; padding: 0; }
+  .refresh-content-label { display: none; }
   .workspace { grid-template-columns: 1fr; min-height: calc(100vh - 62px); }
   .sidebar { order: 2; position: fixed; z-index: 5; bottom: 0; left: 0; right: 0; padding: 5px 8px calc(5px + env(safe-area-inset-bottom)); border: 0; border-top: 1px solid #743033; background: #26090a; }
   .sidebar-caption, .sidebar-foot { display: none; }
-  .sidebar nav { grid-template-columns: repeat(4, 1fr); gap: 2px; }
+  .sidebar nav { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 2px; }
   .nav-item { flex-direction: column; justify-content: center; gap: 3px; padding: 7px 3px; font-size: 9px; }
   .nav-icon { font-size: 15px; }
   .main-panel { padding: 28px 17px 84px; }

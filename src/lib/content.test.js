@@ -27,6 +27,14 @@ function validContent() {
   }
 }
 
+function memoryStorage() {
+  const values = new Map()
+  return {
+    getItem: (key) => values.get(key) || null,
+    setItem: (key, value) => values.set(key, value),
+  }
+}
+
 test('validates lesson content and cross-file references', () => {
   const content = validContent()
   assert.equal(validateContent(content), content)
@@ -69,9 +77,37 @@ test('loads all curriculum files from the configured remote base URL', async () 
   assert.ok(requests.every((url) => url.startsWith('https://raw.githubusercontent.com/torporos/Hungarai/main/src/data/')))
 })
 
-test('reports remote HTTP failures', async () => {
+test('uses its last successful GitHub response when offline', async () => {
+  const storage = memoryStorage()
+  const content = validContent()
+  const online = await loadContent({
+    storage,
+    fetcher: async (url) => {
+      const name = url.split('/').pop().replace('.json', '')
+      return { ok: true, json: async () => content[name] }
+    },
+  })
+  const offline = await loadContent({ storage, fetcher: async () => { throw new Error('offline') } })
+
+  assert.equal(online.source, 'github')
+  assert.equal(offline.source, 'cache')
+  assert.equal(offline.lessons[0].id, 'lesson-a')
+  assert.match(offline.loadWarning, /offline/u)
+})
+
+test('uses bundled lesson data if GitHub and the offline cache are unavailable', async () => {
+  const content = await loadContent({ storage: memoryStorage(), fetcher: async () => { throw new Error('offline') } })
+
+  assert.equal(content.source, 'bundled')
+  assert.equal(content.lessons.length, 10)
+  assert.ok(content.exercises.length >= 90)
+})
+
+test('does not turn a cancelled load into an offline fallback', async () => {
+  const controller = new AbortController()
+  controller.abort()
   await assert.rejects(
-    loadContent({ fetcher: async () => ({ ok: false, status: 404 }) }),
-    /HTTP 404/u,
+    loadContent({ signal: controller.signal, storage: memoryStorage(), fetcher: async () => { throw new Error('aborted') } }),
+    /aborted/u,
   )
 })

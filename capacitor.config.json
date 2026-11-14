@@ -1,0 +1,8 @@
+{
+  "appId": "com.torporos.hungarai",
+  "appName": "Hungarai",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}

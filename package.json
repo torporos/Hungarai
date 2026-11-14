@@ -8,13 +8,19 @@
     "build": "vite build",
     "lint": "oxlint",
     "test": "node --test",
+    "android:sync": "npm run build && cap sync android",
+    "android:debug": "npm run build && cap sync android && cd android && .\\gradlew.bat assembleDebug",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/app": "^8.1.2",
+    "@capacitor/core": "^8.6.2",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   },
   "devDependencies": {
+    "@capacitor/cli": "^8.6.2",
     "@tailwindcss/vite": "^4.3.5",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",

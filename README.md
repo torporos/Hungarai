@@ -5,12 +5,21 @@ Minimalistická aplikace pro výuku maďarštiny českými mluvčími. Webové r
 ## Spuštění
 
 ```sh
-npm install
-npm run dev
+npm.cmd install
+npm.cmd run dev
 ```
 
-Produkční sestavení ověříte příkazem `npm run build`.
-Testy dat a načítání ověříte příkazem `npm test`.
+Produkční sestavení ověříte příkazem `npm.cmd run build`; testy dat a načítání příkazem `npm.cmd test`.
+
+## Android APK
+
+Pro sestavení je potřeba JDK 17 nebo novější a Android SDK s platformou 36 a Build Tools 36. Nastavte `JAVA_HOME` a `ANDROID_SDK_ROOT` (případně také `ANDROID_HOME`) a spusťte:
+
+```powershell
+npm.cmd run android:debug
+```
+
+Debug APK se vytvoří v `android\app\build\outputs\apk\debug\app-debug.apk`. Jde o testovací APK podepsané vývojovým klíčem.
 
 ## Zatím hotovo
 
@@ -32,4 +41,4 @@ Cvičení využívají aktivní vybavování místo pouhého opakovaného čten�
 
 Rozvrh opakování je lehká lokální heuristika, nikoli plná implementace FSRS.
 
-Při spuštění aplikace se lekce, slovíčka, gramatika, cvičení a příběhy načítají z JSON souborů v [GitHub repozitáři](https://github.com/torporos/Hungarai/tree/main/src/data). Pokrok uživatele zůstává uložený místně v prohlížeči. Lokální kopie obsahu v `src/data/` se používají při vývoji a testech; při jejich změně je potřeba aktualizovat GitHub, odkud aplikace čte. Dalšími kroky mohou být příprava Android balíčku a rozšiřování učebního obsahu.
+Při spuštění aplikace se lekce, slovíčka, gramatika, cvičení a příběhy načítají z JSON souborů v [GitHub repozitáři](https://github.com/torporos/Hungarai/tree/main/src/data). Obsah lze ručně aktualizovat přímo v aplikaci; po úpravě JSON na GitHubu se změny projeví při příštím spuštění nebo obnovení obsahu, bez nového sestavení APK. Při výpadku internetu aplikace použije poslední staženou kopii, případně obsah přibalený v APK. Pokrok uživatele zůstává uložený místně v zařízení. Lokální kopie obsahu v `src/data/` se používají při vývoji a testech; jejich změny je nutné také publikovat na GitHub.
