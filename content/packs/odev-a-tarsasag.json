@@ -1,0 +1,2690 @@
+{
+  "order": 28,
+  "quarter": "q2",
+  "lesson": {
+    "id": "odev-a-tarsasag",
+    "theme_id": "q2-golden-age-pest",
+    "theme_title_cs": "Q2 · Zlatý věk Pešti",
+    "module_number": 2,
+    "module_title_cs": "Oděv a společenský život",
+    "title_cs": "Oděv a návštěvy v Pešti",
+    "description": "Móda a každodenní společenské styky v Pešti roku 1913. Procvičíte předmětový pád -t a místní koncovky při popisu oděvu i návštěv.",
+    "level": "Q2 · MĚSTO A INSTITUCE",
+    "duration_min": 16,
+    "xp_required": 740,
+    "prerequisite_lesson_ids": [
+      "pest-verejna-mista"
+    ],
+    "vocabulary_ids": [
+      "kalap",
+      "ruha",
+      "kabat",
+      "kesztyu",
+      "setapalca",
+      "zsebora",
+      "cipo",
+      "harisnya",
+      "nyakkendo",
+      "melleny",
+      "felolto",
+      "szoknya",
+      "bluz",
+      "fuzo",
+      "alsoszoknya",
+      "alsonadrag",
+      "zokni",
+      "selyemharisnya",
+      "sal",
+      "kendo",
+      "bunda",
+      "fatyol",
+      "legyezo",
+      "napernyo",
+      "esernyo",
+      "cilinder",
+      "szalmakalap",
+      "borkesztyu",
+      "csokornyakkendo",
+      "karperec",
+      "gyuru",
+      "nyaklanc",
+      "medalion",
+      "csat",
+      "szalag",
+      "ruhaanyag",
+      "poszto",
+      "selyem",
+      "gyapju",
+      "polgar",
+      "polgarasszony",
+      "haziur",
+      "haziaszony",
+      "szobalany",
+      "inas",
+      "cseled",
+      "varrono",
+      "szabo",
+      "kalapos",
+      "cipesz",
+      "mosono",
+      "berlo",
+      "lakokozosseg",
+      "latogato",
+      "ismeros",
+      "meghivott",
+      "gardedam",
+      "kisero",
+      "hazmester",
+      "hazvezetono"
+    ],
+    "new_vocabulary_ids": [
+      "kalap",
+      "ruha",
+      "kabat",
+      "kesztyu",
+      "setapalca",
+      "zsebora",
+      "cipo",
+      "harisnya",
+      "nyakkendo",
+      "melleny",
+      "felolto",
+      "szoknya",
+      "bluz",
+      "fuzo",
+      "alsoszoknya",
+      "alsonadrag",
+      "zokni",
+      "selyemharisnya",
+      "sal",
+      "kendo",
+      "bunda",
+      "fatyol",
+      "legyezo",
+      "napernyo",
+      "esernyo",
+      "cilinder",
+      "szalmakalap",
+      "borkesztyu",
+      "csokornyakkendo",
+      "karperec",
+      "gyuru",
+      "nyaklanc",
+      "medalion",
+      "csat",
+      "szalag",
+      "ruhaanyag",
+      "poszto",
+      "selyem",
+      "gyapju",
+      "polgar",
+      "polgarasszony",
+      "haziur",
+      "haziaszony",
+      "szobalany",
+      "inas",
+      "cseled",
+      "varrono",
+      "szabo",
+      "kalapos",
+      "cipesz",
+      "mosono",
+      "berlo",
+      "lakokozosseg",
+      "latogato",
+      "ismeros",
+      "meghivott",
+      "gardedam",
+      "kisero",
+      "hazmester",
+      "hazvezetono"
+    ],
+    "grammar_ids": [
+      "targy-t",
+      "umisteni-v",
+      "poloha-na-povrchu",
+      "poloha-u-mista"
+    ],
+    "grammar_label_cs": "Předmět -t · poloha v, na a u místa",
+    "exercise_ids": [
+      "odev-a-tarsasag-grammar-01",
+      "odev-a-tarsasag-grammar-02",
+      "odev-a-tarsasag-grammar-03",
+      "odev-a-tarsasag-grammar-04",
+      "odev-a-tarsasag-grammar-05",
+      "odev-a-tarsasag-grammar-06",
+      "odev-a-tarsasag-grammar-07",
+      "odev-a-tarsasag-grammar-08",
+      "odev-a-tarsasag-grammar-09",
+      "odev-a-tarsasag-grammar-10",
+      "odev-a-tarsasag-grammar-11",
+      "odev-a-tarsasag-grammar-12",
+      "odev-a-tarsasag-grammar-13",
+      "odev-a-tarsasag-grammar-14",
+      "odev-a-tarsasag-grammar-15",
+      "odev-a-tarsasag-grammar-16",
+      "odev-a-tarsasag-grammar-17",
+      "odev-a-tarsasag-grammar-18",
+      "odev-a-tarsasag-grammar-19",
+      "odev-a-tarsasag-grammar-20",
+      "odev-a-tarsasag-grammar-21",
+      "odev-a-tarsasag-grammar-22",
+      "odev-a-tarsasag-grammar-23",
+      "odev-a-tarsasag-grammar-24",
+      "odev-a-tarsasag-grammar-25",
+      "odev-a-tarsasag-grammar-26",
+      "odev-a-tarsasag-grammar-27",
+      "odev-a-tarsasag-grammar-28",
+      "odev-a-tarsasag-grammar-29",
+      "odev-a-tarsasag-grammar-30",
+      "odev-a-tarsasag-grammar-31",
+      "odev-a-tarsasag-grammar-32",
+      "odev-a-tarsasag-grammar-33",
+      "odev-a-tarsasag-grammar-34",
+      "odev-a-tarsasag-grammar-35",
+      "odev-a-tarsasag-grammar-36",
+      "odev-a-tarsasag-grammar-37",
+      "odev-a-tarsasag-grammar-38",
+      "odev-a-tarsasag-grammar-39",
+      "odev-a-tarsasag-grammar-40"
+    ],
+    "story_ids": [
+      "odev-a-tarsasag-story-01",
+      "odev-a-tarsasag-story-02",
+      "odev-a-tarsasag-story-03",
+      "odev-a-tarsasag-story-04",
+      "odev-a-tarsasag-story-05",
+      "odev-a-tarsasag-story-06"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "kalap",
+      "word": "kalap",
+      "translation_cs": "klobouk",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kalap",
+          "translation_cs": "klobouk",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kalap az asztalon van.",
+      "example_cs": "Klobouk je na stole.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "ruha",
+      "word": "ruha",
+      "translation_cs": "šaty",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ruha",
+          "translation_cs": "šaty",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A ruha finom selyemből készült.",
+      "example_cs": "Šaty jsou z jemného hedvábí.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "kabat",
+      "word": "kabát",
+      "translation_cs": "kabát",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "kabátban",
+          "translation_cs": "v kabátu",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "odev-a-tarsasag"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kabát",
+          "translation_cs": "kabát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kabát a fogason lóg.",
+      "example_cs": "Kabát visí na věšáku.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "kesztyu",
+      "word": "kesztyű",
+      "translation_cs": "rukavice",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "kesztyűben",
+          "translation_cs": "v rukavicích",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "odev-a-tarsasag"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kesztyű",
+          "translation_cs": "rukavice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kesztyű melegen tartja a kezet.",
+      "example_cs": "Rukavice udržují ruce v teple.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "setapalca",
+      "word": "sétapálca",
+      "translation_cs": "vycházková hůl",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sétapálca",
+          "translation_cs": "vycházková hůl",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A sétapálca a pad mellett áll.",
+      "example_cs": "Vycházková hůl stojí vedle lavičky.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "zsebora",
+      "word": "zsebóra",
+      "translation_cs": "kapesní hodinky",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "zsebóra",
+          "translation_cs": "kapesní hodinky",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A zsebóra délben pontosan üt.",
+      "example_cs": "Kapesní hodinky přesně odbijí poledne.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "cipo",
+      "word": "cipő",
+      "translation_cs": "bota",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "cipőben",
+          "translation_cs": "v botě",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "odev-a-tarsasag"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "cipő",
+          "translation_cs": "bota",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A cipő tiszta és fényes.",
+      "example_cs": "Bota je čistá a lesklá.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "harisnya",
+      "word": "harisnya",
+      "translation_cs": "punčocha",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "harisnya",
+          "translation_cs": "punčocha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A harisnya a ruhához illik.",
+      "example_cs": "Punčocha ladí k šatům.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "nyakkendo",
+      "word": "nyakkendő",
+      "translation_cs": "kravata",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nyakkendő",
+          "translation_cs": "kravata",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A nyakkendő csomója egyenes.",
+      "example_cs": "Uzel kravaty je rovný.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "melleny",
+      "word": "mellény",
+      "translation_cs": "vesta",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mellény",
+          "translation_cs": "vesta",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A mellény a kabát alatt van.",
+      "example_cs": "Vesta je pod kabátem.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "felolto",
+      "word": "felöltő",
+      "translation_cs": "svrchník",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "felöltőben",
+          "translation_cs": "ve svrchníku",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "odev-a-tarsasag"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "felöltő",
+          "translation_cs": "svrchník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A felöltő megvéd a hideg széltől.",
+      "example_cs": "Svrchník chrání před studeným větrem.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "szoknya",
+      "word": "szoknya",
+      "translation_cs": "sukně",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szoknya",
+          "translation_cs": "sukně",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szoknya sötétkék.",
+      "example_cs": "Sukně je tmavomodrá.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "bluz",
+      "word": "blúz",
+      "translation_cs": "blůza",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "blúz",
+          "translation_cs": "blůza",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A blúz fehér vászonból készült.",
+      "example_cs": "Blůza je z bílého plátna.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "fuzo",
+      "word": "fűző",
+      "translation_cs": "živůtek; korzet",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fűző",
+          "translation_cs": "živůtek; korzet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A fűzőt reggel gondosan felveszi.",
+      "example_cs": "Živůtek si ráno pečlivě obléká.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "alsoszoknya",
+      "word": "alsószoknya",
+      "translation_cs": "spodní sukně",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "alsószoknya",
+          "translation_cs": "spodní sukně",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az alsószoknya a szoknya alatt van.",
+      "example_cs": "Spodní sukně je pod sukní.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "alsonadrag",
+      "word": "alsónadrág",
+      "translation_cs": "spodky",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "alsónadrág",
+          "translation_cs": "spodky",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az alsónadrág a nadrág alatt van.",
+      "example_cs": "Spodky jsou pod kalhotami.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "zokni",
+      "word": "zokni",
+      "translation_cs": "ponožka",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "zokni",
+          "translation_cs": "ponožka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A zokni a cipőben van.",
+      "example_cs": "Ponožka je v botě.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "selyemharisnya",
+      "word": "selyemharisnya",
+      "translation_cs": "hedvábná punčocha",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "selyemharisnya",
+          "translation_cs": "hedvábná punčocha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A selyemharisnya finom és drága.",
+      "example_cs": "Hedvábná punčocha je jemná a drahá.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "sal",
+      "word": "sál",
+      "translation_cs": "šála",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sál",
+          "translation_cs": "šála",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A sál a nyak köré kerül.",
+      "example_cs": "Šála se ovine kolem krku.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "kendo",
+      "word": "kendő",
+      "translation_cs": "šátek",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kendő",
+          "translation_cs": "šátek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kendő a vállán van.",
+      "example_cs": "Šátek má na ramenou.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "bunda",
+      "word": "bunda",
+      "translation_cs": "kožich",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bunda",
+          "translation_cs": "kožich",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bunda télen melegen tartja.",
+      "example_cs": "Kožich v zimě hřeje.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "fatyol",
+      "word": "fátyol",
+      "translation_cs": "závoj",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fátyol",
+          "translation_cs": "závoj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A fátyol az arcot takarja.",
+      "example_cs": "Závoj zakrývá tvář.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "legyezo",
+      "word": "legyező",
+      "translation_cs": "vějíř",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "legyező",
+          "translation_cs": "vějíř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A hölgy legyezővel hűti magát.",
+      "example_cs": "Dáma se ovívá vějířem.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "napernyo",
+      "word": "napernyő",
+      "translation_cs": "slunečník",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "napernyő",
+          "translation_cs": "slunečník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A napernyő árnyékot ad a napon.",
+      "example_cs": "Slunečník poskytuje na slunci stín.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "esernyo",
+      "word": "esernyő",
+      "translation_cs": "deštník",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "esernyő",
+          "translation_cs": "deštník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az esernyő esőben hasznos.",
+      "example_cs": "Deštník se hodí v dešti.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "cilinder",
+      "word": "cilinder",
+      "translation_cs": "cylindr",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "cilinder",
+          "translation_cs": "cylindr",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A cilinder az úr fején van.",
+      "example_cs": "Pán má na hlavě cylindr.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "szalmakalap",
+      "word": "szalmakalap",
+      "translation_cs": "slaměný klobouk",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szalmakalap",
+          "translation_cs": "slaměný klobouk",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szalmakalap könnyű nyári fejfedő.",
+      "example_cs": "Slaměný klobouk je lehká letní pokrývka hlavy.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "borkesztyu",
+      "word": "bőrkesztyű",
+      "translation_cs": "kožená rukavice",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bőrkesztyű",
+          "translation_cs": "kožená rukavice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bőrkesztyű védi a kezet.",
+      "example_cs": "Kožená rukavice chrání ruku.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "csokornyakkendo",
+      "word": "csokornyakkendő",
+      "translation_cs": "motýlek",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csokornyakkendő",
+          "translation_cs": "motýlek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A csokornyakkendő ünnepi viselet.",
+      "example_cs": "Motýlek se nosí při slavnostní příležitosti.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "karperec",
+      "word": "karperec",
+      "translation_cs": "náramek",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "karperec",
+          "translation_cs": "náramek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A karperec ezüstből készült.",
+      "example_cs": "Náramek je ze stříbra.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "gyuru",
+      "word": "gyűrű",
+      "translation_cs": "prsten",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gyűrű",
+          "translation_cs": "prsten",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gyűrű a kézen csillog.",
+      "example_cs": "Prsten se na ruce leskne.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "nyaklanc",
+      "word": "nyaklánc",
+      "translation_cs": "náhrdelník",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nyaklánc",
+          "translation_cs": "náhrdelník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A nyaklánc a ruha dísze.",
+      "example_cs": "Náhrdelník zdobí šaty.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "medalion",
+      "word": "medalion",
+      "translation_cs": "medailon",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "medalion",
+          "translation_cs": "medailon",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A medalionban családi arckép van.",
+      "example_cs": "V medailonu je rodinný portrét.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "csat",
+      "word": "csat",
+      "translation_cs": "přezka",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csat",
+          "translation_cs": "přezka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A csat összefogja a szíjat.",
+      "example_cs": "Přezka spojuje řemen.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "szalag",
+      "word": "szalag",
+      "translation_cs": "stuha",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szalag",
+          "translation_cs": "stuha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szalag a kalap dísze.",
+      "example_cs": "Stuha zdobí klobouk.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "ruhaanyag",
+      "word": "ruhaanyag",
+      "translation_cs": "látka na šaty",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ruhaanyag",
+          "translation_cs": "látka na šaty",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A ruhaanyag a szabó műhelyében van.",
+      "example_cs": "Látka na šaty je v krejčovské dílně.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "poszto",
+      "word": "posztó",
+      "translation_cs": "sukno",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "posztó",
+          "translation_cs": "sukno",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A posztóból téli kabát készül.",
+      "example_cs": "Ze sukna se šije zimní kabát.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "selyem",
+      "word": "selyem",
+      "translation_cs": "hedvábí",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "selyem",
+          "translation_cs": "hedvábí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A selyem finom és könnyű.",
+      "example_cs": "Hedvábí je jemné a lehké.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "gyapju",
+      "word": "gyapjú",
+      "translation_cs": "vlna",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gyapjú",
+          "translation_cs": "vlna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gyapjú melegen tart.",
+      "example_cs": "Vlna dobře hřeje.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "polgar",
+      "word": "polgár",
+      "translation_cs": "měšťan",
+      "part_of_speech_cs": "podstatné jméno · osoba",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "polgár",
+          "translation_cs": "měšťan",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A polgár a városházán intézi az ügyét.",
+      "example_cs": "Měšťan vyřizuje svou záležitost na radnici.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "polgarasszony",
+      "word": "polgárasszony",
+      "translation_cs": "měšťanka",
+      "part_of_speech_cs": "podstatné jméno · osoba",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "polgárasszony",
+          "translation_cs": "měšťanka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A polgárasszony délután vendéget fogad.",
+      "example_cs": "Měšťanka odpoledne přijímá návštěvu.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "haziur",
+      "word": "háziúr",
+      "translation_cs": "majitel domu",
+      "part_of_speech_cs": "podstatné jméno · osoba",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "háziúr",
+          "translation_cs": "majitel domu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A háziúr megvizsgálja a ház kapuját.",
+      "example_cs": "Majitel domu kontroluje domovní bránu.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "haziaszony",
+      "word": "háziasszony",
+      "translation_cs": "paní domu; hospodyně",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "háziasszony",
+          "translation_cs": "paní domu; hospodyně",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A háziasszony teát szolgál fel.",
+      "example_cs": "Paní domu podává čaj.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "szobalany",
+      "word": "szobalány",
+      "translation_cs": "pokojská",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szobalány",
+          "translation_cs": "pokojská",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szobalány reggel rendbe teszi a szobát.",
+      "example_cs": "Pokojská ráno uklízí pokoj.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "inas",
+      "word": "inas",
+      "translation_cs": "sluha",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "inas",
+          "translation_cs": "sluha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az inas átadja a névjegyet.",
+      "example_cs": "Sluha předává vizitku.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "cseled",
+      "word": "cseléd",
+      "translation_cs": "služebná",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "cseléd",
+          "translation_cs": "služebná",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A cseléd vizet hoz a konyhába.",
+      "example_cs": "Služebná přináší vodu do kuchyně.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "varrono",
+      "word": "varrónő",
+      "translation_cs": "švadlena",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "varrónő",
+          "translation_cs": "švadlena",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A varrónő új blúzt készít.",
+      "example_cs": "Švadlena šije novou blůzu.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "szabo",
+      "word": "szabó",
+      "translation_cs": "krejčí",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szabó",
+          "translation_cs": "krejčí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szabó megméri az urat.",
+      "example_cs": "Krejčí měří pána.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "kalapos",
+      "word": "kalapos",
+      "translation_cs": "kloboučník",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kalapos",
+          "translation_cs": "kloboučník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kalapos új kalapot formáz.",
+      "example_cs": "Kloboučník tvaruje nový klobouk.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "cipesz",
+      "word": "cipész",
+      "translation_cs": "švec",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "cipész",
+          "translation_cs": "švec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A cipész kijavítja a cipőt.",
+      "example_cs": "Švec opravuje botu.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "mosono",
+      "word": "mosónő",
+      "translation_cs": "pradlena",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mosónő",
+          "translation_cs": "pradlena",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A mosónő tiszta inget vasal.",
+      "example_cs": "Pradlena žehlí čistou košili.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "berlo",
+      "word": "bérlő",
+      "translation_cs": "nájemník",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bérlő",
+          "translation_cs": "nájemník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bérlő a háziúrnak lakbért fizet.",
+      "example_cs": "Nájemník platí majiteli domu nájem.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "lakokozosseg",
+      "word": "lakóközösség",
+      "translation_cs": "obyvatelé domu",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lakóközösség",
+          "translation_cs": "obyvatelé domu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A lakóközösség közösen használja az udvart.",
+      "example_cs": "Obyvatelé domu společně užívají dvůr.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "latogato",
+      "word": "látogató",
+      "translation_cs": "návštěvník",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "látogató",
+          "translation_cs": "návštěvník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A látogató az előszobában vár.",
+      "example_cs": "Návštěvník čeká v předsíni.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "ismeros",
+      "word": "ismerős",
+      "translation_cs": "známý",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ismerős",
+          "translation_cs": "známý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az ismerős délután bekopogtat.",
+      "example_cs": "Známý odpoledne zaklepe.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "meghivott",
+      "word": "meghívott",
+      "translation_cs": "pozvaný host",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "meghívott",
+          "translation_cs": "pozvaný host",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A meghívott este érkezik.",
+      "example_cs": "Pozvaný host přijíždí večer.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "gardedam",
+      "word": "gardedám",
+      "translation_cs": "dámský doprovod",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gardedám",
+          "translation_cs": "dámský doprovod",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gardedám elkíséri a fiatal hölgyet.",
+      "example_cs": "Dámský doprovod provází mladou dámu.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "kisero",
+      "word": "kísérő",
+      "translation_cs": "doprovod",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kísérő",
+          "translation_cs": "doprovod",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kísérő a vendéget a terembe vezeti.",
+      "example_cs": "Doprovod vede hosta do sálu.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "hazmester",
+      "word": "házmester",
+      "translation_cs": "domovník",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "házmester",
+          "translation_cs": "domovník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A házmester kinyitja a kaput.",
+      "example_cs": "Domovník otevírá bránu.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    },
+    {
+      "id": "hazvezetono",
+      "word": "házvezetőnő",
+      "translation_cs": "hospodyně",
+      "part_of_speech_cs": "podstatné jméno · oděv a společnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "házvezetőnő",
+          "translation_cs": "hospodyně",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A házvezetőnő ellenőrzi a kamrát.",
+      "example_cs": "Hospodyně kontroluje spíž.",
+      "tags": [
+        "q2",
+        "clothing_society"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "odev-a-tarsasag-grammar-01",
+      "type": "cloze",
+      "vocabulary_id": "kabat",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A szabó megvarrja a ______.",
+      "options_cs": [
+        "kabátot",
+        "kabátban",
+        "kabátnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Krejčí ušije kabát."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-02",
+      "type": "cloze",
+      "vocabulary_id": "ruha",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A vendég felveszi a ______.",
+      "options_cs": [
+        "ruhát",
+        "ruhában",
+        "ruhánál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Host si oblékne šaty."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-03",
+      "type": "cloze",
+      "vocabulary_id": "nyakkendo",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A férfi megigazítja a ______.",
+      "options_cs": [
+        "nyakkendőt",
+        "nyakkendőben",
+        "nyakkendőnél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Muž si upraví kravatu."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-04",
+      "type": "cloze",
+      "vocabulary_id": "setapalca",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "Az úr magával viszi a ______.",
+      "options_cs": [
+        "sétapálcát",
+        "sétapálcában",
+        "sétapálcánál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Pán si s sebou vezme vycházkovou hůl."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-05",
+      "type": "cloze",
+      "vocabulary_id": "kesztyu",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A hölgy ______ érkezik.",
+      "options_cs": [
+        "kesztyűben",
+        "kesztyűn",
+        "kesztyűnél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Dáma přichází v rukavicích."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-06",
+      "type": "cloze",
+      "vocabulary_id": "cilinder",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A vendég ______ lép a terembe.",
+      "options_cs": [
+        "cilinderben",
+        "cilinderen",
+        "cilindernél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Host vstupuje do sálu v cylindru."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-07",
+      "type": "cloze",
+      "vocabulary_id": "felolto",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A férfi ______ indul az utcára.",
+      "options_cs": [
+        "felöltőben",
+        "felöltőn",
+        "felöltőnél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Muž vychází do ulice ve svrchníku."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-08",
+      "type": "cloze",
+      "vocabulary_id": "szoknya",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A lány ______ áll a tükör előtt.",
+      "options_cs": [
+        "szoknyában",
+        "szoknyán",
+        "szoknyánál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Dívka stojí před zrcadlem v sukni."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-09",
+      "type": "cloze",
+      "vocabulary_id": "szalag",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A piros szalag a ______ díszlik.",
+      "options_cs": [
+        "kalapon",
+        "kalapban",
+        "kalapnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Červená stuha zdobí klobouk."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-10",
+      "type": "cloze",
+      "vocabulary_id": "legyezo",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A hímzett minta a ______ látható.",
+      "options_cs": [
+        "legyezőn",
+        "legyezőben",
+        "legyezőnél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyšívaný vzor je vidět na vějíři."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-11",
+      "type": "cloze",
+      "vocabulary_id": "setapalca",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A sétapálca a ______ hever.",
+      "options_cs": [
+        "padon",
+        "padban",
+        "padnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vycházková hůl leží na lavičce."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-12",
+      "type": "cloze",
+      "vocabulary_id": "zsebora",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A lánc a ______ csillog.",
+      "options_cs": [
+        "mellényen",
+        "mellényben",
+        "mellénynél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Řetízek se leskne na vestě."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-13",
+      "type": "cloze",
+      "vocabulary_id": "ruha",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A vendég a ______ vár.",
+      "options_cs": [
+        "szabónál",
+        "szabóban",
+        "szabón"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Host čeká u krejčího."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-14",
+      "type": "cloze",
+      "vocabulary_id": "cipo",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A cipőt a ______ javítják.",
+      "options_cs": [
+        "cipésznél",
+        "cipészben",
+        "cipészen"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Botu opravují u ševce."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-15",
+      "type": "cloze",
+      "vocabulary_id": "kalap",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A hölgy a ______ választ kalapot.",
+      "options_cs": [
+        "kalaposnál",
+        "kalaposban",
+        "kalaposon"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Dáma si vybírá klobouk u kloboučníka."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-16",
+      "type": "cloze",
+      "vocabulary_id": "bluz",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "Az új blúzt a ______ próbálják fel.",
+      "options_cs": [
+        "varrónőnél",
+        "varrónőben",
+        "varrónőn"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Novou blůzu zkoušejí u švadleny."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-17",
+      "type": "recall",
+      "vocabulary_id": "bunda",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Muž si oblékne kožich.",
+      "sentence_hu": "A férfi magára veszi a ______.",
+      "accepted_answers": [
+        "bundát"
+      ],
+      "explanation_cs": "Doplňte maďarsky: Muž si oblékne kožich."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-18",
+      "type": "recall",
+      "vocabulary_id": "fuzo",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Dívka si ráno oblékne živůtek.",
+      "sentence_hu": "A lány reggel felveszi a ______.",
+      "accepted_answers": [
+        "fűzőt"
+      ],
+      "explanation_cs": "Doplňte maďarsky: Dívka si ráno oblékne živůtek."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-19",
+      "type": "recall",
+      "vocabulary_id": "gyuru",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Snoubenec si navlékne prsten.",
+      "sentence_hu": "A jegyes a kezére húzza a ______.",
+      "accepted_answers": [
+        "gyűrűt"
+      ],
+      "explanation_cs": "Doplňte maďarsky: Snoubenec si navlékne prsten."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-20",
+      "type": "recall",
+      "vocabulary_id": "kalap",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "V čem přichází host?",
+      "sentence_hu": "Miben érkezik a vendég?",
+      "accepted_answers": [
+        "kalapban"
+      ],
+      "explanation_cs": "V čem přichází host?"
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-21",
+      "type": "recall",
+      "vocabulary_id": "kabat",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "V čem se muž prochází v chladu?",
+      "sentence_hu": "Miben sétál a férfi a hidegben?",
+      "accepted_answers": [
+        "kabátban"
+      ],
+      "explanation_cs": "V čem se muž prochází v chladu?"
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-22",
+      "type": "recall",
+      "vocabulary_id": "borkesztyu",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "V čem si pán chrání ruce?",
+      "sentence_hu": "Miben védi a kezét az úr?",
+      "accepted_answers": [
+        "bőrkesztyűben"
+      ],
+      "explanation_cs": "V čem si pán chrání ruce?"
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-23",
+      "type": "recall",
+      "vocabulary_id": "szalag",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde je ozdoba ze stuhy?",
+      "sentence_hu": "Hol van a szalag dísze?",
+      "accepted_answers": [
+        "a kalapon"
+      ],
+      "explanation_cs": "Kde je ozdoba ze stuhy?"
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-24",
+      "type": "recall",
+      "vocabulary_id": "zsebora",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde se leskne řetízek?",
+      "sentence_hu": "Hol csillog a lánc?",
+      "accepted_answers": [
+        "a mellényen"
+      ],
+      "explanation_cs": "Kde se leskne řetízek?"
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-25",
+      "type": "recall",
+      "vocabulary_id": "szabo",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde si nechají změřit kabát?",
+      "sentence_hu": "Hol méretik meg a kabátot?",
+      "accepted_answers": [
+        "a szabónál"
+      ],
+      "explanation_cs": "Kde si nechají změřit kabát?"
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-26",
+      "type": "recall",
+      "vocabulary_id": "kalapos",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde vybírají novou pokrývku hlavy?",
+      "sentence_hu": "Hol választanak új fejfedőt?",
+      "accepted_answers": [
+        "a kalaposnál"
+      ],
+      "explanation_cs": "Kde vybírají novou pokrývku hlavy?"
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-27",
+      "type": "recall",
+      "vocabulary_id": "haziaszony",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "U koho čeká návštěvník?",
+      "sentence_hu": "Hol vár a látogató?",
+      "accepted_answers": [
+        "a háziasszonynál"
+      ],
+      "explanation_cs": "U koho čeká návštěvník?"
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-28",
+      "type": "recall",
+      "vocabulary_id": "cipesz",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde opravují botu?",
+      "sentence_hu": "Hol javítják ki a cipőt?",
+      "accepted_answers": [
+        "a cipésznél"
+      ],
+      "explanation_cs": "Kde opravují botu?"
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-29",
+      "type": "order",
+      "vocabulary_id": "ruha",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A varrónő megvarrja a ruhát.",
+      "words_hu": [
+        "ruhát.",
+        "a",
+        "megvarrja",
+        "varrónő",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "varrónő",
+          "megvarrja",
+          "a",
+          "ruhát."
+        ]
+      ],
+      "explanation_cs": "Švadlena ušije šaty."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-30",
+      "type": "order",
+      "vocabulary_id": "zsebora",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "Az inas átadja a zsebórát.",
+      "words_hu": [
+        "zsebórát.",
+        "a",
+        "átadja",
+        "inas",
+        "Az"
+      ],
+      "accepted_orders": [
+        [
+          "Az",
+          "inas",
+          "átadja",
+          "a",
+          "zsebórát."
+        ]
+      ],
+      "explanation_cs": "Sluha předává kapesní hodinky."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-31",
+      "type": "order",
+      "vocabulary_id": "kesztyu",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A hölgy felveszi a kesztyűt.",
+      "words_hu": [
+        "kesztyűt.",
+        "a",
+        "felveszi",
+        "hölgy",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "hölgy",
+          "felveszi",
+          "a",
+          "kesztyűt."
+        ]
+      ],
+      "explanation_cs": "Dáma si obléká rukavice."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-32",
+      "type": "order",
+      "vocabulary_id": "kalap",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A vendég kalapban érkezik.",
+      "words_hu": [
+        "érkezik.",
+        "kalapban",
+        "vendég",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "vendég",
+          "kalapban",
+          "érkezik."
+        ]
+      ],
+      "explanation_cs": "Host přichází v klobouku."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-33",
+      "type": "order",
+      "vocabulary_id": "felolto",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A férfi felöltőben indul el.",
+      "words_hu": [
+        "el.",
+        "indul",
+        "felöltőben",
+        "férfi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "férfi",
+          "felöltőben",
+          "indul",
+          "el."
+        ]
+      ],
+      "explanation_cs": "Muž vyráží ve svrchníku."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-34",
+      "type": "order",
+      "vocabulary_id": "selyemharisnya",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A hölgy selyemharisnyában érkezik az estélyre.",
+      "words_hu": [
+        "estélyre.",
+        "az",
+        "érkezik",
+        "selyemharisnyában",
+        "hölgy",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "hölgy",
+          "selyemharisnyában",
+          "érkezik",
+          "az",
+          "estélyre."
+        ]
+      ],
+      "explanation_cs": "Dáma přichází na večírek v hedvábných punčochách."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-35",
+      "type": "order",
+      "vocabulary_id": "szalag",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A szalag a kalapon díszlik.",
+      "words_hu": [
+        "díszlik.",
+        "kalapon",
+        "a",
+        "szalag",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "szalag",
+          "a",
+          "kalapon",
+          "díszlik."
+        ]
+      ],
+      "explanation_cs": "Stuha zdobí klobouk."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-36",
+      "type": "order",
+      "vocabulary_id": "gyuru",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A gyűrű az ujjon csillog.",
+      "words_hu": [
+        "csillog.",
+        "ujjon",
+        "az",
+        "gyűrű",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "gyűrű",
+          "az",
+          "ujjon",
+          "csillog."
+        ]
+      ],
+      "explanation_cs": "Prsten se leskne na prstu."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-37",
+      "type": "order",
+      "vocabulary_id": "setapalca",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A sétapálca a padon hever.",
+      "words_hu": [
+        "hever.",
+        "padon",
+        "a",
+        "sétapálca",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "sétapálca",
+          "a",
+          "padon",
+          "hever."
+        ]
+      ],
+      "explanation_cs": "Vycházková hůl leží na lavičce."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-38",
+      "type": "order",
+      "vocabulary_id": "ruha",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A vendég a szabónál vár.",
+      "words_hu": [
+        "vár.",
+        "szabónál",
+        "a",
+        "vendég",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "vendég",
+          "a",
+          "szabónál",
+          "vár."
+        ]
+      ],
+      "explanation_cs": "Host čeká u krejčího."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-39",
+      "type": "order",
+      "vocabulary_id": "cipo",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A cipőt a cipésznél javítják.",
+      "words_hu": [
+        "javítják.",
+        "cipésznél",
+        "a",
+        "cipőt",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "cipőt",
+          "a",
+          "cipésznél",
+          "javítják."
+        ]
+      ],
+      "explanation_cs": "Botu opravují u ševce."
+    },
+    {
+      "id": "odev-a-tarsasag-grammar-40",
+      "type": "order",
+      "vocabulary_id": "kalap",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A hölgy a kalaposnál választ kalapot.",
+      "words_hu": [
+        "kalapot.",
+        "választ",
+        "kalaposnál",
+        "a",
+        "hölgy",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "hölgy",
+          "a",
+          "kalaposnál",
+          "választ",
+          "kalapot."
+        ]
+      ],
+      "explanation_cs": "Dáma si vybírá klobouk u kloboučníka."
+    }
+  ],
+  "stories": [
+    {
+      "id": "odev-a-tarsasag-story-01",
+      "title_cs": "V krejčovské dílně",
+      "title_hu": "A szabó műhelyében",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "odev-a-tarsasag"
+      ],
+      "curriculum_lesson_id": "odev-a-tarsasag",
+      "new_vocabulary_ids": [
+        "szabo",
+        "varrono",
+        "ruhaanyag",
+        "poszto",
+        "felolto"
+      ],
+      "vocabulary_ids": [
+        "szabo",
+        "varrono",
+        "ruhaanyag",
+        "poszto",
+        "felolto"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a "
+        },
+        {
+          "text": "szabó",
+          "vocabulary_id": "szabo"
+        },
+        {
+          "text": " és a "
+        },
+        {
+          "text": "varrónő",
+          "vocabulary_id": "varrono"
+        },
+        {
+          "text": " együtt dolgozik. Az új ruhaanyagból ünnepi ruha, a "
+        },
+        {
+          "text": "posztóból",
+          "vocabulary_id": "poszto"
+        },
+        {
+          "text": " téli "
+        },
+        {
+          "text": "felöltő",
+          "vocabulary_id": "felolto"
+        },
+        {
+          "text": " készül. A megrendelő elégedetten próbálja fel a ruhát."
+        }
+      ],
+      "questions": [
+        {
+          "id": "odev-a-tarsasag-story-01-question",
+          "prompt_cs": "Z čeho šijí zimní svrchník?",
+          "options_cs": [
+            "Ze sukna.",
+            "Z papíru.",
+            "Z kůže na boty."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A téli felöltő posztóból készül."
+        }
+      ],
+      "translation_cs": "V roce 1913 pracují krejčí a švadlena společně. Z nové látky šijí slavnostní šaty a ze sukna zimní svrchník. Zákazník si oděv spokojeně zkouší."
+    },
+    {
+      "id": "odev-a-tarsasag-story-02",
+      "title_cs": "Ráno v měšťanském domě",
+      "title_hu": "Reggel a polgári házban",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "odev-a-tarsasag"
+      ],
+      "curriculum_lesson_id": "odev-a-tarsasag",
+      "new_vocabulary_ids": [
+        "haziaszony",
+        "szobalany",
+        "kendo",
+        "zsebora",
+        "cipo",
+        "inas"
+      ],
+      "vocabulary_ids": [
+        "haziaszony",
+        "szobalany",
+        "kendo",
+        "zsebora",
+        "cipo",
+        "inas"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "háziasszony",
+          "vocabulary_id": "haziaszony"
+        },
+        {
+          "text": " reggel megköti a "
+        },
+        {
+          "text": "kendőt",
+          "vocabulary_id": "kendo"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "szobalány",
+          "vocabulary_id": "szobalany"
+        },
+        {
+          "text": " kitisztítja a cipőt, az "
+        },
+        {
+          "text": "inas",
+          "vocabulary_id": "inas"
+        },
+        {
+          "text": " pedig pontos "
+        },
+        {
+          "text": "zsebórát",
+          "vocabulary_id": "zsebora"
+        },
+        {
+          "text": " hoz a háziúrnak."
+        }
+      ],
+      "questions": [
+        {
+          "id": "odev-a-tarsasag-story-02-question",
+          "prompt_cs": "Co přinese sluha majiteli domu?",
+          "options_cs": [
+            "Kapesní hodinky.",
+            "Deštník.",
+            "Klobouk."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Az inas zsebórát hoz a háziúrnak."
+        }
+      ],
+      "translation_cs": "Paní domu si ráno uváže šátek. Pokojská vyčistí boty a sluha přinese majiteli domu přesné kapesní hodinky."
+    },
+    {
+      "id": "odev-a-tarsasag-story-03",
+      "title_cs": "Pozvání na večírek",
+      "title_hu": "Meghívás az estélyre",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "odev-a-tarsasag"
+      ],
+      "curriculum_lesson_id": "odev-a-tarsasag",
+      "new_vocabulary_ids": [
+        "meghivott",
+        "gardedam",
+        "kesztyu",
+        "legyezo",
+        "nyakkendo"
+      ],
+      "vocabulary_ids": [
+        "meghivott",
+        "gardedam",
+        "kesztyu",
+        "legyezo",
+        "nyakkendo"
+      ],
+      "segments": [
+        {
+          "text": "Az "
+        },
+        {
+          "text": "meghívott",
+          "vocabulary_id": "meghivott"
+        },
+        {
+          "text": " sötét ruhában érkezik az estélyre. A fiatal hölgyet a "
+        },
+        {
+          "text": "gardedám",
+          "vocabulary_id": "gardedam"
+        },
+        {
+          "text": " kíséri. A hölgy "
+        },
+        {
+          "text": "kesztyűben",
+          "vocabulary_id": "kesztyu"
+        },
+        {
+          "text": " tartja a "
+        },
+        {
+          "text": "legyezőt",
+          "vocabulary_id": "legyezo"
+        },
+        {
+          "text": ", a vendég nyakán pedig rendezett "
+        },
+        {
+          "text": "nyakkendő",
+          "vocabulary_id": "nyakkendo"
+        },
+        {
+          "text": " van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "odev-a-tarsasag-story-03-question",
+          "prompt_cs": "Kdo doprovází mladou dámu?",
+          "options_cs": [
+            "Gardedáma.",
+            "Krejčí.",
+            "Domovník."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A fiatal hölgyet a gardedám kíséri."
+        }
+      ],
+      "translation_cs": "Pozvaný host přichází na večírek v tmavém oděvu. Mladou dámu doprovází gardedáma. Dáma drží vějíř v rukavicích a host má upravenou kravatu."
+    },
+    {
+      "id": "odev-a-tarsasag-story-04",
+      "title_cs": "Nájemník a majitel domu",
+      "title_hu": "A bérlő és a háziúr",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "odev-a-tarsasag"
+      ],
+      "curriculum_lesson_id": "odev-a-tarsasag",
+      "new_vocabulary_ids": [
+        "berlo",
+        "haziur",
+        "lakokozosseg",
+        "kabat",
+        "bunda"
+      ],
+      "vocabulary_ids": [
+        "berlo",
+        "haziur",
+        "lakokozosseg",
+        "kabat",
+        "bunda"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "bérlő",
+          "vocabulary_id": "berlo"
+        },
+        {
+          "text": " lakbért fizet a "
+        },
+        {
+          "text": "háziúrnak",
+          "vocabulary_id": "haziur"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "lakóközösség",
+          "vocabulary_id": "lakokozosseg"
+        },
+        {
+          "text": " közösen rendben tartja az udvart. A hideg téli napon a bérlő "
+        },
+        {
+          "text": "bundában",
+          "vocabulary_id": "bunda"
+        },
+        {
+          "text": " és vastag "
+        },
+        {
+          "text": "kabátban",
+          "vocabulary_id": "kabat"
+        },
+        {
+          "text": " indul dolgozni."
+        }
+      ],
+      "questions": [
+        {
+          "id": "odev-a-tarsasag-story-04-question",
+          "prompt_cs": "Co společně udržují obyvatelé domu?",
+          "options_cs": [
+            "Dvůr.",
+            "Nádraží.",
+            "Tržnici."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A lakóközösség közösen rendben tartja az udvart."
+        }
+      ],
+      "translation_cs": "Nájemník platí majiteli domu nájemné. Obyvatelé domu společně udržují dvůr. V chladném zimním dni odchází nájemník do práce v kožichu a teplém kabátu."
+    },
+    {
+      "id": "odev-a-tarsasag-story-05",
+      "title_cs": "Nový klobouk",
+      "title_hu": "Új kalap",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "odev-a-tarsasag"
+      ],
+      "curriculum_lesson_id": "odev-a-tarsasag",
+      "new_vocabulary_ids": [
+        "polgarasszony",
+        "kalapos",
+        "szalmakalap",
+        "borkesztyu",
+        "napernyo"
+      ],
+      "vocabulary_ids": [
+        "polgarasszony",
+        "kalapos",
+        "szalmakalap",
+        "borkesztyu",
+        "napernyo"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "polgárasszony",
+          "vocabulary_id": "polgarasszony"
+        },
+        {
+          "text": " felkeresi a "
+        },
+        {
+          "text": "kalapost",
+          "vocabulary_id": "kalapos"
+        },
+        {
+          "text": ". Könnyű "
+        },
+        {
+          "text": "szalmakalapot",
+          "vocabulary_id": "szalmakalap"
+        },
+        {
+          "text": " választ tavaszra. A kezén "
+        },
+        {
+          "text": "bőrkesztyű",
+          "vocabulary_id": "borkesztyu"
+        },
+        {
+          "text": " van, a nap ellen pedig "
+        },
+        {
+          "text": "napernyőt",
+          "vocabulary_id": "napernyo"
+        },
+        {
+          "text": " visz magával."
+        }
+      ],
+      "questions": [
+        {
+          "id": "odev-a-tarsasag-story-05-question",
+          "prompt_cs": "Jaký klobouk si vybírá?",
+          "options_cs": [
+            "Slaměný.",
+            "Kožený.",
+            "Vlněný."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A polgárasszony szalmakalapot választ."
+        }
+      ],
+      "translation_cs": "Měšťanka navštíví kloboučníka. Na jaro si vybere lehký slaměný klobouk. Na rukou má kožené rukavice a proti slunci si vezme slunečník."
+    },
+    {
+      "id": "odev-a-tarsasag-story-06",
+      "title_cs": "Návštěva známých",
+      "title_hu": "Látogatás az ismerősnél",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "odev-a-tarsasag"
+      ],
+      "curriculum_lesson_id": "odev-a-tarsasag",
+      "new_vocabulary_ids": [
+        "latogato",
+        "ismeros",
+        "hazmester",
+        "csokornyakkendo",
+        "gyuru"
+      ],
+      "vocabulary_ids": [
+        "latogato",
+        "ismeros",
+        "hazmester",
+        "csokornyakkendo",
+        "gyuru"
+      ],
+      "segments": [
+        {
+          "text": "Az "
+        },
+        {
+          "text": "ismerős",
+          "vocabulary_id": "ismeros"
+        },
+        {
+          "text": " délután vendéget vár. A "
+        },
+        {
+          "text": "házmester",
+          "vocabulary_id": "hazmester"
+        },
+        {
+          "text": " kinyitja a kaput, és a "
+        },
+        {
+          "text": "látogató",
+          "vocabulary_id": "latogato"
+        },
+        {
+          "text": " felmegy a lakásba. A vendég csinos "
+        },
+        {
+          "text": "csokornyakkendőt",
+          "vocabulary_id": "csokornyakkendo"
+        },
+        {
+          "text": " visel, kezén egyszerű "
+        },
+        {
+          "text": "gyűrű",
+          "vocabulary_id": "gyuru"
+        },
+        {
+          "text": " csillog."
+        }
+      ],
+      "questions": [
+        {
+          "id": "odev-a-tarsasag-story-06-question",
+          "prompt_cs": "Kdo otevře bránu?",
+          "options_cs": [
+            "Domovník.",
+            "Švadlena.",
+            "Nájemník."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A házmester kinyitja a kaput."
+        }
+      ],
+      "translation_cs": "Známý odpoledne čeká návštěvu. Domovník otevře bránu a návštěvník vystoupá do bytu. Host má pěkného motýlka a na ruce se mu leskne jednoduchý prsten."
+    }
+  ]
+}

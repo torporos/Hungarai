@@ -12,7 +12,7 @@
     "duration_min": 10,
     "xp_required": 280,
     "prerequisite_lesson_ids": [
-      "prochazka-mestem"
+      "nakup-dalsi-chute"
     ],
     "vocabulary_ids": [
       "vendeg",
@@ -88,7 +88,11 @@
         }
       ],
       "example_hu": "A vendég a városba megy.",
-      "example_cs": "Host jede do města."
+      "example_cs": "Host jede do města.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     },
     {
       "id": "barat",
@@ -112,7 +116,11 @@
         }
       ],
       "example_hu": "A barátom a városban lakik.",
-      "example_cs": "Můj přítel bydlí ve městě."
+      "example_cs": "Můj přítel bydlí ve městě.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     },
     {
       "id": "csalad",
@@ -148,7 +156,11 @@
         }
       ],
       "example_hu": "A családom itt van.",
-      "example_cs": "Moje rodina je tady."
+      "example_cs": "Moje rodina je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     },
     {
       "id": "anya",
@@ -172,7 +184,11 @@
         }
       ],
       "example_hu": "Anyám a városban lakik.",
-      "example_cs": "Moje matka bydlí ve městě."
+      "example_cs": "Moje matka bydlí ve městě.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     },
     {
       "id": "apa",
@@ -196,7 +212,11 @@
         }
       ],
       "example_hu": "Apám a kertben van.",
-      "example_cs": "Můj otec je na zahradě."
+      "example_cs": "Můj otec je na zahradě.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     },
     {
       "id": "testver",
@@ -226,7 +246,11 @@
         }
       ],
       "example_hu": "A testvérem a parkban van.",
-      "example_cs": "Můj sourozenec je v parku."
+      "example_cs": "Můj sourozenec je v parku.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     },
     {
       "id": "gyerek",
@@ -250,7 +274,11 @@
         }
       ],
       "example_hu": "A gyerek a házban van.",
-      "example_cs": "Dítě je v domě."
+      "example_cs": "Dítě je v domě.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     },
     {
       "id": "lakik",
@@ -274,7 +302,11 @@
         }
       ],
       "example_hu": "A barátom a városban lakik.",
-      "example_cs": "Můj přítel bydlí ve městě."
+      "example_cs": "Můj přítel bydlí ve městě.",
+      "tags": [
+        "q1",
+        "verb_active"
+      ]
     },
     {
       "id": "szeret",
@@ -304,7 +336,11 @@
         }
       ],
       "example_hu": "Szeretek kávét. Szeretem a családomat.",
-      "example_cs": "Mám rád kávu. Mám rád svou rodinu."
+      "example_cs": "Mám rád kávu. Mám rád svou rodinu.",
+      "tags": [
+        "q1",
+        "verb_active"
+      ]
     }
   ],
   "grammar": [
@@ -355,6 +391,10 @@
       "notes_cs": [
         "Přípona se připojuje ke slovu; české „můj/moje“ stojí zvlášť, maďarsky je součástí slova.",
         "Neučte se jen samotnou příponu: zapamatujte si i změny kmene, například anya → anyám."
+      ],
+      "tags": [
+        "q2",
+        "q1"
       ]
     },
     {
@@ -386,6 +426,9 @@
       "notes_cs": [
         "Základní slovníkový tvar ponecháváme ve slovníčku; osobní tvary se učíme postupně jako samostatné tvary.",
         "U slovesa lakik se v běžné mluvě objevuje také lakok; tato lekce procvičuje tradiční tvar lakom."
+      ],
+      "tags": [
+        "q1"
       ]
     }
   ],
@@ -786,5 +829,6 @@
       ],
       "translation_cs": "Host jede do města. Ve městě je náměstí. Na náměstí je muzeum a kavárna. Host jde do muzea. Muzeum je na náměstí. Kavárna je na náměstí. Host jde do kavárny. V kavárně si objedná kávu. Požádá také o vodu. Obchod je v parku. Host jde do obchodu. V obchodě žádá o chléb. Řeka je blízko. Most je blízko. Host je ve městě."
     }
-  ]
+  ],
+  "quarter": "q1"
 }

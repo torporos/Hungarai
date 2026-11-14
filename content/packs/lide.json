@@ -1,0 +1,827 @@
+{
+  "order": 14,
+  "lesson": {
+    "id": "lide",
+    "theme_id": "q1-kazdodenni-zaklady",
+    "theme_title_cs": "Q1 · Každodenní základy",
+    "module_number": 2,
+    "module_title_cs": "Lidé, rodina a společenská oslovení",
+    "title_cs": "Lidé, rodina a společenská oslovení",
+    "description": "Lidé, rodina a společenská oslovení. Slovní zásoba a různorodé procvičení v historickém kontextu před rokem 1914.",
+    "level": "Q1 · ZÁKLADY",
+    "duration_min": 10,
+    "xp_required": 100,
+    "prerequisite_lesson_ids": [
+      "jidlo-b"
+    ],
+    "vocabulary_ids": [
+      "ferj",
+      "feleseg",
+      "fiu",
+      "lany",
+      "ferfi",
+      "no",
+      "ur",
+      "asszony",
+      "kisasszony",
+      "szomszed",
+      "rokon",
+      "nagybacsi",
+      "nagyneni",
+      "unoka",
+      "menyasszony",
+      "volegeny",
+      "meny",
+      "vo",
+      "hazaspar"
+    ],
+    "new_vocabulary_ids": [
+      "ferj",
+      "feleseg",
+      "fiu",
+      "lany",
+      "ferfi",
+      "no",
+      "ur",
+      "asszony",
+      "kisasszony",
+      "szomszed",
+      "rokon",
+      "nagybacsi",
+      "nagyneni",
+      "unoka",
+      "menyasszony",
+      "volegeny",
+      "meny",
+      "vo",
+      "hazaspar"
+    ],
+    "grammar_ids": [
+      "q1-mnozne-cislo"
+    ],
+    "grammar_label_cs": "Tvoření množného čísla",
+    "exercise_ids": [
+      "q1-lide-ex-01",
+      "q1-lide-ex-02",
+      "q1-lide-ex-03",
+      "q1-lide-ex-04",
+      "q1-lide-ex-05",
+      "q1-lide-ex-06",
+      "q1-lide-ex-07",
+      "q1-lide-ex-08",
+      "q1-lide-ex-09",
+      "q1-lide-ex-10"
+    ],
+    "story_ids": [
+      "q1-lide-story",
+      "q1-lide-story-02",
+      "q1-lide-story-03"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "ferj",
+      "word": "férj",
+      "translation_cs": "manžel",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "férj",
+          "translation_cs": "manžel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A férj itt van.",
+      "example_cs": "manžel je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "feleseg",
+      "word": "feleség",
+      "translation_cs": "manželka",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "feleség",
+          "translation_cs": "manželka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A feleség itt van.",
+      "example_cs": "manželka je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "fiu",
+      "word": "fiú",
+      "translation_cs": "chlapec; syn",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fiú",
+          "translation_cs": "chlapec; syn",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A fiú itt van.",
+      "example_cs": "chlapec je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "lany",
+      "word": "lány",
+      "translation_cs": "dívka; dcera",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lány",
+          "translation_cs": "dívka; dcera",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A lány itt van.",
+      "example_cs": "dívka je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "ferfi",
+      "word": "férfi",
+      "translation_cs": "muž",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "férfi",
+          "translation_cs": "muž",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A férfi itt van.",
+      "example_cs": "muž je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "no",
+      "word": "nő",
+      "translation_cs": "žena",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nő",
+          "translation_cs": "žena",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A nő itt van.",
+      "example_cs": "žena je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "ur",
+      "word": "úr",
+      "translation_cs": "pán; gentleman",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "úr",
+          "translation_cs": "pán; gentleman",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az úr itt van.",
+      "example_cs": "pán je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "asszony",
+      "word": "asszony",
+      "translation_cs": "paní; žena",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "asszony",
+          "translation_cs": "paní; žena",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az asszony itt van.",
+      "example_cs": "paní je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "kisasszony",
+      "word": "kisasszony",
+      "translation_cs": "slečna",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kisasszony",
+          "translation_cs": "slečna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kisasszony itt van.",
+      "example_cs": "slečna je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "szomszed",
+      "word": "szomszéd",
+      "translation_cs": "soused",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szomszéd",
+          "translation_cs": "soused",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szomszéd itt van.",
+      "example_cs": "soused je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "rokon",
+      "word": "rokon",
+      "translation_cs": "příbuzný",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rokon",
+          "translation_cs": "příbuzný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A rokon itt van.",
+      "example_cs": "příbuzný je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "nagybacsi",
+      "word": "nagybácsi",
+      "translation_cs": "strýc",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nagybácsi",
+          "translation_cs": "strýc",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A nagybácsi itt van.",
+      "example_cs": "strýc je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "nagyneni",
+      "word": "nagynéni",
+      "translation_cs": "teta",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nagynéni",
+          "translation_cs": "teta",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A nagynéni itt van.",
+      "example_cs": "teta je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "unoka",
+      "word": "unoka",
+      "translation_cs": "vnouče",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "unoka",
+          "translation_cs": "vnouče",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az unoka itt van.",
+      "example_cs": "vnouče je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "menyasszony",
+      "word": "menyasszony",
+      "translation_cs": "nevěsta",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "menyasszony",
+          "translation_cs": "nevěsta",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A menyasszony itt van.",
+      "example_cs": "nevěsta je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "volegeny",
+      "word": "vőlegény",
+      "translation_cs": "ženich",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vőlegény",
+          "translation_cs": "ženich",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vőlegény itt van.",
+      "example_cs": "ženich je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "meny",
+      "word": "meny",
+      "translation_cs": "snacha",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "meny",
+          "translation_cs": "snacha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A meny itt van.",
+      "example_cs": "snacha je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "vo",
+      "word": "vő",
+      "translation_cs": "zeť",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vő",
+          "translation_cs": "zeť",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vő itt van.",
+      "example_cs": "zeť je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    },
+    {
+      "id": "hazaspar",
+      "word": "házaspár",
+      "translation_cs": "manželský pár",
+      "part_of_speech_cs": "podstatné jméno · člověk a rodina",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "házaspár",
+          "translation_cs": "manželský pár",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A házaspár itt van.",
+      "example_cs": "manželský pár je tady.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q1-lide-ex-01",
+      "type": "vocabulary",
+      "vocabulary_id": "ferj",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „férj“?",
+      "options_cs": [
+        "manžel",
+        "manželka",
+        "chlapec; syn"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "férj znamená „manžel“."
+    },
+    {
+      "id": "q1-lide-ex-02",
+      "type": "listening",
+      "vocabulary_id": "lany",
+      "type_label_cs": "Poslech",
+      "audio_text": "lány",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "dívka; dcera",
+        "manžel",
+        "manželka"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "lány znamená „dívka; dcera“."
+    },
+    {
+      "id": "q1-lide-ex-03",
+      "type": "recall",
+      "vocabulary_id": "ur",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „pán; gentleman“.",
+      "accepted_answers": [
+        "úr"
+      ],
+      "sentence_hu": "Az ______ itt van.",
+      "explanation_cs": "pán je tady."
+    },
+    {
+      "id": "q1-lide-ex-04",
+      "type": "cloze",
+      "vocabulary_id": "szomszed",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "A ______ itt van.",
+      "options_cs": [
+        "szomszéd",
+        "férj",
+        "feleség"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "soused je tady."
+    },
+    {
+      "id": "q1-lide-ex-05",
+      "type": "order",
+      "vocabulary_id": "nagyneni",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "van.",
+        "itt",
+        "nagynéni",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "nagynéni",
+          "itt",
+          "van."
+        ]
+      ],
+      "explanation_cs": "teta je tady."
+    },
+    {
+      "id": "q1-lide-ex-06",
+      "type": "vocabulary",
+      "vocabulary_id": "volegeny",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „vőlegény“?",
+      "options_cs": [
+        "ženich",
+        "manžel",
+        "manželka"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "vőlegény znamená „ženich“."
+    },
+    {
+      "id": "q1-lide-ex-07",
+      "type": "listening",
+      "vocabulary_id": "hazaspar",
+      "type_label_cs": "Poslech",
+      "audio_text": "házaspár",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "manželský pár",
+        "manžel",
+        "manželka"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "házaspár znamená „manželský pár“."
+    },
+    {
+      "id": "q1-lide-ex-08",
+      "type": "recall",
+      "vocabulary_id": "fiu",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „chlapec; syn“.",
+      "accepted_answers": [
+        "fiú"
+      ],
+      "sentence_hu": "A ______ itt van.",
+      "explanation_cs": "chlapec je tady."
+    },
+    {
+      "id": "q1-lide-ex-09",
+      "type": "cloze",
+      "vocabulary_id": "no",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "A ______ itt van.",
+      "options_cs": [
+        "nő",
+        "férj",
+        "feleség"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "žena je tady."
+    },
+    {
+      "id": "q1-lide-ex-10",
+      "type": "order",
+      "vocabulary_id": "kisasszony",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "van.",
+        "itt",
+        "kisasszony",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "kisasszony",
+          "itt",
+          "van."
+        ]
+      ],
+      "explanation_cs": "slečna je tady."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-lide-story",
+      "title_cs": "Rodinná návštěva",
+      "title_hu": "Családi látogatás",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "lide"
+      ],
+      "curriculum_lesson_id": "lide",
+      "new_vocabulary_ids": [
+        "ferj",
+        "feleseg",
+        "rokon"
+      ],
+      "vocabulary_ids": [
+        "ferj",
+        "feleseg",
+        "rokon"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a "
+        },
+        {
+          "text": "férj",
+          "vocabulary_id": "ferj"
+        },
+        {
+          "text": " és a "
+        },
+        {
+          "text": "feleség",
+          "vocabulary_id": "feleseg"
+        },
+        {
+          "text": " otthon van. A "
+        },
+        {
+          "text": "rokon",
+          "vocabulary_id": "rokon"
+        },
+        {
+          "text": " meglátogatja a családot. A szomszéd is itt van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-lide-story-question",
+          "prompt_cs": "Kdo navštíví rodinu?",
+          "options_cs": [
+            "Příbuzný.",
+            "Pošťák.",
+            "Kočí."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Rodinu navštíví příbuzný: A rokon meglátogatja a családot."
+        }
+      ],
+      "translation_cs": "V roce 1913 jsou manžel a manželka doma. Příbuzný navštíví rodinu. Je tu také soused."
+    },
+    {
+      "id": "q1-lide-story-02",
+      "title_cs": "Návštěva strýce a tety",
+      "title_hu": "A nagybácsi és a nagynéni látogatása",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "lide"
+      ],
+      "curriculum_lesson_id": "lide",
+      "new_vocabulary_ids": [
+        "nagybacsi",
+        "nagyneni",
+        "hazaspar"
+      ],
+      "vocabulary_ids": [
+        "nagybacsi",
+        "nagyneni",
+        "hazaspar"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a "
+        },
+        {
+          "text": "nagybácsi",
+          "vocabulary_id": "nagybacsi"
+        },
+        {
+          "text": " itt van. A "
+        },
+        {
+          "text": "nagynéni",
+          "vocabulary_id": "nagyneni"
+        },
+        {
+          "text": " is itt van. A "
+        },
+        {
+          "text": "házaspár",
+          "vocabulary_id": "hazaspar"
+        },
+        {
+          "text": " örül a látogatásnak."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-lide-story-02-question",
+          "prompt_cs": "Kdo má radost z návštěvy?",
+          "options_cs": [
+            "Manželský pár.",
+            "Kočí.",
+            "Pošťák."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Z návštěvy má radost házaspár."
+        }
+      ],
+      "translation_cs": "V roce 1913 je tu strýc. Je tu také teta. Manželský pár má z návštěvy radost."
+    },
+    {
+      "id": "q1-lide-story-03",
+      "title_cs": "Sourozenci a soused",
+      "title_hu": "Testvérek és a szomszéd",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "lide"
+      ],
+      "curriculum_lesson_id": "lide",
+      "new_vocabulary_ids": [
+        "fiu",
+        "lany",
+        "rokon"
+      ],
+      "vocabulary_ids": [
+        "fiu",
+        "lany",
+        "rokon"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "fiú",
+          "vocabulary_id": "fiu"
+        },
+        {
+          "text": " a szomszédnál van. A "
+        },
+        {
+          "text": "lány",
+          "vocabulary_id": "lany"
+        },
+        {
+          "text": " is ott van. A "
+        },
+        {
+          "text": "rokon",
+          "vocabulary_id": "rokon"
+        },
+        {
+          "text": " meglátogatja őket."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-lide-story-03-question",
+          "prompt_cs": "Kdo navštíví sourozence?",
+          "options_cs": [
+            "Příbuzný.",
+            "Nevěsta.",
+            "Manžel."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Sourozence navštíví rokon."
+        }
+      ],
+      "translation_cs": "Chlapec je u souseda. Dívka je tam také. Příbuzný je navštíví."
+    }
+  ],
+  "quarter": "q1"
+}

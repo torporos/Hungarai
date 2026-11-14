@@ -71,7 +71,10 @@
         }
       ],
       "example_hu": "A házamban lakom.",
-      "example_cs": "Bydlím ve svém domě."
+      "example_cs": "Bydlím ve svém domě.",
+      "tags": [
+        "q1"
+      ]
     },
     {
       "id": "kert",
@@ -100,7 +103,10 @@
         }
       ],
       "example_hu": "A kertben játszom.",
-      "example_cs": "Hraju si na zahradě."
+      "example_cs": "Hraju si na zahradě.",
+      "tags": [
+        "q1"
+      ]
     },
     {
       "id": "konyv",
@@ -124,7 +130,10 @@
         }
       ],
       "example_hu": "Ez a könyv érdekes.",
-      "example_cs": "Tato kniha je zajímavá."
+      "example_cs": "Tato kniha je zajímavá.",
+      "tags": [
+        "q1"
+      ]
     },
     {
       "id": "taska",
@@ -153,7 +162,10 @@
         }
       ],
       "example_hu": "A táska az asztalon van.",
-      "example_cs": "Taška je na stole."
+      "example_cs": "Taška je na stole.",
+      "tags": [
+        "q1"
+      ]
     },
     {
       "id": "szoba",
@@ -182,7 +194,10 @@
         }
       ],
       "example_hu": "A szobában vagyok.",
-      "example_cs": "Jsem v pokoji."
+      "example_cs": "Jsem v pokoji.",
+      "tags": [
+        "q1"
+      ]
     }
   ],
   "grammar": [
@@ -251,6 +266,10 @@
       "notes_cs": [
         "Dlouhé a krátké samohlásky patří do stejné skupiny: a/á, e/é, i/í.",
         "U některých slov mohou neutrální samohlásky nebo ustálené výjimky ovlivnit výběr přípony."
+      ],
+      "tags": [
+        "q1",
+        "vowel_harmony"
       ]
     },
     {
@@ -300,6 +319,11 @@
       "notes_cs": [
         "Přípona se píše dohromady se slovem.",
         "Pozor na význam: -ban/-ben popisuje polohu uvnitř, zatímco -ba/-be vyjadřuje směr dovnitř."
+      ],
+      "tags": [
+        "q2",
+        "q1",
+        "inessive_ban_ben"
       ]
     }
   ],
@@ -429,5 +453,6 @@
       "explanation_cs": "A könyv a táskában van. Tvar táskában označuje umístění uvnitř tašky."
     }
   ],
-  "stories": []
+  "stories": [],
+  "quarter": "q1"
 }

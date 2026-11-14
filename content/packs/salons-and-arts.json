@@ -1,0 +1,3288 @@
+{
+  "order": 48,
+  "quarter": "q4",
+  "lesson": {
+    "id": "salons-and-arts",
+    "theme_id": "q4-society-1914",
+    "theme_title_cs": "Q4 · Společnost před rozpadem",
+    "module_number": 4,
+    "module_title_cs": "Úřady, názory a nejistota roku 1914",
+    "title_cs": "Salony, hudba a literatura",
+    "description": "Společnost, úřady, kultura a nejistota v roce 1914; vyprávění nepřekračuje stanovený historický řez.",
+    "level": "Q4 · SPOLEČNOST V ROCE 1914",
+    "duration_min": 22,
+    "xp_required": 2900,
+    "prerequisite_lesson_ids": [
+      "emotions-and-opinions-b"
+    ],
+    "vocabulary_ids": [
+      "bal",
+      "opera",
+      "zenekar",
+      "hangverseny",
+      "eloadas",
+      "szinpad",
+      "fuggony",
+      "diszlet",
+      "szerep",
+      "szinesz",
+      "szineszno",
+      "enekes",
+      "enekesno",
+      "karmester",
+      "hegedu",
+      "zongora",
+      "csello",
+      "fuvola",
+      "klarinet",
+      "trombita",
+      "nagybogo",
+      "kotta",
+      "hangjegy",
+      "dallam",
+      "utem",
+      "koncert",
+      "operahaz",
+      "balett",
+      "tancmulatsag",
+      "balterem",
+      "tanc",
+      "keringo",
+      "csardas",
+      "festmeny",
+      "festo",
+      "festomuvesz",
+      "ecset",
+      "vaszon",
+      "portre",
+      "tajkep",
+      "szobor",
+      "szobrasz",
+      "kiallitas",
+      "tarlat",
+      "kolto",
+      "vers",
+      "versszak",
+      "koltemeny",
+      "iro",
+      "regeny",
+      "novella",
+      "ujsag",
+      "napilap",
+      "szerkeszto",
+      "irodalom",
+      "mukedvelo",
+      "szalon",
+      "paholy",
+      "szinlap",
+      "musorfuzet"
+    ],
+    "new_vocabulary_ids": [
+      "bal",
+      "opera",
+      "zenekar",
+      "hangverseny",
+      "eloadas",
+      "szinpad",
+      "fuggony",
+      "diszlet",
+      "szerep",
+      "szinesz",
+      "szineszno",
+      "enekes",
+      "enekesno",
+      "karmester",
+      "hegedu",
+      "zongora",
+      "csello",
+      "fuvola",
+      "klarinet",
+      "trombita",
+      "nagybogo",
+      "kotta",
+      "hangjegy",
+      "dallam",
+      "utem",
+      "koncert",
+      "operahaz",
+      "balett",
+      "tancmulatsag",
+      "balterem",
+      "tanc",
+      "keringo",
+      "csardas",
+      "festmeny",
+      "festo",
+      "festomuvesz",
+      "ecset",
+      "vaszon",
+      "portre",
+      "tajkep",
+      "szobor",
+      "szobrasz",
+      "kiallitas",
+      "tarlat",
+      "kolto",
+      "vers",
+      "versszak",
+      "koltemeny",
+      "iro",
+      "regeny",
+      "novella",
+      "ujsag",
+      "napilap",
+      "szerkeszto",
+      "irodalom",
+      "mukedvelo",
+      "szalon",
+      "paholy",
+      "szinlap",
+      "musorfuzet"
+    ],
+    "grammar_ids": [
+      "q4-conditional-mood",
+      "q4-imperative-mood",
+      "q4-verbal-prefixes"
+    ],
+    "grammar_label_cs": "Podmiňovací způsob · rozkazy · slovesné předpony",
+    "exercise_ids": [
+      "salons-and-arts-word-01",
+      "salons-and-arts-word-02",
+      "salons-and-arts-word-03",
+      "salons-and-arts-word-04",
+      "salons-and-arts-word-05",
+      "salons-and-arts-word-06",
+      "salons-and-arts-word-07",
+      "salons-and-arts-word-08",
+      "salons-and-arts-word-09",
+      "salons-and-arts-word-10",
+      "salons-and-arts-word-11",
+      "salons-and-arts-word-12",
+      "salons-and-arts-word-13",
+      "salons-and-arts-word-14",
+      "salons-and-arts-word-15",
+      "salons-and-arts-word-16",
+      "salons-and-arts-word-17",
+      "salons-and-arts-word-18",
+      "salons-and-arts-word-19",
+      "salons-and-arts-word-20",
+      "salons-and-arts-word-21",
+      "salons-and-arts-word-22",
+      "salons-and-arts-word-23",
+      "salons-and-arts-word-24",
+      "salons-and-arts-word-25",
+      "salons-and-arts-word-26",
+      "salons-and-arts-word-27",
+      "salons-and-arts-word-28",
+      "salons-and-arts-word-29",
+      "salons-and-arts-word-30",
+      "salons-and-arts-word-31",
+      "salons-and-arts-word-32",
+      "salons-and-arts-word-33",
+      "salons-and-arts-word-34",
+      "salons-and-arts-word-35",
+      "salons-and-arts-word-36",
+      "salons-and-arts-word-37",
+      "salons-and-arts-word-38",
+      "salons-and-arts-word-39",
+      "salons-and-arts-word-40",
+      "salons-and-arts-word-41",
+      "salons-and-arts-word-42",
+      "salons-and-arts-word-43",
+      "salons-and-arts-word-44",
+      "salons-and-arts-word-45",
+      "salons-and-arts-word-46",
+      "salons-and-arts-word-47",
+      "salons-and-arts-word-48",
+      "salons-and-arts-word-49",
+      "salons-and-arts-word-50",
+      "salons-and-arts-word-51",
+      "salons-and-arts-word-52",
+      "salons-and-arts-word-53",
+      "salons-and-arts-word-54",
+      "salons-and-arts-word-55",
+      "salons-and-arts-word-56",
+      "salons-and-arts-word-57",
+      "salons-and-arts-word-58",
+      "salons-and-arts-word-59",
+      "salons-and-arts-word-60",
+      "salons-and-arts-grammar-01",
+      "salons-and-arts-grammar-02",
+      "salons-and-arts-grammar-03",
+      "salons-and-arts-grammar-04",
+      "salons-and-arts-grammar-05",
+      "salons-and-arts-grammar-06",
+      "salons-and-arts-grammar-07",
+      "salons-and-arts-grammar-08",
+      "salons-and-arts-grammar-09",
+      "salons-and-arts-grammar-10",
+      "salons-and-arts-grammar-11",
+      "salons-and-arts-grammar-12",
+      "salons-and-arts-grammar-13",
+      "salons-and-arts-grammar-14",
+      "salons-and-arts-grammar-15",
+      "salons-and-arts-grammar-16",
+      "salons-and-arts-grammar-17",
+      "salons-and-arts-grammar-18",
+      "salons-and-arts-grammar-19",
+      "salons-and-arts-grammar-20",
+      "salons-and-arts-grammar-21",
+      "salons-and-arts-grammar-22",
+      "salons-and-arts-grammar-23",
+      "salons-and-arts-grammar-24",
+      "salons-and-arts-grammar-25"
+    ],
+    "story_ids": [
+      "salons-and-arts-story-01",
+      "salons-and-arts-story-02",
+      "salons-and-arts-story-03",
+      "salons-and-arts-story-04"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "bal",
+      "word": "bál",
+      "translation_cs": "ples",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bál",
+          "translation_cs": "ples",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „bál” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „ples“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "opera",
+      "word": "opera",
+      "translation_cs": "opera",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "opera",
+          "translation_cs": "opera",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „opera” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „opera“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "zenekar",
+      "word": "zenekar",
+      "translation_cs": "orchestr",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "zenekar",
+          "translation_cs": "orchestr",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „zenekar” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „orchestr“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "hangverseny",
+      "word": "hangverseny",
+      "translation_cs": "koncert",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hangverseny",
+          "translation_cs": "koncert",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hangverseny” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „koncert“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "eloadas",
+      "word": "előadás",
+      "translation_cs": "představení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "előadás",
+          "translation_cs": "představení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „előadás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „představení“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "szinpad",
+      "word": "színpad",
+      "translation_cs": "jeviště",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "színpad",
+          "translation_cs": "jeviště",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „színpad” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „jeviště“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "fuggony",
+      "word": "függöny",
+      "translation_cs": "opona",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "függöny",
+          "translation_cs": "opona",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „függöny” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „opona“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "diszlet",
+      "word": "díszlet",
+      "translation_cs": "kulisa",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "díszlet",
+          "translation_cs": "kulisa",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „díszlet” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „kulisa“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "szerep",
+      "word": "szerep",
+      "translation_cs": "role",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szerep",
+          "translation_cs": "role",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „szerep” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „role“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "szinesz",
+      "word": "színész",
+      "translation_cs": "herec",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "színész",
+          "translation_cs": "herec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „színész” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „herec“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "szineszno",
+      "word": "színésznő",
+      "translation_cs": "herečka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "színésznő",
+          "translation_cs": "herečka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „színésznő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „herečka“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "enekes",
+      "word": "énekes",
+      "translation_cs": "zpěvák",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "énekes",
+          "translation_cs": "zpěvák",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „énekes” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „zpěvák“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "enekesno",
+      "word": "énekesnő",
+      "translation_cs": "zpěvačka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "énekesnő",
+          "translation_cs": "zpěvačka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „énekesnő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „zpěvačka“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "karmester",
+      "word": "karmester",
+      "translation_cs": "dirigent",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "karmester",
+          "translation_cs": "dirigent",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „karmester” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „dirigent“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "hegedu",
+      "word": "hegedű",
+      "translation_cs": "housle",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hegedű",
+          "translation_cs": "housle",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hegedű” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „housle“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "zongora",
+      "word": "zongora",
+      "translation_cs": "klavír",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "zongora",
+          "translation_cs": "klavír",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „zongora” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „klavír“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "csello",
+      "word": "cselló",
+      "translation_cs": "violoncello",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "cselló",
+          "translation_cs": "violoncello",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „cselló” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „violoncello“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "fuvola",
+      "word": "fuvola",
+      "translation_cs": "flétna",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fuvola",
+          "translation_cs": "flétna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „fuvola” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „flétna“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "klarinet",
+      "word": "klarinét",
+      "translation_cs": "klarinet",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "klarinét",
+          "translation_cs": "klarinet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „klarinét” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „klarinet“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "trombita",
+      "word": "trombita",
+      "translation_cs": "trubka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "trombita",
+          "translation_cs": "trubka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „trombita” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „trubka“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "nagybogo",
+      "word": "nagybőgő",
+      "translation_cs": "kontrabas",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nagybőgő",
+          "translation_cs": "kontrabas",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „nagybőgő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „kontrabas“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "kotta",
+      "word": "kotta",
+      "translation_cs": "notový zápis",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kotta",
+          "translation_cs": "notový zápis",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „kotta” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „notový zápis“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "hangjegy",
+      "word": "hangjegy",
+      "translation_cs": "nota",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hangjegy",
+          "translation_cs": "nota",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hangjegy” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „nota“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "dallam",
+      "word": "dallam",
+      "translation_cs": "melodie",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "dallam",
+          "translation_cs": "melodie",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „dallam” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „melodie“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "utem",
+      "word": "ütem",
+      "translation_cs": "takt",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ütem",
+          "translation_cs": "takt",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „ütem” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „takt“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "koncert",
+      "word": "koncert",
+      "translation_cs": "koncert",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "koncert",
+          "translation_cs": "koncert",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „koncert” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „koncert“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "operahaz",
+      "word": "operaház",
+      "translation_cs": "operní dům",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "operaház",
+          "translation_cs": "operní dům",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „operaház” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „operní dům“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "balett",
+      "word": "balett",
+      "translation_cs": "balet",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "balett",
+          "translation_cs": "balet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „balett” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „balet“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "tancmulatsag",
+      "word": "táncmulatság",
+      "translation_cs": "taneční zábava",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "táncmulatság",
+          "translation_cs": "taneční zábava",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „táncmulatság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „taneční zábava“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "balterem",
+      "word": "bálterem",
+      "translation_cs": "plesový sál",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bálterem",
+          "translation_cs": "plesový sál",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „bálterem” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „plesový sál“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "tanc",
+      "word": "tánc",
+      "translation_cs": "tanec",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tánc",
+          "translation_cs": "tanec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „tánc” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „tanec“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "keringo",
+      "word": "keringő",
+      "translation_cs": "valčík",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "keringő",
+          "translation_cs": "valčík",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „keringő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „valčík“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "csardas",
+      "word": "csárdás",
+      "translation_cs": "čardáš",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csárdás",
+          "translation_cs": "čardáš",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „csárdás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „čardáš“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "festmeny",
+      "word": "festmény",
+      "translation_cs": "obraz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "festmény",
+          "translation_cs": "obraz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „festmény” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „obraz“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "festo",
+      "word": "festő",
+      "translation_cs": "malíř",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "festő",
+          "translation_cs": "malíř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „festő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „malíř“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "festomuvesz",
+      "word": "festőművész",
+      "translation_cs": "výtvarný malíř",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "festőművész",
+          "translation_cs": "výtvarný malíř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „festőművész” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „výtvarný malíř“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "ecset",
+      "word": "ecset",
+      "translation_cs": "štětec",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ecset",
+          "translation_cs": "štětec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „ecset” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „štětec“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "vaszon",
+      "word": "vászon",
+      "translation_cs": "plátno",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vászon",
+          "translation_cs": "plátno",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „vászon” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „plátno“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "portre",
+      "word": "portré",
+      "translation_cs": "portrét",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "portré",
+          "translation_cs": "portrét",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „portré” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „portrét“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "tajkep",
+      "word": "tájkép",
+      "translation_cs": "krajina na obraze",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tájkép",
+          "translation_cs": "krajina na obraze",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „tájkép” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „krajina na obraze“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "szobor",
+      "word": "szobor",
+      "translation_cs": "socha",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szobor",
+          "translation_cs": "socha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „szobor” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „socha“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "szobrasz",
+      "word": "szobrász",
+      "translation_cs": "sochař",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szobrász",
+          "translation_cs": "sochař",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „szobrász” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „sochař“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "kiallitas",
+      "word": "kiállítás",
+      "translation_cs": "výstava",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kiállítás",
+          "translation_cs": "výstava",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „kiállítás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „výstava“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "tarlat",
+      "word": "tárlat",
+      "translation_cs": "expozice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tárlat",
+          "translation_cs": "expozice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „tárlat” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „expozice“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "kolto",
+      "word": "költő",
+      "translation_cs": "básník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "költő",
+          "translation_cs": "básník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „költő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „básník“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "vers",
+      "word": "vers",
+      "translation_cs": "báseň",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vers",
+          "translation_cs": "báseň",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „vers” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „báseň“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "versszak",
+      "word": "versszak",
+      "translation_cs": "sloka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "versszak",
+          "translation_cs": "sloka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „versszak” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „sloka“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "koltemeny",
+      "word": "költemény",
+      "translation_cs": "básnická skladba",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "költemény",
+          "translation_cs": "básnická skladba",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „költemény” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „básnická skladba“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "iro",
+      "word": "író",
+      "translation_cs": "spisovatel",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "író",
+          "translation_cs": "spisovatel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „író” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „spisovatel“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "regeny",
+      "word": "regény",
+      "translation_cs": "román",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "regény",
+          "translation_cs": "román",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „regény” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „román“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "novella",
+      "word": "novella",
+      "translation_cs": "novela",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "novella",
+          "translation_cs": "novela",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „novella” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „novela“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "ujsag",
+      "word": "újság",
+      "translation_cs": "noviny",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "újság",
+          "translation_cs": "noviny",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „újság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „noviny“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "napilap",
+      "word": "napilap",
+      "translation_cs": "deník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "napilap",
+          "translation_cs": "deník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „napilap” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „deník“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "szerkeszto",
+      "word": "szerkesztő",
+      "translation_cs": "redaktor",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szerkesztő",
+          "translation_cs": "redaktor",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „szerkesztő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „redaktor“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "irodalom",
+      "word": "irodalom",
+      "translation_cs": "literatura",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "irodalom",
+          "translation_cs": "literatura",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „irodalom” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „literatura“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "mukedvelo",
+      "word": "műkedvelő",
+      "translation_cs": "amatérský umělec",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "műkedvelő",
+          "translation_cs": "amatérský umělec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „műkedvelő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „amatérský umělec“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "szalon",
+      "word": "szalon",
+      "translation_cs": "salon",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szalon",
+          "translation_cs": "salon",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „szalon” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „salon“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "paholy",
+      "word": "páholy",
+      "translation_cs": "lóže",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "páholy",
+          "translation_cs": "lóže",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „páholy” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „lóže“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "szinlap",
+      "word": "színlap",
+      "translation_cs": "divadelní program",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "színlap",
+          "translation_cs": "divadelní program",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „színlap” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „divadelní program“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    },
+    {
+      "id": "musorfuzet",
+      "word": "műsorfüzet",
+      "translation_cs": "program",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "műsorfüzet",
+          "translation_cs": "program",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „műsorfüzet” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „program“.",
+      "tags": [
+        "q4",
+        "culture_arts"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "salons-and-arts-word-01",
+      "type": "cloze",
+      "vocabulary_id": "bal",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „ples“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "bál",
+        "opera",
+        "zenekar"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „bál” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-02",
+      "type": "recall",
+      "vocabulary_id": "opera",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „opera“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "opera"
+      ],
+      "explanation_cs": "A jegyző felírta a „opera” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-03",
+      "type": "order",
+      "vocabulary_id": "zenekar",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „zenekar” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„zenekar”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„zenekar”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „zenekar” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-04",
+      "type": "cloze",
+      "vocabulary_id": "hangverseny",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „koncert“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "hangverseny",
+        "előadás",
+        "színpad"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „hangverseny” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-05",
+      "type": "recall",
+      "vocabulary_id": "eloadas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „představení“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "előadás"
+      ],
+      "explanation_cs": "A jegyző felírta a „előadás” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-06",
+      "type": "order",
+      "vocabulary_id": "szinpad",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „színpad” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„színpad”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„színpad”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „színpad” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-07",
+      "type": "cloze",
+      "vocabulary_id": "fuggony",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „opona“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "függöny",
+        "díszlet",
+        "szerep"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „függöny” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-08",
+      "type": "recall",
+      "vocabulary_id": "diszlet",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „kulisa“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "díszlet"
+      ],
+      "explanation_cs": "A jegyző felírta a „díszlet” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-09",
+      "type": "order",
+      "vocabulary_id": "szerep",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „szerep” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„szerep”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„szerep”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „szerep” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-10",
+      "type": "cloze",
+      "vocabulary_id": "szinesz",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „herec“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "színész",
+        "színésznő",
+        "énekes"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „színész” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-11",
+      "type": "recall",
+      "vocabulary_id": "szineszno",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „herečka“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "színésznő"
+      ],
+      "explanation_cs": "A jegyző felírta a „színésznő” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-12",
+      "type": "order",
+      "vocabulary_id": "enekes",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „énekes” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„énekes”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„énekes”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „énekes” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-13",
+      "type": "cloze",
+      "vocabulary_id": "enekesno",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zpěvačka“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "énekesnő",
+        "karmester",
+        "hegedű"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „énekesnő” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-14",
+      "type": "recall",
+      "vocabulary_id": "karmester",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „dirigent“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "karmester"
+      ],
+      "explanation_cs": "A jegyző felírta a „karmester” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-15",
+      "type": "order",
+      "vocabulary_id": "hegedu",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „hegedű” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„hegedű”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„hegedű”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „hegedű” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-16",
+      "type": "cloze",
+      "vocabulary_id": "zongora",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „klavír“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "zongora",
+        "cselló",
+        "fuvola"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „zongora” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-17",
+      "type": "recall",
+      "vocabulary_id": "csello",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „violoncello“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "cselló"
+      ],
+      "explanation_cs": "A jegyző felírta a „cselló” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-18",
+      "type": "order",
+      "vocabulary_id": "fuvola",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „fuvola” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„fuvola”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„fuvola”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „fuvola” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-19",
+      "type": "cloze",
+      "vocabulary_id": "klarinet",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „klarinet“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "klarinét",
+        "trombita",
+        "nagybőgő"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „klarinét” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-20",
+      "type": "recall",
+      "vocabulary_id": "trombita",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „trubka“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "trombita"
+      ],
+      "explanation_cs": "A jegyző felírta a „trombita” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-21",
+      "type": "order",
+      "vocabulary_id": "nagybogo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „nagybőgő” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„nagybőgő”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„nagybőgő”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „nagybőgő” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-22",
+      "type": "cloze",
+      "vocabulary_id": "kotta",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „notový zápis“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "kotta",
+        "hangjegy",
+        "dallam"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „kotta” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-23",
+      "type": "recall",
+      "vocabulary_id": "hangjegy",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „nota“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "hangjegy"
+      ],
+      "explanation_cs": "A jegyző felírta a „hangjegy” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-24",
+      "type": "order",
+      "vocabulary_id": "dallam",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „dallam” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„dallam”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„dallam”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „dallam” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-25",
+      "type": "cloze",
+      "vocabulary_id": "utem",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „takt“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "ütem",
+        "koncert",
+        "operaház"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „ütem” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-26",
+      "type": "recall",
+      "vocabulary_id": "koncert",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „koncert“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "koncert"
+      ],
+      "explanation_cs": "A jegyző felírta a „koncert” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-27",
+      "type": "order",
+      "vocabulary_id": "operahaz",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „operaház” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„operaház”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„operaház”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „operaház” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-28",
+      "type": "cloze",
+      "vocabulary_id": "balett",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „balet“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "balett",
+        "táncmulatság",
+        "bálterem"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „balett” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-29",
+      "type": "recall",
+      "vocabulary_id": "tancmulatsag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „taneční zábava“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "táncmulatság"
+      ],
+      "explanation_cs": "A jegyző felírta a „táncmulatság” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-30",
+      "type": "order",
+      "vocabulary_id": "balterem",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „bálterem” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„bálterem”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„bálterem”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „bálterem” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-31",
+      "type": "cloze",
+      "vocabulary_id": "tanc",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „tanec“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "tánc",
+        "keringő",
+        "csárdás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „tánc” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-32",
+      "type": "recall",
+      "vocabulary_id": "keringo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „valčík“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "keringő"
+      ],
+      "explanation_cs": "A jegyző felírta a „keringő” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-33",
+      "type": "order",
+      "vocabulary_id": "csardas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „csárdás” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„csárdás”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„csárdás”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „csárdás” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-34",
+      "type": "cloze",
+      "vocabulary_id": "festmeny",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „obraz“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "festmény",
+        "festő",
+        "festőművész"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „festmény” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-35",
+      "type": "recall",
+      "vocabulary_id": "festo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „malíř“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "festő"
+      ],
+      "explanation_cs": "A jegyző felírta a „festő” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-36",
+      "type": "order",
+      "vocabulary_id": "festomuvesz",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „festőművész” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„festőművész”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„festőművész”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „festőművész” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-37",
+      "type": "cloze",
+      "vocabulary_id": "ecset",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „štětec“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "ecset",
+        "vászon",
+        "portré"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „ecset” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-38",
+      "type": "recall",
+      "vocabulary_id": "vaszon",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „plátno“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "vászon"
+      ],
+      "explanation_cs": "A jegyző felírta a „vászon” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-39",
+      "type": "order",
+      "vocabulary_id": "portre",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „portré” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„portré”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„portré”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „portré” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-40",
+      "type": "cloze",
+      "vocabulary_id": "tajkep",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „krajina na obraze“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "tájkép",
+        "szobor",
+        "szobrász"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „tájkép” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-41",
+      "type": "recall",
+      "vocabulary_id": "szobor",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „socha“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "szobor"
+      ],
+      "explanation_cs": "A jegyző felírta a „szobor” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-42",
+      "type": "order",
+      "vocabulary_id": "szobrasz",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „szobrász” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„szobrász”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„szobrász”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „szobrász” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-43",
+      "type": "cloze",
+      "vocabulary_id": "kiallitas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „výstava“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "kiállítás",
+        "tárlat",
+        "költő"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „kiállítás” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-44",
+      "type": "recall",
+      "vocabulary_id": "tarlat",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „expozice“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "tárlat"
+      ],
+      "explanation_cs": "A jegyző felírta a „tárlat” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-45",
+      "type": "order",
+      "vocabulary_id": "kolto",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „költő” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„költő”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„költő”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „költő” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-46",
+      "type": "cloze",
+      "vocabulary_id": "vers",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „báseň“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "vers",
+        "versszak",
+        "költemény"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „vers” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-47",
+      "type": "recall",
+      "vocabulary_id": "versszak",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „sloka“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "versszak"
+      ],
+      "explanation_cs": "A jegyző felírta a „versszak” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-48",
+      "type": "order",
+      "vocabulary_id": "koltemeny",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „költemény” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„költemény”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„költemény”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „költemény” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-49",
+      "type": "cloze",
+      "vocabulary_id": "iro",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „spisovatel“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "író",
+        "regény",
+        "novella"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „író” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-50",
+      "type": "recall",
+      "vocabulary_id": "regeny",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „román“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "regény"
+      ],
+      "explanation_cs": "A jegyző felírta a „regény” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-51",
+      "type": "order",
+      "vocabulary_id": "novella",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „novella” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„novella”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„novella”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „novella” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-52",
+      "type": "cloze",
+      "vocabulary_id": "ujsag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „noviny“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "újság",
+        "napilap",
+        "szerkesztő"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „újság” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-53",
+      "type": "recall",
+      "vocabulary_id": "napilap",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „deník“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "napilap"
+      ],
+      "explanation_cs": "A jegyző felírta a „napilap” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-54",
+      "type": "order",
+      "vocabulary_id": "szerkeszto",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „szerkesztő” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„szerkesztő”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„szerkesztő”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „szerkesztő” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-55",
+      "type": "cloze",
+      "vocabulary_id": "irodalom",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „literatura“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "irodalom",
+        "műkedvelő",
+        "szalon"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „irodalom” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-56",
+      "type": "recall",
+      "vocabulary_id": "mukedvelo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „amatérský umělec“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "műkedvelő"
+      ],
+      "explanation_cs": "A jegyző felírta a „műkedvelő” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-57",
+      "type": "order",
+      "vocabulary_id": "szalon",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „szalon” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„szalon”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„szalon”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „szalon” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-58",
+      "type": "cloze",
+      "vocabulary_id": "paholy",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „lóže“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "páholy",
+        "színlap",
+        "műsorfüzet"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „páholy” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-59",
+      "type": "recall",
+      "vocabulary_id": "szinlap",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „divadelní program“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "színlap"
+      ],
+      "explanation_cs": "A jegyző felírta a „színlap” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-word-60",
+      "type": "order",
+      "vocabulary_id": "musorfuzet",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „műsorfüzet” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„műsorfüzet”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„műsorfüzet”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „műsorfüzet” kifejezést a lapra."
+    },
+    {
+      "id": "salons-and-arts-grammar-01",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „függöny“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „függöny” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „függöny“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "salons-and-arts-grammar-02",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „színész“.",
+      "sentence_hu": "A tanács ______ a „színész” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „színész“."
+    },
+    {
+      "id": "salons-and-arts-grammar-03",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „énekesnő“ ministrovi.",
+      "sentence_hu": "A követ ______ a „énekesnő” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „énekesnő“ ministrovi."
+    },
+    {
+      "id": "salons-and-arts-grammar-04",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „zongora“.",
+      "sentence_hu": "A hivatalnok ______ a „zongora” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „zongora“."
+    },
+    {
+      "id": "salons-and-arts-grammar-05",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „klarinét“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „klarinét” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „klarinét“, odpověděl by."
+    },
+    {
+      "id": "salons-and-arts-grammar-06",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „kotta“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „kotta” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „kotta“, rozhodla by."
+    },
+    {
+      "id": "salons-and-arts-grammar-07",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „ütem“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „ütem” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „ütem“, rada by rozhodla."
+    },
+    {
+      "id": "salons-and-arts-grammar-08",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „balett“!",
+      "sentence_hu": "Kérem, ______ alá a „balett” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „balett“!"
+    },
+    {
+      "id": "salons-and-arts-grammar-09",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „tánc“!",
+      "sentence_hu": "Kérem, olvassa ______ a „tánc” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „tánc“!"
+    },
+    {
+      "id": "salons-and-arts-grammar-10",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „festmény“!",
+      "sentence_hu": "Ne ______ a „festmény” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „festmény“!"
+    },
+    {
+      "id": "salons-and-arts-grammar-11",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „ecset“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „ecset” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „ecset“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "salons-and-arts-grammar-12",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „tájkép“.",
+      "sentence_hu": "A tanács ______ a „tájkép” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „tájkép“."
+    },
+    {
+      "id": "salons-and-arts-grammar-13",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „kiállítás“ ministrovi.",
+      "sentence_hu": "A követ ______ a „kiállítás” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „kiállítás“ ministrovi."
+    },
+    {
+      "id": "salons-and-arts-grammar-14",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „vers“.",
+      "sentence_hu": "A hivatalnok ______ a „vers” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „vers“."
+    },
+    {
+      "id": "salons-and-arts-grammar-15",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „író“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „író” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „író“, odpověděl by."
+    },
+    {
+      "id": "salons-and-arts-grammar-16",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „újság“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „újság” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „újság“, rozhodla by."
+    },
+    {
+      "id": "salons-and-arts-grammar-17",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „irodalom“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „irodalom” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „irodalom“, rada by rozhodla."
+    },
+    {
+      "id": "salons-and-arts-grammar-18",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „páholy“!",
+      "sentence_hu": "Kérem, ______ alá a „páholy” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „páholy“!"
+    },
+    {
+      "id": "salons-and-arts-grammar-19",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „bál“!",
+      "sentence_hu": "Kérem, olvassa ______ a „bál” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „bál“!"
+    },
+    {
+      "id": "salons-and-arts-grammar-20",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „hangverseny“!",
+      "sentence_hu": "Ne ______ a „hangverseny” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „hangverseny“!"
+    },
+    {
+      "id": "salons-and-arts-grammar-21",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „függöny“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „függöny” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „függöny“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "salons-and-arts-grammar-22",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „színész“.",
+      "sentence_hu": "A tanács ______ a „színész” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „színész“."
+    },
+    {
+      "id": "salons-and-arts-grammar-23",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „énekesnő“ ministrovi.",
+      "sentence_hu": "A követ ______ a „énekesnő” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „énekesnő“ ministrovi."
+    },
+    {
+      "id": "salons-and-arts-grammar-24",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „zongora“.",
+      "sentence_hu": "A hivatalnok ______ a „zongora” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „zongora“."
+    },
+    {
+      "id": "salons-and-arts-grammar-25",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „klarinét“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „klarinét” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „klarinét“, odpověděl by."
+    }
+  ],
+  "stories": [
+    {
+      "id": "salons-and-arts-story-01",
+      "title_cs": "Žádost na úřadě · 1",
+      "title_hu": "Kérvény a hivatalban · 1",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "salons-and-arts"
+      ],
+      "curriculum_lesson_id": "salons-and-arts",
+      "new_vocabulary_ids": [
+        "bal",
+        "opera",
+        "zenekar"
+      ],
+      "vocabulary_ids": [
+        "bal",
+        "opera",
+        "zenekar"
+      ],
+      "segments": [
+        {
+          "text": "1914 tavaszán egy polgár kérelmet vitt a hivatalba. A jegyző a lap aljára három kifejezést írt: "
+        },
+        {
+          "text": "bál",
+          "vocabulary_id": "bal"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "opera",
+          "vocabulary_id": "opera"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "zenekar",
+          "vocabulary_id": "zenekar"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "salons-and-arts-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na jaře 1914 přinesl občan žádost na úřad. Písař připsal na konec listu tři výrazy: ples, opera, orchestr."
+    },
+    {
+      "id": "salons-and-arts-story-02",
+      "title_cs": "Před soudním jednáním · 2",
+      "title_hu": "A tárgyalás előtt · 2",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "salons-and-arts"
+      ],
+      "curriculum_lesson_id": "salons-and-arts",
+      "new_vocabulary_ids": [
+        "szinpad",
+        "fuggony",
+        "diszlet"
+      ],
+      "vocabulary_ids": [
+        "szinpad",
+        "fuggony",
+        "diszlet"
+      ],
+      "segments": [
+        {
+          "text": "1914 elején a tanú nyugodtan várta a tárgyalást. A jegyzőkönyvben ezek a szavak szerepeltek: "
+        },
+        {
+          "text": "színpad",
+          "vocabulary_id": "szinpad"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "függöny",
+          "vocabulary_id": "fuggony"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "díszlet",
+          "vocabulary_id": "diszlet"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "salons-and-arts-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na začátku roku 1914 svědek klidně čekal na jednání. V protokolu se objevila tato slova: jeviště, opona, kulisa."
+    },
+    {
+      "id": "salons-and-arts-story-03",
+      "title_cs": "Dopis z ministerstva · 3",
+      "title_hu": "Levél a minisztériumból · 3",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "salons-and-arts"
+      ],
+      "curriculum_lesson_id": "salons-and-arts",
+      "new_vocabulary_ids": [
+        "szineszno",
+        "enekes",
+        "enekesno"
+      ],
+      "vocabulary_ids": [
+        "szineszno",
+        "enekes",
+        "enekesno"
+      ],
+      "segments": [
+        {
+          "text": "1914-ben a követ levelet hozott a minisztériumból; a tanács még aznap megvitatta. A jegyzetbe ezt írták: "
+        },
+        {
+          "text": "színésznő",
+          "vocabulary_id": "szineszno"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "énekes",
+          "vocabulary_id": "enekes"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "énekesnő",
+          "vocabulary_id": "enekesno"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "salons-and-arts-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1914 přinesl vyslanec dopis z ministerstva a rada o něm téhož dne jednala. Do poznámek zapsali: herečka, zpěvák, zpěvačka."
+    },
+    {
+      "id": "salons-and-arts-story-04",
+      "title_cs": "Este a szalonban · 4",
+      "title_hu": "Večer v salonu · 4",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "salons-and-arts"
+      ],
+      "curriculum_lesson_id": "salons-and-arts",
+      "new_vocabulary_ids": [
+        "zongora",
+        "csello",
+        "fuvola"
+      ],
+      "vocabulary_ids": [
+        "zongora",
+        "csello",
+        "fuvola"
+      ],
+      "segments": [
+        {
+          "text": "1914 tavaszán a vendégek a szalonban zenéről és a város jövőjéről beszélgettek. A házigazda feljegyezte: "
+        },
+        {
+          "text": "zongora",
+          "vocabulary_id": "zongora"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "cselló",
+          "vocabulary_id": "csello"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "fuvola",
+          "vocabulary_id": "fuvola"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "salons-and-arts-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na jaře 1914 hovořili hosté v salonu o hudbě a budoucnosti města. Hostitel si poznamenal: klavír, violoncello, flétna."
+    }
+  ]
+}

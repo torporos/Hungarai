@@ -2,6 +2,7 @@ import { readdir, readFile, writeFile } from 'node:fs/promises'
 import { resolve, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { validateContent } from '../src/lib/content-validation.js'
+import { analyzeTargets, assertTargetsSatisfied } from './content-targets.js'
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const collectionNames = ['vocabulary', 'grammar', 'exercises', 'stories']
@@ -40,7 +41,7 @@ export function compileContent(packs) {
   return validateContent(content)
 }
 
-async function readPacks(sourceDirectory) {
+export async function readContentPacks(sourceDirectory = resolve(root, 'content', 'packs')) {
   const filenames = (await readdir(sourceDirectory))
     .filter((filename) => filename.toLowerCase().endsWith('.json'))
     .sort()
@@ -81,8 +82,27 @@ async function matchesExisting(path, items, preserveOrder = false) {
 export async function buildContent({
   sourceDirectory = resolve(root, 'content', 'packs'),
   outputDirectory = resolve(root, 'src', 'data'),
+  throughQuarter,
 } = {}) {
-  const content = compileContent(await readPacks(sourceDirectory))
+  const allPacks = await readContentPacks(sourceDirectory)
+  const targets = JSON.parse(await readFile(resolve(root, 'content', 'targets.json'), 'utf8'))
+  const quarterIds = targets.quarters.map(({ id }) => id)
+  if (allPacks.some((pack) => !quarterIds.includes(pack.quarter))) {
+    throw new Error('Every lesson pack must belong to a configured quarter.')
+  }
+
+  let requiredQuarterIds = quarterIds
+  let packs = allPacks
+  if (throughQuarter !== undefined) {
+    const throughIndex = quarterIds.indexOf(throughQuarter)
+    if (throughIndex < 0) throw new Error(`Unknown export quarter "${throughQuarter}".`)
+    requiredQuarterIds = quarterIds.slice(0, throughIndex + 1)
+    const included = new Set(requiredQuarterIds)
+    packs = allPacks.filter((pack) => included.has(pack.quarter))
+  }
+
+  const content = compileContent(packs)
+  assertTargetsSatisfied(analyzeTargets(content, packs, targets), requiredQuarterIds)
 
   await Promise.all(contentNames.map(async (name) => {
     const path = resolve(outputDirectory, `${name}.json`)
@@ -94,7 +114,16 @@ export async function buildContent({
 }
 
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
-  buildContent()
+  const args = process.argv.slice(2)
+  let options = {}
+  if (args.length > 0) {
+    if (args.length !== 2 || args[0] !== '--through-quarter') {
+      throw new Error('Usage: node scripts/build-content.js [--through-quarter qN]')
+    }
+    options = { throughQuarter: args[1] }
+  }
+
+  buildContent(options)
     .then((counts) => {
       console.log(`Validated and generated content: ${Object.entries(counts).map(([name, count]) => `${name}=${count}`).join(', ')}`)
     })

@@ -1,7 +1,7 @@
 {
-  "order": 15,
+  "order": 8,
   "lesson": {
-    "id": "q1-uniforma",
+    "id": "uniforma",
     "theme_id": "q1-novacek-kasarny",
     "theme_title_cs": "Q1 · Nováček v kasárnách",
     "module_number": 2,
@@ -12,7 +12,7 @@
     "duration_min": 8,
     "xp_required": 700,
     "prerequisite_lesson_ids": [
-      "q1-hodnosti"
+      "hodnosti"
     ],
     "vocabulary_ids": [
       "csako",
@@ -73,7 +73,7 @@
           "form_hu": "csákók",
           "translation_cs": "čákó (množné číslo)",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-uniforma"
+          "lesson_id": "uniforma"
         }
       ],
       "morphemes": [
@@ -102,7 +102,7 @@
           "form_hu": "zubbonyok",
           "translation_cs": "vojenské blůzy",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-uniforma"
+          "lesson_id": "uniforma"
         }
       ],
       "morphemes": [
@@ -131,7 +131,7 @@
           "form_hu": "csizmák",
           "translation_cs": "vysoké boty",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-uniforma"
+          "lesson_id": "uniforma"
         }
       ],
       "morphemes": [
@@ -160,7 +160,7 @@
           "form_hu": "nadrágok",
           "translation_cs": "kalhoty (množné číslo)",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-uniforma"
+          "lesson_id": "uniforma"
         }
       ],
       "morphemes": [
@@ -189,7 +189,7 @@
           "form_hu": "ingek",
           "translation_cs": "košile (množné číslo)",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-uniforma"
+          "lesson_id": "uniforma"
         }
       ],
       "morphemes": [
@@ -218,7 +218,7 @@
           "form_hu": "köpenyek",
           "translation_cs": "pláště",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-uniforma"
+          "lesson_id": "uniforma"
         }
       ],
       "morphemes": [
@@ -247,7 +247,7 @@
           "form_hu": "övek",
           "translation_cs": "opasky",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-uniforma"
+          "lesson_id": "uniforma"
         }
       ],
       "morphemes": [
@@ -276,7 +276,7 @@
           "form_hu": "gallérok",
           "translation_cs": "límce",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-uniforma"
+          "lesson_id": "uniforma"
         }
       ],
       "morphemes": [
@@ -305,7 +305,7 @@
           "form_hu": "gombok",
           "translation_cs": "knoflíky",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-uniforma"
+          "lesson_id": "uniforma"
         }
       ],
       "morphemes": [
@@ -334,7 +334,7 @@
           "form_hu": "váll-lapok",
           "translation_cs": "nárameníky",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-uniforma"
+          "lesson_id": "uniforma"
         }
       ],
       "morphemes": [
@@ -387,6 +387,10 @@
       "notes_cs": [
         "Po zadních samohláskách bývá vkládací samohláska -o/-a; po předních často -e/-ö.",
         "Jednotlivé tvary se mohou lišit, například csizma → csizmák; množné číslo se proto procvičuje spolu se slovem."
+      ],
+      "tags": [
+        "q1",
+        "plural_formation"
       ]
     }
   ],
@@ -608,9 +612,9 @@
       "level": "Q1 · UHER PŘED ROKEM 1914",
       "reading_time_min": 2,
       "prerequisite_lesson_ids": [
-        "q1-uniforma"
+        "uniforma"
       ],
-      "curriculum_lesson_id": "q1-uniforma",
+      "curriculum_lesson_id": "uniforma",
       "new_vocabulary_ids": [
         "csako",
         "zubbony",
@@ -756,5 +760,6 @@
       ],
       "translation_cs": "Ráno je voják v kasárnách. Čákó je na stole. Blůza je na židli. Košile je v truhle. Kalhoty jsou na posteli. Vysoká bota je v pokoji. Plášť je na židli. Opasek je na stole. Límec je na blůze. Knoflík je na blůze. Nárameník je také na blůze. Voják si obléká uniformu."
     }
-  ]
+  ],
+  "quarter": "q1"
 }

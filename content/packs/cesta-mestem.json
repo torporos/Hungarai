@@ -1,5 +1,5 @@
 {
-  "order": 3,
+  "order": 20,
   "lesson": {
     "id": "cesta-mestem",
     "theme_id": "cestovani",
@@ -12,7 +12,7 @@
     "duration_min": 10,
     "xp_required": 100,
     "prerequisite_lesson_ids": [
-      "zvuk-a-vyznam"
+      "tulajdonsagok"
     ],
     "vocabulary_ids": [
       "varos",
@@ -94,7 +94,11 @@
         }
       ],
       "example_hu": "A város nagy.",
-      "example_cs": "Město je velké."
+      "example_cs": "Město je velké.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "utca",
@@ -123,7 +127,11 @@
         }
       ],
       "example_hu": "Az utca hosszú.",
-      "example_cs": "Ulice je dlouhá."
+      "example_cs": "Ulice je dlouhá.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "allomas",
@@ -139,7 +147,11 @@
         }
       ],
       "example_hu": "Az állomás itt van.",
-      "example_cs": "Nádraží je tady."
+      "example_cs": "Nádraží je tady.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "vonat",
@@ -155,7 +167,11 @@
         }
       ],
       "example_hu": "A vonat indul.",
-      "example_cs": "Vlak odjíždí."
+      "example_cs": "Vlak odjíždí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "jegy",
@@ -184,7 +200,11 @@
         }
       ],
       "example_hu": "Kérek egy jegyet.",
-      "example_cs": "Prosím si jízdenku."
+      "example_cs": "Prosím si jízdenku.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
     },
     {
       "id": "balra",
@@ -200,7 +220,11 @@
         }
       ],
       "example_hu": "Forduljon balra.",
-      "example_cs": "Zahněte doleva."
+      "example_cs": "Zahněte doleva.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
     },
     {
       "id": "jobbra",
@@ -216,7 +240,11 @@
         }
       ],
       "example_hu": "Forduljon jobbra.",
-      "example_cs": "Zahněte doprava."
+      "example_cs": "Zahněte doprava.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
     },
     {
       "id": "egyenesen",
@@ -232,7 +260,11 @@
         }
       ],
       "example_hu": "Menjen egyenesen.",
-      "example_cs": "Jeďte rovně."
+      "example_cs": "Jeďte rovně.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
     },
     {
       "id": "megy",
@@ -248,7 +280,11 @@
         }
       ],
       "example_hu": "A vonat a városba megy.",
-      "example_cs": "Vlak jede do města."
+      "example_cs": "Vlak jede do města.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
     },
     {
       "id": "hova",
@@ -264,7 +300,11 @@
         }
       ],
       "example_hu": "Hová megy a vonat?",
-      "example_cs": "Kam jede vlak?"
+      "example_cs": "Kam jede vlak?",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
     }
   ],
   "grammar": [
@@ -307,6 +347,9 @@
       "notes_cs": [
         "Porovnejte: a házban = v domě, ale a házba = do domu.",
         "Po slovesech pohybu se často používá tvar vyjadřující směr."
+      ],
+      "tags": [
+        "q2"
       ]
     },
     {
@@ -338,6 +381,9 @@
       "notes_cs": [
         "Hová se ptá na směr; hol se ptá na místo, kde se něco nachází.",
         "U podmětu ve 3. osobě jednotného čísla použijte megy."
+      ],
+      "tags": [
+        "q2"
       ]
     }
   ],
@@ -542,5 +588,6 @@
       "explanation_cs": "Balra znamená doleva a jobbra doprava."
     }
   ],
-  "stories": []
+  "stories": [],
+  "quarter": "q2"
 }

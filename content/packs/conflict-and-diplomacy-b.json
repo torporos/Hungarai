@@ -1,0 +1,2485 @@
+{
+  "order": 45,
+  "quarter": "q4",
+  "lesson": {
+    "id": "conflict-and-diplomacy-b",
+    "theme_id": "q4-society-1914",
+    "theme_title_cs": "Q4 · Společnost před rozpadem",
+    "module_number": 4,
+    "module_title_cs": "Úřady, názory a nejistota roku 1914",
+    "title_cs": "Diplomacie a napětí II",
+    "description": "Společnost, úřady, kultura a nejistota v roce 1914; vyprávění nepřekračuje stanovený historický řez.",
+    "level": "Q4 · SPOLEČNOST V ROCE 1914",
+    "duration_min": 22,
+    "xp_required": 2600,
+    "prerequisite_lesson_ids": [
+      "conflict-and-diplomacy-a"
+    ],
+    "vocabulary_ids": [
+      "aldozat",
+      "pusztitas",
+      "rombolas",
+      "rom",
+      "kar",
+      "karokozas",
+      "cenzura",
+      "sajtoszabadsag",
+      "ropirat",
+      "sajtokozlemeny",
+      "titok",
+      "titkositas",
+      "huseg",
+      "arulo",
+      "merenylo",
+      "osszeeskuvo",
+      "katonaiparancs",
+      "katonaitabor",
+      "sorozas",
+      "bevonulas",
+      "hadsereg",
+      "katonaimozgositas",
+      "besorozas",
+      "hadkotelezettseg",
+      "hadkoteles",
+      "szembenallas",
+      "viszalykodas",
+      "bekekotes",
+      "titkosszovetseg",
+      "tamado",
+      "vedelmezo",
+      "onvedelem",
+      "tamadasiterv",
+      "vedelmivonal",
+      "hatarorseg",
+      "politikaigyilkossag",
+      "allamkozivita",
+      "megegyezes",
+      "hadikeszultseg",
+      "fenyegetolevel"
+    ],
+    "new_vocabulary_ids": [
+      "aldozat",
+      "pusztitas",
+      "rombolas",
+      "rom",
+      "kar",
+      "karokozas",
+      "cenzura",
+      "sajtoszabadsag",
+      "ropirat",
+      "sajtokozlemeny",
+      "titok",
+      "titkositas",
+      "huseg",
+      "arulo",
+      "merenylo",
+      "osszeeskuvo",
+      "katonaiparancs",
+      "katonaitabor",
+      "sorozas",
+      "bevonulas",
+      "hadsereg",
+      "katonaimozgositas",
+      "besorozas",
+      "hadkotelezettseg",
+      "hadkoteles",
+      "szembenallas",
+      "viszalykodas",
+      "bekekotes",
+      "titkosszovetseg",
+      "tamado",
+      "vedelmezo",
+      "onvedelem",
+      "tamadasiterv",
+      "vedelmivonal",
+      "hatarorseg",
+      "politikaigyilkossag",
+      "allamkozivita",
+      "megegyezes",
+      "hadikeszultseg",
+      "fenyegetolevel"
+    ],
+    "grammar_ids": [
+      "q4-conditional-mood",
+      "q4-imperative-mood",
+      "q4-verbal-prefixes"
+    ],
+    "grammar_label_cs": "Podmiňovací způsob · rozkazy · slovesné předpony",
+    "exercise_ids": [
+      "conflict-and-diplomacy-b-word-01",
+      "conflict-and-diplomacy-b-word-02",
+      "conflict-and-diplomacy-b-word-03",
+      "conflict-and-diplomacy-b-word-04",
+      "conflict-and-diplomacy-b-word-05",
+      "conflict-and-diplomacy-b-word-06",
+      "conflict-and-diplomacy-b-word-07",
+      "conflict-and-diplomacy-b-word-08",
+      "conflict-and-diplomacy-b-word-09",
+      "conflict-and-diplomacy-b-word-10",
+      "conflict-and-diplomacy-b-word-11",
+      "conflict-and-diplomacy-b-word-12",
+      "conflict-and-diplomacy-b-word-13",
+      "conflict-and-diplomacy-b-word-14",
+      "conflict-and-diplomacy-b-word-15",
+      "conflict-and-diplomacy-b-word-16",
+      "conflict-and-diplomacy-b-word-17",
+      "conflict-and-diplomacy-b-word-18",
+      "conflict-and-diplomacy-b-word-19",
+      "conflict-and-diplomacy-b-word-20",
+      "conflict-and-diplomacy-b-word-21",
+      "conflict-and-diplomacy-b-word-22",
+      "conflict-and-diplomacy-b-word-23",
+      "conflict-and-diplomacy-b-word-24",
+      "conflict-and-diplomacy-b-word-25",
+      "conflict-and-diplomacy-b-word-26",
+      "conflict-and-diplomacy-b-word-27",
+      "conflict-and-diplomacy-b-word-28",
+      "conflict-and-diplomacy-b-word-29",
+      "conflict-and-diplomacy-b-word-30",
+      "conflict-and-diplomacy-b-word-31",
+      "conflict-and-diplomacy-b-word-32",
+      "conflict-and-diplomacy-b-word-33",
+      "conflict-and-diplomacy-b-word-34",
+      "conflict-and-diplomacy-b-word-35",
+      "conflict-and-diplomacy-b-word-36",
+      "conflict-and-diplomacy-b-word-37",
+      "conflict-and-diplomacy-b-word-38",
+      "conflict-and-diplomacy-b-word-39",
+      "conflict-and-diplomacy-b-word-40",
+      "conflict-and-diplomacy-b-grammar-01",
+      "conflict-and-diplomacy-b-grammar-02",
+      "conflict-and-diplomacy-b-grammar-03",
+      "conflict-and-diplomacy-b-grammar-04",
+      "conflict-and-diplomacy-b-grammar-05",
+      "conflict-and-diplomacy-b-grammar-06",
+      "conflict-and-diplomacy-b-grammar-07",
+      "conflict-and-diplomacy-b-grammar-08",
+      "conflict-and-diplomacy-b-grammar-09",
+      "conflict-and-diplomacy-b-grammar-10",
+      "conflict-and-diplomacy-b-grammar-11",
+      "conflict-and-diplomacy-b-grammar-12",
+      "conflict-and-diplomacy-b-grammar-13",
+      "conflict-and-diplomacy-b-grammar-14",
+      "conflict-and-diplomacy-b-grammar-15",
+      "conflict-and-diplomacy-b-grammar-16",
+      "conflict-and-diplomacy-b-grammar-17",
+      "conflict-and-diplomacy-b-grammar-18",
+      "conflict-and-diplomacy-b-grammar-19",
+      "conflict-and-diplomacy-b-grammar-20",
+      "conflict-and-diplomacy-b-grammar-21",
+      "conflict-and-diplomacy-b-grammar-22",
+      "conflict-and-diplomacy-b-grammar-23",
+      "conflict-and-diplomacy-b-grammar-24",
+      "conflict-and-diplomacy-b-grammar-25"
+    ],
+    "story_ids": [
+      "conflict-and-diplomacy-b-story-01",
+      "conflict-and-diplomacy-b-story-02",
+      "conflict-and-diplomacy-b-story-03",
+      "conflict-and-diplomacy-b-story-04",
+      "conflict-and-diplomacy-b-story-05"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "aldozat",
+      "word": "áldozat",
+      "translation_cs": "oběť",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "áldozat",
+          "translation_cs": "oběť",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „áldozat” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „oběť“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "pusztitas",
+      "word": "pusztítás",
+      "translation_cs": "zkáza",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "pusztítás",
+          "translation_cs": "zkáza",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „pusztítás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „zkáza“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "rombolas",
+      "word": "rombolás",
+      "translation_cs": "ničení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rombolás",
+          "translation_cs": "ničení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „rombolás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „ničení“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "rom",
+      "word": "rom",
+      "translation_cs": "zřícenina",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rom",
+          "translation_cs": "zřícenina",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „rom” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „zřícenina“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "kar",
+      "word": "kár",
+      "translation_cs": "škoda",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kár",
+          "translation_cs": "škoda",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „kár” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „škoda“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "karokozas",
+      "word": "károkozás",
+      "translation_cs": "způsobení škody",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "károkozás",
+          "translation_cs": "způsobení škody",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „károkozás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „způsobení škody“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "cenzura",
+      "word": "cenzúra",
+      "translation_cs": "cenzura",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "cenzúra",
+          "translation_cs": "cenzura",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „cenzúra” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „cenzura“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "sajtoszabadsag",
+      "word": "sajtószabadság",
+      "translation_cs": "svoboda tisku",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sajtószabadság",
+          "translation_cs": "svoboda tisku",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „sajtószabadság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „svoboda tisku“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "ropirat",
+      "word": "röpirat",
+      "translation_cs": "leták",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "röpirat",
+          "translation_cs": "leták",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „röpirat” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „leták“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "sajtokozlemeny",
+      "word": "sajtóközlemény",
+      "translation_cs": "tiskové oznámení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sajtóközlemény",
+          "translation_cs": "tiskové oznámení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „sajtóközlemény” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „tiskové oznámení“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "titok",
+      "word": "titok",
+      "translation_cs": "tajemství",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "titok",
+          "translation_cs": "tajemství",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „titok” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „tajemství“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "titkositas",
+      "word": "titkosítás",
+      "translation_cs": "utajení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "titkosítás",
+          "translation_cs": "utajení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „titkosítás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „utajení“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "huseg",
+      "word": "hűség",
+      "translation_cs": "věrnost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hűség",
+          "translation_cs": "věrnost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hűség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „věrnost“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "arulo",
+      "word": "áruló",
+      "translation_cs": "zrádce",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "áruló",
+          "translation_cs": "zrádce",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „áruló” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „zrádce“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "merenylo",
+      "word": "merénylő",
+      "translation_cs": "atentátník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "merénylő",
+          "translation_cs": "atentátník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „merénylő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „atentátník“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "osszeeskuvo",
+      "word": "összeesküvő",
+      "translation_cs": "spiklenec",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "összeesküvő",
+          "translation_cs": "spiklenec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „összeesküvő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „spiklenec“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "katonaiparancs",
+      "word": "katonai parancs",
+      "translation_cs": "vojenský rozkaz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "katonai parancs",
+          "translation_cs": "vojenský rozkaz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „katonai parancs” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „vojenský rozkaz“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "katonaitabor",
+      "word": "katonai tábor",
+      "translation_cs": "vojenský tábor",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "katonai tábor",
+          "translation_cs": "vojenský tábor",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „katonai tábor” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „vojenský tábor“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "sorozas",
+      "word": "sorozás",
+      "translation_cs": "odvod",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sorozás",
+          "translation_cs": "odvod",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „sorozás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „odvod“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "bevonulas",
+      "word": "bevonulás",
+      "translation_cs": "nastoupení do služby",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bevonulás",
+          "translation_cs": "nastoupení do služby",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „bevonulás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „nastoupení do služby“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "hadsereg",
+      "word": "hadsereg",
+      "translation_cs": "armáda",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hadsereg",
+          "translation_cs": "armáda",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hadsereg” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „armáda“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "katonaimozgositas",
+      "word": "katonai mozgósítás",
+      "translation_cs": "vojenská mobilizace",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "katonai mozgósítás",
+          "translation_cs": "vojenská mobilizace",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „katonai mozgósítás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „vojenská mobilizace“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "besorozas",
+      "word": "besorozás",
+      "translation_cs": "odvedení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "besorozás",
+          "translation_cs": "odvedení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „besorozás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „odvedení“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "hadkotelezettseg",
+      "word": "hadkötelezettség",
+      "translation_cs": "branná povinnost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hadkötelezettség",
+          "translation_cs": "branná povinnost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hadkötelezettség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „branná povinnost“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "hadkoteles",
+      "word": "hadköteles",
+      "translation_cs": "odvedenec",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hadköteles",
+          "translation_cs": "odvedenec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hadköteles” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „odvedenec“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "szembenallas",
+      "word": "szembenállás",
+      "translation_cs": "protivnictví",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szembenállás",
+          "translation_cs": "protivnictví",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „szembenállás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „protivnictví“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "viszalykodas",
+      "word": "viszálykodás",
+      "translation_cs": "sváření",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "viszálykodás",
+          "translation_cs": "sváření",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „viszálykodás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „sváření“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "bekekotes",
+      "word": "békekötés",
+      "translation_cs": "uzavření míru",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "békekötés",
+          "translation_cs": "uzavření míru",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „békekötés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „uzavření míru“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "titkosszovetseg",
+      "word": "titkos szövetség",
+      "translation_cs": "tajné spojenectví",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "titkos szövetség",
+          "translation_cs": "tajné spojenectví",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „titkos szövetség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „tajné spojenectví“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "tamado",
+      "word": "támadó",
+      "translation_cs": "útočník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "támadó",
+          "translation_cs": "útočník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „támadó” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „útočník“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "vedelmezo",
+      "word": "védelmező",
+      "translation_cs": "obránce",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "védelmező",
+          "translation_cs": "obránce",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „védelmező” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „obránce“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "onvedelem",
+      "word": "önvédelem",
+      "translation_cs": "sebeobrana",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "önvédelem",
+          "translation_cs": "sebeobrana",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „önvédelem” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „sebeobrana“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "tamadasiterv",
+      "word": "támadási terv",
+      "translation_cs": "plán útoku",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "támadási terv",
+          "translation_cs": "plán útoku",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „támadási terv” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „plán útoku“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "vedelmivonal",
+      "word": "védelmi vonal",
+      "translation_cs": "obranná linie",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "védelmi vonal",
+          "translation_cs": "obranná linie",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „védelmi vonal” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „obranná linie“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "hatarorseg",
+      "word": "határőrség",
+      "translation_cs": "pohraniční stráž",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "határőrség",
+          "translation_cs": "pohraniční stráž",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „határőrség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „pohraniční stráž“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "politikaigyilkossag",
+      "word": "politikai gyilkosság",
+      "translation_cs": "politická vražda",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "politikai gyilkosság",
+          "translation_cs": "politická vražda",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „politikai gyilkosság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „politická vražda“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "allamkozivita",
+      "word": "államközi vita",
+      "translation_cs": "mezistátní spor",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "államközi vita",
+          "translation_cs": "mezistátní spor",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „államközi vita” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „mezistátní spor“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "megegyezes",
+      "word": "megegyezés",
+      "translation_cs": "dohoda",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megegyezés",
+          "translation_cs": "dohoda",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „megegyezés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „dohoda“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "hadikeszultseg",
+      "word": "hadikészültség",
+      "translation_cs": "válečná pohotovost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hadikészültség",
+          "translation_cs": "válečná pohotovost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hadikészültség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „válečná pohotovost“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    },
+    {
+      "id": "fenyegetolevel",
+      "word": "fenyegető levél",
+      "translation_cs": "výhrůžný dopis",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fenyegető levél",
+          "translation_cs": "výhrůžný dopis",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „fenyegető levél” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „výhrůžný dopis“.",
+      "tags": [
+        "q4",
+        "abstract_conflict"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "conflict-and-diplomacy-b-word-01",
+      "type": "cloze",
+      "vocabulary_id": "aldozat",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „oběť“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "áldozat",
+        "pusztítás",
+        "rombolás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „áldozat” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-02",
+      "type": "recall",
+      "vocabulary_id": "pusztitas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zkáza“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "pusztítás"
+      ],
+      "explanation_cs": "A jegyző felírta a „pusztítás” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-03",
+      "type": "order",
+      "vocabulary_id": "rombolas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „rombolás” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„rombolás”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„rombolás”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „rombolás” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-04",
+      "type": "cloze",
+      "vocabulary_id": "rom",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zřícenina“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "rom",
+        "kár",
+        "károkozás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „rom” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-05",
+      "type": "recall",
+      "vocabulary_id": "kar",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „škoda“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "kár"
+      ],
+      "explanation_cs": "A jegyző felírta a „kár” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-06",
+      "type": "order",
+      "vocabulary_id": "karokozas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „károkozás” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„károkozás”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„károkozás”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „károkozás” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-07",
+      "type": "cloze",
+      "vocabulary_id": "cenzura",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „cenzura“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "cenzúra",
+        "sajtószabadság",
+        "röpirat"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „cenzúra” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-08",
+      "type": "recall",
+      "vocabulary_id": "sajtoszabadsag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „svoboda tisku“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "sajtószabadság"
+      ],
+      "explanation_cs": "A jegyző felírta a „sajtószabadság” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-09",
+      "type": "order",
+      "vocabulary_id": "ropirat",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „röpirat” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„röpirat”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„röpirat”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „röpirat” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-10",
+      "type": "cloze",
+      "vocabulary_id": "sajtokozlemeny",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „tiskové oznámení“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "sajtóközlemény",
+        "titok",
+        "titkosítás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „sajtóközlemény” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-11",
+      "type": "recall",
+      "vocabulary_id": "titok",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „tajemství“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "titok"
+      ],
+      "explanation_cs": "A jegyző felírta a „titok” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-12",
+      "type": "order",
+      "vocabulary_id": "titkositas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „titkosítás” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„titkosítás”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„titkosítás”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „titkosítás” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-13",
+      "type": "cloze",
+      "vocabulary_id": "huseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „věrnost“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "hűség",
+        "áruló",
+        "merénylő"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „hűség” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-14",
+      "type": "recall",
+      "vocabulary_id": "arulo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zrádce“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "áruló"
+      ],
+      "explanation_cs": "A jegyző felírta a „áruló” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-15",
+      "type": "order",
+      "vocabulary_id": "merenylo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „merénylő” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„merénylő”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„merénylő”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „merénylő” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-16",
+      "type": "cloze",
+      "vocabulary_id": "osszeeskuvo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „spiklenec“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "összeesküvő",
+        "katonai parancs",
+        "katonai tábor"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „összeesküvő” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-17",
+      "type": "recall",
+      "vocabulary_id": "katonaiparancs",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „vojenský rozkaz“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "katonai parancs"
+      ],
+      "explanation_cs": "A jegyző felírta a „katonai parancs” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-18",
+      "type": "order",
+      "vocabulary_id": "katonaitabor",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „katonai tábor” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "tábor”",
+        "„katonai",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„katonai",
+          "tábor”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „katonai tábor” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-19",
+      "type": "cloze",
+      "vocabulary_id": "sorozas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „odvod“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "sorozás",
+        "bevonulás",
+        "hadsereg"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „sorozás” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-20",
+      "type": "recall",
+      "vocabulary_id": "bevonulas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „nastoupení do služby“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "bevonulás"
+      ],
+      "explanation_cs": "A jegyző felírta a „bevonulás” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-21",
+      "type": "order",
+      "vocabulary_id": "hadsereg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „hadsereg” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„hadsereg”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„hadsereg”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „hadsereg” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-22",
+      "type": "cloze",
+      "vocabulary_id": "katonaimozgositas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „vojenská mobilizace“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "katonai mozgósítás",
+        "besorozás",
+        "hadkötelezettség"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „katonai mozgósítás” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-23",
+      "type": "recall",
+      "vocabulary_id": "besorozas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „odvedení“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "besorozás"
+      ],
+      "explanation_cs": "A jegyző felírta a „besorozás” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-24",
+      "type": "order",
+      "vocabulary_id": "hadkotelezettseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „hadkötelezettség” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„hadkötelezettség”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„hadkötelezettség”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „hadkötelezettség” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-25",
+      "type": "cloze",
+      "vocabulary_id": "hadkoteles",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „odvedenec“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "hadköteles",
+        "szembenállás",
+        "viszálykodás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „hadköteles” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-26",
+      "type": "recall",
+      "vocabulary_id": "szembenallas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „protivnictví“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "szembenállás"
+      ],
+      "explanation_cs": "A jegyző felírta a „szembenállás” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-27",
+      "type": "order",
+      "vocabulary_id": "viszalykodas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „viszálykodás” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„viszálykodás”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„viszálykodás”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „viszálykodás” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-28",
+      "type": "cloze",
+      "vocabulary_id": "bekekotes",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „uzavření míru“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "békekötés",
+        "titkos szövetség",
+        "támadó"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „békekötés” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-29",
+      "type": "recall",
+      "vocabulary_id": "titkosszovetseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „tajné spojenectví“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "titkos szövetség"
+      ],
+      "explanation_cs": "A jegyző felírta a „titkos szövetség” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-30",
+      "type": "order",
+      "vocabulary_id": "tamado",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „támadó” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„támadó”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„támadó”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „támadó” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-31",
+      "type": "cloze",
+      "vocabulary_id": "vedelmezo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „obránce“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "védelmező",
+        "önvédelem",
+        "támadási terv"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „védelmező” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-32",
+      "type": "recall",
+      "vocabulary_id": "onvedelem",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „sebeobrana“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "önvédelem"
+      ],
+      "explanation_cs": "A jegyző felírta a „önvédelem” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-33",
+      "type": "order",
+      "vocabulary_id": "tamadasiterv",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „támadási terv” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "terv”",
+        "„támadási",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„támadási",
+          "terv”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „támadási terv” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-34",
+      "type": "cloze",
+      "vocabulary_id": "vedelmivonal",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „obranná linie“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "védelmi vonal",
+        "határőrség",
+        "politikai gyilkosság"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „védelmi vonal” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-35",
+      "type": "recall",
+      "vocabulary_id": "hatarorseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „pohraniční stráž“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "határőrség"
+      ],
+      "explanation_cs": "A jegyző felírta a „határőrség” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-36",
+      "type": "order",
+      "vocabulary_id": "politikaigyilkossag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „politikai gyilkosság” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "gyilkosság”",
+        "„politikai",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„politikai",
+          "gyilkosság”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „politikai gyilkosság” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-37",
+      "type": "cloze",
+      "vocabulary_id": "allamkozivita",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „mezistátní spor“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "államközi vita",
+        "megegyezés",
+        "hadikészültség"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „államközi vita” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-38",
+      "type": "recall",
+      "vocabulary_id": "megegyezes",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „dohoda“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "megegyezés"
+      ],
+      "explanation_cs": "A jegyző felírta a „megegyezés” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-39",
+      "type": "order",
+      "vocabulary_id": "hadikeszultseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „hadikészültség” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„hadikészültség”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„hadikészültség”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „hadikészültség” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-word-40",
+      "type": "cloze",
+      "vocabulary_id": "fenyegetolevel",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „výhrůžný dopis“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "fenyegető levél",
+        "áldozat",
+        "pusztítás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „fenyegető levél” kifejezést a lapra."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-01",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „rom“!",
+      "sentence_hu": "Kérem, ______ alá a „rom” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „rom“!"
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-02",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „cenzúra“!",
+      "sentence_hu": "Kérem, olvassa ______ a „cenzúra” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „cenzúra“!"
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-03",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „sajtóközlemény“!",
+      "sentence_hu": "Ne ______ a „sajtóközlemény” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „sajtóközlemény“!"
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-04",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „hűség“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „hűség” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „hűség“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-05",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „összeesküvő“.",
+      "sentence_hu": "A tanács ______ a „összeesküvő” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „összeesküvő“."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-06",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „sorozás“ ministrovi.",
+      "sentence_hu": "A követ ______ a „sorozás” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „sorozás“ ministrovi."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-07",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „katonai mozgósítás“.",
+      "sentence_hu": "A hivatalnok ______ a „katonai mozgósítás” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „katonai mozgósítás“."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-08",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „hadköteles“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „hadköteles” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „hadköteles“, odpověděl by."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-09",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „békekötés“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „békekötés” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „békekötés“, rozhodla by."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-10",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „védelmező“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „védelmező” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „védelmező“, rada by rozhodla."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-11",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „védelmi vonal“!",
+      "sentence_hu": "Kérem, ______ alá a „védelmi vonal” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „védelmi vonal“!"
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-12",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „államközi vita“!",
+      "sentence_hu": "Kérem, olvassa ______ a „államközi vita” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „államközi vita“!"
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-13",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „fenyegető levél“!",
+      "sentence_hu": "Ne ______ a „fenyegető levél” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „fenyegető levél“!"
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-14",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „rombolás“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „rombolás” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „rombolás“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-15",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „károkozás“.",
+      "sentence_hu": "A tanács ______ a „károkozás” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „károkozás“."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-16",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „röpirat“ ministrovi.",
+      "sentence_hu": "A követ ______ a „röpirat” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „röpirat“ ministrovi."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-17",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „titkosítás“.",
+      "sentence_hu": "A hivatalnok ______ a „titkosítás” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „titkosítás“."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-18",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „merénylő“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „merénylő” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „merénylő“, odpověděl by."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-19",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „katonai tábor“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „katonai tábor” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „katonai tábor“, rozhodla by."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-20",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „hadsereg“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „hadsereg” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „hadsereg“, rada by rozhodla."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-21",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „hadkötelezettség“!",
+      "sentence_hu": "Kérem, ______ alá a „hadkötelezettség” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „hadkötelezettség“!"
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-22",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „viszálykodás“!",
+      "sentence_hu": "Kérem, olvassa ______ a „viszálykodás” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „viszálykodás“!"
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-23",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „támadó“!",
+      "sentence_hu": "Ne ______ a „támadó” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „támadó“!"
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-24",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „támadási terv“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „támadási terv” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „támadási terv“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-grammar-25",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „politikai gyilkosság“.",
+      "sentence_hu": "A tanács ______ a „politikai gyilkosság” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „politikai gyilkosság“."
+    }
+  ],
+  "stories": [
+    {
+      "id": "conflict-and-diplomacy-b-story-01",
+      "title_cs": "Žádost na úřadě · 1",
+      "title_hu": "Kérvény a hivatalban · 1",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "conflict-and-diplomacy-b"
+      ],
+      "curriculum_lesson_id": "conflict-and-diplomacy-b",
+      "new_vocabulary_ids": [
+        "aldozat",
+        "pusztitas",
+        "rombolas"
+      ],
+      "vocabulary_ids": [
+        "aldozat",
+        "pusztitas",
+        "rombolas"
+      ],
+      "segments": [
+        {
+          "text": "1914 tavaszán egy polgár kérelmet vitt a hivatalba. A jegyző a lap aljára három kifejezést írt: "
+        },
+        {
+          "text": "áldozat",
+          "vocabulary_id": "aldozat"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "pusztítás",
+          "vocabulary_id": "pusztitas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "rombolás",
+          "vocabulary_id": "rombolas"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "conflict-and-diplomacy-b-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na jaře 1914 přinesl občan žádost na úřad. Písař připsal na konec listu tři výrazy: oběť, zkáza, ničení."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-story-02",
+      "title_cs": "Před soudním jednáním · 2",
+      "title_hu": "A tárgyalás előtt · 2",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "conflict-and-diplomacy-b"
+      ],
+      "curriculum_lesson_id": "conflict-and-diplomacy-b",
+      "new_vocabulary_ids": [
+        "karokozas",
+        "cenzura",
+        "sajtoszabadsag"
+      ],
+      "vocabulary_ids": [
+        "karokozas",
+        "cenzura",
+        "sajtoszabadsag"
+      ],
+      "segments": [
+        {
+          "text": "1914 elején a tanú nyugodtan várta a tárgyalást. A jegyzőkönyvben ezek a szavak szerepeltek: "
+        },
+        {
+          "text": "károkozás",
+          "vocabulary_id": "karokozas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "cenzúra",
+          "vocabulary_id": "cenzura"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "sajtószabadság",
+          "vocabulary_id": "sajtoszabadsag"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "conflict-and-diplomacy-b-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na začátku roku 1914 svědek klidně čekal na jednání. V protokolu se objevila tato slova: způsobení škody, cenzura, svoboda tisku."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-story-03",
+      "title_cs": "Dopis z ministerstva · 3",
+      "title_hu": "Levél a minisztériumból · 3",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "conflict-and-diplomacy-b"
+      ],
+      "curriculum_lesson_id": "conflict-and-diplomacy-b",
+      "new_vocabulary_ids": [
+        "titok",
+        "titkositas",
+        "huseg"
+      ],
+      "vocabulary_ids": [
+        "titok",
+        "titkositas",
+        "huseg"
+      ],
+      "segments": [
+        {
+          "text": "1914-ben a követ levelet hozott a minisztériumból; a tanács még aznap megvitatta. A jegyzetbe ezt írták: "
+        },
+        {
+          "text": "titok",
+          "vocabulary_id": "titok"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "titkosítás",
+          "vocabulary_id": "titkositas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "hűség",
+          "vocabulary_id": "huseg"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "conflict-and-diplomacy-b-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1914 přinesl vyslanec dopis z ministerstva a rada o něm téhož dne jednala. Do poznámek zapsali: tajemství, utajení, věrnost."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-story-04",
+      "title_cs": "Este a szalonban · 4",
+      "title_hu": "Večer v salonu · 4",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "conflict-and-diplomacy-b"
+      ],
+      "curriculum_lesson_id": "conflict-and-diplomacy-b",
+      "new_vocabulary_ids": [
+        "osszeeskuvo",
+        "katonaiparancs",
+        "katonaitabor"
+      ],
+      "vocabulary_ids": [
+        "osszeeskuvo",
+        "katonaiparancs",
+        "katonaitabor"
+      ],
+      "segments": [
+        {
+          "text": "1914 tavaszán a vendégek a szalonban zenéről és a város jövőjéről beszélgettek. A házigazda feljegyezte: "
+        },
+        {
+          "text": "összeesküvő",
+          "vocabulary_id": "osszeeskuvo"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "katonai parancs",
+          "vocabulary_id": "katonaiparancs"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "katonai tábor",
+          "vocabulary_id": "katonaitabor"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "conflict-and-diplomacy-b-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na jaře 1914 hovořili hosté v salonu o hudbě a budoucnosti města. Hostitel si poznamenal: spiklenec, vojenský rozkaz, vojenský tábor."
+    },
+    {
+      "id": "conflict-and-diplomacy-b-story-05",
+      "title_cs": "Hírek Szarajevóból · 5",
+      "title_hu": "Zprávy ze Sarajeva · 5",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "conflict-and-diplomacy-b"
+      ],
+      "curriculum_lesson_id": "conflict-and-diplomacy-b",
+      "new_vocabulary_ids": [
+        "hadsereg",
+        "katonaimozgositas",
+        "besorozas"
+      ],
+      "vocabulary_ids": [
+        "hadsereg",
+        "katonaimozgositas",
+        "besorozas"
+      ],
+      "segments": [
+        {
+          "text": "1914 júniusának végén hírek érkeztek Szarajevóból. A kávéházban az emberek aggodalommal, de óvatosan beszéltek: "
+        },
+        {
+          "text": "hadsereg",
+          "vocabulary_id": "hadsereg"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "katonai mozgósítás",
+          "vocabulary_id": "katonaimozgositas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "besorozás",
+          "vocabulary_id": "besorozas"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "conflict-and-diplomacy-b-story-05-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na konci června 1914 přišly zprávy ze Sarajeva. V kavárně lidé mluvili s obavami, ale opatrně: armáda, vojenská mobilizace, odvedení."
+    }
+  ]
+}

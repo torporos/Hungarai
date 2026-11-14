@@ -1,0 +1,1067 @@
+{
+  "order": 15,
+  "lesson": {
+    "id": "szamok-a",
+    "theme_id": "q1-kazdodenni-zaklady",
+    "theme_title_cs": "Q1 · Každodenní základy",
+    "module_number": 2,
+    "module_title_cs": "Čísla a počítání",
+    "title_cs": "Čísla a počítání",
+    "description": "Čísla a počítání. Slovní zásoba a různorodé procvičení v historickém kontextu před rokem 1914.",
+    "level": "Q1 · ZÁKLADY",
+    "duration_min": 10,
+    "xp_required": 100,
+    "prerequisite_lesson_ids": [
+      "lide"
+    ],
+    "vocabulary_ids": [
+      "nulla",
+      "egy",
+      "ketto",
+      "harom",
+      "negy",
+      "ot",
+      "hat",
+      "het",
+      "nyolc",
+      "kilenc",
+      "tiz",
+      "tizenegy",
+      "tizenketto",
+      "tizenharom",
+      "tizennegy",
+      "tizenot",
+      "tizenhat",
+      "tizenhet",
+      "tizennyolc",
+      "tizenkilenc",
+      "husz",
+      "harminc",
+      "negyven",
+      "otven",
+      "hatvan",
+      "hetven",
+      "nyolcvan",
+      "kilencven",
+      "szaz",
+      "ezer"
+    ],
+    "new_vocabulary_ids": [
+      "nulla",
+      "egy",
+      "ketto",
+      "harom",
+      "negy",
+      "ot",
+      "hat",
+      "het",
+      "nyolc",
+      "kilenc",
+      "tiz",
+      "tizenegy",
+      "tizenketto",
+      "tizenharom",
+      "tizennegy",
+      "tizenot",
+      "tizenhat",
+      "tizenhet",
+      "tizennyolc",
+      "tizenkilenc",
+      "husz",
+      "harminc",
+      "negyven",
+      "otven",
+      "hatvan",
+      "hetven",
+      "nyolcvan",
+      "kilencven",
+      "szaz",
+      "ezer"
+    ],
+    "grammar_ids": [
+      "q1-mnozne-cislo"
+    ],
+    "grammar_label_cs": "Tvoření množného čísla",
+    "exercise_ids": [
+      "q1-szamok-a-ex-01",
+      "q1-szamok-a-ex-02",
+      "q1-szamok-a-ex-03",
+      "q1-szamok-a-ex-04",
+      "q1-szamok-a-ex-05",
+      "q1-szamok-a-ex-06",
+      "q1-szamok-a-ex-07",
+      "q1-szamok-a-ex-08",
+      "q1-szamok-a-ex-09",
+      "q1-szamok-a-ex-10"
+    ],
+    "story_ids": [
+      "q1-szamok-a-story",
+      "q1-szamok-a-story-02",
+      "q1-szamok-a-story-03"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "nulla",
+      "word": "nulla",
+      "translation_cs": "nula",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nulla",
+          "translation_cs": "nula",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám nulla.",
+      "example_cs": "Číslo je nula.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "egy",
+      "word": "egy",
+      "translation_cs": "jeden",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "egy",
+          "translation_cs": "jeden",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám egy.",
+      "example_cs": "Číslo je jeden.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "ketto",
+      "word": "kettő",
+      "translation_cs": "dva",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kettő",
+          "translation_cs": "dva",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám kettő.",
+      "example_cs": "Číslo je dva.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "harom",
+      "word": "három",
+      "translation_cs": "tři",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "három",
+          "translation_cs": "tři",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám három.",
+      "example_cs": "Číslo je tři.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "negy",
+      "word": "négy",
+      "translation_cs": "čtyři",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "négy",
+          "translation_cs": "čtyři",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám négy.",
+      "example_cs": "Číslo je čtyři.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "ot",
+      "word": "öt",
+      "translation_cs": "pět",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "öt",
+          "translation_cs": "pět",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám öt.",
+      "example_cs": "Číslo je pět.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "hat",
+      "word": "hat",
+      "translation_cs": "šest",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hat",
+          "translation_cs": "šest",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám hat.",
+      "example_cs": "Číslo je šest.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "het",
+      "word": "hét",
+      "translation_cs": "sedm; týden",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hét",
+          "translation_cs": "sedm; týden",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám hét.",
+      "example_cs": "Číslo je sedm.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "nyolc",
+      "word": "nyolc",
+      "translation_cs": "osm",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nyolc",
+          "translation_cs": "osm",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám nyolc.",
+      "example_cs": "Číslo je osm.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "kilenc",
+      "word": "kilenc",
+      "translation_cs": "devět",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kilenc",
+          "translation_cs": "devět",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám kilenc.",
+      "example_cs": "Číslo je devět.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tiz",
+      "word": "tíz",
+      "translation_cs": "deset",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tíz",
+          "translation_cs": "deset",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám tíz.",
+      "example_cs": "Číslo je deset.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tizenegy",
+      "word": "tizenegy",
+      "translation_cs": "jedenáct",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tizenegy",
+          "translation_cs": "jedenáct",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám tizenegy.",
+      "example_cs": "Číslo je jedenáct.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tizenketto",
+      "word": "tizenkettő",
+      "translation_cs": "dvanáct",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tizenkettő",
+          "translation_cs": "dvanáct",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám tizenkettő.",
+      "example_cs": "Číslo je dvanáct.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tizenharom",
+      "word": "tizenhárom",
+      "translation_cs": "třináct",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tizenhárom",
+          "translation_cs": "třináct",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám tizenhárom.",
+      "example_cs": "Číslo je třináct.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tizennegy",
+      "word": "tizennégy",
+      "translation_cs": "čtrnáct",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tizennégy",
+          "translation_cs": "čtrnáct",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám tizennégy.",
+      "example_cs": "Číslo je čtrnáct.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tizenot",
+      "word": "tizenöt",
+      "translation_cs": "patnáct",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tizenöt",
+          "translation_cs": "patnáct",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám tizenöt.",
+      "example_cs": "Číslo je patnáct.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tizenhat",
+      "word": "tizenhat",
+      "translation_cs": "šestnáct",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tizenhat",
+          "translation_cs": "šestnáct",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám tizenhat.",
+      "example_cs": "Číslo je šestnáct.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tizenhet",
+      "word": "tizenhét",
+      "translation_cs": "sedmnáct",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tizenhét",
+          "translation_cs": "sedmnáct",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám tizenhét.",
+      "example_cs": "Číslo je sedmnáct.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tizennyolc",
+      "word": "tizennyolc",
+      "translation_cs": "osmnáct",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tizennyolc",
+          "translation_cs": "osmnáct",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám tizennyolc.",
+      "example_cs": "Číslo je osmnáct.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tizenkilenc",
+      "word": "tizenkilenc",
+      "translation_cs": "devatenáct",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tizenkilenc",
+          "translation_cs": "devatenáct",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám tizenkilenc.",
+      "example_cs": "Číslo je devatenáct.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "husz",
+      "word": "húsz",
+      "translation_cs": "dvacet",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "húsz",
+          "translation_cs": "dvacet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám húsz.",
+      "example_cs": "Číslo je dvacet.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "harminc",
+      "word": "harminc",
+      "translation_cs": "třicet",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "harminc",
+          "translation_cs": "třicet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám harminc.",
+      "example_cs": "Číslo je třicet.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "negyven",
+      "word": "negyven",
+      "translation_cs": "čtyřicet",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "negyven",
+          "translation_cs": "čtyřicet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám negyven.",
+      "example_cs": "Číslo je čtyřicet.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "otven",
+      "word": "ötven",
+      "translation_cs": "padesát",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ötven",
+          "translation_cs": "padesát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám ötven.",
+      "example_cs": "Číslo je padesát.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "hatvan",
+      "word": "hatvan",
+      "translation_cs": "šedesát",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hatvan",
+          "translation_cs": "šedesát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám hatvan.",
+      "example_cs": "Číslo je šedesát.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "hetven",
+      "word": "hetven",
+      "translation_cs": "sedmdesát",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hetven",
+          "translation_cs": "sedmdesát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám hetven.",
+      "example_cs": "Číslo je sedmdesát.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "nyolcvan",
+      "word": "nyolcvan",
+      "translation_cs": "osmdesát",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nyolcvan",
+          "translation_cs": "osmdesát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám nyolcvan.",
+      "example_cs": "Číslo je osmdesát.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "kilencven",
+      "word": "kilencven",
+      "translation_cs": "devadesát",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kilencven",
+          "translation_cs": "devadesát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám kilencven.",
+      "example_cs": "Číslo je devadesát.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "szaz",
+      "word": "száz",
+      "translation_cs": "sto",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "száz",
+          "translation_cs": "sto",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám száz.",
+      "example_cs": "Číslo je sto.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "ezer",
+      "word": "ezer",
+      "translation_cs": "tisíc",
+      "part_of_speech_cs": "číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ezer",
+          "translation_cs": "tisíc",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szám ezer.",
+      "example_cs": "Číslo je tisíc.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q1-szamok-a-ex-01",
+      "type": "vocabulary",
+      "vocabulary_id": "nulla",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „nulla“?",
+      "options_cs": [
+        "nula",
+        "jeden",
+        "dva"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "nulla znamená „nula“."
+    },
+    {
+      "id": "q1-szamok-a-ex-02",
+      "type": "listening",
+      "vocabulary_id": "harom",
+      "type_label_cs": "Poslech",
+      "audio_text": "három",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "tři",
+        "nula",
+        "jeden"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "három znamená „tři“."
+    },
+    {
+      "id": "q1-szamok-a-ex-03",
+      "type": "recall",
+      "vocabulary_id": "hat",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „šest“.",
+      "accepted_answers": [
+        "hat"
+      ],
+      "sentence_hu": "A szám ______.",
+      "explanation_cs": "Číslo je šest."
+    },
+    {
+      "id": "q1-szamok-a-ex-04",
+      "type": "cloze",
+      "vocabulary_id": "kilenc",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "A szám ______.",
+      "options_cs": [
+        "kilenc",
+        "nulla",
+        "egy"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Číslo je devět."
+    },
+    {
+      "id": "q1-szamok-a-ex-05",
+      "type": "order",
+      "vocabulary_id": "tizenketto",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "tizenkettő.",
+        "szám",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "szám",
+          "tizenkettő."
+        ]
+      ],
+      "explanation_cs": "Číslo je dvanáct."
+    },
+    {
+      "id": "q1-szamok-a-ex-06",
+      "type": "vocabulary",
+      "vocabulary_id": "tizenot",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „tizenöt“?",
+      "options_cs": [
+        "patnáct",
+        "nula",
+        "jeden"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "tizenöt znamená „patnáct“."
+    },
+    {
+      "id": "q1-szamok-a-ex-07",
+      "type": "listening",
+      "vocabulary_id": "tizennyolc",
+      "type_label_cs": "Poslech",
+      "audio_text": "tizennyolc",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "osmnáct",
+        "nula",
+        "jeden"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "tizennyolc znamená „osmnáct“."
+    },
+    {
+      "id": "q1-szamok-a-ex-08",
+      "type": "recall",
+      "vocabulary_id": "harminc",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „třicet“.",
+      "accepted_answers": [
+        "harminc"
+      ],
+      "sentence_hu": "A szám ______.",
+      "explanation_cs": "Číslo je třicet."
+    },
+    {
+      "id": "q1-szamok-a-ex-09",
+      "type": "cloze",
+      "vocabulary_id": "hatvan",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "A szám ______.",
+      "options_cs": [
+        "hatvan",
+        "nulla",
+        "egy"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Číslo je šedesát."
+    },
+    {
+      "id": "q1-szamok-a-ex-10",
+      "type": "order",
+      "vocabulary_id": "kilencven",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "kilencven.",
+        "szám",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "szám",
+          "kilencven."
+        ]
+      ],
+      "explanation_cs": "Číslo je devadesát."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-szamok-a-story",
+      "title_cs": "Den v kalendáři",
+      "title_hu": "Egy nap a naptárban",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "szamok-a"
+      ],
+      "curriculum_lesson_id": "szamok-a",
+      "new_vocabulary_ids": [
+        "ot"
+      ],
+      "vocabulary_ids": [
+        "ot"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban ma hétfő van. A szám "
+        },
+        {
+          "text": "öt",
+          "vocabulary_id": "ot"
+        },
+        {
+          "text": ". Egy óra gyorsan telik."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-szamok-a-story-question",
+          "prompt_cs": "Který den je dnes?",
+          "options_cs": [
+            "Pondělí.",
+            "Pátek.",
+            "Neděle."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Dnes je pondělí: Ma hétfő van."
+        }
+      ],
+      "translation_cs": "V roce 1913 je dnes pondělí. Číslo je pět. Jedna hodina rychle ubíhá."
+    },
+    {
+      "id": "q1-szamok-a-story-02",
+      "title_cs": "Počítání v rodině",
+      "title_hu": "Számolás a családban",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "szamok-a"
+      ],
+      "curriculum_lesson_id": "szamok-a",
+      "new_vocabulary_ids": [
+        "egy",
+        "ketto",
+        "harom",
+        "ot",
+        "negy"
+      ],
+      "vocabulary_ids": [
+        "egy",
+        "ketto",
+        "harom",
+        "ot",
+        "negy"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a fiú "
+        },
+        {
+          "text": "egy",
+          "vocabulary_id": "egy"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "kettő",
+          "vocabulary_id": "ketto"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "három",
+          "vocabulary_id": "harom"
+        },
+        {
+          "text": " számot mond. Az apa "
+        },
+        {
+          "text": "öt",
+          "vocabulary_id": "ot"
+        },
+        {
+          "text": " almát ad. A lány "
+        },
+        {
+          "text": "négy",
+          "vocabulary_id": "negy"
+        },
+        {
+          "text": "et kér."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-szamok-a-story-02-question",
+          "prompt_cs": "Kolik jablek dá otec?",
+          "options_cs": [
+            "Pět.",
+            "Tři.",
+            "Čtyři."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Otec dá öt almát."
+        }
+      ],
+      "translation_cs": "V roce 1913 chlapec říká jedna, dvě, tři. Otec dá pět jablek. Dívka žádá čtyři."
+    },
+    {
+      "id": "q1-szamok-a-story-03",
+      "title_cs": "Hodiny na stěně",
+      "title_hu": "Falióra",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "szamok-a"
+      ],
+      "curriculum_lesson_id": "szamok-a",
+      "new_vocabulary_ids": [
+        "tiz",
+        "szaz"
+      ],
+      "vocabulary_ids": [
+        "tiz",
+        "szaz"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a falióra egy órát mutat. A fiú "
+        },
+        {
+          "text": "tíz",
+          "vocabulary_id": "tiz"
+        },
+        {
+          "text": " percet vár. Az apa "
+        },
+        {
+          "text": "száz",
+          "vocabulary_id": "szaz"
+        },
+        {
+          "text": " számot ír."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-szamok-a-story-03-question",
+          "prompt_cs": "Kolik minut čeká chlapec?",
+          "options_cs": [
+            "Deset.",
+            "Dvacet.",
+            "Sto."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Chlapec čeká tíz percet."
+        }
+      ],
+      "translation_cs": "V roce 1913 ukazují nástěnné hodiny jednu hodinu. Chlapec čeká deset minut. Otec napíše číslo sto."
+    }
+  ],
+  "quarter": "q1"
+}

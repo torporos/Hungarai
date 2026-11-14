@@ -1,0 +1,2669 @@
+{
+  "order": 29,
+  "quarter": "q2",
+  "lesson": {
+    "id": "iranyok-es-helyek",
+    "theme_id": "q2-golden-age-pest",
+    "theme_title_cs": "Q2 · Zlatý věk Pešti",
+    "module_number": 2,
+    "module_title_cs": "Směry a poloha ve městě",
+    "title_cs": "Jak se zorientovat v Pešti",
+    "description": "Orientace v Pešti roku 1913: směry, části města, průchody a místa setkání. Procvičíte předmětový pád -t i místní koncovky.",
+    "level": "Q2 · MĚSTO A INSTITUCE",
+    "duration_min": 16,
+    "xp_required": 800,
+    "prerequisite_lesson_ids": [
+      "odev-a-tarsasag"
+    ],
+    "vocabulary_ids": [
+      "itt",
+      "ott",
+      "ide",
+      "oda",
+      "innen",
+      "onnan",
+      "elore",
+      "hatra",
+      "felfele",
+      "lefele",
+      "bent",
+      "kint",
+      "korul",
+      "keresztul",
+      "vegig",
+      "szemben",
+      "kozott",
+      "mellett",
+      "elott",
+      "mogott",
+      "alatt",
+      "folott",
+      "irany",
+      "utvonal",
+      "keresztezodes",
+      "utcasarok",
+      "kanyar",
+      "terkep",
+      "iranytu",
+      "utjelzo",
+      "jelzes",
+      "tavolsag",
+      "kornyek",
+      "belvaros",
+      "kulvaros",
+      "varosresz",
+      "foter",
+      "atjaro",
+      "atkelo",
+      "vissza",
+      "tovabb",
+      "fele",
+      "felol",
+      "odaat",
+      "idaig",
+      "addig",
+      "mindenutt",
+      "sehol",
+      "valahol",
+      "merre"
+    ],
+    "new_vocabulary_ids": [
+      "itt",
+      "ott",
+      "ide",
+      "oda",
+      "innen",
+      "onnan",
+      "elore",
+      "hatra",
+      "felfele",
+      "lefele",
+      "bent",
+      "kint",
+      "korul",
+      "keresztul",
+      "vegig",
+      "szemben",
+      "kozott",
+      "mellett",
+      "elott",
+      "mogott",
+      "alatt",
+      "folott",
+      "irany",
+      "utvonal",
+      "keresztezodes",
+      "utcasarok",
+      "kanyar",
+      "terkep",
+      "iranytu",
+      "utjelzo",
+      "jelzes",
+      "tavolsag",
+      "kornyek",
+      "belvaros",
+      "kulvaros",
+      "varosresz",
+      "foter",
+      "atjaro",
+      "atkelo",
+      "vissza",
+      "tovabb",
+      "fele",
+      "felol",
+      "odaat",
+      "idaig",
+      "addig",
+      "mindenutt",
+      "sehol",
+      "valahol",
+      "merre"
+    ],
+    "grammar_ids": [
+      "targy-t",
+      "umisteni-v",
+      "poloha-na-povrchu",
+      "poloha-u-mista"
+    ],
+    "grammar_label_cs": "Předmět -t · poloha v, na a u místa",
+    "exercise_ids": [
+      "iranyok-es-helyek-grammar-01",
+      "iranyok-es-helyek-grammar-02",
+      "iranyok-es-helyek-grammar-03",
+      "iranyok-es-helyek-grammar-04",
+      "iranyok-es-helyek-grammar-05",
+      "iranyok-es-helyek-grammar-06",
+      "iranyok-es-helyek-grammar-07",
+      "iranyok-es-helyek-grammar-08",
+      "iranyok-es-helyek-grammar-09",
+      "iranyok-es-helyek-grammar-10",
+      "iranyok-es-helyek-grammar-11",
+      "iranyok-es-helyek-grammar-12",
+      "iranyok-es-helyek-grammar-13",
+      "iranyok-es-helyek-grammar-14",
+      "iranyok-es-helyek-grammar-15",
+      "iranyok-es-helyek-grammar-16",
+      "iranyok-es-helyek-grammar-17",
+      "iranyok-es-helyek-grammar-18",
+      "iranyok-es-helyek-grammar-19",
+      "iranyok-es-helyek-grammar-20",
+      "iranyok-es-helyek-grammar-21",
+      "iranyok-es-helyek-grammar-22",
+      "iranyok-es-helyek-grammar-23",
+      "iranyok-es-helyek-grammar-24",
+      "iranyok-es-helyek-grammar-25",
+      "iranyok-es-helyek-grammar-26",
+      "iranyok-es-helyek-grammar-27",
+      "iranyok-es-helyek-grammar-28",
+      "iranyok-es-helyek-grammar-29",
+      "iranyok-es-helyek-grammar-30",
+      "iranyok-es-helyek-grammar-31",
+      "iranyok-es-helyek-grammar-32",
+      "iranyok-es-helyek-grammar-33",
+      "iranyok-es-helyek-grammar-34",
+      "iranyok-es-helyek-grammar-35",
+      "iranyok-es-helyek-grammar-36",
+      "iranyok-es-helyek-grammar-37",
+      "iranyok-es-helyek-grammar-38",
+      "iranyok-es-helyek-grammar-39",
+      "iranyok-es-helyek-grammar-40",
+      "iranyok-es-helyek-grammar-41",
+      "iranyok-es-helyek-grammar-42",
+      "iranyok-es-helyek-grammar-43",
+      "iranyok-es-helyek-grammar-44",
+      "iranyok-es-helyek-grammar-45",
+      "iranyok-es-helyek-grammar-46",
+      "iranyok-es-helyek-grammar-47",
+      "iranyok-es-helyek-grammar-48",
+      "iranyok-es-helyek-grammar-49",
+      "iranyok-es-helyek-grammar-50",
+      "iranyok-es-helyek-grammar-51",
+      "iranyok-es-helyek-grammar-52",
+      "iranyok-es-helyek-grammar-53"
+    ],
+    "story_ids": [
+      "iranyok-es-helyek-story-01",
+      "iranyok-es-helyek-story-02",
+      "iranyok-es-helyek-story-03",
+      "iranyok-es-helyek-story-04",
+      "iranyok-es-helyek-story-05"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "itt",
+      "word": "itt",
+      "translation_cs": "zde",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "itt",
+          "translation_cs": "zde",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A villamosmegálló itt van.",
+      "example_cs": "Zastávka tramvaje je zde.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "ott",
+      "word": "ott",
+      "translation_cs": "tam",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ott",
+          "translation_cs": "tam",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ott kezdődik a körút.",
+      "example_cs": "Tam začíná okružní třída.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "ide",
+      "word": "ide",
+      "translation_cs": "sem",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ide",
+          "translation_cs": "sem",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ide jön a postás.",
+      "example_cs": "Pošťák přichází sem.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "oda",
+      "word": "oda",
+      "translation_cs": "tam; na ono místo",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "oda",
+          "translation_cs": "tam; na ono místo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Oda megy a hintó.",
+      "example_cs": "Kočár jede tam.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "innen",
+      "word": "innen",
+      "translation_cs": "odtud",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "innen",
+          "translation_cs": "odtud",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Innen a Duna is látszik.",
+      "example_cs": "Odtud je vidět i Dunaj.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "onnan",
+      "word": "onnan",
+      "translation_cs": "odtamtól; odtud",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "onnan",
+          "translation_cs": "odtamtól; odtud",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Onnan egyenesen a térre jut.",
+      "example_cs": "Odtamtud dojde přímo na náměstí.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "elore",
+      "word": "előre",
+      "translation_cs": "dopředu",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "előre",
+          "translation_cs": "dopředu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A házmester előre mutat az utcán.",
+      "example_cs": "Domovník ukazuje dopředu do ulice.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "hatra",
+      "word": "hátra",
+      "translation_cs": "dozadu",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hátra",
+          "translation_cs": "dozadu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kocsi lassan hátra megy.",
+      "example_cs": "Vůz pomalu couvá.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "felfele",
+      "word": "felfelé",
+      "translation_cs": "nahoru",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "felfelé",
+          "translation_cs": "nahoru",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A meredek utcán felfelé halad a hintó.",
+      "example_cs": "Kočár jede strmou ulicí nahoru.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "lefele",
+      "word": "lefelé",
+      "translation_cs": "dolů",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lefelé",
+          "translation_cs": "dolů",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A lépcsőn lefelé jön a látogató.",
+      "example_cs": "Návštěvník schází po schodech dolů.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "bent",
+      "word": "bent",
+      "translation_cs": "uvnitř",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bent",
+          "translation_cs": "uvnitř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vendég bent vár a kávéházban.",
+      "example_cs": "Host čeká uvnitř kavárny.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "kint",
+      "word": "kint",
+      "translation_cs": "venku",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kint",
+          "translation_cs": "venku",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Kint a téren zenészek játszanak.",
+      "example_cs": "Venku na náměstí hrají hudebníci.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "korul",
+      "word": "körül",
+      "translation_cs": "kolem; okolo",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "körül",
+          "translation_cs": "kolem; okolo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városháza körül sok ember áll.",
+      "example_cs": "Okolo radnice stojí mnoho lidí.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "keresztul",
+      "word": "keresztül",
+      "translation_cs": "přes; skrz",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "keresztül",
+          "translation_cs": "přes; skrz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az út a parkon keresztül vezet.",
+      "example_cs": "Cesta vede přes park.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "vegig",
+      "word": "végig",
+      "translation_cs": "podél; po celé délce",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "végig",
+          "translation_cs": "podél; po celé délce",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A villamos végigmegy a körúton.",
+      "example_cs": "Tramvaj jede po celé okružní třídě.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "szemben",
+      "word": "szemben",
+      "translation_cs": "naproti",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szemben",
+          "translation_cs": "naproti",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A posta a kávéházzal szemben áll.",
+      "example_cs": "Pošta stojí naproti kavárně.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "kozott",
+      "word": "között",
+      "translation_cs": "mezi",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "között",
+          "translation_cs": "mezi",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A híd két városrész között vezet.",
+      "example_cs": "Most vede mezi dvěma městskými částmi.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "mellett",
+      "word": "mellett",
+      "translation_cs": "vedle",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mellett",
+          "translation_cs": "vedle",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szálloda a főtér mellett van.",
+      "example_cs": "Hotel je vedle hlavního náměstí.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "elott",
+      "word": "előtt",
+      "translation_cs": "před",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "előtt",
+          "translation_cs": "před",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A színház előtt hintók várakoznak.",
+      "example_cs": "Před divadlem čekají kočáry.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "mogott",
+      "word": "mögött",
+      "translation_cs": "za",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mögött",
+          "translation_cs": "za",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A templom mögött csendes utca húzódik.",
+      "example_cs": "Za kostelem vede tichá ulice.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "alatt",
+      "word": "alatt",
+      "translation_cs": "pod",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "alatt",
+          "translation_cs": "pod",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A híd alatt hajó halad el.",
+      "example_cs": "Pod mostem proplouvá loď.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "folott",
+      "word": "fölött",
+      "translation_cs": "nad",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fölött",
+          "translation_cs": "nad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A torony fölött madarak köröznek.",
+      "example_cs": "Nad věží krouží ptáci.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "irany",
+      "word": "irány",
+      "translation_cs": "směr",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "irány",
+          "translation_cs": "směr",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kalauz megmutatja az irányt.",
+      "example_cs": "Průvodčí ukazuje směr.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "utvonal",
+      "word": "útvonal",
+      "translation_cs": "trasa",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "útvonalat",
+          "translation_cs": "trasu (předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "iranyok-es-helyek"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "útvonal",
+          "translation_cs": "trasa",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A térképen rövid útvonal látható.",
+      "example_cs": "Na mapě je vyznačena krátká trasa.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "keresztezodes",
+      "word": "kereszteződés",
+      "translation_cs": "křižovatka",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "kereszteződésben",
+          "translation_cs": "na křižovatce",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "iranyok-es-helyek"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kereszteződés",
+          "translation_cs": "křižovatka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kereszteződésben jobbra kell fordulni.",
+      "example_cs": "Na křižovatce je třeba odbočit doprava.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "utcasarok",
+      "word": "utcasarok",
+      "translation_cs": "nároží",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "utcasarok",
+          "translation_cs": "nároží",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A rendőr az utcasarkon áll.",
+      "example_cs": "Strážník stojí na rohu ulice.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "kanyar",
+      "word": "kanyar",
+      "translation_cs": "zatáčka",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kanyar",
+          "translation_cs": "zatáčka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A következő kanyarnál lassít a kocsi.",
+      "example_cs": "V příští zatáčce vůz zpomalí.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "terkep",
+      "word": "térkép",
+      "translation_cs": "mapa",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "térképen",
+          "translation_cs": "na mapě",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "iranyok-es-helyek"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "térkép",
+          "translation_cs": "mapa",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A turista kiteríti a térképet.",
+      "example_cs": "Turista rozloží mapu.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "iranytu",
+      "word": "iránytű",
+      "translation_cs": "kompas",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "iránytű",
+          "translation_cs": "kompas",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az iránytű észak felé mutat.",
+      "example_cs": "Kompas ukazuje k severu.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "utjelzo",
+      "word": "útjelző",
+      "translation_cs": "směrovka",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "útjelző",
+          "translation_cs": "směrovka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az útjelző a vasútállomás felé mutat.",
+      "example_cs": "Směrovka ukazuje k nádraží.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "jelzes",
+      "word": "jelzés",
+      "translation_cs": "značka; znamení",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jelzés",
+          "translation_cs": "značka; znamení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kék jelzés a folyóhoz vezet.",
+      "example_cs": "Modrá značka vede k řece.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "tavolsag",
+      "word": "távolság",
+      "translation_cs": "vzdálenost",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "távolság",
+          "translation_cs": "vzdálenost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A távolság a két tér között rövid.",
+      "example_cs": "Vzdálenost mezi oběma náměstími je krátká.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "kornyek",
+      "word": "környék",
+      "translation_cs": "okolí; čtvrť",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "környék",
+          "translation_cs": "okolí; čtvrť",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A környéken sok üzlet van.",
+      "example_cs": "V okolí je mnoho obchodů.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "belvaros",
+      "word": "belváros",
+      "translation_cs": "centrum města",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "belvárosban",
+          "translation_cs": "v centru města",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "iranyok-es-helyek"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "belváros",
+          "translation_cs": "centrum města",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A belvárosban sűrű a forgalom.",
+      "example_cs": "V centru města je hustý provoz.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "kulvaros",
+      "word": "külváros",
+      "translation_cs": "předměstí",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "külváros",
+          "translation_cs": "předměstí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A külváros csendesebb, mint a belváros.",
+      "example_cs": "Předměstí je klidnější než centrum.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "varosresz",
+      "word": "városrész",
+      "translation_cs": "městská část",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "városrész",
+          "translation_cs": "městská část",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ez a városrész a Duna közelében van.",
+      "example_cs": "Tato městská část leží blízko Dunaje.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "foter",
+      "word": "főtér",
+      "translation_cs": "hlavní náměstí",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "főtérnél",
+          "translation_cs": "u hlavního náměstí",
+          "grammar_id": "poloha-u-mista",
+          "lesson_id": "iranyok-es-helyek"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "főtér",
+          "translation_cs": "hlavní náměstí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A főtéren hetivásárt tartanak.",
+      "example_cs": "Na hlavním náměstí se koná týdenní trh.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "atjaro",
+      "word": "átjáró",
+      "translation_cs": "průchod",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "átjáró",
+          "translation_cs": "průchod",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az átjáró két utcát köt össze.",
+      "example_cs": "Průchod spojuje dvě ulice.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "atkelo",
+      "word": "átkelő",
+      "translation_cs": "přechod; přechodové místo",
+      "part_of_speech_cs": "podstatné jméno · místo nebo směr",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "átkelő",
+          "translation_cs": "přechod; přechodové místo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gyalogos az átkelőn megy át.",
+      "example_cs": "Chodec přechází přes přechod.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "vissza",
+      "word": "vissza",
+      "translation_cs": "zpět",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vissza",
+          "translation_cs": "zpět",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A postás visszaindul az utcán.",
+      "example_cs": "Pošťák se vrací ulicí.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "tovabb",
+      "word": "tovább",
+      "translation_cs": "dále; pokračovat",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tovább",
+          "translation_cs": "dále; pokračovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A hintó továbbhalad a téren.",
+      "example_cs": "Kočár pokračuje přes náměstí.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "fele",
+      "word": "felé",
+      "translation_cs": "směrem k",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "felé",
+          "translation_cs": "směrem k",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A menet a híd felé tart.",
+      "example_cs": "Průvod míří směrem k mostu.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "felol",
+      "word": "felől",
+      "translation_cs": "od; ze směru od",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "felől",
+          "translation_cs": "od; ze směru od",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szél a folyó felől fúj.",
+      "example_cs": "Vítr vane od řeky.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "odaat",
+      "word": "odaát",
+      "translation_cs": "tam na druhé straně",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "odaát",
+          "translation_cs": "tam na druhé straně",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Odaát egy kis vendéglő áll.",
+      "example_cs": "Tam na druhé straně stojí malý hostinec.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "idaig",
+      "word": "idáig",
+      "translation_cs": "až sem",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "idáig",
+          "translation_cs": "až sem",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A villamos idáig jár.",
+      "example_cs": "Tramvaj jezdí až sem.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "addig",
+      "word": "addig",
+      "translation_cs": "do té doby; až tam",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "addig",
+          "translation_cs": "do té doby; až tam",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Addig a sarokig egyenesen menjen.",
+      "example_cs": "Jděte rovně až k tomu rohu.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "mindenutt",
+      "word": "mindenütt",
+      "translation_cs": "všude",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mindenütt",
+          "translation_cs": "všude",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vásár napján mindenütt árusok állnak.",
+      "example_cs": "V den trhu stojí všude prodavači.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "sehol",
+      "word": "sehol",
+      "translation_cs": "nikde",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sehol",
+          "translation_cs": "nikde",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A térképen sehol nincs ilyen utca.",
+      "example_cs": "Na mapě taková ulice nikde není.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "valahol",
+      "word": "valahol",
+      "translation_cs": "někde",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "valahol",
+          "translation_cs": "někde",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kalauz valahol a közelben vár.",
+      "example_cs": "Průvodčí čeká někde poblíž.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    },
+    {
+      "id": "merre",
+      "word": "merre",
+      "translation_cs": "kterým směrem; kudy",
+      "part_of_speech_cs": "příslovce nebo místní výraz",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "merre",
+          "translation_cs": "kterým směrem; kudy",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Merre van a posta?",
+      "example_cs": "Kterým směrem je pošta?",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "iranyok-es-helyek-grammar-01",
+      "type": "cloze",
+      "vocabulary_id": "terkep",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A turista megvizsgálja a ______.",
+      "options_cs": [
+        "térképet",
+        "térképen",
+        "térképben"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Turista si prohlédne mapu."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-02",
+      "type": "cloze",
+      "vocabulary_id": "utvonal",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A postás követi az ______.",
+      "options_cs": [
+        "útvonalat",
+        "útvonalon",
+        "útvonalnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Pošťák sleduje trasu."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-03",
+      "type": "cloze",
+      "vocabulary_id": "keresztezodes",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A rendőr megmutatja a ______.",
+      "options_cs": [
+        "kereszteződést",
+        "kereszteződésben",
+        "kereszteződésnél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Strážník ukáže křižovatku."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-04",
+      "type": "cloze",
+      "vocabulary_id": "irany",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A kalauz megadja az ______.",
+      "options_cs": [
+        "irányt",
+        "irányban",
+        "iránynál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Průvodčí určí směr."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-05",
+      "type": "cloze",
+      "vocabulary_id": "kornyek",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A vendég bejárja a ______.",
+      "options_cs": [
+        "környéket",
+        "környékben",
+        "környéknél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Host projde okolí."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-06",
+      "type": "cloze",
+      "vocabulary_id": "belvaros",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A posta a ______ van.",
+      "options_cs": [
+        "belvárosban",
+        "belvároson",
+        "belvárosnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Pošta je v centru města."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-07",
+      "type": "cloze",
+      "vocabulary_id": "kulvaros",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A kert a ______ terül el.",
+      "options_cs": [
+        "külvárosban",
+        "külvároson",
+        "külvárosnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Zahrada leží na předměstí."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-08",
+      "type": "cloze",
+      "vocabulary_id": "keresztezodes",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A hintó a ______ vár.",
+      "options_cs": [
+        "kereszteződésben",
+        "kereszteződésen",
+        "kereszteződésnél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kočár čeká na křižovatce."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-09",
+      "type": "cloze",
+      "vocabulary_id": "atjaro",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A gyalogos az ______ megy át.",
+      "options_cs": [
+        "átjáróban",
+        "átjárón",
+        "átjárónál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Chodec prochází průchodem."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-10",
+      "type": "cloze",
+      "vocabulary_id": "terkep",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A piros vonal a ______ látható.",
+      "options_cs": [
+        "térképen",
+        "térképben",
+        "térképnél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Červená čára je vidět na mapě."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-11",
+      "type": "cloze",
+      "vocabulary_id": "utcasarok",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A rendőr az ______ áll.",
+      "options_cs": [
+        "utcasarkon",
+        "utcasarokban",
+        "utcasaroknál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Strážník stojí na rohu ulice."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-12",
+      "type": "cloze",
+      "vocabulary_id": "tavolsag",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A kalauz pontosan méri a ______.",
+      "options_cs": [
+        "távolságot",
+        "távolságban",
+        "távolságnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Průvodčí přesně měří vzdálenost."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-13",
+      "type": "cloze",
+      "vocabulary_id": "keresztezodes",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A kalauz a ______ vár.",
+      "options_cs": [
+        "kereszteződésnél",
+        "kereszteződésben",
+        "kereszteződésen"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Průvodčí čeká u křižovatky."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-14",
+      "type": "cloze",
+      "vocabulary_id": "foter",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A hintó a ______ áll meg.",
+      "options_cs": [
+        "főtérnél",
+        "főtérben",
+        "főtéren"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kočár zastaví u hlavního náměstí."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-15",
+      "type": "cloze",
+      "vocabulary_id": "utcasarok",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A postás az ______ kérdez.",
+      "options_cs": [
+        "utcasaroknál",
+        "utcasarokban",
+        "utcasarkon"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Pošťák se ptá u rohu ulice."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-16",
+      "type": "cloze",
+      "vocabulary_id": "atkelo",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A gyalogos az ______ vár.",
+      "options_cs": [
+        "átkelőnél",
+        "átkelőben",
+        "átkelőn"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Chodec čeká u přechodu."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-17",
+      "type": "cloze",
+      "vocabulary_id": "foter",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A hetivásárt a ______ tartják.",
+      "options_cs": [
+        "főtéren",
+        "főtérben",
+        "főtérnél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Týdenní trh se koná na hlavním náměstí."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-18",
+      "type": "cloze",
+      "vocabulary_id": "belvaros",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A villamos a ______ áll meg.",
+      "options_cs": [
+        "belvárosnál",
+        "belvárosban",
+        "belvároson"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Tramvaj zastaví u centra města."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-19",
+      "type": "cloze",
+      "vocabulary_id": "utvonal",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A jelzés az ______ látható.",
+      "options_cs": [
+        "útvonalon",
+        "útvonalban",
+        "útvonalnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Značka je vidět na trase."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-20",
+      "type": "cloze",
+      "vocabulary_id": "kornyek",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A piac a ______ található.",
+      "options_cs": [
+        "környéken",
+        "környékben",
+        "környéknél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Trh se nachází v okolí."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-21",
+      "type": "recall",
+      "vocabulary_id": "utvonal",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Pošťák sleduje trasu.",
+      "sentence_hu": "A postás a ______ követi.",
+      "accepted_answers": [
+        "útvonalat"
+      ],
+      "explanation_cs": "Doplňte maďarsky: Pošťák sleduje trasu."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-22",
+      "type": "recall",
+      "vocabulary_id": "terkep",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Turista studuje mapu.",
+      "sentence_hu": "A turista a ______ tanulmányozza.",
+      "accepted_answers": [
+        "térképet"
+      ],
+      "explanation_cs": "Doplňte maďarsky: Turista studuje mapu."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-23",
+      "type": "recall",
+      "vocabulary_id": "tavolsag",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Průvodčí změří vzdálenost.",
+      "sentence_hu": "A kalauz megméri a ______.",
+      "accepted_answers": [
+        "távolságot"
+      ],
+      "explanation_cs": "Doplňte maďarsky: Průvodčí změří vzdálenost."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-24",
+      "type": "recall",
+      "vocabulary_id": "iranytu",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Poutník si vezme kompas.",
+      "sentence_hu": "A vándor magával viszi az ______.",
+      "accepted_answers": [
+        "iránytűt"
+      ],
+      "explanation_cs": "Doplňte maďarsky: Poutník si vezme kompas."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-25",
+      "type": "recall",
+      "vocabulary_id": "belvaros",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde je radnice?",
+      "sentence_hu": "Hol van a városháza?",
+      "accepted_answers": [
+        "a belvárosban"
+      ],
+      "explanation_cs": "Kde je radnice?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-26",
+      "type": "recall",
+      "vocabulary_id": "keresztezodes",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde čeká kočár?",
+      "sentence_hu": "Hol vár a hintó?",
+      "accepted_answers": [
+        "a kereszteződésben"
+      ],
+      "explanation_cs": "Kde čeká kočár?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-27",
+      "type": "recall",
+      "vocabulary_id": "atjaro",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kudy prochází chodec?",
+      "sentence_hu": "Hol megy át a gyalogos?",
+      "accepted_answers": [
+        "az átjáróban"
+      ],
+      "explanation_cs": "Kudy prochází chodec?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-28",
+      "type": "recall",
+      "vocabulary_id": "varosresz",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Ve které městské části je starý trh?",
+      "sentence_hu": "Hol van a régi piac?",
+      "accepted_answers": [
+        "ebben a városrészben",
+        "a városrészben"
+      ],
+      "explanation_cs": "Ve které městské části je starý trh?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-29",
+      "type": "recall",
+      "vocabulary_id": "terkep",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde je vidět červená trasa?",
+      "sentence_hu": "Hol látható a piros útvonal?",
+      "accepted_answers": [
+        "a térképen"
+      ],
+      "explanation_cs": "Kde je vidět červená trasa?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-30",
+      "type": "recall",
+      "vocabulary_id": "foter",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde se koná týdenní trh?",
+      "sentence_hu": "Hol tartják a hetivásárt?",
+      "accepted_answers": [
+        "a főtéren"
+      ],
+      "explanation_cs": "Kde se koná týdenní trh?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-31",
+      "type": "recall",
+      "vocabulary_id": "utcasarok",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde stojí strážník?",
+      "sentence_hu": "Hol áll a rendőr?",
+      "accepted_answers": [
+        "az utcasarkon"
+      ],
+      "explanation_cs": "Kde stojí strážník?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-32",
+      "type": "recall",
+      "vocabulary_id": "utjelzo",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde je nápis?",
+      "sentence_hu": "Hol van a felirat?",
+      "accepted_answers": [
+        "az útjelzőn"
+      ],
+      "explanation_cs": "Kde je nápis?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-33",
+      "type": "recall",
+      "vocabulary_id": "foter",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde čeká kočár?",
+      "sentence_hu": "Hol vár a hintó?",
+      "accepted_answers": [
+        "a főtérnél"
+      ],
+      "explanation_cs": "Kde čeká kočár?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-34",
+      "type": "recall",
+      "vocabulary_id": "atkelo",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde čeká chodec?",
+      "sentence_hu": "Hol vár a gyalogos?",
+      "accepted_answers": [
+        "az átkelőnél"
+      ],
+      "explanation_cs": "Kde čeká chodec?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-35",
+      "type": "recall",
+      "vocabulary_id": "keresztezodes",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde se turista ptá na cestu?",
+      "sentence_hu": "Hol kér útbaigazítást a turista?",
+      "accepted_answers": [
+        "a kereszteződésnél"
+      ],
+      "explanation_cs": "Kde se turista ptá na cestu?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-36",
+      "type": "recall",
+      "vocabulary_id": "foter",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde se setkávají obyvatelé města?",
+      "sentence_hu": "Hol találkoznak a városlakók?",
+      "accepted_answers": [
+        "a főtérnél"
+      ],
+      "explanation_cs": "Kde se setkávají obyvatelé města?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-37",
+      "type": "recall",
+      "vocabulary_id": "innen",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kudy jde pošťák?",
+      "sentence_hu": "Hol halad a postás?",
+      "accepted_answers": [
+        "az útvonalon"
+      ],
+      "explanation_cs": "Odkud je vidět Dunaj?"
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-38",
+      "type": "order",
+      "vocabulary_id": "terkep",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A turista kinyitja a térképet.",
+      "words_hu": [
+        "térképet.",
+        "a",
+        "kinyitja",
+        "turista",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "turista",
+          "kinyitja",
+          "a",
+          "térképet."
+        ]
+      ],
+      "explanation_cs": "Turista rozloží mapu."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-39",
+      "type": "order",
+      "vocabulary_id": "utvonal",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A postás követi az útvonalat.",
+      "words_hu": [
+        "útvonalat.",
+        "az",
+        "követi",
+        "postás",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "postás",
+          "követi",
+          "az",
+          "útvonalat."
+        ]
+      ],
+      "explanation_cs": "Pošťák sleduje trasu."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-40",
+      "type": "order",
+      "vocabulary_id": "iranytu",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A vándor magával viszi az iránytűt.",
+      "words_hu": [
+        "iránytűt.",
+        "az",
+        "viszi",
+        "magával",
+        "vándor",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "vándor",
+          "magával",
+          "viszi",
+          "az",
+          "iránytűt."
+        ]
+      ],
+      "explanation_cs": "Poutník si vezme kompas."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-41",
+      "type": "order",
+      "vocabulary_id": "keresztezodes",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A rendőr megmutatja a kereszteződést.",
+      "words_hu": [
+        "kereszteződést.",
+        "a",
+        "megmutatja",
+        "rendőr",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "rendőr",
+          "megmutatja",
+          "a",
+          "kereszteződést."
+        ]
+      ],
+      "explanation_cs": "Strážník ukáže křižovatku."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-42",
+      "type": "order",
+      "vocabulary_id": "belvaros",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A városháza a belvárosban áll.",
+      "words_hu": [
+        "áll.",
+        "belvárosban",
+        "a",
+        "városháza",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városháza",
+          "a",
+          "belvárosban",
+          "áll."
+        ]
+      ],
+      "explanation_cs": "Radnice stojí v centru města."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-43",
+      "type": "order",
+      "vocabulary_id": "kulvaros",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A kert a külvárosban terül el.",
+      "words_hu": [
+        "el.",
+        "terül",
+        "külvárosban",
+        "a",
+        "kert",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "kert",
+          "a",
+          "külvárosban",
+          "terül",
+          "el."
+        ]
+      ],
+      "explanation_cs": "Zahrada leží na předměstí."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-44",
+      "type": "order",
+      "vocabulary_id": "atjaro",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A gyalogos az átjáróban megy át.",
+      "words_hu": [
+        "át.",
+        "megy",
+        "átjáróban",
+        "az",
+        "gyalogos",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "gyalogos",
+          "az",
+          "átjáróban",
+          "megy",
+          "át."
+        ]
+      ],
+      "explanation_cs": "Chodec prochází průchodem."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-45",
+      "type": "order",
+      "vocabulary_id": "varosresz",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "Ez a városrész a Duna közelében van.",
+      "words_hu": [
+        "van.",
+        "közelében",
+        "Duna",
+        "a",
+        "városrész",
+        "a",
+        "Ez"
+      ],
+      "accepted_orders": [
+        [
+          "Ez",
+          "a",
+          "városrész",
+          "a",
+          "Duna",
+          "közelében",
+          "van."
+        ]
+      ],
+      "explanation_cs": "Tato městská část leží blízko Dunaje."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-46",
+      "type": "order",
+      "vocabulary_id": "terkep",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A piros vonal a térképen látható.",
+      "words_hu": [
+        "látható.",
+        "térképen",
+        "a",
+        "vonal",
+        "piros",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "piros",
+          "vonal",
+          "a",
+          "térképen",
+          "látható."
+        ]
+      ],
+      "explanation_cs": "Červená čára je vidět na mapě."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-47",
+      "type": "order",
+      "vocabulary_id": "utcasarok",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A rendőr az utcasarkon áll.",
+      "words_hu": [
+        "áll.",
+        "utcasarkon",
+        "az",
+        "rendőr",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "rendőr",
+          "az",
+          "utcasarkon",
+          "áll."
+        ]
+      ],
+      "explanation_cs": "Strážník stojí na rohu ulice."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-48",
+      "type": "order",
+      "vocabulary_id": "foter",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A hetivásárt a főtéren tartják.",
+      "words_hu": [
+        "tartják.",
+        "főtéren",
+        "a",
+        "hetivásárt",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "hetivásárt",
+          "a",
+          "főtéren",
+          "tartják."
+        ]
+      ],
+      "explanation_cs": "Týdenní trh se koná na hlavním náměstí."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-49",
+      "type": "order",
+      "vocabulary_id": "utjelzo",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A tábla az útjelzőn van.",
+      "words_hu": [
+        "van.",
+        "útjelzőn",
+        "az",
+        "tábla",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "tábla",
+          "az",
+          "útjelzőn",
+          "van."
+        ]
+      ],
+      "explanation_cs": "Tabule je na směrovce."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-50",
+      "type": "order",
+      "vocabulary_id": "keresztezodes",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A kalauz a kereszteződésnél vár.",
+      "words_hu": [
+        "vár.",
+        "kereszteződésnél",
+        "a",
+        "kalauz",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "kalauz",
+          "a",
+          "kereszteződésnél",
+          "vár."
+        ]
+      ],
+      "explanation_cs": "Průvodčí čeká u křižovatky."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-51",
+      "type": "order",
+      "vocabulary_id": "foter",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A hintó a főtérnél áll meg.",
+      "words_hu": [
+        "meg.",
+        "áll",
+        "főtérnél",
+        "a",
+        "hintó",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "hintó",
+          "a",
+          "főtérnél",
+          "áll",
+          "meg."
+        ]
+      ],
+      "explanation_cs": "Kočár zastaví u hlavního náměstí."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-52",
+      "type": "order",
+      "vocabulary_id": "utcasarok",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A postás az utcasaroknál kérdez.",
+      "words_hu": [
+        "kérdez.",
+        "utcasaroknál",
+        "az",
+        "postás",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "postás",
+          "az",
+          "utcasaroknál",
+          "kérdez."
+        ]
+      ],
+      "explanation_cs": "Pošťák se ptá u rohu ulice."
+    },
+    {
+      "id": "iranyok-es-helyek-grammar-53",
+      "type": "order",
+      "vocabulary_id": "atkelo",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A gyalogos az átkelőnél vár.",
+      "words_hu": [
+        "vár.",
+        "átkelőnél",
+        "az",
+        "gyalogos",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "gyalogos",
+          "az",
+          "átkelőnél",
+          "vár."
+        ]
+      ],
+      "explanation_cs": "Chodec čeká u přechodu."
+    }
+  ],
+  "stories": [
+    {
+      "id": "iranyok-es-helyek-story-01",
+      "title_cs": "Cesta na poštu",
+      "title_hu": "Út a postára",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "iranyok-es-helyek"
+      ],
+      "curriculum_lesson_id": "iranyok-es-helyek",
+      "new_vocabulary_ids": [
+        "merre",
+        "jobbra",
+        "balra",
+        "egyenesen",
+        "foter"
+      ],
+      "vocabulary_ids": [
+        "merre",
+        "jobbra",
+        "balra",
+        "egyenesen",
+        "foter"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban egy látogató megkérdezi: "
+        },
+        {
+          "text": "Merre",
+          "vocabulary_id": "merre"
+        },
+        {
+          "text": " van a posta? A kalauz azt mondja: menjen "
+        },
+        {
+          "text": "egyenesen",
+          "vocabulary_id": "egyenesen"
+        },
+        {
+          "text": ", majd forduljon "
+        },
+        {
+          "text": "jobbra",
+          "vocabulary_id": "jobbra"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "főtérnél",
+          "vocabulary_id": "foter"
+        },
+        {
+          "text": " ne forduljon "
+        },
+        {
+          "text": "balra",
+          "vocabulary_id": "balra"
+        },
+        {
+          "text": ", mert a posta a téren áll."
+        }
+      ],
+      "questions": [
+        {
+          "id": "iranyok-es-helyek-story-01-question",
+          "prompt_cs": "Kam má návštěvník odbočit?",
+          "options_cs": [
+            "Doprava.",
+            "Doleva.",
+            "Zpět."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A kalauz azt mondja: forduljon jobbra."
+        }
+      ],
+      "translation_cs": "V roce 1913 se návštěvník zeptá: Kudy se jde na poštu? Průvodčí mu řekne, aby šel rovně a potom odbočil doprava. U hlavního náměstí nemá odbočit doleva, protože pošta stojí na náměstí."
+    },
+    {
+      "id": "iranyok-es-helyek-story-02",
+      "title_cs": "Červená trasa",
+      "title_hu": "A piros útvonal",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "iranyok-es-helyek"
+      ],
+      "curriculum_lesson_id": "iranyok-es-helyek",
+      "new_vocabulary_ids": [
+        "terkep",
+        "utvonal",
+        "belvaros",
+        "kulvaros",
+        "tavolsag"
+      ],
+      "vocabulary_ids": [
+        "terkep",
+        "utvonal",
+        "belvaros",
+        "kulvaros",
+        "tavolsag"
+      ],
+      "segments": [
+        {
+          "text": "A turista kiteríti a "
+        },
+        {
+          "text": "térképet",
+          "vocabulary_id": "terkep"
+        },
+        {
+          "text": ". A piros "
+        },
+        {
+          "text": "útvonal",
+          "vocabulary_id": "utvonal"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "külvárosból",
+          "vocabulary_id": "kulvaros"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "belvárosba",
+          "vocabulary_id": "belvaros"
+        },
+        {
+          "text": " vezet. A "
+        },
+        {
+          "text": "távolság",
+          "vocabulary_id": "tavolsag"
+        },
+        {
+          "text": " hosszú, ezért a férfi villamossal utazik."
+        }
+      ],
+      "questions": [
+        {
+          "id": "iranyok-es-helyek-story-02-question",
+          "prompt_cs": "Odkud kam vede červená trasa?",
+          "options_cs": [
+            "Z předměstí do centra.",
+            "Z přístavu na nádraží.",
+            "Z parku do zahrady."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A piros útvonal a külvárosból a belvárosba vezet."
+        }
+      ],
+      "translation_cs": "Turista rozloží mapu. Červená trasa vede z předměstí do centra. Vzdálenost je dlouhá, proto muž jede tramvají."
+    },
+    {
+      "id": "iranyok-es-helyek-story-03",
+      "title_cs": "U křižovatky",
+      "title_hu": "A kereszteződésnél",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "iranyok-es-helyek"
+      ],
+      "curriculum_lesson_id": "iranyok-es-helyek",
+      "new_vocabulary_ids": [
+        "keresztezodes",
+        "utcasarok",
+        "utjelzo",
+        "jelzes",
+        "atjaro"
+      ],
+      "vocabulary_ids": [
+        "keresztezodes",
+        "utcasarok",
+        "utjelzo",
+        "jelzes",
+        "atjaro"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "kereszteződésben",
+          "vocabulary_id": "keresztezodes"
+        },
+        {
+          "text": " a rendőr a "
+        },
+        {
+          "text": "jelzést",
+          "vocabulary_id": "jelzes"
+        },
+        {
+          "text": " mutatja. A sárga "
+        },
+        {
+          "text": "útjelző",
+          "vocabulary_id": "utjelzo"
+        },
+        {
+          "text": " a közeli "
+        },
+        {
+          "text": "átjáró",
+          "vocabulary_id": "atjaro"
+        },
+        {
+          "text": " felé irányítja a gyalogosokat. A másik "
+        },
+        {
+          "text": "utcasarkon",
+          "vocabulary_id": "utcasarok"
+        },
+        {
+          "text": " egy rendőr áll."
+        }
+      ],
+      "questions": [
+        {
+          "id": "iranyok-es-helyek-story-03-question",
+          "prompt_cs": "Kam ukazuje směrovka?",
+          "options_cs": [
+            "K průchodu.",
+            "K přístavu.",
+            "K hostinci."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Az útjelző az átjáró felé mutat."
+        }
+      ],
+      "translation_cs": "Na křižovatce ukazuje strážník znamení. Žlutá směrovka posílá chodce k nedalekému průchodu. Na druhém rohu ulice stojí další strážník."
+    },
+    {
+      "id": "iranyok-es-helyek-story-04",
+      "title_cs": "Pošťákova obchůzka",
+      "title_hu": "A postás útja",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "iranyok-es-helyek"
+      ],
+      "curriculum_lesson_id": "iranyok-es-helyek",
+      "new_vocabulary_ids": [
+        "vegig",
+        "korul",
+        "mindenutt",
+        "vissza",
+        "tovabb"
+      ],
+      "vocabulary_ids": [
+        "vegig",
+        "korul",
+        "mindenutt",
+        "vissza",
+        "tovabb"
+      ],
+      "segments": [
+        {
+          "text": "A postás "
+        },
+        {
+          "text": "végigmegy",
+          "vocabulary_id": "vegig"
+        },
+        {
+          "text": " a hosszú utcán. A piac "
+        },
+        {
+          "text": "körül",
+          "vocabulary_id": "korul"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mindenütt",
+          "vocabulary_id": "mindenutt"
+        },
+        {
+          "text": " emberek állnak. A leveleket kézbesíti, aztán "
+        },
+        {
+          "text": "vissza",
+          "vocabulary_id": "vissza"
+        },
+        {
+          "text": "indul a postára, és később "
+        },
+        {
+          "text": "továbbmegy",
+          "vocabulary_id": "tovabb"
+        },
+        {
+          "text": " a külváros felé."
+        }
+      ],
+      "questions": [
+        {
+          "id": "iranyok-es-helyek-story-04-question",
+          "prompt_cs": "Kam pošťák pokračuje?",
+          "options_cs": [
+            "K předměstí.",
+            "Do divadla.",
+            "Do přístavu."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A postás továbbmegy a külváros felé."
+        }
+      ],
+      "translation_cs": "Pošťák prochází celou dlouhou ulicí. Okolo trhu stojí všude lidé. Doručí dopisy, potom se vrací na poštu a později pokračuje směrem k předměstí."
+    },
+    {
+      "id": "iranyok-es-helyek-story-05",
+      "title_cs": "Setkání na náměstí",
+      "title_hu": "Találkozó a főtéren",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "iranyok-es-helyek"
+      ],
+      "curriculum_lesson_id": "iranyok-es-helyek",
+      "new_vocabulary_ids": [
+        "foter",
+        "szemben",
+        "mellett",
+        "elott",
+        "mogott",
+        "kozott",
+        "szalloda"
+      ],
+      "vocabulary_ids": [
+        "foter",
+        "szemben",
+        "mellett",
+        "elott",
+        "mogott",
+        "kozott",
+        "szalloda"
+      ],
+      "segments": [
+        {
+          "text": "Két ismerős a "
+        },
+        {
+          "text": "főtéren",
+          "vocabulary_id": "foter"
+        },
+        {
+          "text": " találkozik. A színház a kávéházzal "
+        },
+        {
+          "text": "szemben",
+          "vocabulary_id": "szemben"
+        },
+        {
+          "text": " áll, a posta pedig a "
+        },
+        {
+          "text": "szálloda",
+          "vocabulary_id": "szalloda"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "mellett",
+          "vocabulary_id": "mellett"
+        },
+        {
+          "text": " van. A hintók a színház "
+        },
+        {
+          "text": "előtt",
+          "vocabulary_id": "elott"
+        },
+        {
+          "text": " várnak, a park a templom "
+        },
+        {
+          "text": "mögött",
+          "vocabulary_id": "mogott"
+        },
+        {
+          "text": " terül el. A két épület "
+        },
+        {
+          "text": "között",
+          "vocabulary_id": "kozott"
+        },
+        {
+          "text": " keskeny utca húzódik."
+        }
+      ],
+      "questions": [
+        {
+          "id": "iranyok-es-helyek-story-05-question",
+          "prompt_cs": "Kde čekají kočáry?",
+          "options_cs": [
+            "Před divadlem.",
+            "Za kostelem.",
+            "Vedle hotelu."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A hintók a színház előtt várnak."
+        }
+      ],
+      "translation_cs": "Dva známí se setkají na hlavním náměstí. Divadlo stojí naproti kavárně a pošta je vedle hotelu. Kočáry čekají před divadlem, park se rozkládá za kostelem. Mezi oběma budovami vede úzká ulice."
+    }
+  ]
+}

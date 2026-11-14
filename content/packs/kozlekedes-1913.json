@@ -1,5 +1,5 @@
 {
-  "order": 13,
+  "order": 33,
   "lesson": {
     "id": "kozlekedes-1913",
     "theme_id": "uhersko-1913",
@@ -12,7 +12,7 @@
     "duration_min": 8,
     "xp_required": 560,
     "prerequisite_lesson_ids": [
-      "posta-1913"
+      "cesta-vlakem-1913"
     ],
     "vocabulary_ids": [
       "lo",
@@ -76,7 +76,11 @@
         }
       ],
       "example_hu": "A ló a téren van.",
-      "example_cs": "Kůň je na náměstí."
+      "example_cs": "Kůň je na náměstí.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
     },
     {
       "id": "kocsi",
@@ -106,7 +110,11 @@
         }
       ],
       "example_hu": "A vendég kocsival megy a szállodába.",
-      "example_cs": "Host jede do hotelu kočárem."
+      "example_cs": "Host jede do hotelu kočárem.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
     },
     {
       "id": "kocsis",
@@ -123,7 +131,12 @@
         }
       ],
       "example_hu": "A kocsis a téren van.",
-      "example_cs": "Kočí je na náměstí."
+      "example_cs": "Kočí je na náměstí.",
+      "tags": [
+        "q3",
+        "professions_industry",
+        "travel_transport"
+      ]
     },
     {
       "id": "villamos",
@@ -153,7 +166,12 @@
         }
       ],
       "example_hu": "A család villamossal megy.",
-      "example_cs": "Rodina jede tramvají."
+      "example_cs": "Rodina jede tramvají.",
+      "tags": [
+        "q3",
+        "travel_transport",
+        "tech_1914"
+      ]
     },
     {
       "id": "var",
@@ -170,7 +188,11 @@
         }
       ],
       "example_hu": "A vendég a téren vár.",
-      "example_cs": "Host čeká na náměstí."
+      "example_cs": "Host čeká na náměstí.",
+      "tags": [
+        "q3",
+        "verb_active"
+      ]
     }
   ],
   "grammar": [
@@ -203,6 +225,9 @@
       "notes_cs": [
         "U slov zakončených souhláskou se v -val/-vel zdvojí poslední souhláska: vonat + -val = vonattal.",
         "Význam závisí na větě: villamossal megy = jede tramvají; lóval van = je s koněm."
+      ],
+      "tags": [
+        "q3"
       ]
     }
   ],
@@ -529,5 +554,6 @@
       ],
       "translation_cs": "V roce 1913 je Anna v Budapešti. Ve městě jezdí tramvaj. Anna jede tramvají na náměstí. Náměstí je ve městě. Host čeká na náměstí. Kočí je také na náměstí. Kůň je na náměstí. Kočár je na náměstí. Host jede kočárem do hotelu. Anna jede tramvají do muzea. Muzeum je na náměstí. Večer je Anna v hotelu."
     }
-  ]
+  ],
+  "quarter": "q3"
 }

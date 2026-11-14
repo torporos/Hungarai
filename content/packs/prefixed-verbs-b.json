@@ -1,0 +1,2843 @@
+{
+  "order": 50,
+  "quarter": "q4",
+  "lesson": {
+    "id": "prefixed-verbs-b",
+    "theme_id": "q4-society-1914",
+    "theme_title_cs": "Q4 · Společnost před rozpadem",
+    "module_number": 4,
+    "module_title_cs": "Úřady, názory a nejistota roku 1914",
+    "title_cs": "Slovesa s předponami II",
+    "description": "Společnost, úřady, kultura a nejistota v roce 1914; vyprávění nepřekračuje stanovený historický řez.",
+    "level": "Q4 · SPOLEČNOST V ROCE 1914",
+    "duration_min": 22,
+    "xp_required": 3100,
+    "prerequisite_lesson_ids": [
+      "prefixed-verbs-a"
+    ],
+    "vocabulary_ids": [
+      "elnyomni",
+      "elfojtani",
+      "elismerni",
+      "elzarni",
+      "elrejteni",
+      "elbujtatni",
+      "elhalasztani",
+      "elvenni",
+      "elvonni",
+      "beadni",
+      "bevallani",
+      "bejelolni",
+      "bevonulni",
+      "bekerulni",
+      "betartani",
+      "betiltani",
+      "beavatni",
+      "beilleszteni",
+      "bekoltozni",
+      "beiktatni",
+      "beidezni",
+      "besorozni",
+      "behivni",
+      "betorni",
+      "befolyasolni",
+      "beismerni",
+      "beavatkozni",
+      "beallitani",
+      "bevonni",
+      "bezarkozni",
+      "bevezetni",
+      "bekuldeni",
+      "bejelentkezni",
+      "belemartani",
+      "beilleszkedni",
+      "kiadni",
+      "kifizetni",
+      "kihirdetni",
+      "kijelenteni",
+      "kiutasitani",
+      "kiszabaditani",
+      "kifosztani",
+      "kicsalni",
+      "kiallni",
+      "kibekulni",
+      "kimondani",
+      "kivonulni",
+      "kirobbantani",
+      "kiemelni",
+      "kiirni"
+    ],
+    "new_vocabulary_ids": [
+      "elnyomni",
+      "elfojtani",
+      "elismerni",
+      "elzarni",
+      "elrejteni",
+      "elbujtatni",
+      "elhalasztani",
+      "elvenni",
+      "elvonni",
+      "beadni",
+      "bevallani",
+      "bejelolni",
+      "bevonulni",
+      "bekerulni",
+      "betartani",
+      "betiltani",
+      "beavatni",
+      "beilleszteni",
+      "bekoltozni",
+      "beiktatni",
+      "beidezni",
+      "besorozni",
+      "behivni",
+      "betorni",
+      "befolyasolni",
+      "beismerni",
+      "beavatkozni",
+      "beallitani",
+      "bevonni",
+      "bezarkozni",
+      "bevezetni",
+      "bekuldeni",
+      "bejelentkezni",
+      "belemartani",
+      "beilleszkedni",
+      "kiadni",
+      "kifizetni",
+      "kihirdetni",
+      "kijelenteni",
+      "kiutasitani",
+      "kiszabaditani",
+      "kifosztani",
+      "kicsalni",
+      "kiallni",
+      "kibekulni",
+      "kimondani",
+      "kivonulni",
+      "kirobbantani",
+      "kiemelni",
+      "kiirni"
+    ],
+    "grammar_ids": [
+      "q4-conditional-mood",
+      "q4-imperative-mood",
+      "q4-verbal-prefixes"
+    ],
+    "grammar_label_cs": "Podmiňovací způsob · rozkazy · slovesné předpony",
+    "exercise_ids": [
+      "prefixed-verbs-b-word-01",
+      "prefixed-verbs-b-word-02",
+      "prefixed-verbs-b-word-03",
+      "prefixed-verbs-b-word-04",
+      "prefixed-verbs-b-word-05",
+      "prefixed-verbs-b-word-06",
+      "prefixed-verbs-b-word-07",
+      "prefixed-verbs-b-word-08",
+      "prefixed-verbs-b-word-09",
+      "prefixed-verbs-b-word-10",
+      "prefixed-verbs-b-word-11",
+      "prefixed-verbs-b-word-12",
+      "prefixed-verbs-b-word-13",
+      "prefixed-verbs-b-word-14",
+      "prefixed-verbs-b-word-15",
+      "prefixed-verbs-b-word-16",
+      "prefixed-verbs-b-word-17",
+      "prefixed-verbs-b-word-18",
+      "prefixed-verbs-b-word-19",
+      "prefixed-verbs-b-word-20",
+      "prefixed-verbs-b-word-21",
+      "prefixed-verbs-b-word-22",
+      "prefixed-verbs-b-word-23",
+      "prefixed-verbs-b-word-24",
+      "prefixed-verbs-b-word-25",
+      "prefixed-verbs-b-word-26",
+      "prefixed-verbs-b-word-27",
+      "prefixed-verbs-b-word-28",
+      "prefixed-verbs-b-word-29",
+      "prefixed-verbs-b-word-30",
+      "prefixed-verbs-b-word-31",
+      "prefixed-verbs-b-word-32",
+      "prefixed-verbs-b-word-33",
+      "prefixed-verbs-b-word-34",
+      "prefixed-verbs-b-word-35",
+      "prefixed-verbs-b-word-36",
+      "prefixed-verbs-b-word-37",
+      "prefixed-verbs-b-word-38",
+      "prefixed-verbs-b-word-39",
+      "prefixed-verbs-b-word-40",
+      "prefixed-verbs-b-word-41",
+      "prefixed-verbs-b-word-42",
+      "prefixed-verbs-b-word-43",
+      "prefixed-verbs-b-word-44",
+      "prefixed-verbs-b-word-45",
+      "prefixed-verbs-b-word-46",
+      "prefixed-verbs-b-word-47",
+      "prefixed-verbs-b-word-48",
+      "prefixed-verbs-b-word-49",
+      "prefixed-verbs-b-word-50",
+      "prefixed-verbs-b-grammar-01",
+      "prefixed-verbs-b-grammar-02",
+      "prefixed-verbs-b-grammar-03",
+      "prefixed-verbs-b-grammar-04",
+      "prefixed-verbs-b-grammar-05",
+      "prefixed-verbs-b-grammar-06",
+      "prefixed-verbs-b-grammar-07",
+      "prefixed-verbs-b-grammar-08",
+      "prefixed-verbs-b-grammar-09",
+      "prefixed-verbs-b-grammar-10",
+      "prefixed-verbs-b-grammar-11",
+      "prefixed-verbs-b-grammar-12",
+      "prefixed-verbs-b-grammar-13",
+      "prefixed-verbs-b-grammar-14",
+      "prefixed-verbs-b-grammar-15",
+      "prefixed-verbs-b-grammar-16",
+      "prefixed-verbs-b-grammar-17",
+      "prefixed-verbs-b-grammar-18",
+      "prefixed-verbs-b-grammar-19",
+      "prefixed-verbs-b-grammar-20",
+      "prefixed-verbs-b-grammar-21",
+      "prefixed-verbs-b-grammar-22",
+      "prefixed-verbs-b-grammar-23",
+      "prefixed-verbs-b-grammar-24",
+      "prefixed-verbs-b-grammar-25"
+    ],
+    "story_ids": [
+      "prefixed-verbs-b-story-01",
+      "prefixed-verbs-b-story-02",
+      "prefixed-verbs-b-story-03",
+      "prefixed-verbs-b-story-04"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "elnyomni",
+      "word": "elnyomni",
+      "translation_cs": "utlačit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elnyomni",
+          "translation_cs": "utlačit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elnyomni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „utlačit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "elfojtani",
+      "word": "elfojtani",
+      "translation_cs": "potlačit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elfojtani",
+          "translation_cs": "potlačit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elfojtani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „potlačit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "elismerni",
+      "word": "elismerni",
+      "translation_cs": "uznat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elismerni",
+          "translation_cs": "uznat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elismerni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „uznat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "elzarni",
+      "word": "elzárni",
+      "translation_cs": "uzavřít",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elzárni",
+          "translation_cs": "uzavřít",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elzárni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „uzavřít“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "elrejteni",
+      "word": "elrejteni",
+      "translation_cs": "schovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elrejteni",
+          "translation_cs": "schovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elrejteni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „schovat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "elbujtatni",
+      "word": "elbújtatni",
+      "translation_cs": "ukrýt někoho",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elbújtatni",
+          "translation_cs": "ukrýt někoho",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elbújtatni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „ukrýt někoho“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "elhalasztani",
+      "word": "elhalasztani",
+      "translation_cs": "odložit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elhalasztani",
+          "translation_cs": "odložit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elhalasztani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „odložit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "elvenni",
+      "word": "elvenni",
+      "translation_cs": "odebrat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elvenni",
+          "translation_cs": "odebrat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elvenni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „odebrat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "elvonni",
+      "word": "elvonni",
+      "translation_cs": "odvést",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elvonni",
+          "translation_cs": "odvést",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elvonni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „odvést“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "beadni",
+      "word": "beadni",
+      "translation_cs": "podat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beadni",
+          "translation_cs": "podat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beadni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „podat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "bevallani",
+      "word": "bevallani",
+      "translation_cs": "přiznat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bevallani",
+          "translation_cs": "přiznat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „bevallani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „přiznat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "bejelolni",
+      "word": "bejelölni",
+      "translation_cs": "označit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bejelölni",
+          "translation_cs": "označit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „bejelölni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „označit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "bevonulni",
+      "word": "bevonulni",
+      "translation_cs": "nastoupit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bevonulni",
+          "translation_cs": "nastoupit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „bevonulni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „nastoupit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "bekerulni",
+      "word": "bekerülni",
+      "translation_cs": "dostat se dovnitř",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bekerülni",
+          "translation_cs": "dostat se dovnitř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „bekerülni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „dostat se dovnitř“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "betartani",
+      "word": "betartani",
+      "translation_cs": "dodržet",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "betartani",
+          "translation_cs": "dodržet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „betartani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „dodržet“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "betiltani",
+      "word": "betiltani",
+      "translation_cs": "zakázat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "betiltani",
+          "translation_cs": "zakázat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „betiltani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zakázat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "beavatni",
+      "word": "beavatni",
+      "translation_cs": "zasvětit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beavatni",
+          "translation_cs": "zasvětit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beavatni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zasvětit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "beilleszteni",
+      "word": "beilleszteni",
+      "translation_cs": "začlenit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beilleszteni",
+          "translation_cs": "začlenit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beilleszteni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „začlenit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "bekoltozni",
+      "word": "beköltözni",
+      "translation_cs": "nastěhovat se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beköltözni",
+          "translation_cs": "nastěhovat se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beköltözni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „nastěhovat se“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "beiktatni",
+      "word": "beiktatni",
+      "translation_cs": "uvést do úřadu",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beiktatni",
+          "translation_cs": "uvést do úřadu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beiktatni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „uvést do úřadu“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "beidezni",
+      "word": "beidézni",
+      "translation_cs": "předvolat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beidézni",
+          "translation_cs": "předvolat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beidézni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „předvolat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "besorozni",
+      "word": "besorozni",
+      "translation_cs": "odvést do vojska",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "besorozni",
+          "translation_cs": "odvést do vojska",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „besorozni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „odvést do vojska“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "behivni",
+      "word": "behívni",
+      "translation_cs": "povolat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "behívni",
+          "translation_cs": "povolat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „behívni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „povolat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "betorni",
+      "word": "betörni",
+      "translation_cs": "vloupat se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "betörni",
+          "translation_cs": "vloupat se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „betörni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vloupat se“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "befolyasolni",
+      "word": "befolyásolni",
+      "translation_cs": "ovlivnit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "befolyásolni",
+          "translation_cs": "ovlivnit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „befolyásolni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „ovlivnit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "beismerni",
+      "word": "beismerni",
+      "translation_cs": "přiznat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beismerni",
+          "translation_cs": "přiznat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beismerni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „přiznat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "beavatkozni",
+      "word": "beavatkozni",
+      "translation_cs": "zasáhnout",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beavatkozni",
+          "translation_cs": "zasáhnout",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beavatkozni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zasáhnout“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "beallitani",
+      "word": "beállítani",
+      "translation_cs": "nastavit; dostavit se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beállítani",
+          "translation_cs": "nastavit; dostavit se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beállítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „nastavit; dostavit se“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "bevonni",
+      "word": "bevonni",
+      "translation_cs": "zapojit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bevonni",
+          "translation_cs": "zapojit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „bevonni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zapojit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "bezarkozni",
+      "word": "bezárkózni",
+      "translation_cs": "uzavřít se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bezárkózni",
+          "translation_cs": "uzavřít se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „bezárkózni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „uzavřít se“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "bevezetni",
+      "word": "bevezetni",
+      "translation_cs": "zavést",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bevezetni",
+          "translation_cs": "zavést",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „bevezetni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zavést“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "bekuldeni",
+      "word": "beküldeni",
+      "translation_cs": "poslat dovnitř",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beküldeni",
+          "translation_cs": "poslat dovnitř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beküldeni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „poslat dovnitř“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "bejelentkezni",
+      "word": "bejelentkezni",
+      "translation_cs": "ohlásit se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bejelentkezni",
+          "translation_cs": "ohlásit se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „bejelentkezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „ohlásit se“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "belemartani",
+      "word": "belemártani",
+      "translation_cs": "ponořit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "belemártani",
+          "translation_cs": "ponořit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „belemártani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „ponořit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "beilleszkedni",
+      "word": "beilleszkedni",
+      "translation_cs": "začlenit se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beilleszkedni",
+          "translation_cs": "začlenit se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beilleszkedni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „začlenit se“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kiadni",
+      "word": "kiadni",
+      "translation_cs": "vydat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kiadni",
+          "translation_cs": "vydat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kiadni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vydat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kifizetni",
+      "word": "kifizetni",
+      "translation_cs": "zaplatit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kifizetni",
+          "translation_cs": "zaplatit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kifizetni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zaplatit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kihirdetni",
+      "word": "kihirdetni",
+      "translation_cs": "vyhlásit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kihirdetni",
+          "translation_cs": "vyhlásit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kihirdetni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyhlásit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kijelenteni",
+      "word": "kijelenteni",
+      "translation_cs": "prohlásit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kijelenteni",
+          "translation_cs": "prohlásit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kijelenteni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „prohlásit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kiutasitani",
+      "word": "kiutasítani",
+      "translation_cs": "vyhostit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kiutasítani",
+          "translation_cs": "vyhostit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kiutasítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyhostit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kiszabaditani",
+      "word": "kiszabadítani",
+      "translation_cs": "osvobodit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kiszabadítani",
+          "translation_cs": "osvobodit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kiszabadítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „osvobodit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kifosztani",
+      "word": "kifosztani",
+      "translation_cs": "vyplenit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kifosztani",
+          "translation_cs": "vyplenit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kifosztani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyplenit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kicsalni",
+      "word": "kicsalni",
+      "translation_cs": "vylákat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kicsalni",
+          "translation_cs": "vylákat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kicsalni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vylákat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kiallni",
+      "word": "kiállni",
+      "translation_cs": "postavit se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kiállni",
+          "translation_cs": "postavit se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kiállni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „postavit se“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kibekulni",
+      "word": "kibékülni",
+      "translation_cs": "usmířit se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kibékülni",
+          "translation_cs": "usmířit se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kibékülni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „usmířit se“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kimondani",
+      "word": "kimondani",
+      "translation_cs": "vyslovit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kimondani",
+          "translation_cs": "vyslovit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kimondani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyslovit“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kivonulni",
+      "word": "kivonulni",
+      "translation_cs": "odejít v průvodu",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kivonulni",
+          "translation_cs": "odejít v průvodu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kivonulni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „odejít v průvodu“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kirobbantani",
+      "word": "kirobbantani",
+      "translation_cs": "vyvolat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kirobbantani",
+          "translation_cs": "vyvolat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kirobbantani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyvolat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kiemelni",
+      "word": "kiemelni",
+      "translation_cs": "vyzvednout",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kiemelni",
+          "translation_cs": "vyzvednout",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kiemelni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyzvednout“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    },
+    {
+      "id": "kiirni",
+      "word": "kiírni",
+      "translation_cs": "vypsat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kiírni",
+          "translation_cs": "vypsat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kiírni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vypsat“.",
+      "tags": [
+        "q4",
+        "verb_complex"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "prefixed-verbs-b-word-01",
+      "type": "cloze",
+      "vocabulary_id": "elnyomni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „utlačit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "elnyomni",
+        "elfojtani",
+        "elismerni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „elnyomni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-02",
+      "type": "recall",
+      "vocabulary_id": "elfojtani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „potlačit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "elfojtani"
+      ],
+      "explanation_cs": "A jegyző felírta a „elfojtani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-03",
+      "type": "order",
+      "vocabulary_id": "elismerni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „elismerni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„elismerni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„elismerni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „elismerni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-04",
+      "type": "cloze",
+      "vocabulary_id": "elzarni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „uzavřít“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "elzárni",
+        "elrejteni",
+        "elbújtatni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „elzárni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-05",
+      "type": "recall",
+      "vocabulary_id": "elrejteni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „schovat“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "elrejteni"
+      ],
+      "explanation_cs": "A jegyző felírta a „elrejteni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-06",
+      "type": "order",
+      "vocabulary_id": "elbujtatni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „elbújtatni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„elbújtatni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„elbújtatni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „elbújtatni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-07",
+      "type": "cloze",
+      "vocabulary_id": "elhalasztani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „odložit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "elhalasztani",
+        "elvenni",
+        "elvonni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „elhalasztani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-08",
+      "type": "recall",
+      "vocabulary_id": "elvenni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „odebrat“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "elvenni"
+      ],
+      "explanation_cs": "A jegyző felírta a „elvenni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-09",
+      "type": "order",
+      "vocabulary_id": "elvonni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „elvonni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„elvonni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„elvonni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „elvonni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-10",
+      "type": "cloze",
+      "vocabulary_id": "beadni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „podat“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "beadni",
+        "bevallani",
+        "bejelölni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „beadni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-11",
+      "type": "recall",
+      "vocabulary_id": "bevallani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „přiznat“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "bevallani"
+      ],
+      "explanation_cs": "A jegyző felírta a „bevallani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-12",
+      "type": "order",
+      "vocabulary_id": "bejelolni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „bejelölni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„bejelölni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„bejelölni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „bejelölni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-13",
+      "type": "cloze",
+      "vocabulary_id": "bevonulni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „nastoupit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "bevonulni",
+        "bekerülni",
+        "betartani"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „bevonulni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-14",
+      "type": "recall",
+      "vocabulary_id": "bekerulni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „dostat se dovnitř“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "bekerülni"
+      ],
+      "explanation_cs": "A jegyző felírta a „bekerülni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-15",
+      "type": "order",
+      "vocabulary_id": "betartani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „betartani” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„betartani”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„betartani”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „betartani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-16",
+      "type": "cloze",
+      "vocabulary_id": "betiltani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zakázat“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "betiltani",
+        "beavatni",
+        "beilleszteni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „betiltani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-17",
+      "type": "recall",
+      "vocabulary_id": "beavatni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zasvětit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "beavatni"
+      ],
+      "explanation_cs": "A jegyző felírta a „beavatni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-18",
+      "type": "order",
+      "vocabulary_id": "beilleszteni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „beilleszteni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„beilleszteni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„beilleszteni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „beilleszteni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-19",
+      "type": "cloze",
+      "vocabulary_id": "bekoltozni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „nastěhovat se“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "beköltözni",
+        "beiktatni",
+        "beidézni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „beköltözni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-20",
+      "type": "recall",
+      "vocabulary_id": "beiktatni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „uvést do úřadu“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "beiktatni"
+      ],
+      "explanation_cs": "A jegyző felírta a „beiktatni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-21",
+      "type": "order",
+      "vocabulary_id": "beidezni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „beidézni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„beidézni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„beidézni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „beidézni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-22",
+      "type": "cloze",
+      "vocabulary_id": "besorozni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „odvést do vojska“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "besorozni",
+        "behívni",
+        "betörni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „besorozni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-23",
+      "type": "recall",
+      "vocabulary_id": "behivni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „povolat“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "behívni"
+      ],
+      "explanation_cs": "A jegyző felírta a „behívni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-24",
+      "type": "order",
+      "vocabulary_id": "betorni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „betörni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„betörni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„betörni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „betörni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-25",
+      "type": "cloze",
+      "vocabulary_id": "befolyasolni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „ovlivnit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "befolyásolni",
+        "beismerni",
+        "beavatkozni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „befolyásolni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-26",
+      "type": "recall",
+      "vocabulary_id": "beismerni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „přiznat“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "beismerni"
+      ],
+      "explanation_cs": "A jegyző felírta a „beismerni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-27",
+      "type": "order",
+      "vocabulary_id": "beavatkozni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „beavatkozni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„beavatkozni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„beavatkozni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „beavatkozni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-28",
+      "type": "cloze",
+      "vocabulary_id": "beallitani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „nastavit; dostavit se“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "beállítani",
+        "bevonni",
+        "bezárkózni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „beállítani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-29",
+      "type": "recall",
+      "vocabulary_id": "bevonni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zapojit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "bevonni"
+      ],
+      "explanation_cs": "A jegyző felírta a „bevonni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-30",
+      "type": "order",
+      "vocabulary_id": "bezarkozni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „bezárkózni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„bezárkózni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„bezárkózni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „bezárkózni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-31",
+      "type": "cloze",
+      "vocabulary_id": "bevezetni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zavést“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "bevezetni",
+        "beküldeni",
+        "bejelentkezni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „bevezetni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-32",
+      "type": "recall",
+      "vocabulary_id": "bekuldeni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „poslat dovnitř“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "beküldeni"
+      ],
+      "explanation_cs": "A jegyző felírta a „beküldeni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-33",
+      "type": "order",
+      "vocabulary_id": "bejelentkezni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „bejelentkezni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„bejelentkezni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„bejelentkezni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „bejelentkezni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-34",
+      "type": "cloze",
+      "vocabulary_id": "belemartani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „ponořit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "belemártani",
+        "beilleszkedni",
+        "kiadni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „belemártani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-35",
+      "type": "recall",
+      "vocabulary_id": "beilleszkedni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „začlenit se“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "beilleszkedni"
+      ],
+      "explanation_cs": "A jegyző felírta a „beilleszkedni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-36",
+      "type": "order",
+      "vocabulary_id": "kiadni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „kiadni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„kiadni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„kiadni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „kiadni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-37",
+      "type": "cloze",
+      "vocabulary_id": "kifizetni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zaplatit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "kifizetni",
+        "kihirdetni",
+        "kijelenteni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „kifizetni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-38",
+      "type": "recall",
+      "vocabulary_id": "kihirdetni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „vyhlásit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "kihirdetni"
+      ],
+      "explanation_cs": "A jegyző felírta a „kihirdetni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-39",
+      "type": "order",
+      "vocabulary_id": "kijelenteni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „kijelenteni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„kijelenteni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„kijelenteni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „kijelenteni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-40",
+      "type": "cloze",
+      "vocabulary_id": "kiutasitani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „vyhostit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "kiutasítani",
+        "kiszabadítani",
+        "kifosztani"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „kiutasítani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-41",
+      "type": "recall",
+      "vocabulary_id": "kiszabaditani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „osvobodit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "kiszabadítani"
+      ],
+      "explanation_cs": "A jegyző felírta a „kiszabadítani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-42",
+      "type": "order",
+      "vocabulary_id": "kifosztani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „kifosztani” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„kifosztani”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„kifosztani”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „kifosztani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-43",
+      "type": "cloze",
+      "vocabulary_id": "kicsalni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „vylákat“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "kicsalni",
+        "kiállni",
+        "kibékülni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „kicsalni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-44",
+      "type": "recall",
+      "vocabulary_id": "kiallni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „postavit se“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "kiállni"
+      ],
+      "explanation_cs": "A jegyző felírta a „kiállni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-45",
+      "type": "order",
+      "vocabulary_id": "kibekulni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „kibékülni” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„kibékülni”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„kibékülni”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „kibékülni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-46",
+      "type": "cloze",
+      "vocabulary_id": "kimondani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „vyslovit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "kimondani",
+        "kivonulni",
+        "kirobbantani"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „kimondani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-47",
+      "type": "recall",
+      "vocabulary_id": "kivonulni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „odejít v průvodu“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "kivonulni"
+      ],
+      "explanation_cs": "A jegyző felírta a „kivonulni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-48",
+      "type": "order",
+      "vocabulary_id": "kirobbantani",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „kirobbantani” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„kirobbantani”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„kirobbantani”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „kirobbantani” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-49",
+      "type": "cloze",
+      "vocabulary_id": "kiemelni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „vyzvednout“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "kiemelni",
+        "kiírni",
+        "elnyomni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „kiemelni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-word-50",
+      "type": "recall",
+      "vocabulary_id": "kiirni",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „vypsat“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "kiírni"
+      ],
+      "explanation_cs": "A jegyző felírta a „kiírni” kifejezést a lapra."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-01",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „elvonni“ ministrovi.",
+      "sentence_hu": "A követ ______ a „elvonni” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „elvonni“ ministrovi."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-02",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „bejelölni“.",
+      "sentence_hu": "A hivatalnok ______ a „bejelölni” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „bejelölni“."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-03",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „betartani“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „betartani” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „betartani“, odpověděl by."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-04",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „beilleszteni“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „beilleszteni” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „beilleszteni“, rozhodla by."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-05",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „beidézni“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „beidézni” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „beidézni“, rada by rozhodla."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-06",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „betörni“!",
+      "sentence_hu": "Kérem, ______ alá a „betörni” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „betörni“!"
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-07",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „beavatkozni“!",
+      "sentence_hu": "Kérem, olvassa ______ a „beavatkozni” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „beavatkozni“!"
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-08",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „bezárkózni“!",
+      "sentence_hu": "Ne ______ a „bezárkózni” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „bezárkózni“!"
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-09",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „bejelentkezni“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „bejelentkezni” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „bejelentkezni“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-10",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „kiadni“.",
+      "sentence_hu": "A tanács ______ a „kiadni” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „kiadni“."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-11",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „kijelenteni“ ministrovi.",
+      "sentence_hu": "A követ ______ a „kijelenteni” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „kijelenteni“ ministrovi."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-12",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „kifosztani“.",
+      "sentence_hu": "A hivatalnok ______ a „kifosztani” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „kifosztani“."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-13",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „kibékülni“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „kibékülni” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „kibékülni“, odpověděl by."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-14",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „kirobbantani“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „kirobbantani” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „kirobbantani“, rozhodla by."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-15",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „elnyomni“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „elnyomni” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „elnyomni“, rada by rozhodla."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-16",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „elzárni“!",
+      "sentence_hu": "Kérem, ______ alá a „elzárni” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „elzárni“!"
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-17",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „elhalasztani“!",
+      "sentence_hu": "Kérem, olvassa ______ a „______halasztani” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „elhalasztani“!"
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-18",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „beadni“!",
+      "sentence_hu": "Ne ______ a „beadni” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „beadni“!"
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-19",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „bevonulni“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „bevonulni” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „bevonulni“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-20",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „betiltani“.",
+      "sentence_hu": "A tanács ______ a „betiltani” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „betiltani“."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-21",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „beköltözni“ ministrovi.",
+      "sentence_hu": "A követ ______ a „beköltözni” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „beköltözni“ ministrovi."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-22",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „besorozni“.",
+      "sentence_hu": "A hivatalnok ______ a „besorozni” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „besorozni“."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-23",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „befolyásolni“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „befolyásolni” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „befolyásolni“, odpověděl by."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-24",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „beállítani“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „beállítani” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „beállítani“, rozhodla by."
+    },
+    {
+      "id": "prefixed-verbs-b-grammar-25",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „bevezetni“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „bevezetni” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „bevezetni“, rada by rozhodla."
+    }
+  ],
+  "stories": [
+    {
+      "id": "prefixed-verbs-b-story-01",
+      "title_cs": "Žádost na úřadě · 1",
+      "title_hu": "Kérvény a hivatalban · 1",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "prefixed-verbs-b"
+      ],
+      "curriculum_lesson_id": "prefixed-verbs-b",
+      "new_vocabulary_ids": [
+        "elnyomni",
+        "elfojtani",
+        "elismerni"
+      ],
+      "vocabulary_ids": [
+        "elnyomni",
+        "elfojtani",
+        "elismerni"
+      ],
+      "segments": [
+        {
+          "text": "1914 tavaszán egy polgár kérelmet vitt a hivatalba. A jegyző a lap aljára három kifejezést írt: "
+        },
+        {
+          "text": "elnyomni",
+          "vocabulary_id": "elnyomni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "elfojtani",
+          "vocabulary_id": "elfojtani"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "elismerni",
+          "vocabulary_id": "elismerni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "prefixed-verbs-b-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na jaře 1914 přinesl občan žádost na úřad. Písař připsal na konec listu tři výrazy: utlačit, potlačit, uznat."
+    },
+    {
+      "id": "prefixed-verbs-b-story-02",
+      "title_cs": "Před soudním jednáním · 2",
+      "title_hu": "A tárgyalás előtt · 2",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "prefixed-verbs-b"
+      ],
+      "curriculum_lesson_id": "prefixed-verbs-b",
+      "new_vocabulary_ids": [
+        "elbujtatni",
+        "elhalasztani",
+        "elvenni"
+      ],
+      "vocabulary_ids": [
+        "elbujtatni",
+        "elhalasztani",
+        "elvenni"
+      ],
+      "segments": [
+        {
+          "text": "1914 elején a tanú nyugodtan várta a tárgyalást. A jegyzőkönyvben ezek a szavak szerepeltek: "
+        },
+        {
+          "text": "elbújtatni",
+          "vocabulary_id": "elbujtatni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "elhalasztani",
+          "vocabulary_id": "elhalasztani"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "elvenni",
+          "vocabulary_id": "elvenni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "prefixed-verbs-b-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na začátku roku 1914 svědek klidně čekal na jednání. V protokolu se objevila tato slova: ukrýt někoho, odložit, odebrat."
+    },
+    {
+      "id": "prefixed-verbs-b-story-03",
+      "title_cs": "Dopis z ministerstva · 3",
+      "title_hu": "Levél a minisztériumból · 3",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "prefixed-verbs-b"
+      ],
+      "curriculum_lesson_id": "prefixed-verbs-b",
+      "new_vocabulary_ids": [
+        "bevallani",
+        "bejelolni",
+        "bevonulni"
+      ],
+      "vocabulary_ids": [
+        "bevallani",
+        "bejelolni",
+        "bevonulni"
+      ],
+      "segments": [
+        {
+          "text": "1914-ben a követ levelet hozott a minisztériumból; a tanács még aznap megvitatta. A jegyzetbe ezt írták: "
+        },
+        {
+          "text": "bevallani",
+          "vocabulary_id": "bevallani"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "bejelölni",
+          "vocabulary_id": "bejelolni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "bevonulni",
+          "vocabulary_id": "bevonulni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "prefixed-verbs-b-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1914 přinesl vyslanec dopis z ministerstva a rada o něm téhož dne jednala. Do poznámek zapsali: přiznat, označit, nastoupit."
+    },
+    {
+      "id": "prefixed-verbs-b-story-04",
+      "title_cs": "Este a szalonban · 4",
+      "title_hu": "Večer v salonu · 4",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "prefixed-verbs-b"
+      ],
+      "curriculum_lesson_id": "prefixed-verbs-b",
+      "new_vocabulary_ids": [
+        "betiltani",
+        "beavatni",
+        "beilleszteni"
+      ],
+      "vocabulary_ids": [
+        "betiltani",
+        "beavatni",
+        "beilleszteni"
+      ],
+      "segments": [
+        {
+          "text": "1914 tavaszán a vendégek a szalonban zenéről és a város jövőjéről beszélgettek. A házigazda feljegyezte: "
+        },
+        {
+          "text": "betiltani",
+          "vocabulary_id": "betiltani"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "beavatni",
+          "vocabulary_id": "beavatni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "beilleszteni",
+          "vocabulary_id": "beilleszteni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "prefixed-verbs-b-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na jaře 1914 hovořili hosté v salonu o hudbě a budoucnosti města. Hostitel si poznamenal: zakázat, zasvětit, začlenit."
+    }
+  ]
+}

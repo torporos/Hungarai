@@ -1,5 +1,5 @@
 {
-  "order": 9,
+  "order": 22,
   "lesson": {
     "id": "budovy-ve-meste",
     "theme_id": "mesta",
@@ -27,9 +27,10 @@
       "iskola"
     ],
     "grammar_ids": [
-      "umisteni-v"
+      "umisteni-v",
+      "poloha-u-mista"
     ],
-    "grammar_label_cs": "Poloha -ban / -ben · místa ve městě",
+    "grammar_label_cs": "Poloha -ban / -ben · -nál / -nél",
     "exercise_ids": [
       "meaning-konyvtar",
       "recall-szinhazban",
@@ -64,7 +65,11 @@
         }
       ],
       "example_hu": "A könyvtár a városban van.",
-      "example_cs": "Knihovna je ve městě."
+      "example_cs": "Knihovna je ve městě.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "szinhaz",
@@ -88,7 +93,11 @@
         }
       ],
       "example_hu": "A színház a téren van.",
-      "example_cs": "Divadlo je na náměstí."
+      "example_cs": "Divadlo je na náměstí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "templom",
@@ -112,7 +121,11 @@
         }
       ],
       "example_hu": "A templom a városban van.",
-      "example_cs": "Kostel je ve městě."
+      "example_cs": "Kostel je ve městě.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "iskola",
@@ -136,10 +149,69 @@
         }
       ],
       "example_hu": "Az iskola a városban van.",
-      "example_cs": "Škola je ve městě."
+      "example_cs": "Škola je ve městě.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     }
   ],
-  "grammar": [],
+  "grammar": [
+    {
+      "id": "poloha-u-mista",
+      "title_cs": "Poloha u místa: -nál / -nél",
+      "level": "Q2 · MÍSTA A SMĚRY",
+      "summary_cs": "Přípony -nál a -nél vyjadřují polohu u konkrétního místa nebo osoby.",
+      "rule_cs": "K podstatnému jménu připojte -nál po zadních samohláskách a -nél po předních. Tvar často odpovídá českému „u“ nebo „při“: postánál = u pošty, kertnél = u zahrady. Nezaměňujte s -ban / -ben, které vyjadřuje polohu uvnitř.",
+      "groups": [
+        {
+          "name_cs": "Po zadních samohláskách",
+          "suffix_hu": "-nál",
+          "examples": [
+            {
+              "form_hu": "posta → postánál",
+              "translation_cs": "pošta → u pošty"
+            },
+            {
+              "form_hu": "szálloda → szállodánál",
+              "translation_cs": "hotel → u hotelu"
+            },
+            {
+              "form_hu": "A posta a szállodánál van.",
+              "translation_cs": "Pošta je u hotelu."
+            }
+          ]
+        },
+        {
+          "name_cs": "Po předních samohláskách",
+          "suffix_hu": "-nél",
+          "examples": [
+            {
+              "form_hu": "kert → kertnél",
+              "translation_cs": "zahrada → u zahrady"
+            },
+            {
+              "form_hu": "személy → személynél",
+              "translation_cs": "osoba → u osoby"
+            },
+            {
+              "form_hu": "A kertnél várok.",
+              "translation_cs": "Čekám u zahrady."
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Základní rozlišení: a postánál = u pošty, a postában = na poště / uvnitř pošty.",
+        "Slovo híd má přední í, ale užívá ustálený tvar hídnál.",
+        "Názvy zakončené samohláskou mohou při připojení přípony změnit pravopis."
+      ],
+      "tags": [
+        "q2",
+        "adessive_nal_nel"
+      ]
+    }
+  ],
   "exercises": [
     {
       "id": "meaning-konyvtar",
@@ -247,5 +319,6 @@
       "explanation_cs": "A könyv a könyvtárban van. Knihovna je místo, proto použijeme -ban."
     }
   ],
-  "stories": []
+  "stories": [],
+  "quarter": "q2"
 }

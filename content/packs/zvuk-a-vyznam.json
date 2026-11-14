@@ -87,7 +87,11 @@
         }
       ],
       "example_hu": "Az alma piros.",
-      "example_cs": "Jablko je červené."
+      "example_cs": "Jablko je červené.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
     },
     {
       "id": "viz",
@@ -122,7 +126,11 @@
         }
       ],
       "example_hu": "A víz hideg.",
-      "example_cs": "Voda je studená."
+      "example_cs": "Voda je studená.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
     },
     {
       "id": "kenyer",
@@ -151,7 +159,11 @@
         }
       ],
       "example_hu": "Kérek egy kenyeret.",
-      "example_cs": "Prosím si jeden chléb."
+      "example_cs": "Prosím si jeden chléb.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
     },
     {
       "id": "tej",
@@ -180,7 +192,11 @@
         }
       ],
       "example_hu": "Kérek tejet.",
-      "example_cs": "Prosím si mléko."
+      "example_cs": "Prosím si mléko.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
     },
     {
       "id": "kave",
@@ -209,7 +225,11 @@
         }
       ],
       "example_hu": "Kérek egy kávét.",
-      "example_cs": "Prosím si jednu kávu."
+      "example_cs": "Prosím si jednu kávu.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
     },
     {
       "id": "kerek",
@@ -238,7 +258,11 @@
         }
       ],
       "example_hu": "Kérek egy kávét.",
-      "example_cs": "Prosím si jednu kávu."
+      "example_cs": "Prosím si jednu kávu.",
+      "tags": [
+        "q1",
+        "verb_active"
+      ]
     },
     {
       "id": "mennyi",
@@ -254,7 +278,11 @@
         }
       ],
       "example_hu": "Mennyibe kerül?",
-      "example_cs": "Kolik to stojí?"
+      "example_cs": "Kolik to stojí?",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
     }
   ],
   "grammar": [
@@ -296,6 +324,11 @@
         "Věta Kérek egy almát znamená Prosím si jablko.",
         "Tvar se někdy mění víc než pouhým přidáním -t; učte se ho spolu s novým slovem.",
         "Například kenyér → kenyeret mění kmenovou samohlásku; alma → almát prodlužuje koncové a."
+      ],
+      "tags": [
+        "q1",
+        "q2",
+        "accusative_t"
       ]
     },
     {
@@ -335,6 +368,9 @@
       "notes_cs": [
         "Egy znamená jeden nebo jedna; v běžné objednávce odpovídá českému neurčitému členu.",
         "Mennyi? znamená Kolik?"
+      ],
+      "tags": [
+        "q1"
       ]
     }
   ],
@@ -590,5 +626,6 @@
       ],
       "translation_cs": "Anna je v domě. V domě je kniha. Kniha je v pokoji. V zahradě je taška. Taška je v zahradě. V zahradě je jablko. Jablko je v tašce. Kniha je v domě, taška je v zahradě. Anna je v zahradě. Jablko je v tašce."
     }
-  ]
+  ],
+  "quarter": "q1"
 }

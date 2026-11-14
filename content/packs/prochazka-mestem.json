@@ -1,5 +1,5 @@
 {
-  "order": 4,
+  "order": 21,
   "lesson": {
     "id": "prochazka-mestem",
     "theme_id": "mesta",
@@ -89,7 +89,11 @@
         }
       ],
       "example_hu": "A múzeum a téren van.",
-      "example_cs": "Muzeum je na náměstí."
+      "example_cs": "Muzeum je na náměstí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "hid",
@@ -118,7 +122,11 @@
         }
       ],
       "example_hu": "A híd közel van.",
-      "example_cs": "Most je blízko."
+      "example_cs": "Most je blízko.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "folyo",
@@ -147,7 +155,10 @@
         }
       ],
       "example_hu": "A folyó közel van.",
-      "example_cs": "Řeka je blízko."
+      "example_cs": "Řeka je blízko.",
+      "tags": [
+        "q2"
+      ]
     },
     {
       "id": "park",
@@ -176,7 +187,11 @@
         }
       ],
       "example_hu": "A park messze van.",
-      "example_cs": "Park je daleko."
+      "example_cs": "Park je daleko.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "muzeum",
@@ -211,7 +226,11 @@
         }
       ],
       "example_hu": "A múzeum a téren van.",
-      "example_cs": "Muzeum je na náměstí."
+      "example_cs": "Muzeum je na náměstí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "kavezo",
@@ -246,7 +265,11 @@
         }
       ],
       "example_hu": "A kávézó a téren van.",
-      "example_cs": "Kavárna je na náměstí."
+      "example_cs": "Kavárna je na náměstí.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
     },
     {
       "id": "bolt",
@@ -281,7 +304,11 @@
         }
       ],
       "example_hu": "A bolt a parkban van.",
-      "example_cs": "Obchod je v parku."
+      "example_cs": "Obchod je v parku.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
     },
     {
       "id": "kozel",
@@ -297,7 +324,11 @@
         }
       ],
       "example_hu": "A híd közel van.",
-      "example_cs": "Most je blízko."
+      "example_cs": "Most je blízko.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
     },
     {
       "id": "messze",
@@ -313,7 +344,11 @@
         }
       ],
       "example_hu": "A park messze van.",
-      "example_cs": "Park je daleko."
+      "example_cs": "Park je daleko.",
+      "tags": [
+        "q2",
+        "directions_positions"
+      ]
     },
     {
       "id": "van",
@@ -329,7 +364,11 @@
         }
       ],
       "example_hu": "A múzeum a téren van.",
-      "example_cs": "Muzeum je na náměstí."
+      "example_cs": "Muzeum je na náměstí.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
     }
   ],
   "grammar": [
@@ -381,6 +420,10 @@
         "Slovo híd obsahuje přední neutrální í, přesto má ustálený tvar hídon.",
         "Srovnejte význam: a parkban = v parku, a téren = na náměstí.",
         "Koncovka pro povrch nebo místo není vždy doslovný překlad českého předložkového pádu."
+      ],
+      "tags": [
+        "q2",
+        "superessive_on_en_on"
       ]
     }
   ],
@@ -588,5 +631,6 @@
       "explanation_cs": "A kávézó a téren van. Tvar téren označuje polohu na náměstí."
     }
   ],
-  "stories": []
+  "stories": [],
+  "quarter": "q2"
 }

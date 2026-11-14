@@ -1,5 +1,5 @@
 {
-  "order": 12,
+  "order": 24,
   "lesson": {
     "id": "posta-1913",
     "theme_id": "uhersko-1913",
@@ -12,7 +12,7 @@
     "duration_min": 9,
     "xp_required": 480,
     "prerequisite_lesson_ids": [
-      "cesta-vlakem-1913"
+      "doprava-a-cile"
     ],
     "vocabulary_ids": [
       "posta",
@@ -77,7 +77,11 @@
         }
       ],
       "example_hu": "A posta a téren van.",
-      "example_cs": "Pošta je na náměstí."
+      "example_cs": "Pošta je na náměstí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "level",
@@ -113,7 +117,11 @@
         }
       ],
       "example_hu": "Anna levelet ír.",
-      "example_cs": "Anna píše dopis."
+      "example_cs": "Anna píše dopis.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
     },
     {
       "id": "belyeg",
@@ -143,7 +151,11 @@
         }
       ],
       "example_hu": "A bélyeg a levélen van.",
-      "example_cs": "Známka je na dopisu."
+      "example_cs": "Známka je na dopisu.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
     },
     {
       "id": "cim",
@@ -173,7 +185,11 @@
         }
       ],
       "example_hu": "A cím a levélen van.",
-      "example_cs": "Adresa je na dopisu."
+      "example_cs": "Adresa je na dopisu.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "ir",
@@ -203,7 +219,11 @@
         }
       ],
       "example_hu": "Anna levelet ír.",
-      "example_cs": "Anna píše dopis."
+      "example_cs": "Anna píše dopis.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
     },
     {
       "id": "ad",
@@ -220,7 +240,11 @@
         }
       ],
       "example_hu": "A postás bélyeget ad Annának.",
-      "example_cs": "Pošťák dává Anně známku."
+      "example_cs": "Pošťák dává Anně známku.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
     },
     {
       "id": "postas",
@@ -244,7 +268,10 @@
         }
       ],
       "example_hu": "A postás a postán van.",
-      "example_cs": "Pošťák je na poště."
+      "example_cs": "Pošťák je na poště.",
+      "tags": [
+        "q2"
+      ]
     }
   ],
   "grammar": [
@@ -277,6 +304,9 @@
       "notes_cs": [
         "Volbu -nak/-nek řídí samohlásková harmonie.",
         "Vlastní jména se skloňují stejně: Anna → Annának, tedy Anně."
+      ],
+      "tags": [
+        "q2"
       ]
     }
   ],
@@ -631,5 +661,6 @@
       ],
       "translation_cs": "V roce 1913 je Anna v Budapešti. Rodina je v Praze. Anna je na poště. Píše dopis rodině. Adresa je na dopisu. Anna žádá o známku. Pošťák dá Anně známku. Známka je na dopisu. Anna píše dopis rodině. Pošta je na náměstí. Anna jde do hotelu."
     }
-  ]
+  ],
+  "quarter": "q2"
 }

@@ -1,0 +1,1043 @@
+{
+  "order": 16,
+  "lesson": {
+    "id": "szamok-b",
+    "theme_id": "q1-kazdodenni-zaklady",
+    "theme_title_cs": "Q1 · Každodenní základy",
+    "module_number": 2,
+    "module_title_cs": "Pořadí, dny a části dne",
+    "title_cs": "Pořadí, dny a části dne",
+    "description": "Pořadí, dny a části dne. Slovní zásoba a různorodé procvičení v historickém kontextu před rokem 1914.",
+    "level": "Q1 · ZÁKLADY",
+    "duration_min": 10,
+    "xp_required": 100,
+    "prerequisite_lesson_ids": [
+      "szamok-a"
+    ],
+    "vocabulary_ids": [
+      "elso",
+      "masodik",
+      "harmadik",
+      "negyedik",
+      "otodik",
+      "nap",
+      "honap",
+      "ev",
+      "ora",
+      "perc",
+      "reggel",
+      "delelott",
+      "del",
+      "delutan",
+      "este",
+      "ejszaka",
+      "ma",
+      "tegnap",
+      "holnap",
+      "most",
+      "koran",
+      "keson",
+      "hetfo",
+      "kedd",
+      "szerda",
+      "csutortok",
+      "pentek",
+      "szombat",
+      "vasarnap"
+    ],
+    "new_vocabulary_ids": [
+      "elso",
+      "masodik",
+      "harmadik",
+      "negyedik",
+      "otodik",
+      "nap",
+      "honap",
+      "ev",
+      "ora",
+      "perc",
+      "reggel",
+      "delelott",
+      "del",
+      "delutan",
+      "este",
+      "ejszaka",
+      "ma",
+      "tegnap",
+      "holnap",
+      "most",
+      "koran",
+      "keson",
+      "hetfo",
+      "kedd",
+      "szerda",
+      "csutortok",
+      "pentek",
+      "szombat",
+      "vasarnap"
+    ],
+    "grammar_ids": [
+      "q1-mnozne-cislo"
+    ],
+    "grammar_label_cs": "Tvoření množného čísla",
+    "exercise_ids": [
+      "q1-szamok-b-ex-01",
+      "q1-szamok-b-ex-02",
+      "q1-szamok-b-ex-03",
+      "q1-szamok-b-ex-04",
+      "q1-szamok-b-ex-05",
+      "q1-szamok-b-ex-06",
+      "q1-szamok-b-ex-07",
+      "q1-szamok-b-ex-08",
+      "q1-szamok-b-ex-09",
+      "q1-szamok-b-ex-10"
+    ],
+    "story_ids": [
+      "q1-szamok-b-story",
+      "q1-szamok-b-story-02",
+      "q1-szamok-b-story-03"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "elso",
+      "word": "első",
+      "translation_cs": "první",
+      "part_of_speech_cs": "řadová číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "első",
+          "translation_cs": "první",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ez az első.",
+      "example_cs": "To je první.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "masodik",
+      "word": "második",
+      "translation_cs": "druhý",
+      "part_of_speech_cs": "řadová číslovka",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "második",
+          "translation_cs": "druhý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ez a második.",
+      "example_cs": "To je druhý.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "harmadik",
+      "word": "harmadik",
+      "translation_cs": "třetí",
+      "part_of_speech_cs": "řadová číslovka",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "harmadik",
+          "translation_cs": "třetí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ez a harmadik.",
+      "example_cs": "To je třetí.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "negyedik",
+      "word": "negyedik",
+      "translation_cs": "čtvrtý",
+      "part_of_speech_cs": "řadová číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "negyedik",
+          "translation_cs": "čtvrtý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ez a negyedik.",
+      "example_cs": "To je čtvrtý.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "otodik",
+      "word": "ötödik",
+      "translation_cs": "pátý",
+      "part_of_speech_cs": "řadová číslovka",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ötödik",
+          "translation_cs": "pátý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ez az ötödik.",
+      "example_cs": "To je pátý.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "nap",
+      "word": "nap",
+      "translation_cs": "den",
+      "part_of_speech_cs": "podstatné jméno · čas",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nap",
+          "translation_cs": "den",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Egy nap gyorsan telik.",
+      "example_cs": "den rychle ubíhá.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "honap",
+      "word": "hónap",
+      "translation_cs": "měsíc",
+      "part_of_speech_cs": "podstatné jméno · čas",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hónap",
+          "translation_cs": "měsíc",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Egy hónap gyorsan telik.",
+      "example_cs": "měsíc rychle ubíhá.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "ev",
+      "word": "év",
+      "translation_cs": "rok",
+      "part_of_speech_cs": "podstatné jméno · čas",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "év",
+          "translation_cs": "rok",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Egy év gyorsan telik.",
+      "example_cs": "rok rychle ubíhá.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "ora",
+      "word": "óra",
+      "translation_cs": "hodina",
+      "part_of_speech_cs": "podstatné jméno · čas",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "óra",
+          "translation_cs": "hodina",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Egy óra gyorsan telik.",
+      "example_cs": "hodina rychle ubíhá.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "perc",
+      "word": "perc",
+      "translation_cs": "minuta",
+      "part_of_speech_cs": "podstatné jméno · čas",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "perc",
+          "translation_cs": "minuta",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Egy perc gyorsan telik.",
+      "example_cs": "minuta rychle ubíhá.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "reggel",
+      "word": "reggel",
+      "translation_cs": "ráno",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "reggel",
+          "translation_cs": "ráno",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „reggel” szó rövid.",
+      "example_cs": "Slovo „ráno“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "delelott",
+      "word": "délelőtt",
+      "translation_cs": "dopoledne",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "délelőtt",
+          "translation_cs": "dopoledne",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „délelőtt” szó rövid.",
+      "example_cs": "Slovo „dopoledne“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "del",
+      "word": "dél",
+      "translation_cs": "poledne",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "dél",
+          "translation_cs": "poledne",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „dél” szó rövid.",
+      "example_cs": "Slovo „poledne“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "delutan",
+      "word": "délután",
+      "translation_cs": "odpoledne",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "délután",
+          "translation_cs": "odpoledne",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „délután” szó rövid.",
+      "example_cs": "Slovo „odpoledne“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "este",
+      "word": "este",
+      "translation_cs": "večer",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "este",
+          "translation_cs": "večer",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „este” szó rövid.",
+      "example_cs": "Slovo „večer“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "ejszaka",
+      "word": "éjszaka",
+      "translation_cs": "noc",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "éjszaka",
+          "translation_cs": "noc",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „éjszaka” szó rövid.",
+      "example_cs": "Slovo „noc“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "ma",
+      "word": "ma",
+      "translation_cs": "dnes",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ma",
+          "translation_cs": "dnes",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „ma” szó rövid.",
+      "example_cs": "Slovo „dnes“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "tegnap",
+      "word": "tegnap",
+      "translation_cs": "včera",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tegnap",
+          "translation_cs": "včera",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „tegnap” szó rövid.",
+      "example_cs": "Slovo „včera“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "holnap",
+      "word": "holnap",
+      "translation_cs": "zítra",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "holnap",
+          "translation_cs": "zítra",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „holnap” szó rövid.",
+      "example_cs": "Slovo „zítra“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "most",
+      "word": "most",
+      "translation_cs": "teď",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "most",
+          "translation_cs": "teď",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „most” szó rövid.",
+      "example_cs": "Slovo „teď“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "koran",
+      "word": "korán",
+      "translation_cs": "brzy",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "korán",
+          "translation_cs": "brzy",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „korán” szó rövid.",
+      "example_cs": "Slovo „brzy“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "keson",
+      "word": "későn",
+      "translation_cs": "pozdě",
+      "part_of_speech_cs": "příslovce · čas",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "későn",
+          "translation_cs": "pozdě",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A „későn” szó rövid.",
+      "example_cs": "Slovo „pozdě“ je krátké.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "hetfo",
+      "word": "hétfő",
+      "translation_cs": "pondělí",
+      "part_of_speech_cs": "podstatné jméno · den v týdnu",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hétfő",
+          "translation_cs": "pondělí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ma hétfő van.",
+      "example_cs": "Dnes je pondělí.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "kedd",
+      "word": "kedd",
+      "translation_cs": "úterý",
+      "part_of_speech_cs": "podstatné jméno · den v týdnu",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kedd",
+          "translation_cs": "úterý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ma kedd van.",
+      "example_cs": "Dnes je úterý.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "szerda",
+      "word": "szerda",
+      "translation_cs": "středa",
+      "part_of_speech_cs": "podstatné jméno · den v týdnu",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szerda",
+          "translation_cs": "středa",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ma szerda van.",
+      "example_cs": "Dnes je středa.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "csutortok",
+      "word": "csütörtök",
+      "translation_cs": "čtvrtek",
+      "part_of_speech_cs": "podstatné jméno · den v týdnu",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csütörtök",
+          "translation_cs": "čtvrtek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ma csütörtök van.",
+      "example_cs": "Dnes je čtvrtek.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "pentek",
+      "word": "péntek",
+      "translation_cs": "pátek",
+      "part_of_speech_cs": "podstatné jméno · den v týdnu",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "péntek",
+          "translation_cs": "pátek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ma péntek van.",
+      "example_cs": "Dnes je pátek.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "szombat",
+      "word": "szombat",
+      "translation_cs": "sobota",
+      "part_of_speech_cs": "podstatné jméno · den v týdnu",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szombat",
+          "translation_cs": "sobota",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ma szombat van.",
+      "example_cs": "Dnes je sobota.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    },
+    {
+      "id": "vasarnap",
+      "word": "vasárnap",
+      "translation_cs": "neděle",
+      "part_of_speech_cs": "podstatné jméno · den v týdnu",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasárnap",
+          "translation_cs": "neděle",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ma vasárnap van.",
+      "example_cs": "Dnes je neděle.",
+      "tags": [
+        "q1",
+        "numbers_time"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q1-szamok-b-ex-01",
+      "type": "vocabulary",
+      "vocabulary_id": "elso",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „első“?",
+      "options_cs": [
+        "první",
+        "druhý",
+        "třetí"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "első znamená „první“."
+    },
+    {
+      "id": "q1-szamok-b-ex-02",
+      "type": "listening",
+      "vocabulary_id": "negyedik",
+      "type_label_cs": "Poslech",
+      "audio_text": "negyedik",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "čtvrtý",
+        "první",
+        "druhý"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "negyedik znamená „čtvrtý“."
+    },
+    {
+      "id": "q1-szamok-b-ex-03",
+      "type": "recall",
+      "vocabulary_id": "honap",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „měsíc“.",
+      "accepted_answers": [
+        "hónap"
+      ],
+      "sentence_hu": "Egy ______ gyorsan telik.",
+      "explanation_cs": "měsíc rychle ubíhá."
+    },
+    {
+      "id": "q1-szamok-b-ex-04",
+      "type": "cloze",
+      "vocabulary_id": "perc",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "Egy ______ gyorsan telik.",
+      "options_cs": [
+        "perc",
+        "első",
+        "második"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "minuta rychle ubíhá."
+    },
+    {
+      "id": "q1-szamok-b-ex-05",
+      "type": "order",
+      "vocabulary_id": "del",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "rövid.",
+        "szó",
+        "„dél”",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "„dél”",
+          "szó",
+          "rövid."
+        ]
+      ],
+      "explanation_cs": "Slovo „poledne“ je krátké."
+    },
+    {
+      "id": "q1-szamok-b-ex-06",
+      "type": "vocabulary",
+      "vocabulary_id": "ejszaka",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „éjszaka“?",
+      "options_cs": [
+        "noc",
+        "první",
+        "druhý"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "éjszaka znamená „noc“."
+    },
+    {
+      "id": "q1-szamok-b-ex-07",
+      "type": "listening",
+      "vocabulary_id": "holnap",
+      "type_label_cs": "Poslech",
+      "audio_text": "holnap",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "zítra",
+        "první",
+        "druhý"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "holnap znamená „zítra“."
+    },
+    {
+      "id": "q1-szamok-b-ex-08",
+      "type": "recall",
+      "vocabulary_id": "keson",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „pozdě“.",
+      "accepted_answers": [
+        "későn"
+      ],
+      "sentence_hu": "A „______” szó rövid.",
+      "explanation_cs": "Slovo „pozdě“ je krátké."
+    },
+    {
+      "id": "q1-szamok-b-ex-09",
+      "type": "cloze",
+      "vocabulary_id": "szerda",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "Ma ______ van.",
+      "options_cs": [
+        "szerda",
+        "első",
+        "második"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Dnes je středa."
+    },
+    {
+      "id": "q1-szamok-b-ex-10",
+      "type": "order",
+      "vocabulary_id": "szombat",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "van.",
+        "szombat",
+        "Ma"
+      ],
+      "accepted_orders": [
+        [
+          "Ma",
+          "szombat",
+          "van."
+        ]
+      ],
+      "explanation_cs": "Dnes je sobota."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-szamok-b-story",
+      "title_cs": "Týden rodiny",
+      "title_hu": "A család hete",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "szamok-b"
+      ],
+      "curriculum_lesson_id": "szamok-b",
+      "new_vocabulary_ids": [
+        "kedd",
+        "holnap"
+      ],
+      "vocabulary_ids": [
+        "kedd",
+        "holnap"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban egy hét hét napból áll. Ma "
+        },
+        {
+          "text": "kedd",
+          "vocabulary_id": "kedd"
+        },
+        {
+          "text": " van. "
+        },
+        {
+          "text": "Holnap",
+          "vocabulary_id": "holnap"
+        },
+        {
+          "text": " a család otthon van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-szamok-b-story-question",
+          "prompt_cs": "Kolik dní má týden?",
+          "options_cs": [
+            "Sedm.",
+            "Pět.",
+            "Dvanáct."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Týden má sedm dní: egy hét hét napból áll."
+        }
+      ],
+      "translation_cs": "V roce 1913 má týden sedm dní. Dnes je úterý. Zítra je rodina doma."
+    },
+    {
+      "id": "q1-szamok-b-story-02",
+      "title_cs": "Pondělní ráno",
+      "title_hu": "Hétfő reggel",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "szamok-b"
+      ],
+      "curriculum_lesson_id": "szamok-b",
+      "new_vocabulary_ids": [
+        "hetfo",
+        "reggel",
+        "este"
+      ],
+      "vocabulary_ids": [
+        "hetfo",
+        "reggel",
+        "este"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban ma "
+        },
+        {
+          "text": "hétfő",
+          "vocabulary_id": "hetfo"
+        },
+        {
+          "text": " van. "
+        },
+        {
+          "text": "Reggel",
+          "vocabulary_id": "reggel"
+        },
+        {
+          "text": " a család otthon van. "
+        },
+        {
+          "text": "Este",
+          "vocabulary_id": "este"
+        },
+        {
+          "text": " a szomszéd is itt van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-szamok-b-story-02-question",
+          "prompt_cs": "Kdy je rodina doma?",
+          "options_cs": [
+            "Ráno.",
+            "V poledne.",
+            "Zítra."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Ráno je rodina doma: Reggel a család otthon van."
+        }
+      ],
+      "translation_cs": "V roce 1913 je dnes pondělí. Ráno je rodina doma. Večer je tu také soused."
+    },
+    {
+      "id": "q1-szamok-b-story-03",
+      "title_cs": "Dnešek a zítřek",
+      "title_hu": "Ma és holnap",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "szamok-b"
+      ],
+      "curriculum_lesson_id": "szamok-b",
+      "new_vocabulary_ids": [
+        "ma",
+        "holnap",
+        "delutan"
+      ],
+      "vocabulary_ids": [
+        "ma",
+        "holnap",
+        "delutan"
+      ],
+      "segments": [
+        {
+          "text": "Ma",
+          "vocabulary_id": "ma"
+        },
+        {
+          "text": " kedd van. "
+        },
+        {
+          "text": "Holnap",
+          "vocabulary_id": "holnap"
+        },
+        {
+          "text": " szerda van. Most "
+        },
+        {
+          "text": "délután",
+          "vocabulary_id": "delutan"
+        },
+        {
+          "text": " van, és a család együtt pihen."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-szamok-b-story-03-question",
+          "prompt_cs": "Jaký den bude zítra?",
+          "options_cs": [
+            "Středa.",
+            "Pondělí.",
+            "Pátek."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Zítra je szerda."
+        }
+      ],
+      "translation_cs": "Dnes je úterý. Zítra je středa. Teď je odpoledne a rodina společně odpočívá."
+    }
+  ],
+  "quarter": "q1"
+}

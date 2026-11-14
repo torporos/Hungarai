@@ -1,7 +1,7 @@
 {
-  "order": 16,
+  "order": 9,
   "lesson": {
-    "id": "q1-kasarna",
+    "id": "kasarna",
     "theme_id": "q1-novacek-kasarny",
     "theme_title_cs": "Q1 · Nováček v kasárnách",
     "module_number": 3,
@@ -12,7 +12,7 @@
     "duration_min": 8,
     "xp_required": 800,
     "prerequisite_lesson_ids": [
-      "q1-uniforma"
+      "uniforma"
     ],
     "vocabulary_ids": [
       "kaszarnya",
@@ -73,7 +73,7 @@
           "form_hu": "kaszárnyák",
           "translation_cs": "kasárna (množné číslo)",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-kasarna"
+          "lesson_id": "kasarna"
         }
       ],
       "morphemes": [
@@ -102,7 +102,7 @@
           "form_hu": "laktanyák",
           "translation_cs": "posádky",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-kasarna"
+          "lesson_id": "kasarna"
         }
       ],
       "morphemes": [
@@ -131,7 +131,7 @@
           "form_hu": "ágyak",
           "translation_cs": "postele",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-kasarna"
+          "lesson_id": "kasarna"
         }
       ],
       "morphemes": [
@@ -160,7 +160,7 @@
           "form_hu": "takarók",
           "translation_cs": "přikrývky",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-kasarna"
+          "lesson_id": "kasarna"
         }
       ],
       "morphemes": [
@@ -189,7 +189,7 @@
           "form_hu": "lepedők",
           "translation_cs": "prostěradla",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-kasarna"
+          "lesson_id": "kasarna"
         }
       ],
       "morphemes": [
@@ -218,7 +218,7 @@
           "form_hu": "szalmazsákok",
           "translation_cs": "slamníky",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-kasarna"
+          "lesson_id": "kasarna"
         }
       ],
       "morphemes": [
@@ -247,7 +247,7 @@
           "form_hu": "ládák",
           "translation_cs": "truhly; bedny",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-kasarna"
+          "lesson_id": "kasarna"
         }
       ],
       "morphemes": [
@@ -276,7 +276,7 @@
           "form_hu": "szekrények",
           "translation_cs": "skříně",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-kasarna"
+          "lesson_id": "kasarna"
         }
       ],
       "morphemes": [
@@ -305,7 +305,7 @@
           "form_hu": "lámpák",
           "translation_cs": "lampy",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-kasarna"
+          "lesson_id": "kasarna"
         }
       ],
       "morphemes": [
@@ -334,7 +334,7 @@
           "form_hu": "gyertyák",
           "translation_cs": "svíčky",
           "grammar_id": "q1-mnozne-cislo",
-          "lesson_id": "q1-kasarna"
+          "lesson_id": "kasarna"
         }
       ],
       "morphemes": [
@@ -570,9 +570,9 @@
       "level": "Q1 · UHER PŘED ROKEM 1914",
       "reading_time_min": 2,
       "prerequisite_lesson_ids": [
-        "q1-kasarna"
+        "kasarna"
       ],
-      "curriculum_lesson_id": "q1-kasarna",
+      "curriculum_lesson_id": "kasarna",
       "new_vocabulary_ids": [
         "kaszarnya",
         "laktanya",
@@ -718,5 +718,6 @@
       ],
       "translation_cs": "Voják bydlí v kasárnách. Posádka je ve městě. V pokoji je postel. Na posteli je slamník. Na posteli je prostěradlo. Přikrývka je také na posteli. V pokoji je truhla. Skříň je vedle truhly. Lampa je na stole. Večer je na stole také svíčka. Voják odpočívá v pokoji."
     }
-  ]
+  ],
+  "quarter": "q1"
 }

@@ -1,0 +1,966 @@
+{
+  "order": 12,
+  "lesson": {
+    "id": "jidlo-a",
+    "theme_id": "q1-kazdodenni-zaklady",
+    "theme_title_cs": "Q1 · Každodenní základy",
+    "module_number": 2,
+    "module_title_cs": "Na trhu: maso, ryby a základní potraviny",
+    "title_cs": "Na trhu: maso, ryby a základní potraviny",
+    "description": "Na trhu: maso, ryby a základní potraviny. Slovní zásoba a různorodé procvičení v historickém kontextu před rokem 1914.",
+    "level": "Q1 · ZÁKLADY",
+    "duration_min": 10,
+    "xp_required": 100,
+    "prerequisite_lesson_ids": [
+      "cviciste"
+    ],
+    "vocabulary_ids": [
+      "hus",
+      "hal",
+      "marhahus",
+      "serteshus",
+      "csirke",
+      "kacsa",
+      "liba",
+      "vaj",
+      "tejfol",
+      "tejszin",
+      "turo",
+      "mez",
+      "cukor",
+      "so",
+      "bors",
+      "liszt",
+      "rizs",
+      "burgonya",
+      "krumpli",
+      "repa",
+      "sargarepa",
+      "hagyma",
+      "fokhagyma",
+      "kaposzta",
+      "uborka",
+      "paradicsom"
+    ],
+    "new_vocabulary_ids": [
+      "hus",
+      "hal",
+      "marhahus",
+      "serteshus",
+      "csirke",
+      "kacsa",
+      "liba",
+      "vaj",
+      "tejfol",
+      "tejszin",
+      "turo",
+      "mez",
+      "cukor",
+      "so",
+      "bors",
+      "liszt",
+      "rizs",
+      "burgonya",
+      "krumpli",
+      "repa",
+      "sargarepa",
+      "hagyma",
+      "fokhagyma",
+      "kaposzta",
+      "uborka",
+      "paradicsom"
+    ],
+    "grammar_ids": [
+      "q1-neurcite-casovani"
+    ],
+    "grammar_label_cs": "Přítomný čas · neurčité časování",
+    "exercise_ids": [
+      "q1-jidlo-a-ex-01",
+      "q1-jidlo-a-ex-02",
+      "q1-jidlo-a-ex-03",
+      "q1-jidlo-a-ex-04",
+      "q1-jidlo-a-ex-05",
+      "q1-jidlo-a-ex-06",
+      "q1-jidlo-a-ex-07",
+      "q1-jidlo-a-ex-08",
+      "q1-jidlo-a-ex-09",
+      "q1-jidlo-a-ex-10"
+    ],
+    "story_ids": [
+      "q1-jidlo-a-story",
+      "q1-jidlo-a-story-02",
+      "q1-jidlo-a-story-03"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "hus",
+      "word": "hús",
+      "translation_cs": "maso",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hús",
+          "translation_cs": "maso",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A hús finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "hal",
+      "word": "hal",
+      "translation_cs": "ryba",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hal",
+          "translation_cs": "ryba",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A hal finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "marhahus",
+      "word": "marhahús",
+      "translation_cs": "hovězí maso",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "marhahús",
+          "translation_cs": "hovězí maso",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A marhahús finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "serteshus",
+      "word": "sertéshús",
+      "translation_cs": "vepřové maso",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sertéshús",
+          "translation_cs": "vepřové maso",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A sertéshús finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "csirke",
+      "word": "csirke",
+      "translation_cs": "kuře",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csirke",
+          "translation_cs": "kuře",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A csirke finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "kacsa",
+      "word": "kacsa",
+      "translation_cs": "kachna",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kacsa",
+          "translation_cs": "kachna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kacsa finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "liba",
+      "word": "liba",
+      "translation_cs": "husa",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "liba",
+          "translation_cs": "husa",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A liba finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "vaj",
+      "word": "vaj",
+      "translation_cs": "máslo",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vaj",
+          "translation_cs": "máslo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vaj finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "tejfol",
+      "word": "tejföl",
+      "translation_cs": "zakysaná smetana",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tejföl",
+          "translation_cs": "zakysaná smetana",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A tejföl finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "tejszin",
+      "word": "tejszín",
+      "translation_cs": "smetana",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tejszín",
+          "translation_cs": "smetana",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A tejszín finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "turo",
+      "word": "túró",
+      "translation_cs": "tvaroh",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "túró",
+          "translation_cs": "tvaroh",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A túró finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "mez",
+      "word": "méz",
+      "translation_cs": "med",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "méz",
+          "translation_cs": "med",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A méz finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "cukor",
+      "word": "cukor",
+      "translation_cs": "cukr",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "cukor",
+          "translation_cs": "cukr",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A cukor finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "so",
+      "word": "só",
+      "translation_cs": "sůl",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "só",
+          "translation_cs": "sůl",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A só finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "bors",
+      "word": "bors",
+      "translation_cs": "pepř",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bors",
+          "translation_cs": "pepř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bors finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "liszt",
+      "word": "liszt",
+      "translation_cs": "mouka",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "liszt",
+          "translation_cs": "mouka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A liszt finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "rizs",
+      "word": "rizs",
+      "translation_cs": "rýže",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rizs",
+          "translation_cs": "rýže",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A rizs finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "burgonya",
+      "word": "burgonya",
+      "translation_cs": "brambory",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "burgonya",
+          "translation_cs": "brambory",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A burgonya finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "krumpli",
+      "word": "krumpli",
+      "translation_cs": "brambora",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "krumpli",
+          "translation_cs": "brambora",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A krumpli finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "repa",
+      "word": "répa",
+      "translation_cs": "mrkev",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "répa",
+          "translation_cs": "mrkev",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A répa finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "sargarepa",
+      "word": "sárgarépa",
+      "translation_cs": "karotka",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sárgarépa",
+          "translation_cs": "karotka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A sárgarépa finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "hagyma",
+      "word": "hagyma",
+      "translation_cs": "cibule",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hagyma",
+          "translation_cs": "cibule",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A hagyma finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "fokhagyma",
+      "word": "fokhagyma",
+      "translation_cs": "česnek",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fokhagyma",
+          "translation_cs": "česnek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A fokhagyma finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "kaposzta",
+      "word": "káposzta",
+      "translation_cs": "zelí",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "káposzta",
+          "translation_cs": "zelí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A káposzta finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "uborka",
+      "word": "uborka",
+      "translation_cs": "okurka",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "uborka",
+          "translation_cs": "okurka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az uborka finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "paradicsom",
+      "word": "paradicsom",
+      "translation_cs": "rajče",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "paradicsom",
+          "translation_cs": "rajče",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A paradicsom finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q1-jidlo-a-ex-01",
+      "type": "vocabulary",
+      "vocabulary_id": "hus",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „hús“?",
+      "options_cs": [
+        "maso",
+        "ryba",
+        "hovězí maso"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "hús znamená „maso“."
+    },
+    {
+      "id": "q1-jidlo-a-ex-02",
+      "type": "listening",
+      "vocabulary_id": "serteshus",
+      "type_label_cs": "Poslech",
+      "audio_text": "sertéshús",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "vepřové maso",
+        "maso",
+        "ryba"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "sertéshús znamená „vepřové maso“."
+    },
+    {
+      "id": "q1-jidlo-a-ex-03",
+      "type": "recall",
+      "vocabulary_id": "liba",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „husa“.",
+      "accepted_answers": [
+        "liba"
+      ],
+      "sentence_hu": "A ______ finom.",
+      "explanation_cs": "Je to chutné."
+    },
+    {
+      "id": "q1-jidlo-a-ex-04",
+      "type": "cloze",
+      "vocabulary_id": "tejszin",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "A ______ finom.",
+      "options_cs": [
+        "tejszín",
+        "hús",
+        "hal"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Je to chutné."
+    },
+    {
+      "id": "q1-jidlo-a-ex-05",
+      "type": "order",
+      "vocabulary_id": "cukor",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "finom.",
+        "cukor",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "cukor",
+          "finom."
+        ]
+      ],
+      "explanation_cs": "Je to chutné."
+    },
+    {
+      "id": "q1-jidlo-a-ex-06",
+      "type": "vocabulary",
+      "vocabulary_id": "liszt",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „liszt“?",
+      "options_cs": [
+        "mouka",
+        "maso",
+        "ryba"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "liszt znamená „mouka“."
+    },
+    {
+      "id": "q1-jidlo-a-ex-07",
+      "type": "listening",
+      "vocabulary_id": "krumpli",
+      "type_label_cs": "Poslech",
+      "audio_text": "krumpli",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "brambora",
+        "maso",
+        "ryba"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "krumpli znamená „brambora“."
+    },
+    {
+      "id": "q1-jidlo-a-ex-08",
+      "type": "recall",
+      "vocabulary_id": "hagyma",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „cibule“.",
+      "accepted_answers": [
+        "hagyma"
+      ],
+      "sentence_hu": "A ______ finom.",
+      "explanation_cs": "Je to chutné."
+    },
+    {
+      "id": "q1-jidlo-a-ex-09",
+      "type": "cloze",
+      "vocabulary_id": "uborka",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "Az ______ finom.",
+      "options_cs": [
+        "uborka",
+        "hús",
+        "hal"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Je to chutné."
+    },
+    {
+      "id": "q1-jidlo-a-ex-10",
+      "type": "order",
+      "vocabulary_id": "hal",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "finom.",
+        "hal",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "hal",
+          "finom."
+        ]
+      ],
+      "explanation_cs": "Je to chutné."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-jidlo-a-story",
+      "title_cs": "Na trhu v roce 1913",
+      "title_hu": "A piacon 1913-ban",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "jidlo-a"
+      ],
+      "curriculum_lesson_id": "jidlo-a",
+      "new_vocabulary_ids": [
+        "hus",
+        "hal"
+      ],
+      "vocabulary_ids": [
+        "hus",
+        "hal"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a piacon "
+        },
+        {
+          "text": "hús",
+          "vocabulary_id": "hus"
+        },
+        {
+          "text": " és "
+        },
+        {
+          "text": "hal",
+          "vocabulary_id": "hal"
+        },
+        {
+          "text": " van. Anna kenyeret kér. A család este együtt eszik."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-jidlo-a-story-question",
+          "prompt_cs": "Co si Anna žádá?",
+          "options_cs": [
+            "Chléb.",
+            "Knihu.",
+            "Jízdenku."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Anna si žádá chléb: Anna kenyeret kér."
+        }
+      ],
+      "translation_cs": "V roce 1913 je na trhu maso a ryba. Anna si žádá chléb. Rodina večer jí společně."
+    },
+    {
+      "id": "q1-jidlo-a-story-02",
+      "title_cs": "Sůl a brambory",
+      "title_hu": "Só és burgonya",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "jidlo-a"
+      ],
+      "curriculum_lesson_id": "jidlo-a",
+      "new_vocabulary_ids": [
+        "hus",
+        "hal",
+        "so"
+      ],
+      "vocabulary_ids": [
+        "hus",
+        "hal",
+        "so"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a piacon "
+        },
+        {
+          "text": "hús",
+          "vocabulary_id": "hus"
+        },
+        {
+          "text": " és "
+        },
+        {
+          "text": "hal",
+          "vocabulary_id": "hal"
+        },
+        {
+          "text": " van. A család burgonyát vesz. Anna "
+        },
+        {
+          "text": "só",
+          "vocabulary_id": "so"
+        },
+        {
+          "text": "t kér."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-jidlo-a-story-02-question",
+          "prompt_cs": "Co žádá Anna?",
+          "options_cs": [
+            "Sůl.",
+            "Cukr.",
+            "Máslo."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Anna žádá o sůl: Anna sót kér."
+        }
+      ],
+      "translation_cs": "V roce 1913 je na trhu maso a ryba. Rodina kupuje brambory. Anna žádá o sůl."
+    },
+    {
+      "id": "q1-jidlo-a-story-03",
+      "title_cs": "Mouka a rýže",
+      "title_hu": "Liszt és rizs",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "jidlo-a"
+      ],
+      "curriculum_lesson_id": "jidlo-a",
+      "new_vocabulary_ids": [
+        "liszt",
+        "rizs"
+      ],
+      "vocabulary_ids": [
+        "liszt",
+        "rizs"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a piacon "
+        },
+        {
+          "text": "liszt",
+          "vocabulary_id": "liszt"
+        },
+        {
+          "text": " és "
+        },
+        {
+          "text": "rizs",
+          "vocabulary_id": "rizs"
+        },
+        {
+          "text": " van. Az apa babot vesz. A család együtt ebédel."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-jidlo-a-story-03-question",
+          "prompt_cs": "Co kupuje otec?",
+          "options_cs": [
+            "Fazole.",
+            "Hrušky.",
+            "Koláč."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Otec kupuje fazole: Az apa babot vesz."
+        }
+      ],
+      "translation_cs": "V roce 1913 je na trhu mouka a rýže. Otec kupuje fazole. Rodina společně obědvá."
+    }
+  ],
+  "quarter": "q1"
+}

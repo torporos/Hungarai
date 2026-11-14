@@ -1,5 +1,5 @@
 {
-  "order": 6,
+  "order": 3,
   "lesson": {
     "id": "doma-predmety",
     "theme_id": "domov",
@@ -64,7 +64,10 @@
         }
       ],
       "example_hu": "A házban van egy ajtó.",
-      "example_cs": "V domě jsou dveře."
+      "example_cs": "V domě jsou dveře.",
+      "tags": [
+        "q1"
+      ]
     },
     {
       "id": "ablak",
@@ -88,7 +91,10 @@
         }
       ],
       "example_hu": "A szobában van egy ablak.",
-      "example_cs": "V pokoji je okno."
+      "example_cs": "V pokoji je okno.",
+      "tags": [
+        "q1"
+      ]
     },
     {
       "id": "asztal",
@@ -112,7 +118,10 @@
         }
       ],
       "example_hu": "Az asztal a szobában van.",
-      "example_cs": "Stůl je v pokoji."
+      "example_cs": "Stůl je v pokoji.",
+      "tags": [
+        "q1"
+      ]
     },
     {
       "id": "szek",
@@ -136,7 +145,10 @@
         }
       ],
       "example_hu": "A szék a szobában van.",
-      "example_cs": "Židle je v pokoji."
+      "example_cs": "Židle je v pokoji.",
+      "tags": [
+        "q1"
+      ]
     }
   ],
   "grammar": [
@@ -173,6 +185,9 @@
       "notes_cs": [
         "Konkrétní spojovací samohlásku vybíráme podle harmonie slova.",
         "V běžných větách se tvar slovesa přizpůsobuje podmětu; zde se soustředíme jen na podstatná jména."
+      ],
+      "tags": [
+        "q1"
       ]
     }
   ],
@@ -275,5 +290,6 @@
       "explanation_cs": "Asztal obsahuje zadní samohlásky, proto se přidá koncovka -ok: asztalok."
     }
   ],
-  "stories": []
+  "stories": [],
+  "quarter": "q1"
 }

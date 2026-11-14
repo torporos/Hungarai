@@ -1,0 +1,2763 @@
+{
+  "order": 27,
+  "quarter": "q2",
+  "lesson": {
+    "id": "pest-verejna-mista",
+    "theme_id": "q2-golden-age-pest",
+    "theme_title_cs": "Q2 · Zlatý věk Pešti",
+    "module_number": 2,
+    "module_title_cs": "Městské úřady a veřejná místa",
+    "title_cs": "Městské služby a ulice",
+    "description": "Pešť roku 1913: veřejné budovy, městské služby a ulice. Procvičíte předmětový pád -t i polohu v, na a u místa.",
+    "level": "Q2 · MĚSTO A INSTITUCE",
+    "duration_min": 16,
+    "xp_required": 680,
+    "prerequisite_lesson_ids": [
+      "penz-b"
+    ],
+    "vocabulary_ids": [
+      "varoshaza",
+      "kavehaz",
+      "zsinagoga",
+      "bazilika",
+      "palota",
+      "berhaz",
+      "lakohaz",
+      "kapualj",
+      "lepcsohaz",
+      "emelet",
+      "alagsor",
+      "udvar",
+      "erkely",
+      "teto",
+      "kapu",
+      "bejarat",
+      "kijarat",
+      "folyoso",
+      "rakpart",
+      "kikoto",
+      "gyogyfurdo",
+      "uszoda",
+      "gyogyszertar",
+      "rendelo",
+      "klinika",
+      "egyetem",
+      "jogakademia",
+      "csillagvizsgalo",
+      "konyvesbolt",
+      "nyomda",
+      "szerkesztoseg",
+      "tavirda",
+      "telefonkozpont",
+      "villanytelep",
+      "gazgyar",
+      "vizmu",
+      "vasarcsarnok",
+      "bazar",
+      "viragpiac",
+      "szinhazi_penztar",
+      "tuzolto_laktanya",
+      "rendorkapitanysag",
+      "birosagi_palota",
+      "borton",
+      "temeto",
+      "ravatalozo",
+      "arvahaz",
+      "szegenyhaz",
+      "fogado",
+      "vendeglo",
+      "postapalota",
+      "vam_haz",
+      "vam_hivatal",
+      "vasuti_feluljaro",
+      "gyaloghid",
+      "alagut",
+      "korut",
+      "sugarut",
+      "mellekutca",
+      "zsakkutca",
+      "setany",
+      "diszkert"
+    ],
+    "new_vocabulary_ids": [
+      "varoshaza",
+      "kavehaz",
+      "zsinagoga",
+      "bazilika",
+      "palota",
+      "berhaz",
+      "lakohaz",
+      "kapualj",
+      "lepcsohaz",
+      "emelet",
+      "alagsor",
+      "udvar",
+      "erkely",
+      "teto",
+      "kapu",
+      "bejarat",
+      "kijarat",
+      "folyoso",
+      "rakpart",
+      "kikoto",
+      "gyogyfurdo",
+      "uszoda",
+      "gyogyszertar",
+      "rendelo",
+      "klinika",
+      "egyetem",
+      "jogakademia",
+      "csillagvizsgalo",
+      "konyvesbolt",
+      "nyomda",
+      "szerkesztoseg",
+      "tavirda",
+      "telefonkozpont",
+      "villanytelep",
+      "gazgyar",
+      "vizmu",
+      "vasarcsarnok",
+      "bazar",
+      "viragpiac",
+      "szinhazi_penztar",
+      "tuzolto_laktanya",
+      "rendorkapitanysag",
+      "birosagi_palota",
+      "borton",
+      "temeto",
+      "ravatalozo",
+      "arvahaz",
+      "szegenyhaz",
+      "fogado",
+      "vendeglo",
+      "postapalota",
+      "vam_haz",
+      "vam_hivatal",
+      "vasuti_feluljaro",
+      "gyaloghid",
+      "alagut",
+      "korut",
+      "sugarut",
+      "mellekutca",
+      "zsakkutca",
+      "setany",
+      "diszkert"
+    ],
+    "grammar_ids": [
+      "targy-t",
+      "umisteni-v",
+      "poloha-na-povrchu",
+      "poloha-u-mista"
+    ],
+    "grammar_label_cs": "Předmět -t · poloha v, na a u místa",
+    "exercise_ids": [
+      "pest-verejna-mista-grammar-01",
+      "pest-verejna-mista-grammar-02",
+      "pest-verejna-mista-grammar-03",
+      "pest-verejna-mista-grammar-04",
+      "pest-verejna-mista-grammar-05",
+      "pest-verejna-mista-grammar-06",
+      "pest-verejna-mista-grammar-07",
+      "pest-verejna-mista-grammar-08",
+      "pest-verejna-mista-grammar-09",
+      "pest-verejna-mista-grammar-10",
+      "pest-verejna-mista-grammar-11",
+      "pest-verejna-mista-grammar-12",
+      "pest-verejna-mista-grammar-13",
+      "pest-verejna-mista-grammar-14",
+      "pest-verejna-mista-grammar-15",
+      "pest-verejna-mista-grammar-16",
+      "pest-verejna-mista-grammar-17",
+      "pest-verejna-mista-grammar-18",
+      "pest-verejna-mista-grammar-19",
+      "pest-verejna-mista-grammar-20",
+      "pest-verejna-mista-grammar-21",
+      "pest-verejna-mista-grammar-22",
+      "pest-verejna-mista-grammar-23",
+      "pest-verejna-mista-grammar-24",
+      "pest-verejna-mista-grammar-25",
+      "pest-verejna-mista-grammar-26",
+      "pest-verejna-mista-grammar-27",
+      "pest-verejna-mista-grammar-28",
+      "pest-verejna-mista-grammar-29",
+      "pest-verejna-mista-grammar-30",
+      "pest-verejna-mista-grammar-31",
+      "pest-verejna-mista-grammar-32",
+      "pest-verejna-mista-grammar-33",
+      "pest-verejna-mista-grammar-34",
+      "pest-verejna-mista-grammar-35",
+      "pest-verejna-mista-grammar-36",
+      "pest-verejna-mista-grammar-37",
+      "pest-verejna-mista-grammar-38",
+      "pest-verejna-mista-grammar-39",
+      "pest-verejna-mista-grammar-40"
+    ],
+    "story_ids": [
+      "pest-verejna-mista-story-01",
+      "pest-verejna-mista-story-02",
+      "pest-verejna-mista-story-03",
+      "pest-verejna-mista-story-04",
+      "pest-verejna-mista-story-05",
+      "pest-verejna-mista-story-06"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "varoshaza",
+      "word": "városháza",
+      "translation_cs": "radnice",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "városházán",
+          "translation_cs": "na radnici",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "pest-verejna-mista"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "városháza",
+          "translation_cs": "radnice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városháza a főtéren áll.",
+      "example_cs": "Radnice stojí na hlavním náměstí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "kavehaz",
+      "word": "kávéház",
+      "translation_cs": "kavárna",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "kávéházban",
+          "translation_cs": "v kavárně",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "pest-verejna-mista"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kávéház",
+          "translation_cs": "kavárna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kávéházban délután újságot olvasnak.",
+      "example_cs": "V kavárně odpoledne čtou noviny.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "zsinagoga",
+      "word": "zsinagóga",
+      "translation_cs": "synagoga",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "zsinagógában",
+          "translation_cs": "v synagoze",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "pest-verejna-mista"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "zsinagóga",
+          "translation_cs": "synagoga",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A zsinagógában szombaton gyülekeznek.",
+      "example_cs": "V synagoze se v sobotu shromažďují.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "bazilika",
+      "word": "bazilika",
+      "translation_cs": "bazilika",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bazilika",
+          "translation_cs": "bazilika",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bazilika magas tornya messziről látszik.",
+      "example_cs": "Vysoká věž baziliky je vidět zdaleka.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "palota",
+      "word": "palota",
+      "translation_cs": "palác",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "palota",
+          "translation_cs": "palác",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A palota kapuja előtt hintók várakoznak.",
+      "example_cs": "Před branou paláce čekají kočáry.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "berhaz",
+      "word": "bérház",
+      "translation_cs": "činžovní dům",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bérház",
+          "translation_cs": "činžovní dům",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bérházban több család lakik.",
+      "example_cs": "V činžovním domě bydlí několik rodin.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "lakohaz",
+      "word": "lakóház",
+      "translation_cs": "obytný dům",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lakóház",
+          "translation_cs": "obytný dům",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A lakóház udvarán kút áll.",
+      "example_cs": "Na dvoře obytného domu stojí studna.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "kapualj",
+      "word": "kapualj",
+      "translation_cs": "domovní průjezd",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kapualj",
+          "translation_cs": "domovní průjezd",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az emberek a kapualjban lerázzák az esernyőjüket.",
+      "example_cs": "Lidé v průjezdu oklepávají deštníky.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "lepcsohaz",
+      "word": "lépcsőház",
+      "translation_cs": "schodiště",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lépcsőház",
+          "translation_cs": "schodiště",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A lépcsőházban halk léptek hallatszanak.",
+      "example_cs": "Na schodišti jsou slyšet tiché kroky.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "emelet",
+      "word": "emelet",
+      "translation_cs": "patro",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "emelet",
+          "translation_cs": "patro",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az első emeleten van az iroda.",
+      "example_cs": "V prvním patře je kancelář.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "alagsor",
+      "word": "alagsor",
+      "translation_cs": "suterén",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "alagsor",
+          "translation_cs": "suterén",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az alagsorban szenet tárolnak.",
+      "example_cs": "V suterénu skladují uhlí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "udvar",
+      "word": "udvar",
+      "translation_cs": "dvůr",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "udvar",
+          "translation_cs": "dvůr",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az udvaron gyermekek játszanak.",
+      "example_cs": "Na dvoře si hrají děti.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "erkely",
+      "word": "erkély",
+      "translation_cs": "balkon",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "erkély",
+          "translation_cs": "balkon",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az erkélyről a Dunára látni.",
+      "example_cs": "Z balkonu je vidět na Dunaj.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "teto",
+      "word": "tető",
+      "translation_cs": "střecha",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tető",
+          "translation_cs": "střecha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A tetőn megmaradt a hó.",
+      "example_cs": "Na střeše zůstal sníh.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "kapu",
+      "word": "kapu",
+      "translation_cs": "brána",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kapu",
+          "translation_cs": "brána",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kapu mellett portás áll.",
+      "example_cs": "U brány stojí vrátný.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "bejarat",
+      "word": "bejárat",
+      "translation_cs": "vchod",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bejárat",
+          "translation_cs": "vchod",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bejáratnál jegyet mutatnak fel.",
+      "example_cs": "U vchodu se předkládají vstupenky.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "kijarat",
+      "word": "kijárat",
+      "translation_cs": "východ",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kijárat",
+          "translation_cs": "východ",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kijárat a kert felé nyílik.",
+      "example_cs": "Východ vede do zahrady.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "folyoso",
+      "word": "folyosó",
+      "translation_cs": "chodba",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "folyosó",
+          "translation_cs": "chodba",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A folyosón lámpa ég.",
+      "example_cs": "Na chodbě svítí lampa.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "rakpart",
+      "word": "rakpart",
+      "translation_cs": "nábřeží",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "rakparton",
+          "translation_cs": "na nábřeží",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "pest-verejna-mista"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "rakpart",
+          "translation_cs": "nábřeží",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A rakparton villamos halad.",
+      "example_cs": "Po nábřeží jede tramvaj.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "kikoto",
+      "word": "kikötő",
+      "translation_cs": "přístav",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "kikötőben",
+          "translation_cs": "v přístavu",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "pest-verejna-mista"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kikötő",
+          "translation_cs": "přístav",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kikötőben gőzhajó vár.",
+      "example_cs": "V přístavu čeká parník.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "gyogyfurdo",
+      "word": "gyógyfürdő",
+      "translation_cs": "léčebné lázně",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gyógyfürdő",
+          "translation_cs": "léčebné lázně",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gyógyfürdőben meleg víz van.",
+      "example_cs": "V léčebných lázních je teplá voda.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "uszoda",
+      "word": "uszoda",
+      "translation_cs": "plovárna",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "uszoda",
+          "translation_cs": "plovárna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az uszodában reggel úsznak.",
+      "example_cs": "V plovárně se ráno plave.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "gyogyszertar",
+      "word": "gyógyszertár",
+      "translation_cs": "lékárna",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "gyógyszertárban",
+          "translation_cs": "v lékárně",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "pest-verejna-mista"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "gyógyszertár",
+          "translation_cs": "lékárna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gyógyszertárban gyógyszert kérnek.",
+      "example_cs": "V lékárně žádají lék.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "rendelo",
+      "word": "rendelő",
+      "translation_cs": "ordinace",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rendelő",
+          "translation_cs": "ordinace",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A rendelőben az orvos betegeket fogad.",
+      "example_cs": "V ordinaci přijímá lékař pacienty.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "klinika",
+      "word": "klinika",
+      "translation_cs": "klinika",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "klinika",
+          "translation_cs": "klinika",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A klinika a kert mellett áll.",
+      "example_cs": "Klinika stojí vedle zahrady.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "egyetem",
+      "word": "egyetem",
+      "translation_cs": "univerzita",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "egyetem",
+          "translation_cs": "univerzita",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az egyetem kapuja reggel kinyílik.",
+      "example_cs": "Brána univerzity se ráno otevírá.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "jogakademia",
+      "word": "jogakadémia",
+      "translation_cs": "právnická akademie",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jogakadémia",
+          "translation_cs": "právnická akademie",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jogakadémián fiatal jogászok tanulnak.",
+      "example_cs": "Na právnické akademii studují mladí právníci.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "csillagvizsgalo",
+      "word": "csillagvizsgáló",
+      "translation_cs": "hvězdárna",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csillagvizsgáló",
+          "translation_cs": "hvězdárna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A csillagvizsgálóban a csillagokat nézik.",
+      "example_cs": "V hvězdárně pozorují hvězdy.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "konyvesbolt",
+      "word": "könyvesbolt",
+      "translation_cs": "knihkupectví",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "könyvesbolt",
+          "translation_cs": "knihkupectví",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A könyvesbolt kirakatában új könyv látható.",
+      "example_cs": "Ve výloze knihkupectví je vidět nová kniha.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "nyomda",
+      "word": "nyomda",
+      "translation_cs": "tiskárna",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nyomda",
+          "translation_cs": "tiskárna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A nyomdában újság készül.",
+      "example_cs": "V tiskárně se připravují noviny.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "szerkesztoseg",
+      "word": "szerkesztőség",
+      "translation_cs": "redakce",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szerkesztőség",
+          "translation_cs": "redakce",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szerkesztőség reggel kapja a híreket.",
+      "example_cs": "Redakce ráno dostává zprávy.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "tavirda",
+      "word": "távírda",
+      "translation_cs": "telegrafní úřad",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "távírda",
+          "translation_cs": "telegrafní úřad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A távírdában táviratot küldenek.",
+      "example_cs": "V telegrafním úřadě posílají telegram.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "telefonkozpont",
+      "word": "telefonközpont",
+      "translation_cs": "telefonní ústředna",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "telefonközpont",
+          "translation_cs": "telefonní ústředna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A telefonközpontban kezelők kapcsolják össze a hívásokat.",
+      "example_cs": "V telefonní ústředně spojovatelé přepojují hovory.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "villanytelep",
+      "word": "villanytelep",
+      "translation_cs": "elektrárna",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "villanytelep",
+          "translation_cs": "elektrárna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A villanytelep este is áramot ad.",
+      "example_cs": "Elektrárna dodává proud i večer.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "gazgyar",
+      "word": "gázgyár",
+      "translation_cs": "plynárna",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gázgyár",
+          "translation_cs": "plynárna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gázgyár szenet dolgoz fel.",
+      "example_cs": "Plynárna zpracovává uhlí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "vizmu",
+      "word": "vízmű",
+      "translation_cs": "vodárna",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vízmű",
+          "translation_cs": "vodárna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vízmű tiszta vizet juttat a házakba.",
+      "example_cs": "Vodárna přivádí do domů čistou vodu.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "vasarcsarnok",
+      "word": "vásárcsarnok",
+      "translation_cs": "tržnice",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "vásárcsarnokban",
+          "translation_cs": "v tržnici",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "pest-verejna-mista"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "vásárcsarnok",
+          "translation_cs": "tržnice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vásárcsarnokban zöldséget árulnak.",
+      "example_cs": "V tržnici prodávají zeleninu.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "bazar",
+      "word": "bazár",
+      "translation_cs": "bazar",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bazár",
+          "translation_cs": "bazar",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bazárban szőnyeget is kínálnak.",
+      "example_cs": "V bazaru nabízejí i koberce.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "viragpiac",
+      "word": "virágpiac",
+      "translation_cs": "květinový trh",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "virágpiac",
+          "translation_cs": "květinový trh",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A virágpiacon rózsát és ibolyát árulnak.",
+      "example_cs": "Na květinovém trhu prodávají růže a fialky.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "szinhazi_penztar",
+      "word": "színházi pénztár",
+      "translation_cs": "divadelní pokladna",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "színházi pénztár",
+          "translation_cs": "divadelní pokladna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A színházi pénztárnál jegyet lehet váltani.",
+      "example_cs": "U divadelní pokladny lze koupit vstupenku.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "tuzolto_laktanya",
+      "word": "tűzoltólaktanya",
+      "translation_cs": "hasičská zbrojnice",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tűzoltólaktanya",
+          "translation_cs": "hasičská zbrojnice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A tűzoltólaktanyában a lovak is készen állnak.",
+      "example_cs": "V hasičské zbrojnici jsou připraveni i koně.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "rendorkapitanysag",
+      "word": "rendőrkapitányság",
+      "translation_cs": "policejní ředitelství",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rendőrkapitányság",
+          "translation_cs": "policejní ředitelství",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A rendőrkapitányságon bejelentést tesznek.",
+      "example_cs": "Na policejním ředitelství podávají oznámení.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "birosagi_palota",
+      "word": "bírósági palota",
+      "translation_cs": "soudní palác",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bírósági palota",
+          "translation_cs": "soudní palác",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bírósági palota előtt ügyvédek beszélgetnek.",
+      "example_cs": "Před soudním palácem hovoří advokáti.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "borton",
+      "word": "börtön",
+      "translation_cs": "vězení",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "börtön",
+          "translation_cs": "vězení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A börtön kapuját őr őrzi.",
+      "example_cs": "Bránu vězení střeží strážný.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "temeto",
+      "word": "temető",
+      "translation_cs": "hřbitov",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "temető",
+          "translation_cs": "hřbitov",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A temetőben csendesen sétálnak.",
+      "example_cs": "Po hřbitově se tiše procházejí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "ravatalozo",
+      "word": "ravatalozó",
+      "translation_cs": "obřadní síň",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ravatalozó",
+          "translation_cs": "obřadní síň",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A ravatalozóban a család búcsút vesz.",
+      "example_cs": "Rodina se v obřadní síni loučí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "arvahaz",
+      "word": "árvaház",
+      "translation_cs": "sirotčinec",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "árvaház",
+          "translation_cs": "sirotčinec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az árvaházban sok gyermek él.",
+      "example_cs": "V sirotčinci žije mnoho dětí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "szegenyhaz",
+      "word": "szegényház",
+      "translation_cs": "chudobinec",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szegényház",
+          "translation_cs": "chudobinec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szegényházban meleg ételt adnak.",
+      "example_cs": "V chudobinci podávají teplé jídlo.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "fogado",
+      "word": "fogadó",
+      "translation_cs": "zájezdní hostinec",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fogadó",
+          "translation_cs": "zájezdní hostinec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A fogadóban estére szobát kérnek.",
+      "example_cs": "V zájezdním hostinci žádají pokoj na noc.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "vendeglo",
+      "word": "vendéglő",
+      "translation_cs": "hostinec",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vendéglő",
+          "translation_cs": "hostinec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vendéglőben ebédet szolgálnak fel.",
+      "example_cs": "V hostinci podávají oběd.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "postapalota",
+      "word": "postapalota",
+      "translation_cs": "poštovní palác",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "postapalotában",
+          "translation_cs": "v poštovním paláci",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "pest-verejna-mista"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "postapalota",
+          "translation_cs": "poštovní palác",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A postapalotában levelek ezrei fordulnak meg.",
+      "example_cs": "Poštovním palácem projdou tisíce dopisů.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "vam_haz",
+      "word": "vámház",
+      "translation_cs": "celnice",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vámház",
+          "translation_cs": "celnice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vámháznál megvizsgálják a bőröndöket.",
+      "example_cs": "U celnice prohlížejí kufry.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "vam_hivatal",
+      "word": "vámhivatal",
+      "translation_cs": "celní úřad",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vámhivatal",
+          "translation_cs": "celní úřad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vámhivatalban vámot számolnak.",
+      "example_cs": "Na celním úřadě vyměřují clo.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "vasuti_feluljaro",
+      "word": "vasúti felüljáró",
+      "translation_cs": "železniční nadjezd",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasúti felüljáró",
+          "translation_cs": "železniční nadjezd",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vasúti felüljárón vonat halad át.",
+      "example_cs": "Po železničním nadjezdu projíždí vlak.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "gyaloghid",
+      "word": "gyaloghíd",
+      "translation_cs": "lávka",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "gyaloghídon",
+          "translation_cs": "na lávce",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "pest-verejna-mista"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "gyaloghíd",
+          "translation_cs": "lávka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gyaloghídon járókelők kelnek át.",
+      "example_cs": "Po lávce přecházejí chodci.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "alagut",
+      "word": "alagút",
+      "translation_cs": "tunel",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "alagút",
+          "translation_cs": "tunel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az alagútban visszhangzik a vonat.",
+      "example_cs": "V tunelu se rozléhá ozvěna vlaku.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "korut",
+      "word": "körút",
+      "translation_cs": "okružní třída",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "körúton",
+          "translation_cs": "na okružní třídě",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "pest-verejna-mista"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "körút",
+          "translation_cs": "okružní třída",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A körúton egymás után járnak a villamosok.",
+      "example_cs": "Po okružní třídě jezdí tramvaje jeden za druhým.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "sugarut",
+      "word": "sugárút",
+      "translation_cs": "radiální třída",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sugárút",
+          "translation_cs": "radiální třída",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A sugárút végén nagy tér nyílik.",
+      "example_cs": "Na konci třídy se otevírá velké náměstí.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "mellekutca",
+      "word": "mellékutca",
+      "translation_cs": "vedlejší ulice",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mellékutca",
+          "translation_cs": "vedlejší ulice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A mellékutcában csendesebb a forgalom.",
+      "example_cs": "Ve vedlejší ulici je menší ruch.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "zsakkutca",
+      "word": "zsákutca",
+      "translation_cs": "slepá ulice",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "zsákutca",
+          "translation_cs": "slepá ulice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A zsákutcában kevés a forgalom.",
+      "example_cs": "Ve slepé ulici je malý provoz.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "setany",
+      "word": "sétány",
+      "translation_cs": "promenáda",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sétány",
+          "translation_cs": "promenáda",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A sétányon padok sorakoznak.",
+      "example_cs": "Na promenádě stojí řada laviček.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    },
+    {
+      "id": "diszkert",
+      "word": "díszkert",
+      "translation_cs": "okrasná zahrada",
+      "part_of_speech_cs": "podstatné jméno · městské místo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "díszkert",
+          "translation_cs": "okrasná zahrada",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A díszkertben gondosan nyírják a bokrokat.",
+      "example_cs": "V okrasné zahradě pečlivě stříhají keře.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "pest-verejna-mista-grammar-01",
+      "type": "cloze",
+      "vocabulary_id": "varoshaza",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A látogató megtekinti a ______.",
+      "options_cs": [
+        "városházát",
+        "városházán",
+        "városházában"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Návštěvník si prohlédne radnici."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-02",
+      "type": "cloze",
+      "vocabulary_id": "kavehaz",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A vendég felkeresi a ______.",
+      "options_cs": [
+        "kávéházat",
+        "kávéházban",
+        "kávéháznál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Host navštíví kavárnu."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-03",
+      "type": "cloze",
+      "vocabulary_id": "zsinagoga",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A család meglátogatja a ______.",
+      "options_cs": [
+        "zsinagógát",
+        "zsinagógában",
+        "zsinagógánál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rodina navštíví synagogu."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-04",
+      "type": "cloze",
+      "vocabulary_id": "bazilika",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A turista megnézi a ______.",
+      "options_cs": [
+        "bazilikát",
+        "bazilikában",
+        "bazilikánál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Turista si prohlédne baziliku."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-05",
+      "type": "cloze",
+      "vocabulary_id": "postapalota",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A leveleket a ______ rendezik.",
+      "options_cs": [
+        "postapalotában",
+        "postapalotán",
+        "postapalotánál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Dopisy třídí v poštovním paláci."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-06",
+      "type": "cloze",
+      "vocabulary_id": "rendelo",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A beteg a ______ vár.",
+      "options_cs": [
+        "rendelőben",
+        "rendelőn",
+        "rendelőnél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Pacient čeká v ordinaci."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-07",
+      "type": "cloze",
+      "vocabulary_id": "nyomda",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "Az újság a ______ készül.",
+      "options_cs": [
+        "nyomdában",
+        "nyomdán",
+        "nyomdánál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Noviny se připravují v tiskárně."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-08",
+      "type": "cloze",
+      "vocabulary_id": "tavirda",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A táviratot a ______ adják fel.",
+      "options_cs": [
+        "távírdában",
+        "távírdán",
+        "távírdánál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Telegram se podává na telegrafním úřadě."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-09",
+      "type": "cloze",
+      "vocabulary_id": "rakpart",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A villamos a ______ halad.",
+      "options_cs": [
+        "rakparton",
+        "rakpartban",
+        "rakpartnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Tramvaj jede po nábřeží."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-10",
+      "type": "cloze",
+      "vocabulary_id": "korut",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A hintó a ______ fordul be.",
+      "options_cs": [
+        "körúton",
+        "körútban",
+        "körútnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kočár zabočí na okružní třídu."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-11",
+      "type": "cloze",
+      "vocabulary_id": "gyaloghid",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A gyalogos a ______ kel át.",
+      "options_cs": [
+        "gyaloghídon",
+        "gyaloghídban",
+        "gyaloghídnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Chodec přechází po lávce."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-12",
+      "type": "cloze",
+      "vocabulary_id": "sugarut",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A menet a ______ vonul.",
+      "options_cs": [
+        "sugárúton",
+        "sugárútban",
+        "sugárútnál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Průvod kráčí po třídě."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-13",
+      "type": "cloze",
+      "vocabulary_id": "varoshaza",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A városőr a ______ áll.",
+      "options_cs": [
+        "városházánál",
+        "városházában",
+        "városházán"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Městský strážník stojí u radnice."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-14",
+      "type": "cloze",
+      "vocabulary_id": "bejarat",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A vendégek a ______ találkoznak.",
+      "options_cs": [
+        "bejáratnál",
+        "bejáratban",
+        "bejáraton"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Hosté se setkají u vchodu."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-15",
+      "type": "cloze",
+      "vocabulary_id": "kikoto",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A kocsik a ______ várnak.",
+      "options_cs": [
+        "kikötőnél",
+        "kikötőben",
+        "kikötőn"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kočáry čekají u přístavu."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-16",
+      "type": "cloze",
+      "vocabulary_id": "rendorkapitanysag",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný maďarský tvar.",
+      "sentence_hu": "A tanú a ______ tesz jelentést.",
+      "options_cs": [
+        "rendőrkapitányságnál",
+        "rendőrkapitányságban",
+        "rendőrkapitányságon"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Svědek podává oznámení u policejního ředitelství."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-17",
+      "type": "recall",
+      "vocabulary_id": "palota",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Turista si prohlédne palác.",
+      "sentence_hu": "A turista megtekinti a ______.",
+      "accepted_answers": [
+        "palotát"
+      ],
+      "explanation_cs": "Doplňte maďarsky: Turista si prohlédne palác."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-18",
+      "type": "recall",
+      "vocabulary_id": "gyogyfurdo",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Rodina navštíví lázně.",
+      "sentence_hu": "A család felkeresi a ______.",
+      "accepted_answers": [
+        "gyógyfürdőt"
+      ],
+      "explanation_cs": "Doplňte maďarsky: Rodina navštíví lázně."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-19",
+      "type": "recall",
+      "vocabulary_id": "viragpiac",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Obchodník navštíví květinový trh.",
+      "sentence_hu": "A kereskedő felkeresi a ______.",
+      "accepted_answers": [
+        "virágpiacot"
+      ],
+      "explanation_cs": "Doplňte maďarsky: Obchodník navštíví květinový trh."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-20",
+      "type": "recall",
+      "vocabulary_id": "vasarcsarnok",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde nakupují zeleninu?",
+      "sentence_hu": "Hol vásárolnak zöldséget?",
+      "accepted_answers": [
+        "a vásárcsarnokban"
+      ],
+      "explanation_cs": "Kde nakupují zeleninu?"
+    },
+    {
+      "id": "pest-verejna-mista-grammar-21",
+      "type": "recall",
+      "vocabulary_id": "csillagvizsgalo",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde pozorují hvězdy?",
+      "sentence_hu": "Hol nézik a csillagokat?",
+      "accepted_answers": [
+        "a csillagvizsgálóban"
+      ],
+      "explanation_cs": "Kde pozorují hvězdy?"
+    },
+    {
+      "id": "pest-verejna-mista-grammar-22",
+      "type": "recall",
+      "vocabulary_id": "telefonkozpont",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde přepojují hovory?",
+      "sentence_hu": "Hol kapcsolják össze a hívásokat?",
+      "accepted_answers": [
+        "a telefonközpontban"
+      ],
+      "explanation_cs": "Kde přepojují hovory?"
+    },
+    {
+      "id": "pest-verejna-mista-grammar-23",
+      "type": "recall",
+      "vocabulary_id": "tuzolto_laktanya",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde čekají koně hasičů?",
+      "sentence_hu": "Hol várakoznak a tűzoltók lovai?",
+      "accepted_answers": [
+        "a tűzoltólaktanyában"
+      ],
+      "explanation_cs": "Kde čekají koně hasičů?"
+    },
+    {
+      "id": "pest-verejna-mista-grammar-24",
+      "type": "recall",
+      "vocabulary_id": "udvar",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde si hrají děti?",
+      "sentence_hu": "Hol játszanak a gyermekek?",
+      "accepted_answers": [
+        "az udvaron"
+      ],
+      "explanation_cs": "Kde si hrají děti?"
+    },
+    {
+      "id": "pest-verejna-mista-grammar-25",
+      "type": "recall",
+      "vocabulary_id": "setany",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde se lidé večer procházejí?",
+      "sentence_hu": "Hol sétálnak este az emberek?",
+      "accepted_answers": [
+        "a sétányon"
+      ],
+      "explanation_cs": "Kde se lidé večer procházejí?"
+    },
+    {
+      "id": "pest-verejna-mista-grammar-26",
+      "type": "recall",
+      "vocabulary_id": "vasuti_feluljaro",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde projíždí vlak?",
+      "sentence_hu": "Hol halad át a vonat?",
+      "accepted_answers": [
+        "a vasúti felüljárón"
+      ],
+      "explanation_cs": "Kde projíždí vlak?"
+    },
+    {
+      "id": "pest-verejna-mista-grammar-27",
+      "type": "recall",
+      "vocabulary_id": "szinhazi_penztar",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde lze koupit vstupenku?",
+      "sentence_hu": "Hol lehet jegyet váltani?",
+      "accepted_answers": [
+        "a színházi pénztárnál"
+      ],
+      "explanation_cs": "Kde lze koupit vstupenku?"
+    },
+    {
+      "id": "pest-verejna-mista-grammar-28",
+      "type": "recall",
+      "vocabulary_id": "vam_haz",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Kde prohlížejí kufry?",
+      "sentence_hu": "Hol vizsgálják meg a bőröndöket?",
+      "accepted_answers": [
+        "a vámháznál"
+      ],
+      "explanation_cs": "Kde prohlížejí kufry?"
+    },
+    {
+      "id": "pest-verejna-mista-grammar-29",
+      "type": "order",
+      "vocabulary_id": "bazilika",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A turista megnézi a bazilikát.",
+      "words_hu": [
+        "bazilikát.",
+        "a",
+        "megnézi",
+        "turista",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "turista",
+          "megnézi",
+          "a",
+          "bazilikát."
+        ]
+      ],
+      "explanation_cs": "Turista si prohlédne baziliku."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-30",
+      "type": "order",
+      "vocabulary_id": "gyogyszertar",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A beteg felkeresi a gyógyszertárat.",
+      "words_hu": [
+        "gyógyszertárat.",
+        "a",
+        "felkeresi",
+        "beteg",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "beteg",
+          "felkeresi",
+          "a",
+          "gyógyszertárat."
+        ]
+      ],
+      "explanation_cs": "Pacient navštíví lékárnu."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-31",
+      "type": "order",
+      "vocabulary_id": "tavirda",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A hivatalnok a távírdában dolgozik.",
+      "words_hu": [
+        "dolgozik.",
+        "távírdában",
+        "a",
+        "hivatalnok",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "hivatalnok",
+          "a",
+          "távírdában",
+          "dolgozik."
+        ]
+      ],
+      "explanation_cs": "Úředník pracuje na telegrafním úřadě."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-32",
+      "type": "order",
+      "vocabulary_id": "udvar",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A gyermekek az udvaron játszanak.",
+      "words_hu": [
+        "játszanak.",
+        "udvaron",
+        "az",
+        "gyermekek",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "gyermekek",
+          "az",
+          "udvaron",
+          "játszanak."
+        ]
+      ],
+      "explanation_cs": "Děti si hrají na dvoře."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-33",
+      "type": "order",
+      "vocabulary_id": "bejarat",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A vendégek a bejáratnál találkoznak.",
+      "words_hu": [
+        "találkoznak.",
+        "bejáratnál",
+        "a",
+        "vendégek",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "vendégek",
+          "a",
+          "bejáratnál",
+          "találkoznak."
+        ]
+      ],
+      "explanation_cs": "Hosté se setkají u vchodu."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-34",
+      "type": "order",
+      "vocabulary_id": "nyomda",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A szerkesztő a nyomdában dolgozik.",
+      "words_hu": [
+        "dolgozik.",
+        "nyomdában",
+        "a",
+        "szerkesztő",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "szerkesztő",
+          "a",
+          "nyomdában",
+          "dolgozik."
+        ]
+      ],
+      "explanation_cs": "Redaktor pracuje v tiskárně."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-35",
+      "type": "order",
+      "vocabulary_id": "sugarut",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A hintó a sugárúton halad.",
+      "words_hu": [
+        "halad.",
+        "sugárúton",
+        "a",
+        "hintó",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "hintó",
+          "a",
+          "sugárúton",
+          "halad."
+        ]
+      ],
+      "explanation_cs": "Kočár jede po třídě."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-36",
+      "type": "order",
+      "vocabulary_id": "rendelo",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A beteg a rendelőben vár.",
+      "words_hu": [
+        "vár.",
+        "rendelőben",
+        "a",
+        "beteg",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "beteg",
+          "a",
+          "rendelőben",
+          "vár."
+        ]
+      ],
+      "explanation_cs": "Pacient čeká v ordinaci."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-37",
+      "type": "order",
+      "vocabulary_id": "konyvesbolt",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A barátok a könyvesboltnál találkoznak.",
+      "words_hu": [
+        "találkoznak.",
+        "könyvesboltnál",
+        "a",
+        "barátok",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "barátok",
+          "a",
+          "könyvesboltnál",
+          "találkoznak."
+        ]
+      ],
+      "explanation_cs": "Přátelé se setkají u knihkupectví."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-38",
+      "type": "order",
+      "vocabulary_id": "kikoto",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A gőzhajó a kikötőben vár.",
+      "words_hu": [
+        "vár.",
+        "kikötőben",
+        "a",
+        "gőzhajó",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "gőzhajó",
+          "a",
+          "kikötőben",
+          "vár."
+        ]
+      ],
+      "explanation_cs": "Parník čeká v přístavu."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-39",
+      "type": "order",
+      "vocabulary_id": "rakpart",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A villamos a rakparton halad.",
+      "words_hu": [
+        "halad.",
+        "rakparton",
+        "a",
+        "villamos",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "villamos",
+          "a",
+          "rakparton",
+          "halad."
+        ]
+      ],
+      "explanation_cs": "Tramvaj jede po nábřeží."
+    },
+    {
+      "id": "pest-verejna-mista-grammar-40",
+      "type": "order",
+      "vocabulary_id": "vam_hivatal",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Sestavení věty",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A hivatalnok a vámhivatalnál dolgozik.",
+      "words_hu": [
+        "dolgozik.",
+        "vámhivatalnál",
+        "a",
+        "hivatalnok",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "hivatalnok",
+          "a",
+          "vámhivatalnál",
+          "dolgozik."
+        ]
+      ],
+      "explanation_cs": "Úředník pracuje u celního úřadu."
+    }
+  ],
+  "stories": [
+    {
+      "id": "pest-verejna-mista-story-01",
+      "title_cs": "Pacient v Pešti",
+      "title_hu": "Beteg a városban",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "pest-verejna-mista"
+      ],
+      "curriculum_lesson_id": "pest-verejna-mista",
+      "new_vocabulary_ids": [
+        "rendelo",
+        "gyogyszertar",
+        "klinika",
+        "gyogyfurdo"
+      ],
+      "vocabulary_ids": [
+        "rendelo",
+        "gyogyszertar",
+        "klinika",
+        "gyogyfurdo"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a beteg asszony a "
+        },
+        {
+          "text": "rendelőben",
+          "vocabulary_id": "rendelo"
+        },
+        {
+          "text": " vár. Az orvos a "
+        },
+        {
+          "text": "klinikán",
+          "vocabulary_id": "klinika"
+        },
+        {
+          "text": " is rendel, a közeli "
+        },
+        {
+          "text": "gyógyszertárban",
+          "vocabulary_id": "gyogyszertar"
+        },
+        {
+          "text": " pedig elkészítik a gyógyszert. Délután az asszony a "
+        },
+        {
+          "text": "gyógyfürdőben",
+          "vocabulary_id": "gyogyfurdo"
+        },
+        {
+          "text": " pihen."
+        }
+      ],
+      "questions": [
+        {
+          "id": "pest-verejna-mista-story-01-question",
+          "prompt_cs": "Kde čeká nemocná žena?",
+          "options_cs": [
+            "V ordinaci.",
+            "V lékárně.",
+            "V divadle."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Nemocná žena vár a rendelőben."
+        }
+      ],
+      "translation_cs": "V roce 1913 čeká nemocná žena v ordinaci. Lékař přijímá pacienty také na klinice a v nedaleké lékárně připraví lék. Odpoledne žena odpočívá v lázních."
+    },
+    {
+      "id": "pest-verejna-mista-story-02",
+      "title_cs": "Cesta novin",
+      "title_hu": "Az újság útja",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "pest-verejna-mista"
+      ],
+      "curriculum_lesson_id": "pest-verejna-mista",
+      "new_vocabulary_ids": [
+        "szerkesztoseg",
+        "tavirda",
+        "nyomda",
+        "kavehaz",
+        "konyvesbolt"
+      ],
+      "vocabulary_ids": [
+        "szerkesztoseg",
+        "tavirda",
+        "nyomda",
+        "kavehaz",
+        "konyvesbolt"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "szerkesztőség",
+          "vocabulary_id": "szerkesztoseg"
+        },
+        {
+          "text": " reggel táviratot kap a "
+        },
+        {
+          "text": "távírdából",
+          "vocabulary_id": "tavirda"
+        },
+        {
+          "text": ". A hír a "
+        },
+        {
+          "text": "nyomdában",
+          "vocabulary_id": "nyomda"
+        },
+        {
+          "text": " kerül az újságba. Délután a "
+        },
+        {
+          "text": "kávéházban",
+          "vocabulary_id": "kavehaz"
+        },
+        {
+          "text": " már erről olvasnak, a "
+        },
+        {
+          "text": "könyvesboltban",
+          "vocabulary_id": "konyvesbolt"
+        },
+        {
+          "text": " pedig új lapot vesznek."
+        }
+      ],
+      "questions": [
+        {
+          "id": "pest-verejna-mista-story-02-question",
+          "prompt_cs": "Kde se zpráva dostane do novin?",
+          "options_cs": [
+            "V tiskárně.",
+            "V přístavu.",
+            "V lázních."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A hír a nyomdában kerül az újságba."
+        }
+      ],
+      "translation_cs": "Redakce ráno dostane telegram z telegrafního úřadu. Zpráva se v tiskárně dostane do novin. Odpoledne o ní už čtou v kavárně a v knihkupectví kupují nové vydání."
+    },
+    {
+      "id": "pest-verejna-mista-story-03",
+      "title_cs": "Ráno v tržnici",
+      "title_hu": "Reggel a vásárcsarnokban",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "pest-verejna-mista"
+      ],
+      "curriculum_lesson_id": "pest-verejna-mista",
+      "new_vocabulary_ids": [
+        "vasarcsarnok",
+        "viragpiac",
+        "bazar",
+        "vendeglo"
+      ],
+      "vocabulary_ids": [
+        "vasarcsarnok",
+        "viragpiac",
+        "bazar",
+        "vendeglo"
+      ],
+      "segments": [
+        {
+          "text": "Reggel a "
+        },
+        {
+          "text": "vásárcsarnokban",
+          "vocabulary_id": "vasarcsarnok"
+        },
+        {
+          "text": " zöldséget vásárolnak. A "
+        },
+        {
+          "text": "virágpiacon",
+          "vocabulary_id": "viragpiac"
+        },
+        {
+          "text": " ibolyát kínál egy árus. A "
+        },
+        {
+          "text": "bazárban",
+          "vocabulary_id": "bazar"
+        },
+        {
+          "text": " szőnyegek lógnak, délben pedig a "
+        },
+        {
+          "text": "vendéglőben",
+          "vocabulary_id": "vendeglo"
+        },
+        {
+          "text": " ebédelnek."
+        }
+      ],
+      "questions": [
+        {
+          "id": "pest-verejna-mista-story-03-question",
+          "prompt_cs": "Co nabízí prodavač na květinovém trhu?",
+          "options_cs": [
+            "Fialky.",
+            "Knihy.",
+            "Vstupenky."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Az árus ibolyát kínál."
+        }
+      ],
+      "translation_cs": "Ráno nakupují zeleninu v tržnici. Na květinovém trhu nabízí prodavač fialky. V bazaru visí koberce a v poledne se obědvá v hostinci."
+    },
+    {
+      "id": "pest-verejna-mista-story-04",
+      "title_cs": "Procházka u Dunaje",
+      "title_hu": "Séta a Duna partján",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "pest-verejna-mista"
+      ],
+      "curriculum_lesson_id": "pest-verejna-mista",
+      "new_vocabulary_ids": [
+        "kikoto",
+        "rakpart",
+        "gyaloghid",
+        "setany",
+        "palota"
+      ],
+      "vocabulary_ids": [
+        "kikoto",
+        "rakpart",
+        "gyaloghid",
+        "setany",
+        "palota"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "kikötőben",
+          "vocabulary_id": "kikoto"
+        },
+        {
+          "text": " gőzhajó készül indulni. A "
+        },
+        {
+          "text": "rakparton",
+          "vocabulary_id": "rakpart"
+        },
+        {
+          "text": " villamos csilingel, a "
+        },
+        {
+          "text": "gyaloghídon",
+          "vocabulary_id": "gyaloghid"
+        },
+        {
+          "text": " pedig gyalogosok kelnek át. A "
+        },
+        {
+          "text": "sétányon",
+          "vocabulary_id": "setany"
+        },
+        {
+          "text": " egy "
+        },
+        {
+          "text": "palota",
+          "vocabulary_id": "palota"
+        },
+        {
+          "text": " erkélye látszik."
+        }
+      ],
+      "questions": [
+        {
+          "id": "pest-verejna-mista-story-04-question",
+          "prompt_cs": "Co se chystá odjet z přístavu?",
+          "options_cs": [
+            "Parník.",
+            "Kočár.",
+            "Vlak."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A kikötőből gőzhajó készül indulni."
+        }
+      ],
+      "translation_cs": "V přístavu se chystá k odjezdu parník. Po nábřeží cinká tramvaj a po lávce přecházejí chodci. Na promenádě je vidět balkon paláce."
+    },
+    {
+      "id": "pest-verejna-mista-story-05",
+      "title_cs": "Večerní tramvaj",
+      "title_hu": "Esti villamos",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "pest-verejna-mista"
+      ],
+      "curriculum_lesson_id": "pest-verejna-mista",
+      "new_vocabulary_ids": [
+        "korut",
+        "sugarut",
+        "mellekutca",
+        "zsakkutca",
+        "kavehaz"
+      ],
+      "vocabulary_ids": [
+        "korut",
+        "sugarut",
+        "mellekutca",
+        "zsakkutca",
+        "kavehaz"
+      ],
+      "segments": [
+        {
+          "text": "Este a villamos a "
+        },
+        {
+          "text": "körúton",
+          "vocabulary_id": "korut"
+        },
+        {
+          "text": " halad, majd a "
+        },
+        {
+          "text": "sugárútra",
+          "vocabulary_id": "sugarut"
+        },
+        {
+          "text": " fordul. Egy csendes "
+        },
+        {
+          "text": "mellékutcában",
+          "vocabulary_id": "mellekutca"
+        },
+        {
+          "text": " megáll, mert a "
+        },
+        {
+          "text": "zsákutcából",
+          "vocabulary_id": "zsakkutca"
+        },
+        {
+          "text": " kocsi tolat ki. Az utasok a közeli "
+        },
+        {
+          "text": "kávéházban",
+          "vocabulary_id": "kavehaz"
+        },
+        {
+          "text": " várják a következő járatot."
+        }
+      ],
+      "questions": [
+        {
+          "id": "pest-verejna-mista-story-05-question",
+          "prompt_cs": "Proč tramvaj zastaví?",
+          "options_cs": [
+            "Kočár vyjíždí ze slepé ulice.",
+            "Přijíždí parník.",
+            "Otevírá se tržnice."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A villamos azért áll meg, mert egy kocsi tolat ki a zsákutcából."
+        }
+      ],
+      "translation_cs": "Večer jede tramvaj po okružní třídě a potom odbočí na třídu. Zastaví v tiché vedlejší ulici, protože ze slepé ulice vyjíždí kočár. Cestující čekají na další spoj v nedaleké kavárně."
+    },
+    {
+      "id": "pest-verejna-mista-story-06",
+      "title_cs": "Noční poplach",
+      "title_hu": "Éjszakai riadó",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "pest-verejna-mista"
+      ],
+      "curriculum_lesson_id": "pest-verejna-mista",
+      "new_vocabulary_ids": [
+        "tuzolto_laktanya",
+        "berhaz",
+        "udvar",
+        "kapualj",
+        "kijarat"
+      ],
+      "vocabulary_ids": [
+        "tuzolto_laktanya",
+        "berhaz",
+        "udvar",
+        "kapualj",
+        "kijarat"
+      ],
+      "segments": [
+        {
+          "text": "Éjjel a "
+        },
+        {
+          "text": "tűzoltólaktanyában",
+          "vocabulary_id": "tuzolto_laktanya"
+        },
+        {
+          "text": " megszólal a harang. A tűzoltók egy "
+        },
+        {
+          "text": "bérház",
+          "vocabulary_id": "berhaz"
+        },
+        {
+          "text": " udvarára sietnek. Füst száll fel a "
+        },
+        {
+          "text": "kapualjból",
+          "vocabulary_id": "kapualj"
+        },
+        {
+          "text": ", ezért a lakók a "
+        },
+        {
+          "text": "kijáraton",
+          "vocabulary_id": "kijarat"
+        },
+        {
+          "text": " át az "
+        },
+        {
+          "text": "udvarra",
+          "vocabulary_id": "udvar"
+        },
+        {
+          "text": " mennek. A tűzoltók hamar eloltják a kis tüzet."
+        }
+      ],
+      "questions": [
+        {
+          "id": "pest-verejna-mista-story-06-question",
+          "prompt_cs": "Kam vyjdou obyvatelé domu?",
+          "options_cs": [
+            "Na dvůr.",
+            "Do přístavu.",
+            "Na nádraží."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A lakók a kijáraton át az udvarra mennek."
+        }
+      ],
+      "translation_cs": "V noci zazvoní v hasičské zbrojnici poplach. Hasiči spěchají na dvůr činžovního domu. Z domovního průjezdu stoupá kouř, a proto obyvatelé vyjdou východem na dvůr. Hasiči malý požár brzy uhasí."
+    }
+  ]
+}

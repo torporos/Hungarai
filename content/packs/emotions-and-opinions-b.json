@@ -1,0 +1,2417 @@
+{
+  "order": 47,
+  "quarter": "q4",
+  "lesson": {
+    "id": "emotions-and-opinions-b",
+    "theme_id": "q4-society-1914",
+    "theme_title_cs": "Q4 · Společnost před rozpadem",
+    "module_number": 4,
+    "module_title_cs": "Úřady, názory a nejistota roku 1914",
+    "title_cs": "Pocity a myšlenky II",
+    "description": "Společnost, úřady, kultura a nejistota v roce 1914; vyprávění nepřekračuje stanovený historický řez.",
+    "level": "Q4 · SPOLEČNOST V ROCE 1914",
+    "duration_min": 22,
+    "xp_required": 2800,
+    "prerequisite_lesson_ids": [
+      "emotions-and-opinions-a"
+    ],
+    "vocabulary_ids": [
+      "emlek",
+      "emlekezet",
+      "figyelem",
+      "ertelem",
+      "kepzelet",
+      "sejtelem",
+      "felteves",
+      "velekedes",
+      "meggyozodes",
+      "bizonyossag",
+      "bizonytalansag",
+      "remenytelenseg",
+      "ketsegbeeses",
+      "csuggedes",
+      "bekesseg",
+      "megbocsatas",
+      "haragudas",
+      "dobbenet",
+      "indulat",
+      "indulatossag",
+      "oszton",
+      "lelkiismeret",
+      "szandekossag",
+      "hala",
+      "halatlansag",
+      "oromerzet",
+      "fajdalom",
+      "lelkesultseg",
+      "turelem",
+      "turelmetlenseg",
+      "szorongas",
+      "megnyugvas",
+      "vigasz",
+      "vigasztalas",
+      "megkonnyebbules",
+      "remenykedes",
+      "joindulat",
+      "rosszindulat",
+      "onbizalom",
+      "deru"
+    ],
+    "new_vocabulary_ids": [
+      "emlek",
+      "emlekezet",
+      "figyelem",
+      "ertelem",
+      "kepzelet",
+      "sejtelem",
+      "felteves",
+      "velekedes",
+      "meggyozodes",
+      "bizonyossag",
+      "bizonytalansag",
+      "remenytelenseg",
+      "ketsegbeeses",
+      "csuggedes",
+      "bekesseg",
+      "megbocsatas",
+      "haragudas",
+      "dobbenet",
+      "indulat",
+      "indulatossag",
+      "oszton",
+      "lelkiismeret",
+      "szandekossag",
+      "hala",
+      "halatlansag",
+      "oromerzet",
+      "fajdalom",
+      "lelkesultseg",
+      "turelem",
+      "turelmetlenseg",
+      "szorongas",
+      "megnyugvas",
+      "vigasz",
+      "vigasztalas",
+      "megkonnyebbules",
+      "remenykedes",
+      "joindulat",
+      "rosszindulat",
+      "onbizalom",
+      "deru"
+    ],
+    "grammar_ids": [
+      "q4-conditional-mood",
+      "q4-imperative-mood",
+      "q4-verbal-prefixes"
+    ],
+    "grammar_label_cs": "Podmiňovací způsob · rozkazy · slovesné předpony",
+    "exercise_ids": [
+      "emotions-and-opinions-b-word-01",
+      "emotions-and-opinions-b-word-02",
+      "emotions-and-opinions-b-word-03",
+      "emotions-and-opinions-b-word-04",
+      "emotions-and-opinions-b-word-05",
+      "emotions-and-opinions-b-word-06",
+      "emotions-and-opinions-b-word-07",
+      "emotions-and-opinions-b-word-08",
+      "emotions-and-opinions-b-word-09",
+      "emotions-and-opinions-b-word-10",
+      "emotions-and-opinions-b-word-11",
+      "emotions-and-opinions-b-word-12",
+      "emotions-and-opinions-b-word-13",
+      "emotions-and-opinions-b-word-14",
+      "emotions-and-opinions-b-word-15",
+      "emotions-and-opinions-b-word-16",
+      "emotions-and-opinions-b-word-17",
+      "emotions-and-opinions-b-word-18",
+      "emotions-and-opinions-b-word-19",
+      "emotions-and-opinions-b-word-20",
+      "emotions-and-opinions-b-word-21",
+      "emotions-and-opinions-b-word-22",
+      "emotions-and-opinions-b-word-23",
+      "emotions-and-opinions-b-word-24",
+      "emotions-and-opinions-b-word-25",
+      "emotions-and-opinions-b-word-26",
+      "emotions-and-opinions-b-word-27",
+      "emotions-and-opinions-b-word-28",
+      "emotions-and-opinions-b-word-29",
+      "emotions-and-opinions-b-word-30",
+      "emotions-and-opinions-b-word-31",
+      "emotions-and-opinions-b-word-32",
+      "emotions-and-opinions-b-word-33",
+      "emotions-and-opinions-b-word-34",
+      "emotions-and-opinions-b-word-35",
+      "emotions-and-opinions-b-word-36",
+      "emotions-and-opinions-b-word-37",
+      "emotions-and-opinions-b-word-38",
+      "emotions-and-opinions-b-word-39",
+      "emotions-and-opinions-b-word-40",
+      "emotions-and-opinions-b-grammar-01",
+      "emotions-and-opinions-b-grammar-02",
+      "emotions-and-opinions-b-grammar-03",
+      "emotions-and-opinions-b-grammar-04",
+      "emotions-and-opinions-b-grammar-05",
+      "emotions-and-opinions-b-grammar-06",
+      "emotions-and-opinions-b-grammar-07",
+      "emotions-and-opinions-b-grammar-08",
+      "emotions-and-opinions-b-grammar-09",
+      "emotions-and-opinions-b-grammar-10",
+      "emotions-and-opinions-b-grammar-11",
+      "emotions-and-opinions-b-grammar-12",
+      "emotions-and-opinions-b-grammar-13",
+      "emotions-and-opinions-b-grammar-14",
+      "emotions-and-opinions-b-grammar-15",
+      "emotions-and-opinions-b-grammar-16",
+      "emotions-and-opinions-b-grammar-17",
+      "emotions-and-opinions-b-grammar-18",
+      "emotions-and-opinions-b-grammar-19",
+      "emotions-and-opinions-b-grammar-20",
+      "emotions-and-opinions-b-grammar-21",
+      "emotions-and-opinions-b-grammar-22",
+      "emotions-and-opinions-b-grammar-23",
+      "emotions-and-opinions-b-grammar-24",
+      "emotions-and-opinions-b-grammar-25"
+    ],
+    "story_ids": [
+      "emotions-and-opinions-b-story-01",
+      "emotions-and-opinions-b-story-02",
+      "emotions-and-opinions-b-story-03",
+      "emotions-and-opinions-b-story-04"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "emlek",
+      "word": "emlék",
+      "translation_cs": "vzpomínka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "emlék",
+          "translation_cs": "vzpomínka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „emlék” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „vzpomínka“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "emlekezet",
+      "word": "emlékezet",
+      "translation_cs": "paměť",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "emlékezet",
+          "translation_cs": "paměť",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „emlékezet” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „paměť“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "figyelem",
+      "word": "figyelem",
+      "translation_cs": "pozornost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "figyelem",
+          "translation_cs": "pozornost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „figyelem” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „pozornost“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "ertelem",
+      "word": "értelem",
+      "translation_cs": "rozum",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "értelem",
+          "translation_cs": "rozum",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „értelem” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „rozum“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "kepzelet",
+      "word": "képzelet",
+      "translation_cs": "představivost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "képzelet",
+          "translation_cs": "představivost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „képzelet” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „představivost“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "sejtelem",
+      "word": "sejtelem",
+      "translation_cs": "tušení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sejtelem",
+          "translation_cs": "tušení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „sejtelem” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „tušení“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "felteves",
+      "word": "feltevés",
+      "translation_cs": "domněnka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "feltevés",
+          "translation_cs": "domněnka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „feltevés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „domněnka“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "velekedes",
+      "word": "vélekedés",
+      "translation_cs": "mínění",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vélekedés",
+          "translation_cs": "mínění",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „vélekedés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „mínění“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "meggyozodes",
+      "word": "meggyőződés",
+      "translation_cs": "přesvědčení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "meggyőződés",
+          "translation_cs": "přesvědčení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „meggyőződés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „přesvědčení“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "bizonyossag",
+      "word": "bizonyosság",
+      "translation_cs": "jistota",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bizonyosság",
+          "translation_cs": "jistota",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „bizonyosság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „jistota“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "bizonytalansag",
+      "word": "bizonytalanság",
+      "translation_cs": "nejistota",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bizonytalanság",
+          "translation_cs": "nejistota",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „bizonytalanság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „nejistota“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "remenytelenseg",
+      "word": "reménytelenség",
+      "translation_cs": "beznaděj",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "reménytelenség",
+          "translation_cs": "beznaděj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „reménytelenség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „beznaděj“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "ketsegbeeses",
+      "word": "kétségbeesés",
+      "translation_cs": "zoufalství",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kétségbeesés",
+          "translation_cs": "zoufalství",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „kétségbeesés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „zoufalství“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "csuggedes",
+      "word": "csüggedés",
+      "translation_cs": "skleslost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csüggedés",
+          "translation_cs": "skleslost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „csüggedés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „skleslost“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "bekesseg",
+      "word": "békesség",
+      "translation_cs": "pokoj",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "békesség",
+          "translation_cs": "pokoj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „békesség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „pokoj“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "megbocsatas",
+      "word": "megbocsátás",
+      "translation_cs": "odpuštění",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megbocsátás",
+          "translation_cs": "odpuštění",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „megbocsátás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „odpuštění“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "haragudas",
+      "word": "haragudás",
+      "translation_cs": "hněvání",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "haragudás",
+          "translation_cs": "hněvání",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „haragudás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „hněvání“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "dobbenet",
+      "word": "döbbenet",
+      "translation_cs": "úžas",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "döbbenet",
+          "translation_cs": "úžas",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „döbbenet” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „úžas“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "indulat",
+      "word": "indulat",
+      "translation_cs": "prudký cit",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "indulat",
+          "translation_cs": "prudký cit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „indulat” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „prudký cit“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "indulatossag",
+      "word": "indulatosság",
+      "translation_cs": "vznětlivost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "indulatosság",
+          "translation_cs": "vznětlivost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „indulatosság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „vznětlivost“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "oszton",
+      "word": "ösztön",
+      "translation_cs": "pud",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ösztön",
+          "translation_cs": "pud",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „ösztön” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „pud“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "lelkiismeret",
+      "word": "lelkiismeret",
+      "translation_cs": "svědomí",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lelkiismeret",
+          "translation_cs": "svědomí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „lelkiismeret” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „svědomí“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "szandekossag",
+      "word": "szándékosság",
+      "translation_cs": "úmyslnost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szándékosság",
+          "translation_cs": "úmyslnost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „szándékosság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „úmyslnost“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "hala",
+      "word": "hála",
+      "translation_cs": "vděk",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hála",
+          "translation_cs": "vděk",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hála” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „vděk“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "halatlansag",
+      "word": "hálátlanság",
+      "translation_cs": "nevděk",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hálátlanság",
+          "translation_cs": "nevděk",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hálátlanság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „nevděk“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "oromerzet",
+      "word": "örömérzet",
+      "translation_cs": "pocit radosti",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "örömérzet",
+          "translation_cs": "pocit radosti",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „örömérzet” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „pocit radosti“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "fajdalom",
+      "word": "fájdalom",
+      "translation_cs": "bolest",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fájdalom",
+          "translation_cs": "bolest",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „fájdalom” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „bolest“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "lelkesultseg",
+      "word": "lelkesültség",
+      "translation_cs": "zanícení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lelkesültség",
+          "translation_cs": "zanícení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „lelkesültség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „zanícení“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "turelem",
+      "word": "türelem",
+      "translation_cs": "trpělivost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "türelem",
+          "translation_cs": "trpělivost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „türelem” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „trpělivost“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "turelmetlenseg",
+      "word": "türelmetlenség",
+      "translation_cs": "netrpělivost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "türelmetlenség",
+          "translation_cs": "netrpělivost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „türelmetlenség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „netrpělivost“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "szorongas",
+      "word": "szorongás",
+      "translation_cs": "úzkost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szorongás",
+          "translation_cs": "úzkost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „szorongás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „úzkost“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "megnyugvas",
+      "word": "megnyugvás",
+      "translation_cs": "uklidnění",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megnyugvás",
+          "translation_cs": "uklidnění",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „megnyugvás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „uklidnění“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "vigasz",
+      "word": "vigasz",
+      "translation_cs": "útěcha",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vigasz",
+          "translation_cs": "útěcha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „vigasz” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „útěcha“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "vigasztalas",
+      "word": "vigasztalás",
+      "translation_cs": "utěšování",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vigasztalás",
+          "translation_cs": "utěšování",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „vigasztalás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „utěšování“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "megkonnyebbules",
+      "word": "megkönnyebbülés",
+      "translation_cs": "úleva",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megkönnyebbülés",
+          "translation_cs": "úleva",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „megkönnyebbülés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „úleva“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "remenykedes",
+      "word": "reménykedés",
+      "translation_cs": "doufání",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "reménykedés",
+          "translation_cs": "doufání",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „reménykedés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „doufání“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "joindulat",
+      "word": "jóindulat",
+      "translation_cs": "dobrá vůle",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jóindulat",
+          "translation_cs": "dobrá vůle",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „jóindulat” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „dobrá vůle“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "rosszindulat",
+      "word": "rosszindulat",
+      "translation_cs": "zlá vůle",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rosszindulat",
+          "translation_cs": "zlá vůle",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „rosszindulat” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „zlá vůle“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "onbizalom",
+      "word": "önbizalom",
+      "translation_cs": "sebedůvěra",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "önbizalom",
+          "translation_cs": "sebedůvěra",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „önbizalom” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „sebedůvěra“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    },
+    {
+      "id": "deru",
+      "word": "derű",
+      "translation_cs": "veselost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "derű",
+          "translation_cs": "veselost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „derű” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „veselost“.",
+      "tags": [
+        "q4",
+        "emotions_thoughts"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "emotions-and-opinions-b-word-01",
+      "type": "cloze",
+      "vocabulary_id": "emlek",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „vzpomínka“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "emlék",
+        "emlékezet",
+        "figyelem"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „emlék” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-02",
+      "type": "recall",
+      "vocabulary_id": "emlekezet",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „paměť“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "emlékezet"
+      ],
+      "explanation_cs": "A jegyző felírta a „emlékezet” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-03",
+      "type": "order",
+      "vocabulary_id": "figyelem",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „figyelem” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„figyelem”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„figyelem”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „figyelem” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-04",
+      "type": "cloze",
+      "vocabulary_id": "ertelem",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „rozum“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "értelem",
+        "képzelet",
+        "sejtelem"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „értelem” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-05",
+      "type": "recall",
+      "vocabulary_id": "kepzelet",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „představivost“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "képzelet"
+      ],
+      "explanation_cs": "A jegyző felírta a „képzelet” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-06",
+      "type": "order",
+      "vocabulary_id": "sejtelem",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „sejtelem” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„sejtelem”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„sejtelem”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „sejtelem” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-07",
+      "type": "cloze",
+      "vocabulary_id": "felteves",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „domněnka“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "feltevés",
+        "vélekedés",
+        "meggyőződés"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „feltevés” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-08",
+      "type": "recall",
+      "vocabulary_id": "velekedes",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „mínění“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "vélekedés"
+      ],
+      "explanation_cs": "A jegyző felírta a „vélekedés” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-09",
+      "type": "order",
+      "vocabulary_id": "meggyozodes",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „meggyőződés” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„meggyőződés”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„meggyőződés”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „meggyőződés” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-10",
+      "type": "cloze",
+      "vocabulary_id": "bizonyossag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „jistota“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "bizonyosság",
+        "bizonytalanság",
+        "reménytelenség"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „bizonyosság” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-11",
+      "type": "recall",
+      "vocabulary_id": "bizonytalansag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „nejistota“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "bizonytalanság"
+      ],
+      "explanation_cs": "A jegyző felírta a „bizonytalanság” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-12",
+      "type": "order",
+      "vocabulary_id": "remenytelenseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „reménytelenség” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„reménytelenség”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„reménytelenség”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „reménytelenség” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-13",
+      "type": "cloze",
+      "vocabulary_id": "ketsegbeeses",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zoufalství“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "kétségbeesés",
+        "csüggedés",
+        "békesség"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „kétségbeesés” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-14",
+      "type": "recall",
+      "vocabulary_id": "csuggedes",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „skleslost“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "csüggedés"
+      ],
+      "explanation_cs": "A jegyző felírta a „csüggedés” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-15",
+      "type": "order",
+      "vocabulary_id": "bekesseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „békesség” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„békesség”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„békesség”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „békesség” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-16",
+      "type": "cloze",
+      "vocabulary_id": "megbocsatas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „odpuštění“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "megbocsátás",
+        "haragudás",
+        "döbbenet"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „megbocsátás” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-17",
+      "type": "recall",
+      "vocabulary_id": "haragudas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „hněvání“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "haragudás"
+      ],
+      "explanation_cs": "A jegyző felírta a „haragudás” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-18",
+      "type": "order",
+      "vocabulary_id": "dobbenet",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „döbbenet” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„döbbenet”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„döbbenet”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „döbbenet” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-19",
+      "type": "cloze",
+      "vocabulary_id": "indulat",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „prudký cit“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "indulat",
+        "indulatosság",
+        "ösztön"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „indulat” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-20",
+      "type": "recall",
+      "vocabulary_id": "indulatossag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „vznětlivost“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "indulatosság"
+      ],
+      "explanation_cs": "A jegyző felírta a „indulatosság” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-21",
+      "type": "order",
+      "vocabulary_id": "oszton",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „ösztön” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„ösztön”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„ösztön”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „ösztön” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-22",
+      "type": "cloze",
+      "vocabulary_id": "lelkiismeret",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „svědomí“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "lelkiismeret",
+        "szándékosság",
+        "hála"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „lelkiismeret” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-23",
+      "type": "recall",
+      "vocabulary_id": "szandekossag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „úmyslnost“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "szándékosság"
+      ],
+      "explanation_cs": "A jegyző felírta a „szándékosság” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-24",
+      "type": "order",
+      "vocabulary_id": "hala",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „hála” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„hála”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„hála”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „hála” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-25",
+      "type": "cloze",
+      "vocabulary_id": "halatlansag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „nevděk“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "hálátlanság",
+        "örömérzet",
+        "fájdalom"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „hálátlanság” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-26",
+      "type": "recall",
+      "vocabulary_id": "oromerzet",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „pocit radosti“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "örömérzet"
+      ],
+      "explanation_cs": "A jegyző felírta a „örömérzet” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-27",
+      "type": "order",
+      "vocabulary_id": "fajdalom",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „fájdalom” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„fájdalom”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„fájdalom”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „fájdalom” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-28",
+      "type": "cloze",
+      "vocabulary_id": "lelkesultseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zanícení“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "lelkesültség",
+        "türelem",
+        "türelmetlenség"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „lelkesültség” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-29",
+      "type": "recall",
+      "vocabulary_id": "turelem",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „trpělivost“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "türelem"
+      ],
+      "explanation_cs": "A jegyző felírta a „türelem” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-30",
+      "type": "order",
+      "vocabulary_id": "turelmetlenseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „türelmetlenség” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„türelmetlenség”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„türelmetlenség”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „türelmetlenség” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-31",
+      "type": "cloze",
+      "vocabulary_id": "szorongas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „úzkost“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "szorongás",
+        "megnyugvás",
+        "vigasz"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „szorongás” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-32",
+      "type": "recall",
+      "vocabulary_id": "megnyugvas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „uklidnění“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "megnyugvás"
+      ],
+      "explanation_cs": "A jegyző felírta a „megnyugvás” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-33",
+      "type": "order",
+      "vocabulary_id": "vigasz",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „vigasz” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„vigasz”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„vigasz”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „vigasz” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-34",
+      "type": "cloze",
+      "vocabulary_id": "vigasztalas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „utěšování“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "vigasztalás",
+        "megkönnyebbülés",
+        "reménykedés"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „vigasztalás” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-35",
+      "type": "recall",
+      "vocabulary_id": "megkonnyebbules",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „úleva“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "megkönnyebbülés"
+      ],
+      "explanation_cs": "A jegyző felírta a „megkönnyebbülés” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-36",
+      "type": "order",
+      "vocabulary_id": "remenykedes",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „reménykedés” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„reménykedés”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„reménykedés”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „reménykedés” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-37",
+      "type": "cloze",
+      "vocabulary_id": "joindulat",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „dobrá vůle“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "jóindulat",
+        "rosszindulat",
+        "önbizalom"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „jóindulat” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-38",
+      "type": "recall",
+      "vocabulary_id": "rosszindulat",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zlá vůle“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "rosszindulat"
+      ],
+      "explanation_cs": "A jegyző felírta a „rosszindulat” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-39",
+      "type": "order",
+      "vocabulary_id": "onbizalom",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „önbizalom” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„önbizalom”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„önbizalom”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „önbizalom” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-word-40",
+      "type": "cloze",
+      "vocabulary_id": "deru",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „veselost“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "derű",
+        "emlék",
+        "emlékezet"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „derű” kifejezést a lapra."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-01",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „sejtelem“!",
+      "sentence_hu": "Ne ______ a „sejtelem” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „sejtelem“!"
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-02",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „meggyőződés“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „meggyőződés” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „meggyőződés“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-03",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „reménytelenség“.",
+      "sentence_hu": "A tanács ______ a „reménytelenség” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „reménytelenség“."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-04",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „békesség“ ministrovi.",
+      "sentence_hu": "A követ ______ a „békesség” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „békesség“ ministrovi."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-05",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „döbbenet“.",
+      "sentence_hu": "A hivatalnok ______ a „döbbenet” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „döbbenet“."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-06",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „ösztön“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „ösztön” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „ösztön“, odpověděl by."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-07",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „hála“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „hála” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „hála“, rozhodla by."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-08",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „fájdalom“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „fájdalom” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „fájdalom“, rada by rozhodla."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-09",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „türelmetlenség“!",
+      "sentence_hu": "Kérem, ______ alá a „türelmetlenség” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „türelmetlenség“!"
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-10",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „vigasz“!",
+      "sentence_hu": "Kérem, olvassa ______ a „vigasz” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „vigasz“!"
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-11",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „reménykedés“!",
+      "sentence_hu": "Ne ______ a „reménykedés” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „reménykedés“!"
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-12",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „önbizalom“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „önbizalom” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „önbizalom“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-13",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „emlékezet“.",
+      "sentence_hu": "A tanács ______ a „emlékezet” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „emlékezet“."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-14",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „képzelet“ ministrovi.",
+      "sentence_hu": "A követ ______ a „képzelet” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „képzelet“ ministrovi."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-15",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „vélekedés“.",
+      "sentence_hu": "A hivatalnok ______ a „vélekedés” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „vélekedés“."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-16",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „bizonytalanság“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „bizonytalanság” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „bizonytalanság“, odpověděl by."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-17",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „csüggedés“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „csüggedés” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „csüggedés“, rozhodla by."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-18",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „haragudás“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „haragudás” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „haragudás“, rada by rozhodla."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-19",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „indulatosság“!",
+      "sentence_hu": "Kérem, ______ alá a „indulatosság” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „indulatosság“!"
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-20",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „szándékosság“!",
+      "sentence_hu": "Kérem, olvassa ______ a „szándékosság” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „szándékosság“!"
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-21",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „örömérzet“!",
+      "sentence_hu": "Ne ______ a „örömérzet” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „örömérzet“!"
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-22",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „türelem“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „türelem” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „türelem“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-23",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „megnyugvás“.",
+      "sentence_hu": "A tanács ______ a „megnyugvás” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „megnyugvás“."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-24",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „megkönnyebbülés“ ministrovi.",
+      "sentence_hu": "A követ ______ a „megkönnyebbülés” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „megkönnyebbülés“ ministrovi."
+    },
+    {
+      "id": "emotions-and-opinions-b-grammar-25",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „rosszindulat“.",
+      "sentence_hu": "A hivatalnok ______ a „rosszindulat” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „rosszindulat“."
+    }
+  ],
+  "stories": [
+    {
+      "id": "emotions-and-opinions-b-story-01",
+      "title_cs": "Žádost na úřadě · 1",
+      "title_hu": "Kérvény a hivatalban · 1",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "emotions-and-opinions-b"
+      ],
+      "curriculum_lesson_id": "emotions-and-opinions-b",
+      "new_vocabulary_ids": [
+        "emlek",
+        "emlekezet",
+        "figyelem"
+      ],
+      "vocabulary_ids": [
+        "emlek",
+        "emlekezet",
+        "figyelem"
+      ],
+      "segments": [
+        {
+          "text": "1914 tavaszán egy polgár kérelmet vitt a hivatalba. A jegyző a lap aljára három kifejezést írt: "
+        },
+        {
+          "text": "emlék",
+          "vocabulary_id": "emlek"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "emlékezet",
+          "vocabulary_id": "emlekezet"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "figyelem",
+          "vocabulary_id": "figyelem"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "emotions-and-opinions-b-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na jaře 1914 přinesl občan žádost na úřad. Písař připsal na konec listu tři výrazy: vzpomínka, paměť, pozornost."
+    },
+    {
+      "id": "emotions-and-opinions-b-story-02",
+      "title_cs": "Před soudním jednáním · 2",
+      "title_hu": "A tárgyalás előtt · 2",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "emotions-and-opinions-b"
+      ],
+      "curriculum_lesson_id": "emotions-and-opinions-b",
+      "new_vocabulary_ids": [
+        "sejtelem",
+        "felteves",
+        "velekedes"
+      ],
+      "vocabulary_ids": [
+        "sejtelem",
+        "felteves",
+        "velekedes"
+      ],
+      "segments": [
+        {
+          "text": "1914 elején a tanú nyugodtan várta a tárgyalást. A jegyzőkönyvben ezek a szavak szerepeltek: "
+        },
+        {
+          "text": "sejtelem",
+          "vocabulary_id": "sejtelem"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "feltevés",
+          "vocabulary_id": "felteves"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "vélekedés",
+          "vocabulary_id": "velekedes"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "emotions-and-opinions-b-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na začátku roku 1914 svědek klidně čekal na jednání. V protokolu se objevila tato slova: tušení, domněnka, mínění."
+    },
+    {
+      "id": "emotions-and-opinions-b-story-03",
+      "title_cs": "Dopis z ministerstva · 3",
+      "title_hu": "Levél a minisztériumból · 3",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "emotions-and-opinions-b"
+      ],
+      "curriculum_lesson_id": "emotions-and-opinions-b",
+      "new_vocabulary_ids": [
+        "bizonytalansag",
+        "remenytelenseg",
+        "ketsegbeeses"
+      ],
+      "vocabulary_ids": [
+        "bizonytalansag",
+        "remenytelenseg",
+        "ketsegbeeses"
+      ],
+      "segments": [
+        {
+          "text": "1914-ben a követ levelet hozott a minisztériumból; a tanács még aznap megvitatta. A jegyzetbe ezt írták: "
+        },
+        {
+          "text": "bizonytalanság",
+          "vocabulary_id": "bizonytalansag"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "reménytelenség",
+          "vocabulary_id": "remenytelenseg"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "kétségbeesés",
+          "vocabulary_id": "ketsegbeeses"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "emotions-and-opinions-b-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1914 přinesl vyslanec dopis z ministerstva a rada o něm téhož dne jednala. Do poznámek zapsali: nejistota, beznaděj, zoufalství."
+    },
+    {
+      "id": "emotions-and-opinions-b-story-04",
+      "title_cs": "Este a szalonban · 4",
+      "title_hu": "Večer v salonu · 4",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "emotions-and-opinions-b"
+      ],
+      "curriculum_lesson_id": "emotions-and-opinions-b",
+      "new_vocabulary_ids": [
+        "megbocsatas",
+        "haragudas",
+        "dobbenet"
+      ],
+      "vocabulary_ids": [
+        "megbocsatas",
+        "haragudas",
+        "dobbenet"
+      ],
+      "segments": [
+        {
+          "text": "1914 tavaszán a vendégek a szalonban zenéről és a város jövőjéről beszélgettek. A házigazda feljegyezte: "
+        },
+        {
+          "text": "megbocsátás",
+          "vocabulary_id": "megbocsatas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "haragudás",
+          "vocabulary_id": "haragudas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "döbbenet",
+          "vocabulary_id": "dobbenet"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "emotions-and-opinions-b-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na jaře 1914 hovořili hosté v salonu o hudbě a budoucnosti města. Hostitel si poznamenal: odpuštění, hněvání, úžas."
+    }
+  ]
+}

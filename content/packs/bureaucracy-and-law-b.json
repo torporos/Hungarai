@@ -1,0 +1,2905 @@
+{
+  "order": 43,
+  "quarter": "q4",
+  "lesson": {
+    "id": "bureaucracy-and-law-b",
+    "theme_id": "q4-society-1914",
+    "theme_title_cs": "Q4 · Společnost před rozpadem",
+    "module_number": 4,
+    "module_title_cs": "Úřady, názory a nejistota roku 1914",
+    "title_cs": "Zákony a úřady II",
+    "description": "Společnost, úřady, kultura a nejistota v roce 1914; vyprávění nepřekračuje stanovený historický řez.",
+    "level": "Q4 · SPOLEČNOST V ROCE 1914",
+    "duration_min": 22,
+    "xp_required": 2400,
+    "prerequisite_lesson_ids": [
+      "bureaucracy-and-law-a"
+    ],
+    "vocabulary_ids": [
+      "buntetes",
+      "targyalas",
+      "itelet",
+      "jog",
+      "jogszabaly",
+      "rendelet",
+      "hatarozat",
+      "panasz",
+      "fellebbezes",
+      "tanu",
+      "vallomas",
+      "bizonyitek",
+      "esku",
+      "fogda",
+      "or",
+      "bortonor",
+      "zsandarorseg",
+      "allampolgar",
+      "alattvalo",
+      "allam",
+      "kiralysag",
+      "megyeszekhely",
+      "ugyirat",
+      "alairo",
+      "hitelesites",
+      "hitelesito",
+      "kozjegyzo",
+      "kozjegyzoseg",
+      "tanacs",
+      "tanacsos",
+      "tanacsterem",
+      "jegyzokonyv",
+      "hatosag",
+      "kozhivatal",
+      "hivatalosirat",
+      "kerelem",
+      "folyamodo",
+      "kezbesites",
+      "kezbesito",
+      "kezbesitesiiv",
+      "nyilvantartas",
+      "illetmeny",
+      "vamjegy",
+      "vamaru",
+      "vamraktar",
+      "jogasz",
+      "rendtartas",
+      "utasitas",
+      "vegzes",
+      "kihallgatas"
+    ],
+    "new_vocabulary_ids": [
+      "buntetes",
+      "targyalas",
+      "itelet",
+      "jog",
+      "jogszabaly",
+      "rendelet",
+      "hatarozat",
+      "panasz",
+      "fellebbezes",
+      "tanu",
+      "vallomas",
+      "bizonyitek",
+      "esku",
+      "fogda",
+      "or",
+      "bortonor",
+      "zsandarorseg",
+      "allampolgar",
+      "alattvalo",
+      "allam",
+      "kiralysag",
+      "megyeszekhely",
+      "ugyirat",
+      "alairo",
+      "hitelesites",
+      "hitelesito",
+      "kozjegyzo",
+      "kozjegyzoseg",
+      "tanacs",
+      "tanacsos",
+      "tanacsterem",
+      "jegyzokonyv",
+      "hatosag",
+      "kozhivatal",
+      "hivatalosirat",
+      "kerelem",
+      "folyamodo",
+      "kezbesites",
+      "kezbesito",
+      "kezbesitesiiv",
+      "nyilvantartas",
+      "illetmeny",
+      "vamjegy",
+      "vamaru",
+      "vamraktar",
+      "jogasz",
+      "rendtartas",
+      "utasitas",
+      "vegzes",
+      "kihallgatas"
+    ],
+    "grammar_ids": [
+      "q4-conditional-mood",
+      "q4-imperative-mood",
+      "q4-verbal-prefixes"
+    ],
+    "grammar_label_cs": "Podmiňovací způsob · rozkazy · slovesné předpony",
+    "exercise_ids": [
+      "bureaucracy-and-law-b-word-01",
+      "bureaucracy-and-law-b-word-02",
+      "bureaucracy-and-law-b-word-03",
+      "bureaucracy-and-law-b-word-04",
+      "bureaucracy-and-law-b-word-05",
+      "bureaucracy-and-law-b-word-06",
+      "bureaucracy-and-law-b-word-07",
+      "bureaucracy-and-law-b-word-08",
+      "bureaucracy-and-law-b-word-09",
+      "bureaucracy-and-law-b-word-10",
+      "bureaucracy-and-law-b-word-11",
+      "bureaucracy-and-law-b-word-12",
+      "bureaucracy-and-law-b-word-13",
+      "bureaucracy-and-law-b-word-14",
+      "bureaucracy-and-law-b-word-15",
+      "bureaucracy-and-law-b-word-16",
+      "bureaucracy-and-law-b-word-17",
+      "bureaucracy-and-law-b-word-18",
+      "bureaucracy-and-law-b-word-19",
+      "bureaucracy-and-law-b-word-20",
+      "bureaucracy-and-law-b-word-21",
+      "bureaucracy-and-law-b-word-22",
+      "bureaucracy-and-law-b-word-23",
+      "bureaucracy-and-law-b-word-24",
+      "bureaucracy-and-law-b-word-25",
+      "bureaucracy-and-law-b-word-26",
+      "bureaucracy-and-law-b-word-27",
+      "bureaucracy-and-law-b-word-28",
+      "bureaucracy-and-law-b-word-29",
+      "bureaucracy-and-law-b-word-30",
+      "bureaucracy-and-law-b-word-31",
+      "bureaucracy-and-law-b-word-32",
+      "bureaucracy-and-law-b-word-33",
+      "bureaucracy-and-law-b-word-34",
+      "bureaucracy-and-law-b-word-35",
+      "bureaucracy-and-law-b-word-36",
+      "bureaucracy-and-law-b-word-37",
+      "bureaucracy-and-law-b-word-38",
+      "bureaucracy-and-law-b-word-39",
+      "bureaucracy-and-law-b-word-40",
+      "bureaucracy-and-law-b-word-41",
+      "bureaucracy-and-law-b-word-42",
+      "bureaucracy-and-law-b-word-43",
+      "bureaucracy-and-law-b-word-44",
+      "bureaucracy-and-law-b-word-45",
+      "bureaucracy-and-law-b-word-46",
+      "bureaucracy-and-law-b-word-47",
+      "bureaucracy-and-law-b-word-48",
+      "bureaucracy-and-law-b-word-49",
+      "bureaucracy-and-law-b-word-50",
+      "bureaucracy-and-law-b-grammar-01",
+      "bureaucracy-and-law-b-grammar-02",
+      "bureaucracy-and-law-b-grammar-03",
+      "bureaucracy-and-law-b-grammar-04",
+      "bureaucracy-and-law-b-grammar-05",
+      "bureaucracy-and-law-b-grammar-06",
+      "bureaucracy-and-law-b-grammar-07",
+      "bureaucracy-and-law-b-grammar-08",
+      "bureaucracy-and-law-b-grammar-09",
+      "bureaucracy-and-law-b-grammar-10",
+      "bureaucracy-and-law-b-grammar-11",
+      "bureaucracy-and-law-b-grammar-12",
+      "bureaucracy-and-law-b-grammar-13",
+      "bureaucracy-and-law-b-grammar-14",
+      "bureaucracy-and-law-b-grammar-15",
+      "bureaucracy-and-law-b-grammar-16",
+      "bureaucracy-and-law-b-grammar-17",
+      "bureaucracy-and-law-b-grammar-18",
+      "bureaucracy-and-law-b-grammar-19",
+      "bureaucracy-and-law-b-grammar-20",
+      "bureaucracy-and-law-b-grammar-21",
+      "bureaucracy-and-law-b-grammar-22",
+      "bureaucracy-and-law-b-grammar-23",
+      "bureaucracy-and-law-b-grammar-24",
+      "bureaucracy-and-law-b-grammar-25"
+    ],
+    "story_ids": [
+      "bureaucracy-and-law-b-story-01",
+      "bureaucracy-and-law-b-story-02",
+      "bureaucracy-and-law-b-story-03",
+      "bureaucracy-and-law-b-story-04",
+      "bureaucracy-and-law-b-story-05"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "buntetes",
+      "word": "büntetés",
+      "translation_cs": "trest",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "büntetés",
+          "translation_cs": "trest",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „büntetés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „trest“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "targyalas",
+      "word": "tárgyalás",
+      "translation_cs": "soudní jednání",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tárgyalás",
+          "translation_cs": "soudní jednání",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „tárgyalás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „soudní jednání“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "itelet",
+      "word": "ítélet",
+      "translation_cs": "rozsudek",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ítélet",
+          "translation_cs": "rozsudek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „ítélet” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „rozsudek“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "jog",
+      "word": "jog",
+      "translation_cs": "právo",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jog",
+          "translation_cs": "právo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „jog” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „právo“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "jogszabaly",
+      "word": "jogszabály",
+      "translation_cs": "právní předpis",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jogszabály",
+          "translation_cs": "právní předpis",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „jogszabály” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „právní předpis“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "rendelet",
+      "word": "rendelet",
+      "translation_cs": "nařízení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rendelet",
+          "translation_cs": "nařízení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „rendelet” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „nařízení“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "hatarozat",
+      "word": "határozat",
+      "translation_cs": "usnesení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "határozat",
+          "translation_cs": "usnesení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „határozat” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „usnesení“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "panasz",
+      "word": "panasz",
+      "translation_cs": "stížnost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "panasz",
+          "translation_cs": "stížnost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „panasz” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „stížnost“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "fellebbezes",
+      "word": "fellebbezés",
+      "translation_cs": "odvolání",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fellebbezés",
+          "translation_cs": "odvolání",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „fellebbezés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „odvolání“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "tanu",
+      "word": "tanú",
+      "translation_cs": "svědek",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tanú",
+          "translation_cs": "svědek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „tanú” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „svědek“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "vallomas",
+      "word": "vallomás",
+      "translation_cs": "výpověď",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vallomás",
+          "translation_cs": "výpověď",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „vallomás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „výpověď“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "bizonyitek",
+      "word": "bizonyíték",
+      "translation_cs": "důkaz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bizonyíték",
+          "translation_cs": "důkaz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „bizonyíték” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „důkaz“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "esku",
+      "word": "eskü",
+      "translation_cs": "přísaha",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "eskü",
+          "translation_cs": "přísaha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „eskü” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „přísaha“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "fogda",
+      "word": "fogda",
+      "translation_cs": "cela",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fogda",
+          "translation_cs": "cela",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „fogda” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „cela“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "or",
+      "word": "őr",
+      "translation_cs": "stráž",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "őr",
+          "translation_cs": "stráž",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „őr” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „stráž“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "bortonor",
+      "word": "börtönőr",
+      "translation_cs": "dozorce",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "börtönőr",
+          "translation_cs": "dozorce",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „börtönőr” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „dozorce“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "zsandarorseg",
+      "word": "zsandárőrség",
+      "translation_cs": "četnická stanice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "zsandárőrség",
+          "translation_cs": "četnická stanice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „zsandárőrség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „četnická stanice“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "allampolgar",
+      "word": "állampolgár",
+      "translation_cs": "občan",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "állampolgár",
+          "translation_cs": "občan",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „állampolgár” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „občan“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "alattvalo",
+      "word": "alattvaló",
+      "translation_cs": "poddaný",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "alattvaló",
+          "translation_cs": "poddaný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „alattvaló” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „poddaný“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "allam",
+      "word": "állam",
+      "translation_cs": "stát",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "állam",
+          "translation_cs": "stát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „állam” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „stát“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "kiralysag",
+      "word": "királyság",
+      "translation_cs": "království",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "királyság",
+          "translation_cs": "království",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „királyság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „království“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "megyeszekhely",
+      "word": "megyeszékhely",
+      "translation_cs": "župní sídlo",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megyeszékhely",
+          "translation_cs": "župní sídlo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „megyeszékhely” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „župní sídlo“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "ugyirat",
+      "word": "ügyirat",
+      "translation_cs": "úřední spis",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ügyirat",
+          "translation_cs": "úřední spis",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „ügyirat” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „úřední spis“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "alairo",
+      "word": "aláíró",
+      "translation_cs": "podepisující",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "aláíró",
+          "translation_cs": "podepisující",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „aláíró” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „podepisující“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "hitelesites",
+      "word": "hitelesítés",
+      "translation_cs": "ověření",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hitelesítés",
+          "translation_cs": "ověření",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hitelesítés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „ověření“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "hitelesito",
+      "word": "hitelesítő",
+      "translation_cs": "ověřující úředník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hitelesítő",
+          "translation_cs": "ověřující úředník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hitelesítő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „ověřující úředník“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "kozjegyzo",
+      "word": "közjegyző",
+      "translation_cs": "notář",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "közjegyző",
+          "translation_cs": "notář",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „közjegyző” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „notář“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "kozjegyzoseg",
+      "word": "közjegyzőség",
+      "translation_cs": "notářství",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "közjegyzőség",
+          "translation_cs": "notářství",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „közjegyzőség” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „notářství“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "tanacs",
+      "word": "tanács",
+      "translation_cs": "rada",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tanács",
+          "translation_cs": "rada",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „tanács” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „rada“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "tanacsos",
+      "word": "tanácsos",
+      "translation_cs": "radní",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tanácsos",
+          "translation_cs": "radní",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „tanácsos” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „radní“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "tanacsterem",
+      "word": "tanácsterem",
+      "translation_cs": "zasedací síň",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tanácsterem",
+          "translation_cs": "zasedací síň",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „tanácsterem” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „zasedací síň“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "jegyzokonyv",
+      "word": "jegyzőkönyv",
+      "translation_cs": "protokol",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jegyzőkönyv",
+          "translation_cs": "protokol",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „jegyzőkönyv” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „protokol“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "hatosag",
+      "word": "hatóság",
+      "translation_cs": "úřadní orgán",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hatóság",
+          "translation_cs": "úřadní orgán",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hatóság” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „úřadní orgán“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "kozhivatal",
+      "word": "közhivatal",
+      "translation_cs": "veřejný úřad",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "közhivatal",
+          "translation_cs": "veřejný úřad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „közhivatal” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „veřejný úřad“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "hivatalosirat",
+      "word": "hivatalos irat",
+      "translation_cs": "úřední listina",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hivatalos irat",
+          "translation_cs": "úřední listina",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „hivatalos irat” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „úřední listina“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "kerelem",
+      "word": "kérelem",
+      "translation_cs": "žádost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kérelem",
+          "translation_cs": "žádost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „kérelem” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „žádost“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "folyamodo",
+      "word": "folyamodó",
+      "translation_cs": "žadatel",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "folyamodó",
+          "translation_cs": "žadatel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „folyamodó” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „žadatel“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "kezbesites",
+      "word": "kézbesítés",
+      "translation_cs": "doručení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kézbesítés",
+          "translation_cs": "doručení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „kézbesítés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „doručení“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "kezbesito",
+      "word": "kézbesítő",
+      "translation_cs": "doručovatel",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kézbesítő",
+          "translation_cs": "doručovatel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „kézbesítő” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „doručovatel“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "kezbesitesiiv",
+      "word": "kézbesítési ív",
+      "translation_cs": "doručovací arch",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kézbesítési ív",
+          "translation_cs": "doručovací arch",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „kézbesítési ív” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „doručovací arch“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "nyilvantartas",
+      "word": "nyilvántartás",
+      "translation_cs": "evidence",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nyilvántartás",
+          "translation_cs": "evidence",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „nyilvántartás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „evidence“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "illetmeny",
+      "word": "illetmény",
+      "translation_cs": "služné",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "illetmény",
+          "translation_cs": "služné",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „illetmény” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „služné“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "vamjegy",
+      "word": "vámjegy",
+      "translation_cs": "celní značka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vámjegy",
+          "translation_cs": "celní značka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „vámjegy” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „celní značka“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "vamaru",
+      "word": "vámáru",
+      "translation_cs": "celní zboží",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vámáru",
+          "translation_cs": "celní zboží",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „vámáru” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „celní zboží“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "vamraktar",
+      "word": "vámraktár",
+      "translation_cs": "celní sklad",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vámraktár",
+          "translation_cs": "celní sklad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „vámraktár” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „celní sklad“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "jogasz",
+      "word": "jogász",
+      "translation_cs": "právník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jogász",
+          "translation_cs": "právník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „jogász” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „právník“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "rendtartas",
+      "word": "rendtartás",
+      "translation_cs": "řád",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rendtartás",
+          "translation_cs": "řád",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „rendtartás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „řád“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "utasitas",
+      "word": "utasítás",
+      "translation_cs": "pokyn",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "utasítás",
+          "translation_cs": "pokyn",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „utasítás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „pokyn“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "vegzes",
+      "word": "végzés",
+      "translation_cs": "rozhodnutí soudu",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "végzés",
+          "translation_cs": "rozhodnutí soudu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „végzés” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „rozhodnutí soudu“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    },
+    {
+      "id": "kihallgatas",
+      "word": "kihallgatás",
+      "translation_cs": "výslech",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kihallgatás",
+          "translation_cs": "výslech",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyző felírta a „kihallgatás” kifejezést a lapra.",
+      "example_cs": "Písař zapsal na list výraz „výslech“.",
+      "tags": [
+        "q4",
+        "society_bureaucracy"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "bureaucracy-and-law-b-word-01",
+      "type": "cloze",
+      "vocabulary_id": "buntetes",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „trest“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "büntetés",
+        "tárgyalás",
+        "ítélet"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „büntetés” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-02",
+      "type": "recall",
+      "vocabulary_id": "targyalas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „soudní jednání“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "tárgyalás"
+      ],
+      "explanation_cs": "A jegyző felírta a „tárgyalás” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-03",
+      "type": "order",
+      "vocabulary_id": "itelet",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „ítélet” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„ítélet”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„ítélet”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „ítélet” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-04",
+      "type": "cloze",
+      "vocabulary_id": "jog",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „právo“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "jog",
+        "jogszabály",
+        "rendelet"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „jog” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-05",
+      "type": "recall",
+      "vocabulary_id": "jogszabaly",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „právní předpis“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "jogszabály"
+      ],
+      "explanation_cs": "A jegyző felírta a „jogszabály” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-06",
+      "type": "order",
+      "vocabulary_id": "rendelet",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „rendelet” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„rendelet”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„rendelet”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „rendelet” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-07",
+      "type": "cloze",
+      "vocabulary_id": "hatarozat",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „usnesení“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "határozat",
+        "panasz",
+        "fellebbezés"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „határozat” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-08",
+      "type": "recall",
+      "vocabulary_id": "panasz",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „stížnost“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "panasz"
+      ],
+      "explanation_cs": "A jegyző felírta a „panasz” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-09",
+      "type": "order",
+      "vocabulary_id": "fellebbezes",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „fellebbezés” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„fellebbezés”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„fellebbezés”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „fellebbezés” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-10",
+      "type": "cloze",
+      "vocabulary_id": "tanu",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „svědek“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "tanú",
+        "vallomás",
+        "bizonyíték"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „tanú” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-11",
+      "type": "recall",
+      "vocabulary_id": "vallomas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „výpověď“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "vallomás"
+      ],
+      "explanation_cs": "A jegyző felírta a „vallomás” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-12",
+      "type": "order",
+      "vocabulary_id": "bizonyitek",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „bizonyíték” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„bizonyíték”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„bizonyíték”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „bizonyíték” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-13",
+      "type": "cloze",
+      "vocabulary_id": "esku",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „přísaha“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "eskü",
+        "fogda",
+        "őr"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „eskü” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-14",
+      "type": "recall",
+      "vocabulary_id": "fogda",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „cela“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "fogda"
+      ],
+      "explanation_cs": "A jegyző felírta a „fogda” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-15",
+      "type": "order",
+      "vocabulary_id": "or",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „őr” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„őr”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„őr”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „őr” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-16",
+      "type": "cloze",
+      "vocabulary_id": "bortonor",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „dozorce“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "börtönőr",
+        "zsandárőrség",
+        "állampolgár"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „börtönőr” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-17",
+      "type": "recall",
+      "vocabulary_id": "zsandarorseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „četnická stanice“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "zsandárőrség"
+      ],
+      "explanation_cs": "A jegyző felírta a „zsandárőrség” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-18",
+      "type": "order",
+      "vocabulary_id": "allampolgar",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „állampolgár” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„állampolgár”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„állampolgár”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „állampolgár” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-19",
+      "type": "cloze",
+      "vocabulary_id": "alattvalo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „poddaný“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "alattvaló",
+        "állam",
+        "királyság"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „alattvaló” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-20",
+      "type": "recall",
+      "vocabulary_id": "allam",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „stát“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "állam"
+      ],
+      "explanation_cs": "A jegyző felírta a „állam” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-21",
+      "type": "order",
+      "vocabulary_id": "kiralysag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „királyság” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„királyság”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„királyság”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „királyság” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-22",
+      "type": "cloze",
+      "vocabulary_id": "megyeszekhely",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „župní sídlo“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "megyeszékhely",
+        "ügyirat",
+        "aláíró"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „megyeszékhely” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-23",
+      "type": "recall",
+      "vocabulary_id": "ugyirat",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „úřední spis“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "ügyirat"
+      ],
+      "explanation_cs": "A jegyző felírta a „ügyirat” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-24",
+      "type": "order",
+      "vocabulary_id": "alairo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „aláíró” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„aláíró”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„aláíró”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „aláíró” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-25",
+      "type": "cloze",
+      "vocabulary_id": "hitelesites",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „ověření“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "hitelesítés",
+        "hitelesítő",
+        "közjegyző"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „hitelesítés” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-26",
+      "type": "recall",
+      "vocabulary_id": "hitelesito",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „ověřující úředník“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "hitelesítő"
+      ],
+      "explanation_cs": "A jegyző felírta a „hitelesítő” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-27",
+      "type": "order",
+      "vocabulary_id": "kozjegyzo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „közjegyző” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„közjegyző”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„közjegyző”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „közjegyző” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-28",
+      "type": "cloze",
+      "vocabulary_id": "kozjegyzoseg",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „notářství“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "közjegyzőség",
+        "tanács",
+        "tanácsos"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „közjegyzőség” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-29",
+      "type": "recall",
+      "vocabulary_id": "tanacs",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „rada“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "tanács"
+      ],
+      "explanation_cs": "A jegyző felírta a „tanács” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-30",
+      "type": "order",
+      "vocabulary_id": "tanacsos",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „tanácsos” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„tanácsos”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„tanácsos”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „tanácsos” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-31",
+      "type": "cloze",
+      "vocabulary_id": "tanacsterem",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „zasedací síň“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "tanácsterem",
+        "jegyzőkönyv",
+        "hatóság"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „tanácsterem” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-32",
+      "type": "recall",
+      "vocabulary_id": "jegyzokonyv",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „protokol“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "jegyzőkönyv"
+      ],
+      "explanation_cs": "A jegyző felírta a „jegyzőkönyv” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-33",
+      "type": "order",
+      "vocabulary_id": "hatosag",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „hatóság” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„hatóság”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„hatóság”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „hatóság” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-34",
+      "type": "cloze",
+      "vocabulary_id": "kozhivatal",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „veřejný úřad“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "közhivatal",
+        "hivatalos irat",
+        "kérelem"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „közhivatal” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-35",
+      "type": "recall",
+      "vocabulary_id": "hivatalosirat",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „úřední listina“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "hivatalos irat"
+      ],
+      "explanation_cs": "A jegyző felírta a „hivatalos irat” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-36",
+      "type": "order",
+      "vocabulary_id": "kerelem",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „kérelem” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„kérelem”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„kérelem”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „kérelem” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-37",
+      "type": "cloze",
+      "vocabulary_id": "folyamodo",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „žadatel“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "folyamodó",
+        "kézbesítés",
+        "kézbesítő"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „folyamodó” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-38",
+      "type": "recall",
+      "vocabulary_id": "kezbesites",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „doručení“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "kézbesítés"
+      ],
+      "explanation_cs": "A jegyző felírta a „kézbesítés” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-39",
+      "type": "order",
+      "vocabulary_id": "kezbesito",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „kézbesítő” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„kézbesítő”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„kézbesítő”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „kézbesítő” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-40",
+      "type": "cloze",
+      "vocabulary_id": "kezbesitesiiv",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „doručovací arch“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "kézbesítési ív",
+        "nyilvántartás",
+        "illetmény"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „kézbesítési ív” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-41",
+      "type": "recall",
+      "vocabulary_id": "nyilvantartas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „evidence“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "nyilvántartás"
+      ],
+      "explanation_cs": "A jegyző felírta a „nyilvántartás” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-42",
+      "type": "order",
+      "vocabulary_id": "illetmeny",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „illetmény” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„illetmény”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„illetmény”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „illetmény” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-43",
+      "type": "cloze",
+      "vocabulary_id": "vamjegy",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „celní značka“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "vámjegy",
+        "vámáru",
+        "vámraktár"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „vámjegy” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-44",
+      "type": "recall",
+      "vocabulary_id": "vamaru",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „celní zboží“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "vámáru"
+      ],
+      "explanation_cs": "A jegyző felírta a „vámáru” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-45",
+      "type": "order",
+      "vocabulary_id": "vamraktar",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „vámraktár” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„vámraktár”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„vámraktár”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „vámraktár” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-46",
+      "type": "cloze",
+      "vocabulary_id": "jogasz",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „právník“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "jogász",
+        "rendtartás",
+        "utasítás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „jogász” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-47",
+      "type": "recall",
+      "vocabulary_id": "rendtartas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „řád“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "rendtartás"
+      ],
+      "explanation_cs": "A jegyző felírta a „rendtartás” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-48",
+      "type": "order",
+      "vocabulary_id": "utasitas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Sestavte větu s výrazem z roku 1914.",
+      "sentence_hu": "A jegyző felírta a „utasítás” kifejezést a lapra.",
+      "words_hu": [
+        "lapra.",
+        "a",
+        "kifejezést",
+        "„utasítás”",
+        "a",
+        "felírta",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "felírta",
+          "a",
+          "„utasítás”",
+          "kifejezést",
+          "a",
+          "lapra."
+        ]
+      ],
+      "explanation_cs": "A jegyző felírta a „utasítás” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-49",
+      "type": "cloze",
+      "vocabulary_id": "vegzes",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „rozhodnutí soudu“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "options_cs": [
+        "végzés",
+        "kihallgatás",
+        "büntetés"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző felírta a „végzés” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-word-50",
+      "type": "recall",
+      "vocabulary_id": "kihallgatas",
+      "type_label_cs": "Výrazy ze společnosti roku 1914",
+      "prompt_cs": "Doplňte výraz pro „výslech“.",
+      "sentence_hu": "A jegyző felírta a „______” kifejezést a lapra.",
+      "accepted_answers": [
+        "kihallgatás"
+      ],
+      "explanation_cs": "A jegyző felírta a „kihallgatás” kifejezést a lapra."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-01",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „tárgyalás“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „tárgyalás” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „tárgyalás“, rozhodla by."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-02",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „jogszabály“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „jogszabály” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „jogszabály“, rada by rozhodla."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-03",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „panasz“!",
+      "sentence_hu": "Kérem, ______ alá a „panasz” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „panasz“!"
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-04",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „vallomás“!",
+      "sentence_hu": "Kérem, olvassa ______ a „vallomás” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „vallomás“!"
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-05",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „fogda“!",
+      "sentence_hu": "Ne ______ a „fogda” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „fogda“!"
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-06",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „zsandárőrség“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „zsandárőrség” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „zsandárőrség“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-07",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „állam“.",
+      "sentence_hu": "A tanács ______ a „állam” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „állam“."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-08",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „ügyirat“ ministrovi.",
+      "sentence_hu": "A követ ______ a „ügyirat” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „ügyirat“ ministrovi."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-09",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „hitelesítő“.",
+      "sentence_hu": "A hivatalnok ______ a „hitelesítő” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „hitelesítő“."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-10",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „tanács“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „tanács” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „tanács“, odpověděl by."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-11",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „jegyzőkönyv“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „jegyzőkönyv” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „jegyzőkönyv“, rozhodla by."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-12",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „hivatalos irat“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „hivatalos irat” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „hivatalos irat“, rada by rozhodla."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-13",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „kézbesítés“!",
+      "sentence_hu": "Kérem, ______ alá a „kézbesítés” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „kézbesítés“!"
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-14",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „nyilvántartás“!",
+      "sentence_hu": "Kérem, olvassa ______ a „nyilvántartás” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „nyilvántartás“!"
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-15",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „vámáru“!",
+      "sentence_hu": "Ne ______ a „vámáru” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „vámáru“!"
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-16",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Písař přečetl listinu „rendtartás“ a potom ji vrátil do složky.",
+      "sentence_hu": "A jegyző ______ a „rendtartás” iratot, majd visszatette a dossziéba.",
+      "options_cs": [
+        "elolvasta",
+        "olvasta",
+        "felolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Písař přečetl listinu „rendtartás“ a potom ji vrátil do složky."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-17",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Rada vyhlásila nařízení „kihallgatás“.",
+      "sentence_hu": "A tanács ______ a „kihallgatás” rendeletet.",
+      "options_cs": [
+        "kihirdette",
+        "hirdette",
+        "kihirdeti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Rada vyhlásila nařízení „kihallgatás“."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-18",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Vyslanec předal návrh „ítélet“ ministrovi.",
+      "sentence_hu": "A követ ______ a „ítélet” javaslatot a miniszternek.",
+      "options_cs": [
+        "átadta",
+        "adta",
+        "átadja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vyslanec předal návrh „ítélet“ ministrovi."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-19",
+      "type": "cloze",
+      "grammar_id": "q4-verbal-prefixes",
+      "type_label_cs": "Slovesné předpony",
+      "prompt_cs": "Doplňte správný tvar. Úředník vyřídil žádost „rendelet“.",
+      "sentence_hu": "A hivatalnok ______ a „rendelet” kérelmet.",
+      "options_cs": [
+        "elintézte",
+        "intézte",
+        "elintézi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Úředník vyřídil žádost „rendelet“."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-20",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby úředník dostal výraz „fellebbezés“, odpověděl by.",
+      "sentence_hu": "Ha a hivatalnok ______ a „fellebbezés” kifejezést, válaszolna.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby úředník dostal výraz „fellebbezés“, odpověděl by."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-21",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby si rada přečetla listinu „bizonyíték“, rozhodla by.",
+      "sentence_hu": "Ha a tanács ______ a „bizonyíték” iratot, döntene.",
+      "options_cs": [
+        "elolvasná",
+        "elolvassa",
+        "elolvasta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby si rada přečetla listinu „bizonyíték“, rozhodla by."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-22",
+      "type": "cloze",
+      "grammar_id": "q4-conditional-mood",
+      "type_label_cs": "Podmiňovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Kdyby občan dostal listinu „őr“, rada by rozhodla.",
+      "sentence_hu": "Ha a polgár ______ a „őr” iratot, a tanács döntene.",
+      "options_cs": [
+        "megkapná",
+        "megkapja",
+        "megkapta"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kdyby občan dostal listinu „őr“, rada by rozhodla."
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-23",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Podepište prosím listinu „állampolgár“!",
+      "sentence_hu": "Kérem, ______ alá a „állampolgár” iratot!",
+      "options_cs": [
+        "írja",
+        "írta",
+        "írja alá"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Podepište prosím listinu „állampolgár“!"
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-24",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Přečtěte si prosím žádost „királyság“!",
+      "sentence_hu": "Kérem, olvassa ______ a „királyság” kérvényt!",
+      "options_cs": [
+        "el",
+        "meg",
+        "át"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přečtěte si prosím žádost „királyság“!"
+    },
+    {
+      "id": "bureaucracy-and-law-b-grammar-25",
+      "type": "cloze",
+      "grammar_id": "q4-imperative-mood",
+      "type_label_cs": "Rozkazovací způsob",
+      "prompt_cs": "Doplňte správný tvar. Nešiřte zprávu „aláíró“!",
+      "sentence_hu": "Ne ______ a „aláíró” hírt!",
+      "options_cs": [
+        "terjessze",
+        "terjesztette",
+        "terjeszti"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nešiřte zprávu „aláíró“!"
+    }
+  ],
+  "stories": [
+    {
+      "id": "bureaucracy-and-law-b-story-01",
+      "title_cs": "Žádost na úřadě · 1",
+      "title_hu": "Kérvény a hivatalban · 1",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "bureaucracy-and-law-b"
+      ],
+      "curriculum_lesson_id": "bureaucracy-and-law-b",
+      "new_vocabulary_ids": [
+        "buntetes",
+        "targyalas",
+        "itelet"
+      ],
+      "vocabulary_ids": [
+        "buntetes",
+        "targyalas",
+        "itelet"
+      ],
+      "segments": [
+        {
+          "text": "1914 tavaszán egy polgár kérelmet vitt a hivatalba. A jegyző a lap aljára három kifejezést írt: "
+        },
+        {
+          "text": "büntetés",
+          "vocabulary_id": "buntetes"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "tárgyalás",
+          "vocabulary_id": "targyalas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "ítélet",
+          "vocabulary_id": "itelet"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "bureaucracy-and-law-b-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na jaře 1914 přinesl občan žádost na úřad. Písař připsal na konec listu tři výrazy: trest, soudní jednání, rozsudek."
+    },
+    {
+      "id": "bureaucracy-and-law-b-story-02",
+      "title_cs": "Před soudním jednáním · 2",
+      "title_hu": "A tárgyalás előtt · 2",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "bureaucracy-and-law-b"
+      ],
+      "curriculum_lesson_id": "bureaucracy-and-law-b",
+      "new_vocabulary_ids": [
+        "rendelet",
+        "hatarozat",
+        "panasz"
+      ],
+      "vocabulary_ids": [
+        "rendelet",
+        "hatarozat",
+        "panasz"
+      ],
+      "segments": [
+        {
+          "text": "1914 elején a tanú nyugodtan várta a tárgyalást. A jegyzőkönyvben ezek a szavak szerepeltek: "
+        },
+        {
+          "text": "rendelet",
+          "vocabulary_id": "rendelet"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "határozat",
+          "vocabulary_id": "hatarozat"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "panasz",
+          "vocabulary_id": "panasz"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "bureaucracy-and-law-b-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na začátku roku 1914 svědek klidně čekal na jednání. V protokolu se objevila tato slova: nařízení, usnesení, stížnost."
+    },
+    {
+      "id": "bureaucracy-and-law-b-story-03",
+      "title_cs": "Dopis z ministerstva · 3",
+      "title_hu": "Levél a minisztériumból · 3",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "bureaucracy-and-law-b"
+      ],
+      "curriculum_lesson_id": "bureaucracy-and-law-b",
+      "new_vocabulary_ids": [
+        "vallomas",
+        "bizonyitek",
+        "esku"
+      ],
+      "vocabulary_ids": [
+        "vallomas",
+        "bizonyitek",
+        "esku"
+      ],
+      "segments": [
+        {
+          "text": "1914-ben a követ levelet hozott a minisztériumból; a tanács még aznap megvitatta. A jegyzetbe ezt írták: "
+        },
+        {
+          "text": "vallomás",
+          "vocabulary_id": "vallomas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "bizonyíték",
+          "vocabulary_id": "bizonyitek"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "eskü",
+          "vocabulary_id": "esku"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "bureaucracy-and-law-b-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1914 přinesl vyslanec dopis z ministerstva a rada o něm téhož dne jednala. Do poznámek zapsali: výpověď, důkaz, přísaha."
+    },
+    {
+      "id": "bureaucracy-and-law-b-story-04",
+      "title_cs": "Este a szalonban · 4",
+      "title_hu": "Večer v salonu · 4",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "bureaucracy-and-law-b"
+      ],
+      "curriculum_lesson_id": "bureaucracy-and-law-b",
+      "new_vocabulary_ids": [
+        "bortonor",
+        "zsandarorseg",
+        "allampolgar"
+      ],
+      "vocabulary_ids": [
+        "bortonor",
+        "zsandarorseg",
+        "allampolgar"
+      ],
+      "segments": [
+        {
+          "text": "1914 tavaszán a vendégek a szalonban zenéről és a város jövőjéről beszélgettek. A házigazda feljegyezte: "
+        },
+        {
+          "text": "börtönőr",
+          "vocabulary_id": "bortonor"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "zsandárőrség",
+          "vocabulary_id": "zsandarorseg"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "állampolgár",
+          "vocabulary_id": "allampolgar"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "bureaucracy-and-law-b-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na jaře 1914 hovořili hosté v salonu o hudbě a budoucnosti města. Hostitel si poznamenal: dozorce, četnická stanice, občan."
+    },
+    {
+      "id": "bureaucracy-and-law-b-story-05",
+      "title_cs": "Hírek Szarajevóból · 5",
+      "title_hu": "Zprávy ze Sarajeva · 5",
+      "level": "Q4 · SPOLEČNOST V ROCE 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "bureaucracy-and-law-b"
+      ],
+      "curriculum_lesson_id": "bureaucracy-and-law-b",
+      "new_vocabulary_ids": [
+        "kiralysag",
+        "megyeszekhely",
+        "ugyirat"
+      ],
+      "vocabulary_ids": [
+        "kiralysag",
+        "megyeszekhely",
+        "ugyirat"
+      ],
+      "segments": [
+        {
+          "text": "1914 júniusának végén hírek érkeztek Szarajevóból. A kávéházban az emberek aggodalommal, de óvatosan beszéltek: "
+        },
+        {
+          "text": "királyság",
+          "vocabulary_id": "kiralysag"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "megyeszékhely",
+          "vocabulary_id": "megyeszekhely"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "ügyirat",
+          "vocabulary_id": "ugyirat"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "bureaucracy-and-law-b-story-05-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1914.",
+            "1913.",
+            "1912."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1914-ben játszódik."
+        }
+      ],
+      "translation_cs": "Na konci června 1914 přišly zprávy ze Sarajeva. V kavárně lidé mluvili s obavami, ale opatrně: království, župní sídlo, úřední spis."
+    }
+  ]
+}

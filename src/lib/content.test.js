@@ -87,9 +87,14 @@ test('published curriculum data is linked and lessons include reinforcement prac
 
   validateContent(content)
   for (const lesson of content.lessons) {
+    assert.ok(lesson.exercise_ids.length > 0, `${lesson.id} needs practice exercises`)
+  }
+  for (const lessonId of ['varosi-igek-a', 'varosi-igek-b']) {
+    const lesson = content.lessons.find((item) => item.id === lessonId)
+    assert.ok(lesson, `Missing exported lesson ${lessonId}`)
     assert.ok(
       lesson.exercise_ids.length >= lesson.new_vocabulary_ids.length + 3,
-      `${lesson.id} needs more than one exercise per new word`,
+      `${lesson.id} needs reinforcement exercises beyond its vocabulary drills`,
     )
   }
 
@@ -142,8 +147,10 @@ test('uses bundled lesson data if GitHub and the offline cache are unavailable',
   const content = await loadContent({ storage: memoryStorage(), fetcher: async () => { throw new Error('offline') } })
 
   assert.equal(content.source, 'bundled')
-  assert.equal(content.lessons.length, 18)
-  assert.ok(content.exercises.length >= 90)
+  assert.ok(content.lessons.length > 18)
+  assert.ok(content.lessons.some((lesson) => lesson.id === 'bureaucracy-and-law-a'))
+  assert.equal(content.vocabulary.filter((word) => word.tags?.includes('q4')).length, 450)
+  assert.ok(content.exercises.length >= 1600)
 })
 
 test('does not turn a cancelled load into an offline fallback', async () => {

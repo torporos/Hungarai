@@ -1,7 +1,7 @@
 {
-  "order": 18,
+  "order": 11,
   "lesson": {
-    "id": "q1-cviciste",
+    "id": "cviciste",
     "theme_id": "q1-novacek-kasarny",
     "theme_title_cs": "Q1 · Nováček v kasárnách",
     "module_number": 5,
@@ -12,7 +12,7 @@
     "duration_min": 9,
     "xp_required": 1000,
     "prerequisite_lesson_ids": [
-      "q1-vyzbroj"
+      "vyzbroj"
     ],
     "vocabulary_ids": [
       "vigyaz",
@@ -73,7 +73,7 @@
         {
           "form_hu": "Vigyázz!",
           "translation_cs": "Pozor!; Dávej pozor!",
-          "lesson_id": "q1-cviciste"
+          "lesson_id": "cviciste"
         }
       ],
       "morphemes": [
@@ -88,7 +88,8 @@
       "tags": [
         "q1",
         "military_basic",
-        "command"
+        "command",
+        "verb_basic"
       ]
     },
     {
@@ -101,7 +102,7 @@
         {
           "form_hu": "Pihenj!",
           "translation_cs": "Odpočívej!",
-          "lesson_id": "q1-cviciste"
+          "lesson_id": "cviciste"
         }
       ],
       "morphemes": [
@@ -116,7 +117,8 @@
       "tags": [
         "q1",
         "military_basic",
-        "command"
+        "command",
+        "verb_basic"
       ]
     },
     {
@@ -129,7 +131,7 @@
         {
           "form_hu": "Állj!",
           "translation_cs": "Stůj!; Zastav!",
-          "lesson_id": "q1-cviciste"
+          "lesson_id": "cviciste"
         }
       ],
       "morphemes": [
@@ -144,7 +146,8 @@
       "tags": [
         "q1",
         "military_basic",
-        "command"
+        "command",
+        "verb_basic"
       ]
     },
     {
@@ -157,7 +160,7 @@
         {
           "form_hu": "Fordulj!",
           "translation_cs": "Otoč se!",
-          "lesson_id": "q1-cviciste"
+          "lesson_id": "cviciste"
         }
       ],
       "morphemes": [
@@ -172,7 +175,8 @@
       "tags": [
         "q1",
         "military_basic",
-        "command"
+        "command",
+        "verb_basic"
       ]
     },
     {
@@ -185,7 +189,7 @@
         {
           "form_hu": "Sorakozz!",
           "translation_cs": "Nastoupit do řady!",
-          "lesson_id": "q1-cviciste"
+          "lesson_id": "cviciste"
         }
       ],
       "morphemes": [
@@ -200,7 +204,8 @@
       "tags": [
         "q1",
         "military_basic",
-        "command"
+        "command",
+        "verb_basic"
       ]
     },
     {
@@ -213,7 +218,7 @@
         {
           "form_hu": "Lőj!",
           "translation_cs": "Vystřel!",
-          "lesson_id": "q1-cviciste"
+          "lesson_id": "cviciste"
         }
       ],
       "morphemes": [
@@ -228,7 +233,8 @@
       "tags": [
         "q1",
         "military_basic",
-        "command"
+        "command",
+        "verb_basic"
       ]
     },
     {
@@ -241,7 +247,7 @@
         {
           "form_hu": "Tölts!",
           "translation_cs": "Nabij!",
-          "lesson_id": "q1-cviciste"
+          "lesson_id": "cviciste"
         }
       ],
       "morphemes": [
@@ -256,7 +262,8 @@
       "tags": [
         "q1",
         "military_basic",
-        "command"
+        "command",
+        "verb_basic"
       ]
     },
     {
@@ -269,7 +276,7 @@
         {
           "form_hu": "Tisztelegj!",
           "translation_cs": "Salutuj!",
-          "lesson_id": "q1-cviciste"
+          "lesson_id": "cviciste"
         }
       ],
       "morphemes": [
@@ -284,7 +291,8 @@
       "tags": [
         "q1",
         "military_basic",
-        "command"
+        "command",
+        "verb_basic"
       ]
     },
     {
@@ -297,7 +305,7 @@
         {
           "form_hu": "Vezényelj!",
           "translation_cs": "Velet!",
-          "lesson_id": "q1-cviciste"
+          "lesson_id": "cviciste"
         }
       ],
       "morphemes": [
@@ -312,7 +320,8 @@
       "tags": [
         "q1",
         "military_basic",
-        "command"
+        "command",
+        "verb_basic"
       ]
     },
     {
@@ -325,7 +334,7 @@
         {
           "form_hu": "Lépj!",
           "translation_cs": "Vykroč!",
-          "lesson_id": "q1-cviciste"
+          "lesson_id": "cviciste"
         }
       ],
       "morphemes": [
@@ -340,7 +349,8 @@
       "tags": [
         "q1",
         "military_basic",
-        "command"
+        "command",
+        "verb_basic"
       ]
     }
   ],
@@ -549,9 +559,9 @@
       "level": "Q1 · UHER PŘED ROKEM 1914",
       "reading_time_min": 2,
       "prerequisite_lesson_ids": [
-        "q1-cviciste"
+        "cviciste"
       ],
-      "curriculum_lesson_id": "q1-cviciste",
+      "curriculum_lesson_id": "cviciste",
       "new_vocabulary_ids": [
         "vigyaz",
         "pihen",
@@ -705,5 +715,6 @@
       ],
       "translation_cs": "V roce 1913 je ráno voják v kasárnách. Seržant velí. Voják nastupuje do řady. Voják stojí. Voják dává pozor. Seržant odpočívá. Voják se otočí doprava. Voják udělá jeden krok. Voják salutuje. Voják nabíjí. Voják střílí na cíl. Po cvičení voják odpočívá."
     }
-  ]
+  ],
+  "quarter": "q1"
 }

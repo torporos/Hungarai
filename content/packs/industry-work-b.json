@@ -1,0 +1,2473 @@
+{
+  "order": 39,
+  "quarter": "q3",
+  "lesson": {
+    "id": "industry-work-b",
+    "theme_id": "uhersko-1913",
+    "theme_title_cs": "Q3 · Parní pokrok a cesta monarchií",
+    "module_number": 3,
+    "module_title_cs": "Cesta, technika a minulý čas",
+    "title_cs": "Řemesla a průmysl",
+    "description": "Historická maďarština v Rakousko-Uhersku do roku 1914; technika, doprava, zeměpis, profese a minulý čas.",
+    "level": "Q3 · CESTOVÁNÍ A TECHNIKA",
+    "duration_min": 20,
+    "xp_required": 1900,
+    "prerequisite_lesson_ids": [
+      "industry-work-a"
+    ],
+    "vocabulary_ids": [
+      "muszeresz",
+      "szakmunkas",
+      "mester",
+      "segedmunkas",
+      "bermunkas",
+      "munkafelugyelo",
+      "gyarigazgato",
+      "postakocsis",
+      "revesz",
+      "kocsigyarto",
+      "kazankovacs",
+      "banyamester",
+      "gepeszmernok",
+      "geplakatos",
+      "vonalor",
+      "vandorolni",
+      "vonatozni",
+      "befutni",
+      "kifutni",
+      "elutazni",
+      "felutazni",
+      "leutazni",
+      "hazautazni",
+      "tovabbutazni",
+      "visszautazni",
+      "atutazni",
+      "athaladni",
+      "eljutni",
+      "kikotni",
+      "partraszallni",
+      "tovabbindulni",
+      "visszafordulni",
+      "lekesni",
+      "lemaradni",
+      "elerni",
+      "szallitani",
+      "utaztatni",
+      "fuvarozni",
+      "atrakodni",
+      "lerakodni",
+      "felrakodni",
+      "berakodni",
+      "rakodni",
+      "atvinni",
+      "athelyezni",
+      "elhelyezni",
+      "szallasolni",
+      "helyetkeresni",
+      "helyetfoglalni",
+      "jegyetvaltani"
+    ],
+    "new_vocabulary_ids": [
+      "muszeresz",
+      "szakmunkas",
+      "mester",
+      "segedmunkas",
+      "bermunkas",
+      "munkafelugyelo",
+      "gyarigazgato",
+      "postakocsis",
+      "revesz",
+      "kocsigyarto",
+      "kazankovacs",
+      "banyamester",
+      "gepeszmernok",
+      "geplakatos",
+      "vonalor",
+      "vandorolni",
+      "vonatozni",
+      "befutni",
+      "kifutni",
+      "elutazni",
+      "felutazni",
+      "leutazni",
+      "hazautazni",
+      "tovabbutazni",
+      "visszautazni",
+      "atutazni",
+      "athaladni",
+      "eljutni",
+      "kikotni",
+      "partraszallni",
+      "tovabbindulni",
+      "visszafordulni",
+      "lekesni",
+      "lemaradni",
+      "elerni",
+      "szallitani",
+      "utaztatni",
+      "fuvarozni",
+      "atrakodni",
+      "lerakodni",
+      "felrakodni",
+      "berakodni",
+      "rakodni",
+      "atvinni",
+      "athelyezni",
+      "elhelyezni",
+      "szallasolni",
+      "helyetkeresni",
+      "helyetfoglalni",
+      "jegyetvaltani"
+    ],
+    "grammar_ids": [],
+    "grammar_label_cs": "Slovní zásoba techniky, cest a povolání",
+    "exercise_ids": [
+      "industry-work-b-word-01",
+      "industry-work-b-word-02",
+      "industry-work-b-word-03",
+      "industry-work-b-word-04",
+      "industry-work-b-word-05",
+      "industry-work-b-word-06",
+      "industry-work-b-word-07",
+      "industry-work-b-word-08",
+      "industry-work-b-word-09",
+      "industry-work-b-word-10",
+      "industry-work-b-word-11",
+      "industry-work-b-word-12",
+      "industry-work-b-word-13",
+      "industry-work-b-word-14",
+      "industry-work-b-word-15",
+      "industry-work-b-word-16",
+      "industry-work-b-word-17",
+      "industry-work-b-word-18",
+      "industry-work-b-word-19",
+      "industry-work-b-word-20",
+      "industry-work-b-word-21",
+      "industry-work-b-word-22",
+      "industry-work-b-word-23",
+      "industry-work-b-word-24",
+      "industry-work-b-word-25",
+      "industry-work-b-word-26",
+      "industry-work-b-word-27",
+      "industry-work-b-word-28",
+      "industry-work-b-word-29",
+      "industry-work-b-word-30",
+      "industry-work-b-word-31",
+      "industry-work-b-word-32",
+      "industry-work-b-word-33",
+      "industry-work-b-word-34",
+      "industry-work-b-word-35",
+      "industry-work-b-word-36",
+      "industry-work-b-word-37",
+      "industry-work-b-word-38",
+      "industry-work-b-word-39",
+      "industry-work-b-word-40",
+      "industry-work-b-word-41",
+      "industry-work-b-word-42",
+      "industry-work-b-word-43",
+      "industry-work-b-word-44",
+      "industry-work-b-word-45",
+      "industry-work-b-word-46",
+      "industry-work-b-word-47",
+      "industry-work-b-word-48",
+      "industry-work-b-word-49",
+      "industry-work-b-word-50"
+    ],
+    "story_ids": [
+      "industry-work-b-story-01",
+      "industry-work-b-story-02",
+      "industry-work-b-story-03",
+      "industry-work-b-story-04",
+      "industry-work-b-story-05"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "muszeresz",
+      "word": "műszerész",
+      "translation_cs": "mechanik",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "műszerész",
+          "translation_cs": "mechanik",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „műszerész” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „mechanik“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "szakmunkas",
+      "word": "szakmunkás",
+      "translation_cs": "kvalifikovaný dělník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szakmunkás",
+          "translation_cs": "kvalifikovaný dělník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „szakmunkás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „kvalifikovaný dělník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "mester",
+      "word": "mester",
+      "translation_cs": "mistr řemesla",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mester",
+          "translation_cs": "mistr řemesla",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „mester” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „mistr řemesla“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "segedmunkas",
+      "word": "segédmunkás",
+      "translation_cs": "pomocný dělník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "segédmunkás",
+          "translation_cs": "pomocný dělník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „segédmunkás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „pomocný dělník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "bermunkas",
+      "word": "bérmunkás",
+      "translation_cs": "námezdní dělník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bérmunkás",
+          "translation_cs": "námezdní dělník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „bérmunkás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „námezdní dělník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "munkafelugyelo",
+      "word": "munkafelügyelő",
+      "translation_cs": "pracovní dozorce",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "munkafelügyelő",
+          "translation_cs": "pracovní dozorce",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „munkafelügyelő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „pracovní dozorce“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "gyarigazgato",
+      "word": "gyárigazgató",
+      "translation_cs": "ředitel továrny",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gyárigazgató",
+          "translation_cs": "ředitel továrny",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „gyárigazgató” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „ředitel továrny“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "postakocsis",
+      "word": "postakocsis",
+      "translation_cs": "poštovní kočí",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "postakocsis",
+          "translation_cs": "poštovní kočí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „postakocsis” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „poštovní kočí“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "revesz",
+      "word": "révész",
+      "translation_cs": "převozník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "révész",
+          "translation_cs": "převozník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „révész” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „převozník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "kocsigyarto",
+      "word": "kocsigyártó",
+      "translation_cs": "výrobce kočárů",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kocsigyártó",
+          "translation_cs": "výrobce kočárů",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kocsigyártó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „výrobce kočárů“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "kazankovacs",
+      "word": "kazánkovács",
+      "translation_cs": "kotlář",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kazánkovács",
+          "translation_cs": "kotlář",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kazánkovács” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „kotlář“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "banyamester",
+      "word": "bányamester",
+      "translation_cs": "důlní mistr",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bányamester",
+          "translation_cs": "důlní mistr",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „bányamester” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „důlní mistr“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "gepeszmernok",
+      "word": "gépészmérnök",
+      "translation_cs": "strojní inženýr",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gépészmérnök",
+          "translation_cs": "strojní inženýr",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „gépészmérnök” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „strojní inženýr“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "geplakatos",
+      "word": "géplakatos",
+      "translation_cs": "strojní zámečník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "géplakatos",
+          "translation_cs": "strojní zámečník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „géplakatos” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „strojní zámečník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "vonalor",
+      "word": "vonalőr",
+      "translation_cs": "traťový hlídač",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vonalőr",
+          "translation_cs": "traťový hlídač",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vonalőr” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „traťový hlídač“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "vandorolni",
+      "word": "vándorolni",
+      "translation_cs": "putovat; migrovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vándorolni",
+          "translation_cs": "putovat; migrovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „vándorolni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „putovat; migrovat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "vonatozni",
+      "word": "vonatozni",
+      "translation_cs": "cestovat vlakem",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vonatozni",
+          "translation_cs": "cestovat vlakem",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „vonatozni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „cestovat vlakem“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "befutni",
+      "word": "befutni",
+      "translation_cs": "dorazit; vjet",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "befutni",
+          "translation_cs": "dorazit; vjet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „befutni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „dorazit; vjet“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "kifutni",
+      "word": "kifutni",
+      "translation_cs": "vyplout; vyběhnout",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kifutni",
+          "translation_cs": "vyplout; vyběhnout",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kifutni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyplout; vyběhnout“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "elutazni",
+      "word": "elutazni",
+      "translation_cs": "odcestovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elutazni",
+          "translation_cs": "odcestovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elutazni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „odcestovat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "felutazni",
+      "word": "felutazni",
+      "translation_cs": "cestovat směrem na sever",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "felutazni",
+          "translation_cs": "cestovat směrem na sever",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „felutazni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „cestovat směrem na sever“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "leutazni",
+      "word": "leutazni",
+      "translation_cs": "cestovat směrem na jih",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "leutazni",
+          "translation_cs": "cestovat směrem na jih",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „leutazni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „cestovat směrem na jih“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "hazautazni",
+      "word": "hazautazni",
+      "translation_cs": "cestovat domů",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hazautazni",
+          "translation_cs": "cestovat domů",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „hazautazni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „cestovat domů“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "tovabbutazni",
+      "word": "továbbutazni",
+      "translation_cs": "pokračovat v cestě",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "továbbutazni",
+          "translation_cs": "pokračovat v cestě",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „továbbutazni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „pokračovat v cestě“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "visszautazni",
+      "word": "visszautazni",
+      "translation_cs": "cestovat zpět",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "visszautazni",
+          "translation_cs": "cestovat zpět",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „visszautazni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „cestovat zpět“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "atutazni",
+      "word": "átutazni",
+      "translation_cs": "projet",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "átutazni",
+          "translation_cs": "projet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „átutazni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „projet“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "athaladni",
+      "word": "áthaladni",
+      "translation_cs": "projet; projít",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "áthaladni",
+          "translation_cs": "projet; projít",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „áthaladni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „projet; projít“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "eljutni",
+      "word": "eljutni",
+      "translation_cs": "dostat se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "eljutni",
+          "translation_cs": "dostat se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „eljutni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „dostat se“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "kikotni",
+      "word": "kikötni",
+      "translation_cs": "přistát v přístavu",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kikötni",
+          "translation_cs": "přistát v přístavu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kikötni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „přistát v přístavu“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "partraszallni",
+      "word": "partra szállni",
+      "translation_cs": "vylodit se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "partra szállni",
+          "translation_cs": "vylodit se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „partra szállni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vylodit se“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "tovabbindulni",
+      "word": "továbbindulni",
+      "translation_cs": "pokračovat v jízdě",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "továbbindulni",
+          "translation_cs": "pokračovat v jízdě",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „továbbindulni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „pokračovat v jízdě“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "visszafordulni",
+      "word": "visszafordulni",
+      "translation_cs": "obrátit se zpět",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "visszafordulni",
+          "translation_cs": "obrátit se zpět",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „visszafordulni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „obrátit se zpět“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "lekesni",
+      "word": "lekésni",
+      "translation_cs": "zmeškat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lekésni",
+          "translation_cs": "zmeškat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „lekésni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zmeškat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "lemaradni",
+      "word": "lemaradni",
+      "translation_cs": "zůstat pozadu",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lemaradni",
+          "translation_cs": "zůstat pozadu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „lemaradni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zůstat pozadu“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "elerni",
+      "word": "elérni",
+      "translation_cs": "dosáhnout",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elérni",
+          "translation_cs": "dosáhnout",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elérni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „dosáhnout“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "szallitani",
+      "word": "szállítani",
+      "translation_cs": "přepravovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szállítani",
+          "translation_cs": "přepravovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „szállítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „přepravovat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "utaztatni",
+      "word": "utaztatni",
+      "translation_cs": "přepravovat cestující",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "utaztatni",
+          "translation_cs": "přepravovat cestující",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „utaztatni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „přepravovat cestující“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "fuvarozni",
+      "word": "fuvarozni",
+      "translation_cs": "vozívat náklad",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fuvarozni",
+          "translation_cs": "vozívat náklad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „fuvarozni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vozívat náklad“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "atrakodni",
+      "word": "átrakodni",
+      "translation_cs": "přeložit náklad",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "átrakodni",
+          "translation_cs": "přeložit náklad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „átrakodni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „přeložit náklad“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "lerakodni",
+      "word": "lerakodni",
+      "translation_cs": "vyložit náklad",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lerakodni",
+          "translation_cs": "vyložit náklad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „lerakodni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyložit náklad“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "felrakodni",
+      "word": "felrakodni",
+      "translation_cs": "naložit náklad",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "felrakodni",
+          "translation_cs": "naložit náklad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „felrakodni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „naložit náklad“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "berakodni",
+      "word": "berakodni",
+      "translation_cs": "naložit dovnitř",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "berakodni",
+          "translation_cs": "naložit dovnitř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „berakodni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „naložit dovnitř“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "rakodni",
+      "word": "rakodni",
+      "translation_cs": "nakládat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rakodni",
+          "translation_cs": "nakládat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „rakodni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „nakládat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "atvinni",
+      "word": "átvinni",
+      "translation_cs": "přenést",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "átvinni",
+          "translation_cs": "přenést",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „átvinni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „přenést“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "athelyezni",
+      "word": "áthelyezni",
+      "translation_cs": "přemístit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "áthelyezni",
+          "translation_cs": "přemístit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „áthelyezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „přemístit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "elhelyezni",
+      "word": "elhelyezni",
+      "translation_cs": "umístit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elhelyezni",
+          "translation_cs": "umístit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elhelyezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „umístit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "szallasolni",
+      "word": "szállásolni",
+      "translation_cs": "ubytovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szállásolni",
+          "translation_cs": "ubytovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „szállásolni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „ubytovat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "helyetkeresni",
+      "word": "helyet keresni",
+      "translation_cs": "hledat místo",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "helyet keresni",
+          "translation_cs": "hledat místo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „helyet keresni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „hledat místo“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "helyetfoglalni",
+      "word": "helyet foglalni",
+      "translation_cs": "rezervovat místo",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "helyet foglalni",
+          "translation_cs": "rezervovat místo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „helyet foglalni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „rezervovat místo“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "jegyetvaltani",
+      "word": "jegyet váltani",
+      "translation_cs": "zakoupit jízdenku",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jegyet váltani",
+          "translation_cs": "zakoupit jízdenku",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „jegyet váltani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zakoupit jízdenku“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "industry-work-b-word-01",
+      "type": "cloze",
+      "vocabulary_id": "muszeresz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „mechanik“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "műszerész",
+        "szakmunkás",
+        "mester"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „műszerész” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-02",
+      "type": "recall",
+      "vocabulary_id": "szakmunkas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „kvalifikovaný dělník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "szakmunkás"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szakmunkás” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-03",
+      "type": "order",
+      "vocabulary_id": "mester",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „mester” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„mester”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„mester”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „mester” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-04",
+      "type": "cloze",
+      "vocabulary_id": "segedmunkas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „pomocný dělník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "segédmunkás",
+        "bérmunkás",
+        "munkafelügyelő"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „segédmunkás” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-05",
+      "type": "recall",
+      "vocabulary_id": "bermunkas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „námezdní dělník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "bérmunkás"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „bérmunkás” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-06",
+      "type": "order",
+      "vocabulary_id": "munkafelugyelo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „munkafelügyelő” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„munkafelügyelő”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„munkafelügyelő”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „munkafelügyelő” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-07",
+      "type": "cloze",
+      "vocabulary_id": "gyarigazgato",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „ředitel továrny“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "gyárigazgató",
+        "postakocsis",
+        "révész"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „gyárigazgató” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-08",
+      "type": "recall",
+      "vocabulary_id": "postakocsis",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „poštovní kočí“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "postakocsis"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „postakocsis” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-09",
+      "type": "order",
+      "vocabulary_id": "revesz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „révész” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„révész”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„révész”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „révész” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-10",
+      "type": "cloze",
+      "vocabulary_id": "kocsigyarto",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „výrobce kočárů“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "kocsigyártó",
+        "kazánkovács",
+        "bányamester"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kocsigyártó” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-11",
+      "type": "recall",
+      "vocabulary_id": "kazankovacs",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „kotlář“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "kazánkovács"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kazánkovács” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-12",
+      "type": "order",
+      "vocabulary_id": "banyamester",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „bányamester” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„bányamester”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„bányamester”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „bányamester” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-13",
+      "type": "cloze",
+      "vocabulary_id": "gepeszmernok",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „strojní inženýr“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "gépészmérnök",
+        "géplakatos",
+        "vonalőr"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „gépészmérnök” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-14",
+      "type": "recall",
+      "vocabulary_id": "geplakatos",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „strojní zámečník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "géplakatos"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „géplakatos” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-15",
+      "type": "order",
+      "vocabulary_id": "vonalor",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „vonalőr” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„vonalőr”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„vonalőr”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vonalőr” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-16",
+      "type": "cloze",
+      "vocabulary_id": "vandorolni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „putovat; migrovat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "vándorolni",
+        "vonatozni",
+        "befutni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vándorolni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-17",
+      "type": "recall",
+      "vocabulary_id": "vonatozni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „cestovat vlakem“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "vonatozni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vonatozni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-18",
+      "type": "order",
+      "vocabulary_id": "befutni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „befutni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„befutni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„befutni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „befutni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-19",
+      "type": "cloze",
+      "vocabulary_id": "kifutni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vyplout; vyběhnout“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "kifutni",
+        "elutazni",
+        "felutazni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kifutni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-20",
+      "type": "recall",
+      "vocabulary_id": "elutazni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „odcestovat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "elutazni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „elutazni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-21",
+      "type": "order",
+      "vocabulary_id": "felutazni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „felutazni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„felutazni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„felutazni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „felutazni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-22",
+      "type": "cloze",
+      "vocabulary_id": "leutazni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „cestovat směrem na jih“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "leutazni",
+        "hazautazni",
+        "továbbutazni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „leutazni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-23",
+      "type": "recall",
+      "vocabulary_id": "hazautazni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „cestovat domů“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "hazautazni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hazautazni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-24",
+      "type": "order",
+      "vocabulary_id": "tovabbutazni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „továbbutazni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„továbbutazni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„továbbutazni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „továbbutazni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-25",
+      "type": "cloze",
+      "vocabulary_id": "visszautazni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „cestovat zpět“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "visszautazni",
+        "átutazni",
+        "áthaladni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „visszautazni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-26",
+      "type": "recall",
+      "vocabulary_id": "atutazni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „projet“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "átutazni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „átutazni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-27",
+      "type": "order",
+      "vocabulary_id": "athaladni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „áthaladni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„áthaladni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„áthaladni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „áthaladni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-28",
+      "type": "cloze",
+      "vocabulary_id": "eljutni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „dostat se“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "eljutni",
+        "kikötni",
+        "partra szállni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „eljutni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-29",
+      "type": "recall",
+      "vocabulary_id": "kikotni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „přistát v přístavu“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "kikötni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kikötni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-30",
+      "type": "order",
+      "vocabulary_id": "partraszallni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „partra szállni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "szállni”",
+        "„partra",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„partra",
+          "szállni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „partra szállni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-31",
+      "type": "cloze",
+      "vocabulary_id": "tovabbindulni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „pokračovat v jízdě“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "továbbindulni",
+        "visszafordulni",
+        "lekésni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „továbbindulni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-32",
+      "type": "recall",
+      "vocabulary_id": "visszafordulni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „obrátit se zpět“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "visszafordulni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „visszafordulni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-33",
+      "type": "order",
+      "vocabulary_id": "lekesni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „lekésni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„lekésni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„lekésni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „lekésni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-34",
+      "type": "cloze",
+      "vocabulary_id": "lemaradni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zůstat pozadu“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "lemaradni",
+        "elérni",
+        "szállítani"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „lemaradni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-35",
+      "type": "recall",
+      "vocabulary_id": "elerni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „dosáhnout“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "elérni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „elérni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-36",
+      "type": "order",
+      "vocabulary_id": "szallitani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „szállítani” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„szállítani”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„szállítani”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szállítani” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-37",
+      "type": "cloze",
+      "vocabulary_id": "utaztatni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „přepravovat cestující“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "utaztatni",
+        "fuvarozni",
+        "átrakodni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „utaztatni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-38",
+      "type": "recall",
+      "vocabulary_id": "fuvarozni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vozívat náklad“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "fuvarozni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fuvarozni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-39",
+      "type": "order",
+      "vocabulary_id": "atrakodni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „átrakodni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„átrakodni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„átrakodni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „átrakodni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-40",
+      "type": "cloze",
+      "vocabulary_id": "lerakodni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vyložit náklad“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "lerakodni",
+        "felrakodni",
+        "berakodni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „lerakodni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-41",
+      "type": "recall",
+      "vocabulary_id": "felrakodni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „naložit náklad“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "felrakodni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „felrakodni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-42",
+      "type": "order",
+      "vocabulary_id": "berakodni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „berakodni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„berakodni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„berakodni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „berakodni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-43",
+      "type": "cloze",
+      "vocabulary_id": "rakodni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „nakládat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "rakodni",
+        "átvinni",
+        "áthelyezni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „rakodni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-44",
+      "type": "recall",
+      "vocabulary_id": "atvinni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „přenést“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "átvinni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „átvinni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-45",
+      "type": "order",
+      "vocabulary_id": "athelyezni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „áthelyezni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„áthelyezni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„áthelyezni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „áthelyezni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-46",
+      "type": "cloze",
+      "vocabulary_id": "elhelyezni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „umístit“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "elhelyezni",
+        "szállásolni",
+        "helyet keresni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „elhelyezni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-47",
+      "type": "recall",
+      "vocabulary_id": "szallasolni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „ubytovat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "szállásolni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szállásolni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-48",
+      "type": "order",
+      "vocabulary_id": "helyetkeresni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „helyet keresni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "keresni”",
+        "„helyet",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„helyet",
+          "keresni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „helyet keresni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-49",
+      "type": "cloze",
+      "vocabulary_id": "helyetfoglalni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „rezervovat místo“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "helyet foglalni",
+        "jegyet váltani",
+        "vándorolni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „helyet foglalni” kifejezést."
+    },
+    {
+      "id": "industry-work-b-word-50",
+      "type": "recall",
+      "vocabulary_id": "jegyetvaltani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zakoupit jízdenku“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "jegyet váltani"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „jegyet váltani” kifejezést."
+    }
+  ],
+  "stories": [
+    {
+      "id": "industry-work-b-story-01",
+      "title_cs": "Jízdní řád v dešti · 1",
+      "title_hu": "Eső és menetrend · 1",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "industry-work-b"
+      ],
+      "curriculum_lesson_id": "industry-work-b",
+      "new_vocabulary_ids": [
+        "muszeresz",
+        "szakmunkas",
+        "mester"
+      ],
+      "vocabulary_ids": [
+        "muszeresz",
+        "szakmunkas",
+        "mester"
+      ],
+      "segments": [
+        {
+          "text": "1913 őszén az utas a pályaudvaron várta a vonatot. A jegyzetébe három új kifejezést írt: "
+        },
+        {
+          "text": "műszerész",
+          "vocabulary_id": "muszeresz"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "szakmunkás",
+          "vocabulary_id": "szakmunkas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "mester",
+          "vocabulary_id": "mester"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "industry-work-b-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Na podzim roku 1913 čekal cestující na nádraží. Do poznámek si zapsal tři nové výrazy: mechanik, kvalifikovaný dělník, mistr řemesla."
+    },
+    {
+      "id": "industry-work-b-story-02",
+      "title_cs": "Zpráva z dílny · 2",
+      "title_hu": "Hír a műhelyből · 2",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "industry-work-b"
+      ],
+      "curriculum_lesson_id": "industry-work-b",
+      "new_vocabulary_ids": [
+        "postakocsis",
+        "revesz",
+        "kocsigyarto"
+      ],
+      "vocabulary_ids": [
+        "postakocsis",
+        "revesz",
+        "kocsigyarto"
+      ],
+      "segments": [
+        {
+          "text": "A mérnök 1913-ban megvizsgálta a gépet, majd feljegyezte a munkát. A lap szélére ezt írta: "
+        },
+        {
+          "text": "postakocsis",
+          "vocabulary_id": "postakocsis"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "révész",
+          "vocabulary_id": "revesz"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "kocsigyártó",
+          "vocabulary_id": "kocsigyarto"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "industry-work-b-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Inženýr v roce 1913 prohlédl stroj a zapsal si poznámky o práci. Na okraj listu napsal: poštovní kočí, převozník, výrobce kočárů."
+    },
+    {
+      "id": "industry-work-b-story-03",
+      "title_cs": "Mapa monarchie · 3",
+      "title_hu": "A Monarchia térképe · 3",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "industry-work-b"
+      ],
+      "curriculum_lesson_id": "industry-work-b",
+      "new_vocabulary_ids": [
+        "vonalor",
+        "vandorolni",
+        "vonatozni"
+      ],
+      "vocabulary_ids": [
+        "vonalor",
+        "vandorolni",
+        "vonatozni"
+      ],
+      "segments": [
+        {
+          "text": "A térképész 1913-ban bejárta a vidéket, és a térkép mellé három szót jegyzett fel: "
+        },
+        {
+          "text": "vonalőr",
+          "vocabulary_id": "vonalor"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "vándorolni",
+          "vocabulary_id": "vandorolni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "vonatozni",
+          "vocabulary_id": "vonatozni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "industry-work-b-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Kartograf v roce 1913 procházel krajinou a vedle mapy si poznamenal tři výrazy: traťový hlídač, putovat; migrovat, cestovat vlakem."
+    },
+    {
+      "id": "industry-work-b-story-04",
+      "title_cs": "Mimořádná směna · 4",
+      "title_hu": "Rendkívüli műszak · 4",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "industry-work-b"
+      ],
+      "curriculum_lesson_id": "industry-work-b",
+      "new_vocabulary_ids": [
+        "leutazni",
+        "hazautazni",
+        "tovabbutazni"
+      ],
+      "vocabulary_ids": [
+        "leutazni",
+        "hazautazni",
+        "tovabbutazni"
+      ],
+      "segments": [
+        {
+          "text": "A gyárban a munkások 1913-ban pontosan dolgoztak. A művezető naplójába három kifejezést írt: "
+        },
+        {
+          "text": "leutazni",
+          "vocabulary_id": "leutazni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "hazautazni",
+          "vocabulary_id": "hazautazni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "továbbutazni",
+          "vocabulary_id": "tovabbutazni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "industry-work-b-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Dělníci v továrně pracovali roku 1913 přesně. Mistr si do deníku zapsal tři výrazy: cestovat směrem na jih, cestovat domů, pokračovat v cestě."
+    },
+    {
+      "id": "industry-work-b-story-05",
+      "title_cs": "Telegram z cesty · 5",
+      "title_hu": "Távirat az útról · 5",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "industry-work-b"
+      ],
+      "curriculum_lesson_id": "industry-work-b",
+      "new_vocabulary_ids": [
+        "kikotni",
+        "partraszallni",
+        "tovabbindulni"
+      ],
+      "vocabulary_ids": [
+        "kikotni",
+        "partraszallni",
+        "tovabbindulni"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a távírász este megkapta az utas üzenetét, majd továbbította a hivatalnak. A jegyzékében három szó állt: "
+        },
+        {
+          "text": "kikötni",
+          "vocabulary_id": "kikotni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "partra szállni",
+          "vocabulary_id": "partraszallni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "továbbindulni",
+          "vocabulary_id": "tovabbindulni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "industry-work-b-story-05-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1913 telegrafista večer přijal zprávu cestujícího a předal ji úřadu. V seznamu měl tři výrazy: přistát v přístavu, vylodit se, pokračovat v jízdě."
+    }
+  ]
+}

@@ -1,0 +1,2473 @@
+{
+  "order": 36,
+  "quarter": "q3",
+  "lesson": {
+    "id": "railways-and-river-routes",
+    "theme_id": "uhersko-1913",
+    "theme_title_cs": "Q3 · Parní pokrok a cesta monarchií",
+    "module_number": 3,
+    "module_title_cs": "Cesta, technika a minulý čas",
+    "title_cs": "Po kolejích a po řece",
+    "description": "Historická maďarština v Rakousko-Uhersku do roku 1914; technika, doprava, zeměpis, profese a minulý čas.",
+    "level": "Q3 · CESTOVÁNÍ A TECHNIKA",
+    "duration_min": 20,
+    "xp_required": 1600,
+    "prerequisite_lesson_ids": [
+      "steam-tech-b"
+    ],
+    "vocabulary_ids": [
+      "kozbeesoallomas",
+      "csomag",
+      "poggyasz",
+      "utipoggyasz",
+      "csomagjegy",
+      "poggyaszszallitas",
+      "poggyaszkocsi",
+      "poggyaszszekreny",
+      "varoterem",
+      "palyaudvaricsarnok",
+      "vasutihid",
+      "vasutifeluljaro",
+      "toltes",
+      "vasutiatjaro",
+      "mozdonyfordito",
+      "futohaz",
+      "mozdonyvezetes",
+      "kazanfutes",
+      "vonatjegy",
+      "gyorsvonat",
+      "szemelyvonat",
+      "tehervonat",
+      "ejszakaivonat",
+      "kulonvonat",
+      "hajojegy",
+      "gozhajozas",
+      "kikotoiallomas",
+      "hajokabin",
+      "fedelzet",
+      "hajohid",
+      "hajoallomas",
+      "kompatkeles",
+      "utaslista",
+      "elsoosztaly",
+      "masodosztaly",
+      "hajomenetrend",
+      "becs",
+      "pozsony",
+      "kolozsvar",
+      "kassa",
+      "temesvar",
+      "szeged",
+      "debrecen",
+      "zagrab",
+      "fiume",
+      "graz",
+      "innsbruck",
+      "praga",
+      "brunn",
+      "lemberg"
+    ],
+    "new_vocabulary_ids": [
+      "kozbeesoallomas",
+      "csomag",
+      "poggyasz",
+      "utipoggyasz",
+      "csomagjegy",
+      "poggyaszszallitas",
+      "poggyaszkocsi",
+      "poggyaszszekreny",
+      "varoterem",
+      "palyaudvaricsarnok",
+      "vasutihid",
+      "vasutifeluljaro",
+      "toltes",
+      "vasutiatjaro",
+      "mozdonyfordito",
+      "futohaz",
+      "mozdonyvezetes",
+      "kazanfutes",
+      "vonatjegy",
+      "gyorsvonat",
+      "szemelyvonat",
+      "tehervonat",
+      "ejszakaivonat",
+      "kulonvonat",
+      "hajojegy",
+      "gozhajozas",
+      "kikotoiallomas",
+      "hajokabin",
+      "fedelzet",
+      "hajohid",
+      "hajoallomas",
+      "kompatkeles",
+      "utaslista",
+      "elsoosztaly",
+      "masodosztaly",
+      "hajomenetrend",
+      "becs",
+      "pozsony",
+      "kolozsvar",
+      "kassa",
+      "temesvar",
+      "szeged",
+      "debrecen",
+      "zagrab",
+      "fiume",
+      "graz",
+      "innsbruck",
+      "praga",
+      "brunn",
+      "lemberg"
+    ],
+    "grammar_ids": [],
+    "grammar_label_cs": "Slovní zásoba techniky, cest a povolání",
+    "exercise_ids": [
+      "railways-and-river-routes-word-01",
+      "railways-and-river-routes-word-02",
+      "railways-and-river-routes-word-03",
+      "railways-and-river-routes-word-04",
+      "railways-and-river-routes-word-05",
+      "railways-and-river-routes-word-06",
+      "railways-and-river-routes-word-07",
+      "railways-and-river-routes-word-08",
+      "railways-and-river-routes-word-09",
+      "railways-and-river-routes-word-10",
+      "railways-and-river-routes-word-11",
+      "railways-and-river-routes-word-12",
+      "railways-and-river-routes-word-13",
+      "railways-and-river-routes-word-14",
+      "railways-and-river-routes-word-15",
+      "railways-and-river-routes-word-16",
+      "railways-and-river-routes-word-17",
+      "railways-and-river-routes-word-18",
+      "railways-and-river-routes-word-19",
+      "railways-and-river-routes-word-20",
+      "railways-and-river-routes-word-21",
+      "railways-and-river-routes-word-22",
+      "railways-and-river-routes-word-23",
+      "railways-and-river-routes-word-24",
+      "railways-and-river-routes-word-25",
+      "railways-and-river-routes-word-26",
+      "railways-and-river-routes-word-27",
+      "railways-and-river-routes-word-28",
+      "railways-and-river-routes-word-29",
+      "railways-and-river-routes-word-30",
+      "railways-and-river-routes-word-31",
+      "railways-and-river-routes-word-32",
+      "railways-and-river-routes-word-33",
+      "railways-and-river-routes-word-34",
+      "railways-and-river-routes-word-35",
+      "railways-and-river-routes-word-36",
+      "railways-and-river-routes-word-37",
+      "railways-and-river-routes-word-38",
+      "railways-and-river-routes-word-39",
+      "railways-and-river-routes-word-40",
+      "railways-and-river-routes-word-41",
+      "railways-and-river-routes-word-42",
+      "railways-and-river-routes-word-43",
+      "railways-and-river-routes-word-44",
+      "railways-and-river-routes-word-45",
+      "railways-and-river-routes-word-46",
+      "railways-and-river-routes-word-47",
+      "railways-and-river-routes-word-48",
+      "railways-and-river-routes-word-49",
+      "railways-and-river-routes-word-50"
+    ],
+    "story_ids": [
+      "railways-and-river-routes-story-01",
+      "railways-and-river-routes-story-02",
+      "railways-and-river-routes-story-03",
+      "railways-and-river-routes-story-04",
+      "railways-and-river-routes-story-05"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "kozbeesoallomas",
+      "word": "közbeeső állomás",
+      "translation_cs": "mezilehlá stanice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "közbeeső állomás",
+          "translation_cs": "mezilehlá stanice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „közbeeső állomás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „mezilehlá stanice“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "csomag",
+      "word": "csomag",
+      "translation_cs": "zavazadlo",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csomag",
+          "translation_cs": "zavazadlo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „csomag” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „zavazadlo“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "poggyasz",
+      "word": "poggyász",
+      "translation_cs": "zavazadla",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "poggyász",
+          "translation_cs": "zavazadla",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „poggyász” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „zavazadla“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "utipoggyasz",
+      "word": "útipoggyász",
+      "translation_cs": "cestovní zavazadlo",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "útipoggyász",
+          "translation_cs": "cestovní zavazadlo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „útipoggyász” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „cestovní zavazadlo“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "csomagjegy",
+      "word": "csomagjegy",
+      "translation_cs": "zavazadlový lístek",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csomagjegy",
+          "translation_cs": "zavazadlový lístek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „csomagjegy” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „zavazadlový lístek“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "poggyaszszallitas",
+      "word": "poggyászszállítás",
+      "translation_cs": "přeprava zavazadel",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "poggyászszállítás",
+          "translation_cs": "přeprava zavazadel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „poggyászszállítás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „přeprava zavazadel“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "poggyaszkocsi",
+      "word": "poggyászkocsi",
+      "translation_cs": "zavazadlový vůz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "poggyászkocsi",
+          "translation_cs": "zavazadlový vůz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „poggyászkocsi” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „zavazadlový vůz“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "poggyaszszekreny",
+      "word": "poggyászszekrény",
+      "translation_cs": "úschovní skříňka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "poggyászszekrény",
+          "translation_cs": "úschovní skříňka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „poggyászszekrény” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „úschovní skříňka“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "varoterem",
+      "word": "váróterem",
+      "translation_cs": "čekárna",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "váróterem",
+          "translation_cs": "čekárna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „váróterem” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „čekárna“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "palyaudvaricsarnok",
+      "word": "pályaudvari csarnok",
+      "translation_cs": "nádražní hala",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "pályaudvari csarnok",
+          "translation_cs": "nádražní hala",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „pályaudvari csarnok” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „nádražní hala“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "vasutihid",
+      "word": "vasúti híd",
+      "translation_cs": "železniční most",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasúti híd",
+          "translation_cs": "železniční most",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vasúti híd” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „železniční most“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "vasutifeluljaro",
+      "word": "vasúti felüljáró",
+      "translation_cs": "železniční nadjezd",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasúti felüljáró",
+          "translation_cs": "železniční nadjezd",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vasúti felüljáró” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „železniční nadjezd“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "toltes",
+      "word": "töltés",
+      "translation_cs": "železniční násep",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "töltés",
+          "translation_cs": "železniční násep",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „töltés” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „železniční násep“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "vasutiatjaro",
+      "word": "vasúti átjáró",
+      "translation_cs": "železniční přejezd",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasúti átjáró",
+          "translation_cs": "železniční přejezd",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vasúti átjáró” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „železniční přejezd“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "mozdonyfordito",
+      "word": "mozdonyfordító",
+      "translation_cs": "točna pro lokomotivy",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mozdonyfordító",
+          "translation_cs": "točna pro lokomotivy",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „mozdonyfordító” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „točna pro lokomotivy“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "futohaz",
+      "word": "fűtőház",
+      "translation_cs": "výtopna",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fűtőház",
+          "translation_cs": "výtopna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „fűtőház” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „výtopna“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "mozdonyvezetes",
+      "word": "mozdonyvezetés",
+      "translation_cs": "řízení lokomotivy",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mozdonyvezetés",
+          "translation_cs": "řízení lokomotivy",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „mozdonyvezetés” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „řízení lokomotivy“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "kazanfutes",
+      "word": "kazánfűtés",
+      "translation_cs": "vytápění kotle",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kazánfűtés",
+          "translation_cs": "vytápění kotle",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kazánfűtés” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „vytápění kotle“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "vonatjegy",
+      "word": "vonatjegy",
+      "translation_cs": "vlaková jízdenka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vonatjegy",
+          "translation_cs": "vlaková jízdenka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vonatjegy” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „vlaková jízdenka“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "gyorsvonat",
+      "word": "gyorsvonat",
+      "translation_cs": "rychlík",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gyorsvonat",
+          "translation_cs": "rychlík",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „gyorsvonat” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „rychlík“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "szemelyvonat",
+      "word": "személyvonat",
+      "translation_cs": "osobní vlak",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "személyvonat",
+          "translation_cs": "osobní vlak",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „személyvonat” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „osobní vlak“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "tehervonat",
+      "word": "tehervonat",
+      "translation_cs": "nákladní vlak",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tehervonat",
+          "translation_cs": "nákladní vlak",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „tehervonat” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „nákladní vlak“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "ejszakaivonat",
+      "word": "éjszakai vonat",
+      "translation_cs": "noční vlak",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "éjszakai vonat",
+          "translation_cs": "noční vlak",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „éjszakai vonat” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „noční vlak“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "kulonvonat",
+      "word": "különvonat",
+      "translation_cs": "zvláštní vlak",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "különvonat",
+          "translation_cs": "zvláštní vlak",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „különvonat” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „zvláštní vlak“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "hajojegy",
+      "word": "hajójegy",
+      "translation_cs": "lodní lístek",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hajójegy",
+          "translation_cs": "lodní lístek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hajójegy” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „lodní lístek“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "gozhajozas",
+      "word": "gőzhajózás",
+      "translation_cs": "plavba parníkem",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gőzhajózás",
+          "translation_cs": "plavba parníkem",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „gőzhajózás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „plavba parníkem“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "kikotoiallomas",
+      "word": "kikötői állomás",
+      "translation_cs": "přístavní stanice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kikötői állomás",
+          "translation_cs": "přístavní stanice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kikötői állomás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „přístavní stanice“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "hajokabin",
+      "word": "hajókabin",
+      "translation_cs": "lodní kajuta",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hajókabin",
+          "translation_cs": "lodní kajuta",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hajókabin” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „lodní kajuta“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "fedelzet",
+      "word": "fedélzet",
+      "translation_cs": "paluba",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fedélzet",
+          "translation_cs": "paluba",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „fedélzet” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „paluba“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "hajohid",
+      "word": "hajóhíd",
+      "translation_cs": "lodní můstek",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hajóhíd",
+          "translation_cs": "lodní můstek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hajóhíd” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „lodní můstek“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "hajoallomas",
+      "word": "hajóállomás",
+      "translation_cs": "lodní stanice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hajóállomás",
+          "translation_cs": "lodní stanice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hajóállomás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „lodní stanice“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "kompatkeles",
+      "word": "kompátkelés",
+      "translation_cs": "přeprava přívozem",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kompátkelés",
+          "translation_cs": "přeprava přívozem",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kompátkelés” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „přeprava přívozem“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "utaslista",
+      "word": "utaslista",
+      "translation_cs": "seznam cestujících",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "utaslista",
+          "translation_cs": "seznam cestujících",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „utaslista” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „seznam cestujících“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "elsoosztaly",
+      "word": "első osztály",
+      "translation_cs": "první třída",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "első osztály",
+          "translation_cs": "první třída",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „első osztály” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „první třída“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "masodosztaly",
+      "word": "másodosztály",
+      "translation_cs": "druhá třída",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "másodosztály",
+          "translation_cs": "druhá třída",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „másodosztály” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „druhá třída“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "hajomenetrend",
+      "word": "hajómenetrend",
+      "translation_cs": "lodní jízdní řád",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hajómenetrend",
+          "translation_cs": "lodní jízdní řád",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hajómenetrend” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „lodní jízdní řád“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "becs",
+      "word": "Bécs",
+      "translation_cs": "Vídeň",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Bécs",
+          "translation_cs": "Vídeň",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Bécs” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Vídeň“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "pozsony",
+      "word": "Pozsony",
+      "translation_cs": "Bratislava",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Pozsony",
+          "translation_cs": "Bratislava",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Pozsony” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Bratislava“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "kolozsvar",
+      "word": "Kolozsvár",
+      "translation_cs": "Kluž",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Kolozsvár",
+          "translation_cs": "Kluž",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Kolozsvár” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Kluž“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "kassa",
+      "word": "Kassa",
+      "translation_cs": "Košice",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Kassa",
+          "translation_cs": "Košice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Kassa” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Košice“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "temesvar",
+      "word": "Temesvár",
+      "translation_cs": "Timișoara",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Temesvár",
+          "translation_cs": "Timișoara",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Temesvár” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Timișoara“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "szeged",
+      "word": "Szeged",
+      "translation_cs": "Segedín",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Szeged",
+          "translation_cs": "Segedín",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Szeged” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Segedín“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "debrecen",
+      "word": "Debrecen",
+      "translation_cs": "Debrecín",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Debrecen",
+          "translation_cs": "Debrecín",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Debrecen” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Debrecín“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "zagrab",
+      "word": "Zágráb",
+      "translation_cs": "Záhřeb",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Zágráb",
+          "translation_cs": "Záhřeb",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Zágráb” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Záhřeb“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "fiume",
+      "word": "Fiume",
+      "translation_cs": "Rijeka",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Fiume",
+          "translation_cs": "Rijeka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Fiume” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Rijeka“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "graz",
+      "word": "Graz",
+      "translation_cs": "Štýrský Hradec",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Graz",
+          "translation_cs": "Štýrský Hradec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Graz” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Štýrský Hradec“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "innsbruck",
+      "word": "Innsbruck",
+      "translation_cs": "Innsbruck",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Innsbruck",
+          "translation_cs": "Innsbruck",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Innsbruck” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Innsbruck“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "praga",
+      "word": "Prága",
+      "translation_cs": "Praha",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Prága",
+          "translation_cs": "Praha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Prága” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Praha“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "brunn",
+      "word": "Brünn",
+      "translation_cs": "Brno",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Brünn",
+          "translation_cs": "Brno",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Brünn” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Brno“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "lemberg",
+      "word": "Lemberg",
+      "translation_cs": "Lvov",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Lemberg",
+          "translation_cs": "Lvov",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Lemberg” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Lvov“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "railways-and-river-routes-word-01",
+      "type": "cloze",
+      "vocabulary_id": "kozbeesoallomas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „mezilehlá stanice“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "közbeeső állomás",
+        "csomag",
+        "poggyász"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „közbeeső állomás” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-02",
+      "type": "recall",
+      "vocabulary_id": "csomag",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zavazadlo“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "csomag"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „csomag” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-03",
+      "type": "order",
+      "vocabulary_id": "poggyasz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „poggyász” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„poggyász”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„poggyász”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „poggyász” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-04",
+      "type": "cloze",
+      "vocabulary_id": "utipoggyasz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „cestovní zavazadlo“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "útipoggyász",
+        "csomagjegy",
+        "poggyászszállítás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „útipoggyász” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-05",
+      "type": "recall",
+      "vocabulary_id": "csomagjegy",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zavazadlový lístek“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "csomagjegy"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „csomagjegy” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-06",
+      "type": "order",
+      "vocabulary_id": "poggyaszszallitas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „poggyászszállítás” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„poggyászszállítás”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„poggyászszállítás”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „poggyászszállítás” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-07",
+      "type": "cloze",
+      "vocabulary_id": "poggyaszkocsi",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zavazadlový vůz“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "poggyászkocsi",
+        "poggyászszekrény",
+        "váróterem"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „poggyászkocsi” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-08",
+      "type": "recall",
+      "vocabulary_id": "poggyaszszekreny",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „úschovní skříňka“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "poggyászszekrény"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „poggyászszekrény” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-09",
+      "type": "order",
+      "vocabulary_id": "varoterem",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „váróterem” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„váróterem”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„váróterem”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „váróterem” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-10",
+      "type": "cloze",
+      "vocabulary_id": "palyaudvaricsarnok",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „nádražní hala“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "pályaudvari csarnok",
+        "vasúti híd",
+        "vasúti felüljáró"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „pályaudvari csarnok” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-11",
+      "type": "recall",
+      "vocabulary_id": "vasutihid",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „železniční most“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "vasúti híd"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vasúti híd” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-12",
+      "type": "order",
+      "vocabulary_id": "vasutifeluljaro",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „vasúti felüljáró” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "felüljáró”",
+        "„vasúti",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„vasúti",
+          "felüljáró”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vasúti felüljáró” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-13",
+      "type": "cloze",
+      "vocabulary_id": "toltes",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „železniční násep“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "töltés",
+        "vasúti átjáró",
+        "mozdonyfordító"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „töltés” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-14",
+      "type": "recall",
+      "vocabulary_id": "vasutiatjaro",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „železniční přejezd“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "vasúti átjáró"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vasúti átjáró” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-15",
+      "type": "order",
+      "vocabulary_id": "mozdonyfordito",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „mozdonyfordító” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„mozdonyfordító”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„mozdonyfordító”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „mozdonyfordító” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-16",
+      "type": "cloze",
+      "vocabulary_id": "futohaz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „výtopna“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "fűtőház",
+        "mozdonyvezetés",
+        "kazánfűtés"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fűtőház” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-17",
+      "type": "recall",
+      "vocabulary_id": "mozdonyvezetes",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „řízení lokomotivy“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "mozdonyvezetés"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „mozdonyvezetés” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-18",
+      "type": "order",
+      "vocabulary_id": "kazanfutes",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „kazánfűtés” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„kazánfűtés”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„kazánfűtés”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kazánfűtés” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-19",
+      "type": "cloze",
+      "vocabulary_id": "vonatjegy",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vlaková jízdenka“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "vonatjegy",
+        "gyorsvonat",
+        "személyvonat"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vonatjegy” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-20",
+      "type": "recall",
+      "vocabulary_id": "gyorsvonat",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „rychlík“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "gyorsvonat"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „gyorsvonat” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-21",
+      "type": "order",
+      "vocabulary_id": "szemelyvonat",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „személyvonat” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„személyvonat”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„személyvonat”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „személyvonat” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-22",
+      "type": "cloze",
+      "vocabulary_id": "tehervonat",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „nákladní vlak“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "tehervonat",
+        "éjszakai vonat",
+        "különvonat"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „tehervonat” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-23",
+      "type": "recall",
+      "vocabulary_id": "ejszakaivonat",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „noční vlak“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "éjszakai vonat"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „éjszakai vonat” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-24",
+      "type": "order",
+      "vocabulary_id": "kulonvonat",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „különvonat” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„különvonat”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„különvonat”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „különvonat” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-25",
+      "type": "cloze",
+      "vocabulary_id": "hajojegy",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „lodní lístek“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "hajójegy",
+        "gőzhajózás",
+        "kikötői állomás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hajójegy” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-26",
+      "type": "recall",
+      "vocabulary_id": "gozhajozas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „plavba parníkem“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "gőzhajózás"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „gőzhajózás” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-27",
+      "type": "order",
+      "vocabulary_id": "kikotoiallomas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „kikötői állomás” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "állomás”",
+        "„kikötői",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„kikötői",
+          "állomás”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kikötői állomás” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-28",
+      "type": "cloze",
+      "vocabulary_id": "hajokabin",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „lodní kajuta“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "hajókabin",
+        "fedélzet",
+        "hajóhíd"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hajókabin” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-29",
+      "type": "recall",
+      "vocabulary_id": "fedelzet",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „paluba“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "fedélzet"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fedélzet” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-30",
+      "type": "order",
+      "vocabulary_id": "hajohid",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „hajóhíd” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„hajóhíd”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„hajóhíd”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hajóhíd” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-31",
+      "type": "cloze",
+      "vocabulary_id": "hajoallomas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „lodní stanice“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "hajóállomás",
+        "kompátkelés",
+        "utaslista"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hajóállomás” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-32",
+      "type": "recall",
+      "vocabulary_id": "kompatkeles",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „přeprava přívozem“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "kompátkelés"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kompátkelés” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-33",
+      "type": "order",
+      "vocabulary_id": "utaslista",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „utaslista” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„utaslista”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„utaslista”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „utaslista” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-34",
+      "type": "cloze",
+      "vocabulary_id": "elsoosztaly",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „první třída“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "első osztály",
+        "másodosztály",
+        "hajómenetrend"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „első osztály” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-35",
+      "type": "recall",
+      "vocabulary_id": "masodosztaly",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „druhá třída“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "másodosztály"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „másodosztály” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-36",
+      "type": "order",
+      "vocabulary_id": "hajomenetrend",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „hajómenetrend” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„hajómenetrend”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„hajómenetrend”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hajómenetrend” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-37",
+      "type": "cloze",
+      "vocabulary_id": "becs",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Vídeň“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Bécs",
+        "Pozsony",
+        "Kolozsvár"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Bécs” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-38",
+      "type": "recall",
+      "vocabulary_id": "pozsony",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Bratislava“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Pozsony"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Pozsony” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-39",
+      "type": "order",
+      "vocabulary_id": "kolozsvar",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Kolozsvár” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Kolozsvár”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Kolozsvár”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Kolozsvár” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-40",
+      "type": "cloze",
+      "vocabulary_id": "kassa",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Košice“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Kassa",
+        "Temesvár",
+        "Szeged"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Kassa” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-41",
+      "type": "recall",
+      "vocabulary_id": "temesvar",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Timișoara“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Temesvár"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Temesvár” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-42",
+      "type": "order",
+      "vocabulary_id": "szeged",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Szeged” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Szeged”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Szeged”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Szeged” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-43",
+      "type": "cloze",
+      "vocabulary_id": "debrecen",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Debrecín“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Debrecen",
+        "Zágráb",
+        "Fiume"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Debrecen” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-44",
+      "type": "recall",
+      "vocabulary_id": "zagrab",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Záhřeb“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Zágráb"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Zágráb” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-45",
+      "type": "order",
+      "vocabulary_id": "fiume",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Fiume” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Fiume”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Fiume”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Fiume” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-46",
+      "type": "cloze",
+      "vocabulary_id": "graz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Štýrský Hradec“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Graz",
+        "Innsbruck",
+        "Prága"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Graz” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-47",
+      "type": "recall",
+      "vocabulary_id": "innsbruck",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Innsbruck“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Innsbruck"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Innsbruck” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-48",
+      "type": "order",
+      "vocabulary_id": "praga",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Prága” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Prága”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Prága”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Prága” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-49",
+      "type": "cloze",
+      "vocabulary_id": "brunn",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Brno“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Brünn",
+        "Lemberg",
+        "Bécs"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Brünn” kifejezést."
+    },
+    {
+      "id": "railways-and-river-routes-word-50",
+      "type": "recall",
+      "vocabulary_id": "lemberg",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Lvov“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Lemberg"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Lemberg” kifejezést."
+    }
+  ],
+  "stories": [
+    {
+      "id": "railways-and-river-routes-story-01",
+      "title_cs": "Jízdní řád v dešti · 1",
+      "title_hu": "Eső és menetrend · 1",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "railways-and-river-routes"
+      ],
+      "curriculum_lesson_id": "railways-and-river-routes",
+      "new_vocabulary_ids": [
+        "kozbeesoallomas",
+        "csomag",
+        "poggyasz"
+      ],
+      "vocabulary_ids": [
+        "kozbeesoallomas",
+        "csomag",
+        "poggyasz"
+      ],
+      "segments": [
+        {
+          "text": "1913 őszén az utas a pályaudvaron várta a vonatot. A jegyzetébe három új kifejezést írt: "
+        },
+        {
+          "text": "közbeeső állomás",
+          "vocabulary_id": "kozbeesoallomas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "csomag",
+          "vocabulary_id": "csomag"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "poggyász",
+          "vocabulary_id": "poggyasz"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "railways-and-river-routes-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Na podzim roku 1913 čekal cestující na nádraží. Do poznámek si zapsal tři nové výrazy: mezilehlá stanice, zavazadlo, zavazadla."
+    },
+    {
+      "id": "railways-and-river-routes-story-02",
+      "title_cs": "Zpráva z dílny · 2",
+      "title_hu": "Hír a műhelyből · 2",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "railways-and-river-routes"
+      ],
+      "curriculum_lesson_id": "railways-and-river-routes",
+      "new_vocabulary_ids": [
+        "poggyaszszekreny",
+        "varoterem",
+        "palyaudvaricsarnok"
+      ],
+      "vocabulary_ids": [
+        "poggyaszszekreny",
+        "varoterem",
+        "palyaudvaricsarnok"
+      ],
+      "segments": [
+        {
+          "text": "A mérnök 1913-ban megvizsgálta a gépet, majd feljegyezte a munkát. A lap szélére ezt írta: "
+        },
+        {
+          "text": "poggyászszekrény",
+          "vocabulary_id": "poggyaszszekreny"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "váróterem",
+          "vocabulary_id": "varoterem"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "pályaudvari csarnok",
+          "vocabulary_id": "palyaudvaricsarnok"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "railways-and-river-routes-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Inženýr v roce 1913 prohlédl stroj a zapsal si poznámky o práci. Na okraj listu napsal: úschovní skříňka, čekárna, nádražní hala."
+    },
+    {
+      "id": "railways-and-river-routes-story-03",
+      "title_cs": "Mapa monarchie · 3",
+      "title_hu": "A Monarchia térképe · 3",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "railways-and-river-routes"
+      ],
+      "curriculum_lesson_id": "railways-and-river-routes",
+      "new_vocabulary_ids": [
+        "mozdonyfordito",
+        "futohaz",
+        "mozdonyvezetes"
+      ],
+      "vocabulary_ids": [
+        "mozdonyfordito",
+        "futohaz",
+        "mozdonyvezetes"
+      ],
+      "segments": [
+        {
+          "text": "A térképész 1913-ban bejárta a vidéket, és a térkép mellé három szót jegyzett fel: "
+        },
+        {
+          "text": "mozdonyfordító",
+          "vocabulary_id": "mozdonyfordito"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "fűtőház",
+          "vocabulary_id": "futohaz"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "mozdonyvezetés",
+          "vocabulary_id": "mozdonyvezetes"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "railways-and-river-routes-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Kartograf v roce 1913 procházel krajinou a vedle mapy si poznamenal tři výrazy: točna pro lokomotivy, výtopna, řízení lokomotivy."
+    },
+    {
+      "id": "railways-and-river-routes-story-04",
+      "title_cs": "Mimořádná směna · 4",
+      "title_hu": "Rendkívüli műszak · 4",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "railways-and-river-routes"
+      ],
+      "curriculum_lesson_id": "railways-and-river-routes",
+      "new_vocabulary_ids": [
+        "tehervonat",
+        "ejszakaivonat",
+        "kulonvonat"
+      ],
+      "vocabulary_ids": [
+        "tehervonat",
+        "ejszakaivonat",
+        "kulonvonat"
+      ],
+      "segments": [
+        {
+          "text": "A gyárban a munkások 1913-ban pontosan dolgoztak. A művezető naplójába három kifejezést írt: "
+        },
+        {
+          "text": "tehervonat",
+          "vocabulary_id": "tehervonat"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "éjszakai vonat",
+          "vocabulary_id": "ejszakaivonat"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "különvonat",
+          "vocabulary_id": "kulonvonat"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "railways-and-river-routes-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Dělníci v továrně pracovali roku 1913 přesně. Mistr si do deníku zapsal tři výrazy: nákladní vlak, noční vlak, zvláštní vlak."
+    },
+    {
+      "id": "railways-and-river-routes-story-05",
+      "title_cs": "Telegram z cesty · 5",
+      "title_hu": "Távirat az útról · 5",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "railways-and-river-routes"
+      ],
+      "curriculum_lesson_id": "railways-and-river-routes",
+      "new_vocabulary_ids": [
+        "fedelzet",
+        "hajohid",
+        "hajoallomas"
+      ],
+      "vocabulary_ids": [
+        "fedelzet",
+        "hajohid",
+        "hajoallomas"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a távírász este megkapta az utas üzenetét, majd továbbította a hivatalnak. A jegyzékében három szó állt: "
+        },
+        {
+          "text": "fedélzet",
+          "vocabulary_id": "fedelzet"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "hajóhíd",
+          "vocabulary_id": "hajohid"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "hajóállomás",
+          "vocabulary_id": "hajoallomas"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "railways-and-river-routes-story-05-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1913 telegrafista večer přijal zprávu cestujícího a předal ji úřadu. V seznamu měl tři výrazy: paluba, lodní můstek, lodní stanice."
+    }
+  ]
+}

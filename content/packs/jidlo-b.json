@@ -1,0 +1,961 @@
+{
+  "order": 13,
+  "lesson": {
+    "id": "jidlo-b",
+    "theme_id": "q1-kazdodenni-zaklady",
+    "theme_title_cs": "Q1 · Každodenní základy",
+    "module_number": 2,
+    "module_title_cs": "V kuchyni: ovoce, zelenina a pečivo",
+    "title_cs": "V kuchyni: ovoce, zelenina a pečivo",
+    "description": "V kuchyni: ovoce, zelenina a pečivo. Slovní zásoba a různorodé procvičení v historickém kontextu před rokem 1914.",
+    "level": "Q1 · ZÁKLADY",
+    "duration_min": 10,
+    "xp_required": 100,
+    "prerequisite_lesson_ids": [
+      "jidlo-a"
+    ],
+    "vocabulary_ids": [
+      "paprika",
+      "bab",
+      "borso",
+      "lencse",
+      "gomba",
+      "salata",
+      "korte",
+      "szilva",
+      "cseresznye",
+      "meggy",
+      "barack",
+      "szolo",
+      "dio",
+      "mogyoro",
+      "narancs",
+      "citrom",
+      "lekvar",
+      "befott",
+      "sutemeny",
+      "torta",
+      "kalacs",
+      "zsemle",
+      "kifli",
+      "pogacsa",
+      "kolbasz"
+    ],
+    "new_vocabulary_ids": [
+      "paprika",
+      "bab",
+      "borso",
+      "lencse",
+      "gomba",
+      "salata",
+      "korte",
+      "szilva",
+      "cseresznye",
+      "meggy",
+      "barack",
+      "szolo",
+      "dio",
+      "mogyoro",
+      "narancs",
+      "citrom",
+      "lekvar",
+      "befott",
+      "sutemeny",
+      "torta",
+      "kalacs",
+      "zsemle",
+      "kifli",
+      "pogacsa",
+      "kolbasz"
+    ],
+    "grammar_ids": [
+      "q1-neurcite-casovani"
+    ],
+    "grammar_label_cs": "Přítomný čas · neurčité časování",
+    "exercise_ids": [
+      "q1-jidlo-b-ex-01",
+      "q1-jidlo-b-ex-02",
+      "q1-jidlo-b-ex-03",
+      "q1-jidlo-b-ex-04",
+      "q1-jidlo-b-ex-05",
+      "q1-jidlo-b-ex-06",
+      "q1-jidlo-b-ex-07",
+      "q1-jidlo-b-ex-08",
+      "q1-jidlo-b-ex-09",
+      "q1-jidlo-b-ex-10"
+    ],
+    "story_ids": [
+      "q1-jidlo-b-story",
+      "q1-jidlo-b-story-02",
+      "q1-jidlo-b-story-03"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "paprika",
+      "word": "paprika",
+      "translation_cs": "paprika",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "paprika",
+          "translation_cs": "paprika",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A paprika finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "bab",
+      "word": "bab",
+      "translation_cs": "fazole",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bab",
+          "translation_cs": "fazole",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bab finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "borso",
+      "word": "borsó",
+      "translation_cs": "hrášek",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "borsó",
+          "translation_cs": "hrášek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A borsó finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "lencse",
+      "word": "lencse",
+      "translation_cs": "čočka",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lencse",
+          "translation_cs": "čočka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A lencse finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "gomba",
+      "word": "gomba",
+      "translation_cs": "houba",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gomba",
+          "translation_cs": "houba",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gomba finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "salata",
+      "word": "saláta",
+      "translation_cs": "salát",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "saláta",
+          "translation_cs": "salát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A saláta finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "korte",
+      "word": "körte",
+      "translation_cs": "hruška",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "körte",
+          "translation_cs": "hruška",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A körte finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "szilva",
+      "word": "szilva",
+      "translation_cs": "švestka",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szilva",
+          "translation_cs": "švestka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szilva finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "cseresznye",
+      "word": "cseresznye",
+      "translation_cs": "třešeň",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "cseresznye",
+          "translation_cs": "třešeň",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A cseresznye finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "meggy",
+      "word": "meggy",
+      "translation_cs": "višeň",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "meggy",
+          "translation_cs": "višeň",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A meggy finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "barack",
+      "word": "barack",
+      "translation_cs": "meruňka",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "barack",
+          "translation_cs": "meruňka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A barack finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "szolo",
+      "word": "szőlő",
+      "translation_cs": "hrozny",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szőlő",
+          "translation_cs": "hrozny",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szőlő finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "dio",
+      "word": "dió",
+      "translation_cs": "vlašský ořech",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "dió",
+          "translation_cs": "vlašský ořech",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A dió finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "mogyoro",
+      "word": "mogyoró",
+      "translation_cs": "lískový ořech",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mogyoró",
+          "translation_cs": "lískový ořech",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A mogyoró finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "narancs",
+      "word": "narancs",
+      "translation_cs": "pomeranč",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "narancs",
+          "translation_cs": "pomeranč",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A narancs finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "citrom",
+      "word": "citrom",
+      "translation_cs": "citron",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "citrom",
+          "translation_cs": "citron",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A citrom finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "lekvar",
+      "word": "lekvár",
+      "translation_cs": "marmeláda",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lekvár",
+          "translation_cs": "marmeláda",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A lekvár finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "befott",
+      "word": "befőtt",
+      "translation_cs": "kompot",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "befőtt",
+          "translation_cs": "kompot",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A befőtt finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "sutemeny",
+      "word": "sütemény",
+      "translation_cs": "zákusek",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sütemény",
+          "translation_cs": "zákusek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A sütemény finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "torta",
+      "word": "torta",
+      "translation_cs": "dort",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "torta",
+          "translation_cs": "dort",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A torta finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "kalacs",
+      "word": "kalács",
+      "translation_cs": "sladký kynutý chléb",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kalács",
+          "translation_cs": "sladký kynutý chléb",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kalács finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "zsemle",
+      "word": "zsemle",
+      "translation_cs": "houska",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "zsemle",
+          "translation_cs": "houska",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A zsemle finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "kifli",
+      "word": "kifli",
+      "translation_cs": "rohlík",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kifli",
+          "translation_cs": "rohlík",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kifli finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "pogacsa",
+      "word": "pogácsa",
+      "translation_cs": "slaný koláček",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "pogácsa",
+          "translation_cs": "slaný koláček",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A pogácsa finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    },
+    {
+      "id": "kolbasz",
+      "word": "kolbász",
+      "translation_cs": "klobása",
+      "part_of_speech_cs": "podstatné jméno · jídlo",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kolbász",
+          "translation_cs": "klobása",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kolbász finom.",
+      "example_cs": "Je to chutné.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q1-jidlo-b-ex-01",
+      "type": "vocabulary",
+      "vocabulary_id": "paprika",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „paprika“?",
+      "options_cs": [
+        "paprika",
+        "fazole",
+        "hrášek"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "paprika znamená „paprika“."
+    },
+    {
+      "id": "q1-jidlo-b-ex-02",
+      "type": "listening",
+      "vocabulary_id": "lencse",
+      "type_label_cs": "Poslech",
+      "audio_text": "lencse",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "čočka",
+        "paprika",
+        "fazole"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "lencse znamená „čočka“."
+    },
+    {
+      "id": "q1-jidlo-b-ex-03",
+      "type": "recall",
+      "vocabulary_id": "korte",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „hruška“.",
+      "accepted_answers": [
+        "körte"
+      ],
+      "sentence_hu": "A ______ finom.",
+      "explanation_cs": "Je to chutné."
+    },
+    {
+      "id": "q1-jidlo-b-ex-04",
+      "type": "cloze",
+      "vocabulary_id": "meggy",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "A ______ finom.",
+      "options_cs": [
+        "meggy",
+        "paprika",
+        "bab"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Je to chutné."
+    },
+    {
+      "id": "q1-jidlo-b-ex-05",
+      "type": "order",
+      "vocabulary_id": "dio",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "finom.",
+        "dió",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "dió",
+          "finom."
+        ]
+      ],
+      "explanation_cs": "Je to chutné."
+    },
+    {
+      "id": "q1-jidlo-b-ex-06",
+      "type": "vocabulary",
+      "vocabulary_id": "citrom",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „citrom“?",
+      "options_cs": [
+        "citron",
+        "paprika",
+        "fazole"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "citrom znamená „citron“."
+    },
+    {
+      "id": "q1-jidlo-b-ex-07",
+      "type": "listening",
+      "vocabulary_id": "sutemeny",
+      "type_label_cs": "Poslech",
+      "audio_text": "sütemény",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "zákusek",
+        "paprika",
+        "fazole"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "sütemény znamená „zákusek“."
+    },
+    {
+      "id": "q1-jidlo-b-ex-08",
+      "type": "recall",
+      "vocabulary_id": "zsemle",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „houska“.",
+      "accepted_answers": [
+        "zsemle"
+      ],
+      "sentence_hu": "A ______ finom.",
+      "explanation_cs": "Je to chutné."
+    },
+    {
+      "id": "q1-jidlo-b-ex-09",
+      "type": "cloze",
+      "vocabulary_id": "kolbasz",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "A ______ finom.",
+      "options_cs": [
+        "kolbász",
+        "paprika",
+        "bab"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Je to chutné."
+    },
+    {
+      "id": "q1-jidlo-b-ex-10",
+      "type": "order",
+      "vocabulary_id": "borso",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "finom.",
+        "borsó",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "borsó",
+          "finom."
+        ]
+      ],
+      "explanation_cs": "Je to chutné."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-jidlo-b-story",
+      "title_cs": "Večeře doma",
+      "title_hu": "Vacsora otthon",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "jidlo-b"
+      ],
+      "curriculum_lesson_id": "jidlo-b",
+      "new_vocabulary_ids": [
+        "kalacs"
+      ],
+      "vocabulary_ids": [
+        "kalacs"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a konyhában vaj és méz van. Az anya "
+        },
+        {
+          "text": "kalács",
+          "vocabulary_id": "kalacs"
+        },
+        {
+          "text": "ot süt. A család teát iszik."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-jidlo-b-story-question",
+          "prompt_cs": "Co peče matka?",
+          "options_cs": [
+            "Sladký kynutý chléb.",
+            "Rýži.",
+            "Polévku."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Matka peče kalácsot."
+        }
+      ],
+      "translation_cs": "V roce 1913 je v kuchyni máslo a med. Matka peče sladký kynutý chléb. Rodina pije čaj."
+    },
+    {
+      "id": "q1-jidlo-b-story-02",
+      "title_cs": "Ovoce ze zahrady",
+      "title_hu": "Gyümölcs a kertből",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "jidlo-b"
+      ],
+      "curriculum_lesson_id": "jidlo-b",
+      "new_vocabulary_ids": [
+        "korte",
+        "szilva",
+        "szolo",
+        "dio"
+      ],
+      "vocabulary_ids": [
+        "korte",
+        "szilva",
+        "szolo",
+        "dio"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a kertben "
+        },
+        {
+          "text": "körte",
+          "vocabulary_id": "korte"
+        },
+        {
+          "text": " és "
+        },
+        {
+          "text": "szilva",
+          "vocabulary_id": "szilva"
+        },
+        {
+          "text": " van. Anna "
+        },
+        {
+          "text": "szőlő",
+          "vocabulary_id": "szolo"
+        },
+        {
+          "text": "t és "
+        },
+        {
+          "text": "dió",
+          "vocabulary_id": "dio"
+        },
+        {
+          "text": "t hoz. A család együtt eszik."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-jidlo-b-story-02-question",
+          "prompt_cs": "Co přináší Anna?",
+          "options_cs": [
+            "Hrozny a vlašské ořechy.",
+            "Mouku a sůl.",
+            "Maso a rybu."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Anna přináší szőlőt és diót."
+        }
+      ],
+      "translation_cs": "V roce 1913 jsou na zahradě hrušky a švestky. Anna přináší hrozny a vlašské ořechy. Rodina společně jí."
+    },
+    {
+      "id": "q1-jidlo-b-story-03",
+      "title_cs": "Pečení v kuchyni",
+      "title_hu": "Sütés a konyhában",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "jidlo-b"
+      ],
+      "curriculum_lesson_id": "jidlo-b",
+      "new_vocabulary_ids": [
+        "torta",
+        "kalacs",
+        "pogacsa",
+        "sutemeny"
+      ],
+      "vocabulary_ids": [
+        "torta",
+        "kalacs",
+        "pogacsa",
+        "sutemeny"
+      ],
+      "segments": [
+        {
+          "text": "A konyhában "
+        },
+        {
+          "text": "torta",
+          "vocabulary_id": "torta"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "kalács",
+          "vocabulary_id": "kalacs"
+        },
+        {
+          "text": " és "
+        },
+        {
+          "text": "pogácsa",
+          "vocabulary_id": "pogacsa"
+        },
+        {
+          "text": " van. A nagynéni "
+        },
+        {
+          "text": "sütemény",
+          "vocabulary_id": "sutemeny"
+        },
+        {
+          "text": "t kér. Este a család együtt van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-jidlo-b-story-03-question",
+          "prompt_cs": "Co žádá teta?",
+          "options_cs": [
+            "Zákusek.",
+            "Čočku.",
+            "Citron."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Teta žádá süteményt."
+        }
+      ],
+      "translation_cs": "V kuchyni je dort, sladký kynutý chléb a slaný koláček. Teta žádá zákusek. Večer je rodina spolu."
+    }
+  ],
+  "quarter": "q1"
+}

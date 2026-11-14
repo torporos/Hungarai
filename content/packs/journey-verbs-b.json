@@ -1,0 +1,2414 @@
+{
+  "order": 41,
+  "quarter": "q3",
+  "lesson": {
+    "id": "journey-verbs-b",
+    "theme_id": "uhersko-1913",
+    "theme_title_cs": "Q3 · Parní pokrok a cesta monarchií",
+    "module_number": 3,
+    "module_title_cs": "Cesta, technika a minulý čas",
+    "title_cs": "Vyprávění o minulosti II",
+    "description": "Historická maďarština v Rakousko-Uhersku do roku 1914; technika, doprava, zeměpis, profese a minulý čas.",
+    "level": "Q3 · CESTOVÁNÍ A TECHNIKA",
+    "duration_min": 20,
+    "xp_required": 2100,
+    "prerequisite_lesson_ids": [
+      "journey-verbs-a"
+    ],
+    "vocabulary_ids": [
+      "elinditani",
+      "leallitani",
+      "bekapcsolni",
+      "kikapcsolni",
+      "meghibasodni",
+      "mukodni",
+      "megallitani",
+      "lefogni",
+      "fekezni",
+      "gyorsitani",
+      "lassitani",
+      "tervezni",
+      "eltervezni",
+      "megbeszelni",
+      "egyeztetni",
+      "beszerezni",
+      "megalkotni",
+      "kifejleszteni",
+      "kiserletezni",
+      "megvizsgalni",
+      "atvizsgalni",
+      "ellenorizni",
+      "osszehasonlitani",
+      "megszamolni",
+      "megmerni",
+      "kiszamitani",
+      "meghatarozni",
+      "megkeresni",
+      "felkutatni",
+      "felfedezni",
+      "feltalalni",
+      "megszervezni",
+      "elrendezni",
+      "osszekotni",
+      "szetvalasztani",
+      "megvaltoztatni",
+      "megoldani",
+      "vegrehajtani",
+      "elromlani"
+    ],
+    "new_vocabulary_ids": [
+      "elinditani",
+      "leallitani",
+      "bekapcsolni",
+      "kikapcsolni",
+      "meghibasodni",
+      "mukodni",
+      "megallitani",
+      "lefogni",
+      "fekezni",
+      "gyorsitani",
+      "lassitani",
+      "tervezni",
+      "eltervezni",
+      "megbeszelni",
+      "egyeztetni",
+      "beszerezni",
+      "megalkotni",
+      "kifejleszteni",
+      "kiserletezni",
+      "megvizsgalni",
+      "atvizsgalni",
+      "ellenorizni",
+      "osszehasonlitani",
+      "megszamolni",
+      "megmerni",
+      "kiszamitani",
+      "meghatarozni",
+      "megkeresni",
+      "felkutatni",
+      "felfedezni",
+      "feltalalni",
+      "megszervezni",
+      "elrendezni",
+      "osszekotni",
+      "szetvalasztani",
+      "megvaltoztatni",
+      "megoldani",
+      "vegrehajtani",
+      "elromlani"
+    ],
+    "grammar_ids": [
+      "q3-past-tense",
+      "q3-definite-conjugation",
+      "q3-possessive-suffixes"
+    ],
+    "grammar_label_cs": "Minulý čas · určité časování · přivlastňovací přípony",
+    "exercise_ids": [
+      "journey-verbs-b-word-01",
+      "journey-verbs-b-word-02",
+      "journey-verbs-b-word-03",
+      "journey-verbs-b-word-04",
+      "journey-verbs-b-word-05",
+      "journey-verbs-b-word-06",
+      "journey-verbs-b-word-07",
+      "journey-verbs-b-word-08",
+      "journey-verbs-b-word-09",
+      "journey-verbs-b-word-10",
+      "journey-verbs-b-word-11",
+      "journey-verbs-b-word-12",
+      "journey-verbs-b-word-13",
+      "journey-verbs-b-word-14",
+      "journey-verbs-b-word-15",
+      "journey-verbs-b-word-16",
+      "journey-verbs-b-word-17",
+      "journey-verbs-b-word-18",
+      "journey-verbs-b-word-19",
+      "journey-verbs-b-word-20",
+      "journey-verbs-b-word-21",
+      "journey-verbs-b-word-22",
+      "journey-verbs-b-word-23",
+      "journey-verbs-b-word-24",
+      "journey-verbs-b-word-25",
+      "journey-verbs-b-word-26",
+      "journey-verbs-b-word-27",
+      "journey-verbs-b-word-28",
+      "journey-verbs-b-word-29",
+      "journey-verbs-b-word-30",
+      "journey-verbs-b-word-31",
+      "journey-verbs-b-word-32",
+      "journey-verbs-b-word-33",
+      "journey-verbs-b-word-34",
+      "journey-verbs-b-word-35",
+      "journey-verbs-b-word-36",
+      "journey-verbs-b-word-37",
+      "journey-verbs-b-word-38",
+      "journey-verbs-b-word-39",
+      "journey-verbs-b-grammar-01",
+      "journey-verbs-b-grammar-02",
+      "journey-verbs-b-grammar-03",
+      "journey-verbs-b-grammar-04",
+      "journey-verbs-b-grammar-05",
+      "journey-verbs-b-grammar-06",
+      "journey-verbs-b-grammar-07",
+      "journey-verbs-b-grammar-08",
+      "journey-verbs-b-grammar-09",
+      "journey-verbs-b-grammar-10",
+      "journey-verbs-b-grammar-11",
+      "journey-verbs-b-grammar-12",
+      "journey-verbs-b-grammar-13",
+      "journey-verbs-b-grammar-14",
+      "journey-verbs-b-grammar-15",
+      "journey-verbs-b-grammar-16",
+      "journey-verbs-b-grammar-17",
+      "journey-verbs-b-grammar-18",
+      "journey-verbs-b-grammar-19",
+      "journey-verbs-b-grammar-20",
+      "journey-verbs-b-grammar-21",
+      "journey-verbs-b-grammar-22",
+      "journey-verbs-b-grammar-23",
+      "journey-verbs-b-grammar-24",
+      "journey-verbs-b-grammar-25"
+    ],
+    "story_ids": [
+      "journey-verbs-b-story-01",
+      "journey-verbs-b-story-02",
+      "journey-verbs-b-story-03",
+      "journey-verbs-b-story-04",
+      "journey-verbs-b-story-05"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "elinditani",
+      "word": "elindítani",
+      "translation_cs": "spustit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elindítani",
+          "translation_cs": "spustit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elindítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „spustit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "leallitani",
+      "word": "leállítani",
+      "translation_cs": "zastavit provoz",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "leállítani",
+          "translation_cs": "zastavit provoz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „leállítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zastavit provoz“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "bekapcsolni",
+      "word": "bekapcsolni",
+      "translation_cs": "zapnout",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bekapcsolni",
+          "translation_cs": "zapnout",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „bekapcsolni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zapnout“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "kikapcsolni",
+      "word": "kikapcsolni",
+      "translation_cs": "vypnout",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kikapcsolni",
+          "translation_cs": "vypnout",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kikapcsolni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vypnout“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "meghibasodni",
+      "word": "meghibásodni",
+      "translation_cs": "porouchat se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "meghibásodni",
+          "translation_cs": "porouchat se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „meghibásodni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „porouchat se“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "mukodni",
+      "word": "működni",
+      "translation_cs": "fungovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "működni",
+          "translation_cs": "fungovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „működni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „fungovat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "megallitani",
+      "word": "megállítani",
+      "translation_cs": "zastavit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megállítani",
+          "translation_cs": "zastavit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „megállítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zastavit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "lefogni",
+      "word": "lefogni",
+      "translation_cs": "zadržet",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lefogni",
+          "translation_cs": "zadržet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „lefogni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zadržet“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "fekezni",
+      "word": "fékezni",
+      "translation_cs": "brzdit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fékezni",
+          "translation_cs": "brzdit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „fékezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „brzdit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "gyorsitani",
+      "word": "gyorsítani",
+      "translation_cs": "zrychlit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gyorsítani",
+          "translation_cs": "zrychlit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „gyorsítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zrychlit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "lassitani",
+      "word": "lassítani",
+      "translation_cs": "zpomalit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lassítani",
+          "translation_cs": "zpomalit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „lassítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zpomalit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "tervezni",
+      "word": "tervezni",
+      "translation_cs": "plánovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tervezni",
+          "translation_cs": "plánovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „tervezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „plánovat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "eltervezni",
+      "word": "eltervezni",
+      "translation_cs": "naplánovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "eltervezni",
+          "translation_cs": "naplánovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „eltervezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „naplánovat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "megbeszelni",
+      "word": "megbeszélni",
+      "translation_cs": "projednat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megbeszélni",
+          "translation_cs": "projednat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „megbeszélni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „projednat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "egyeztetni",
+      "word": "egyeztetni",
+      "translation_cs": "sladit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "egyeztetni",
+          "translation_cs": "sladit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „egyeztetni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „sladit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "beszerezni",
+      "word": "beszerezni",
+      "translation_cs": "obstarat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beszerezni",
+          "translation_cs": "obstarat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „beszerezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „obstarat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "megalkotni",
+      "word": "megalkotni",
+      "translation_cs": "vytvořit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megalkotni",
+          "translation_cs": "vytvořit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „megalkotni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vytvořit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "kifejleszteni",
+      "word": "kifejleszteni",
+      "translation_cs": "vyvinout",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kifejleszteni",
+          "translation_cs": "vyvinout",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kifejleszteni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyvinout“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "kiserletezni",
+      "word": "kísérletezni",
+      "translation_cs": "experimentovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kísérletezni",
+          "translation_cs": "experimentovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kísérletezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „experimentovat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "megvizsgalni",
+      "word": "megvizsgálni",
+      "translation_cs": "prozkoumat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megvizsgálni",
+          "translation_cs": "prozkoumat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „megvizsgálni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „prozkoumat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "atvizsgalni",
+      "word": "átvizsgálni",
+      "translation_cs": "prohlédnout",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "átvizsgálni",
+          "translation_cs": "prohlédnout",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „átvizsgálni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „prohlédnout“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "ellenorizni",
+      "word": "ellenőrizni",
+      "translation_cs": "zkontrolovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ellenőrizni",
+          "translation_cs": "zkontrolovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „ellenőrizni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zkontrolovat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "osszehasonlitani",
+      "word": "összehasonlítani",
+      "translation_cs": "porovnat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "összehasonlítani",
+          "translation_cs": "porovnat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „összehasonlítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „porovnat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "megszamolni",
+      "word": "megszámolni",
+      "translation_cs": "spočítat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megszámolni",
+          "translation_cs": "spočítat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „megszámolni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „spočítat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "megmerni",
+      "word": "megmérni",
+      "translation_cs": "změřit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megmérni",
+          "translation_cs": "změřit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „megmérni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „změřit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "kiszamitani",
+      "word": "kiszámítani",
+      "translation_cs": "vypočítat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kiszámítani",
+          "translation_cs": "vypočítat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „kiszámítani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vypočítat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "meghatarozni",
+      "word": "meghatározni",
+      "translation_cs": "určit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "meghatározni",
+          "translation_cs": "určit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „meghatározni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „určit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "megkeresni",
+      "word": "megkeresni",
+      "translation_cs": "vyhledat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megkeresni",
+          "translation_cs": "vyhledat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „megkeresni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyhledat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "felkutatni",
+      "word": "felkutatni",
+      "translation_cs": "vypátrat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "felkutatni",
+          "translation_cs": "vypátrat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „felkutatni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vypátrat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "felfedezni",
+      "word": "felfedezni",
+      "translation_cs": "objevit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "felfedezni",
+          "translation_cs": "objevit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „felfedezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „objevit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "feltalalni",
+      "word": "feltalálni",
+      "translation_cs": "vynalézt",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "feltalálni",
+          "translation_cs": "vynalézt",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „feltalálni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vynalézt“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "megszervezni",
+      "word": "megszervezni",
+      "translation_cs": "zorganizovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megszervezni",
+          "translation_cs": "zorganizovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „megszervezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „zorganizovat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "elrendezni",
+      "word": "elrendezni",
+      "translation_cs": "uspořádat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elrendezni",
+          "translation_cs": "uspořádat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elrendezni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „uspořádat“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "osszekotni",
+      "word": "összekötni",
+      "translation_cs": "spojit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "összekötni",
+          "translation_cs": "spojit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „összekötni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „spojit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "szetvalasztani",
+      "word": "szétválasztani",
+      "translation_cs": "oddělit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szétválasztani",
+          "translation_cs": "oddělit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „szétválasztani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „oddělit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "megvaltoztatni",
+      "word": "megváltoztatni",
+      "translation_cs": "změnit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megváltoztatni",
+          "translation_cs": "změnit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „megváltoztatni”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „změnit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "megoldani",
+      "word": "megoldani",
+      "translation_cs": "vyřešit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megoldani",
+          "translation_cs": "vyřešit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „megoldani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „vyřešit“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "vegrehajtani",
+      "word": "végrehajtani",
+      "translation_cs": "provést",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "végrehajtani",
+          "translation_cs": "provést",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „végrehajtani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „provést“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    },
+    {
+      "id": "elromlani",
+      "word": "elromlani",
+      "translation_cs": "porouchat se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elromlani",
+          "translation_cs": "porouchat se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szótárban ez az ige szerepelt: „elromlani”.",
+      "example_cs": "Ve slovníku se objevilo sloveso: „porouchat se“.",
+      "tags": [
+        "q3",
+        "verb_past_definite"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "journey-verbs-b-word-01",
+      "type": "cloze",
+      "vocabulary_id": "elinditani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „spustit“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "elindítani",
+        "leállítani",
+        "bekapcsolni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „elindítani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-02",
+      "type": "recall",
+      "vocabulary_id": "leallitani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zastavit provoz“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "leállítani"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „leállítani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-03",
+      "type": "order",
+      "vocabulary_id": "bekapcsolni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „bekapcsolni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„bekapcsolni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„bekapcsolni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „bekapcsolni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-04",
+      "type": "cloze",
+      "vocabulary_id": "kikapcsolni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vypnout“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "kikapcsolni",
+        "meghibásodni",
+        "működni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kikapcsolni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-05",
+      "type": "recall",
+      "vocabulary_id": "meghibasodni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „porouchat se“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "meghibásodni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „meghibásodni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-06",
+      "type": "order",
+      "vocabulary_id": "mukodni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „működni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„működni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„működni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „működni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-07",
+      "type": "cloze",
+      "vocabulary_id": "megallitani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zastavit“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "megállítani",
+        "lefogni",
+        "fékezni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „megállítani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-08",
+      "type": "recall",
+      "vocabulary_id": "lefogni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zadržet“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "lefogni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „lefogni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-09",
+      "type": "order",
+      "vocabulary_id": "fekezni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „fékezni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„fékezni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„fékezni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fékezni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-10",
+      "type": "cloze",
+      "vocabulary_id": "gyorsitani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zrychlit“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "gyorsítani",
+        "lassítani",
+        "tervezni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „gyorsítani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-11",
+      "type": "recall",
+      "vocabulary_id": "lassitani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zpomalit“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "lassítani"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „lassítani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-12",
+      "type": "order",
+      "vocabulary_id": "tervezni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „tervezni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„tervezni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„tervezni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „tervezni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-13",
+      "type": "cloze",
+      "vocabulary_id": "eltervezni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „naplánovat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "eltervezni",
+        "megbeszélni",
+        "egyeztetni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „eltervezni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-14",
+      "type": "recall",
+      "vocabulary_id": "megbeszelni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „projednat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "megbeszélni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „megbeszélni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-15",
+      "type": "order",
+      "vocabulary_id": "egyeztetni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „egyeztetni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„egyeztetni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„egyeztetni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „egyeztetni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-16",
+      "type": "cloze",
+      "vocabulary_id": "beszerezni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „obstarat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "beszerezni",
+        "megalkotni",
+        "kifejleszteni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „beszerezni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-17",
+      "type": "recall",
+      "vocabulary_id": "megalkotni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vytvořit“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "megalkotni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „megalkotni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-18",
+      "type": "order",
+      "vocabulary_id": "kifejleszteni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „kifejleszteni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„kifejleszteni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„kifejleszteni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kifejleszteni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-19",
+      "type": "cloze",
+      "vocabulary_id": "kiserletezni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „experimentovat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "kísérletezni",
+        "megvizsgálni",
+        "átvizsgálni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kísérletezni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-20",
+      "type": "recall",
+      "vocabulary_id": "megvizsgalni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „prozkoumat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "megvizsgálni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „megvizsgálni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-21",
+      "type": "order",
+      "vocabulary_id": "atvizsgalni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „átvizsgálni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„átvizsgálni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„átvizsgálni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „átvizsgálni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-22",
+      "type": "cloze",
+      "vocabulary_id": "ellenorizni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zkontrolovat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "ellenőrizni",
+        "összehasonlítani",
+        "megszámolni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „ellenőrizni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-23",
+      "type": "recall",
+      "vocabulary_id": "osszehasonlitani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „porovnat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "összehasonlítani"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „összehasonlítani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-24",
+      "type": "order",
+      "vocabulary_id": "megszamolni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „megszámolni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„megszámolni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„megszámolni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „megszámolni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-25",
+      "type": "cloze",
+      "vocabulary_id": "megmerni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „změřit“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "megmérni",
+        "kiszámítani",
+        "meghatározni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „megmérni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-26",
+      "type": "recall",
+      "vocabulary_id": "kiszamitani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vypočítat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "kiszámítani"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kiszámítani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-27",
+      "type": "order",
+      "vocabulary_id": "meghatarozni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „meghatározni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„meghatározni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„meghatározni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „meghatározni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-28",
+      "type": "cloze",
+      "vocabulary_id": "megkeresni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vyhledat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "megkeresni",
+        "felkutatni",
+        "felfedezni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „megkeresni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-29",
+      "type": "recall",
+      "vocabulary_id": "felkutatni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vypátrat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "felkutatni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „felkutatni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-30",
+      "type": "order",
+      "vocabulary_id": "felfedezni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „felfedezni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„felfedezni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„felfedezni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „felfedezni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-31",
+      "type": "cloze",
+      "vocabulary_id": "feltalalni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vynalézt“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "feltalálni",
+        "megszervezni",
+        "elrendezni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „feltalálni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-32",
+      "type": "recall",
+      "vocabulary_id": "megszervezni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zorganizovat“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "megszervezni"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „megszervezni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-33",
+      "type": "order",
+      "vocabulary_id": "elrendezni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „elrendezni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„elrendezni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„elrendezni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „elrendezni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-34",
+      "type": "cloze",
+      "vocabulary_id": "osszekotni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „spojit“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "összekötni",
+        "szétválasztani",
+        "megváltoztatni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „összekötni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-35",
+      "type": "recall",
+      "vocabulary_id": "szetvalasztani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „oddělit“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "szétválasztani"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szétválasztani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-36",
+      "type": "order",
+      "vocabulary_id": "megvaltoztatni",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „megváltoztatni” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„megváltoztatni”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„megváltoztatni”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „megváltoztatni” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-37",
+      "type": "cloze",
+      "vocabulary_id": "megoldani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vyřešit“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "megoldani",
+        "végrehajtani",
+        "elromlani"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „megoldani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-38",
+      "type": "recall",
+      "vocabulary_id": "vegrehajtani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „provést“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "végrehajtani"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „végrehajtani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-word-39",
+      "type": "order",
+      "vocabulary_id": "elromlani",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „elromlani” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„elromlani”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„elromlani”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „elromlani” kifejezést."
+    },
+    {
+      "id": "journey-verbs-b-grammar-01",
+      "type": "cloze",
+      "grammar_id": "q3-possessive-suffixes",
+      "type_label_cs": "Přivlastňovací přípony a minulý čas",
+      "prompt_cs": "Doplňte správný tvar. Inženýr nesl do dílny svůj výkres.",
+      "sentence_hu": "A mérnök a saját rajzát ______ a műhelybe.",
+      "options_cs": [
+        "vitte",
+        "viszi",
+        "vittem"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Inženýr nesl do dílny svůj výkres."
+    },
+    {
+      "id": "journey-verbs-b-grammar-02",
+      "type": "cloze",
+      "grammar_id": "q3-possessive-suffixes",
+      "type_label_cs": "Přivlastňovací přípony a minulý čas",
+      "prompt_cs": "Doplňte správný tvar. Telegrafista odeslal svůj telegram.",
+      "sentence_hu": "A távírász ______ a táviratát.",
+      "options_cs": [
+        "elküldte",
+        "elküldött",
+        "elküldi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Telegrafista odeslal svůj telegram."
+    },
+    {
+      "id": "journey-verbs-b-grammar-03",
+      "type": "cloze",
+      "grammar_id": "q3-definite-conjugation",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Průvodčí se cestujícího zeptal na slovo „tervezni“.",
+      "sentence_hu": "A kalauz ______ az utast a „tervezni” szóról.",
+      "options_cs": [
+        "megkérdezte",
+        "megkérdezett",
+        "megkérdezi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Průvodčí se cestujícího zeptal na slovo „tervezni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-04",
+      "type": "cloze",
+      "grammar_id": "q3-past-tense",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Včera úředník zapsal podobu „megbeszélni“.",
+      "sentence_hu": "Tegnap a jegyző ______ a „megbeszélni” alakot.",
+      "options_cs": [
+        "feljegyezte",
+        "feljegyzett",
+        "feljegyzi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Včera úředník zapsal podobu „megbeszélni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-05",
+      "type": "cloze",
+      "grammar_id": "q3-definite-conjugation",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Včera úředník zapsal jeden výraz: „beszerezni“.",
+      "sentence_hu": "Tegnap a jegyző ______ egy kifejezést: „beszerezni”.",
+      "options_cs": [
+        "feljegyzett",
+        "feljegyezte",
+        "feljegyez"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Včera úředník zapsal jeden výraz: „beszerezni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-06",
+      "type": "cloze",
+      "grammar_id": "q3-definite-conjugation",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Inženýr prozkoumal označení „kifejleszteni“.",
+      "sentence_hu": "A mérnök ______ a „kifejleszteni” megnevezést.",
+      "options_cs": [
+        "megvizsgálta",
+        "megvizsgált",
+        "megvizsgálja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Inženýr prozkoumal označení „kifejleszteni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-07",
+      "type": "cloze",
+      "grammar_id": "q3-definite-conjugation",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Inženýr prozkoumal nový výraz: „megvizsgálni“.",
+      "sentence_hu": "A mérnök ______ egy új kifejezést: „megvizsgálni”.",
+      "options_cs": [
+        "megvizsgált",
+        "megvizsgálta",
+        "megvizsgál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Inženýr prozkoumal nový výraz: „megvizsgálni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-08",
+      "type": "cloze",
+      "grammar_id": "q3-past-tense",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Učeň si v poznámce přečetl slovo „ellenőrizni“.",
+      "sentence_hu": "A tanonc ______ a „ellenőrizni” szót a jegyzetben.",
+      "options_cs": [
+        "elolvasta",
+        "elolvasott",
+        "elolvassa"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Učeň si v poznámce přečetl slovo „ellenőrizni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-09",
+      "type": "cloze",
+      "grammar_id": "q3-past-tense",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Telegrafista si zapamatoval výraz „megszámolni“.",
+      "sentence_hu": "A távírász ______ a „megszámolni” kifejezést.",
+      "options_cs": [
+        "megjegyezte",
+        "megjegyzett",
+        "megjegyzi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Telegrafista si zapamatoval výraz „megszámolni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-10",
+      "type": "cloze",
+      "grammar_id": "q3-possessive-suffixes",
+      "type_label_cs": "Přivlastňovací přípony a minulý čas",
+      "prompt_cs": "Doplňte správný tvar. Cestující našel svou jízdenku a potom ji předložil.",
+      "sentence_hu": "Az utas ______ a jegyét, majd felmutatta.",
+      "options_cs": [
+        "megtalálta",
+        "megtalált",
+        "megtalálja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Cestující našel svou jízdenku a potom ji předložil."
+    },
+    {
+      "id": "journey-verbs-b-grammar-11",
+      "type": "cloze",
+      "grammar_id": "q3-possessive-suffixes",
+      "type_label_cs": "Přivlastňovací přípony a minulý čas",
+      "prompt_cs": "Doplňte správný tvar. Inženýr nesl do dílny svůj výkres.",
+      "sentence_hu": "A mérnök a saját rajzát ______ a műhelybe.",
+      "options_cs": [
+        "vitte",
+        "viszi",
+        "vittem"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Inženýr nesl do dílny svůj výkres."
+    },
+    {
+      "id": "journey-verbs-b-grammar-12",
+      "type": "cloze",
+      "grammar_id": "q3-possessive-suffixes",
+      "type_label_cs": "Přivlastňovací přípony a minulý čas",
+      "prompt_cs": "Doplňte správný tvar. Telegrafista odeslal svůj telegram.",
+      "sentence_hu": "A távírász ______ a táviratát.",
+      "options_cs": [
+        "elküldte",
+        "elküldött",
+        "elküldi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Telegrafista odeslal svůj telegram."
+    },
+    {
+      "id": "journey-verbs-b-grammar-13",
+      "type": "cloze",
+      "grammar_id": "q3-definite-conjugation",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Průvodčí se cestujícího zeptal na slovo „megszervezni“.",
+      "sentence_hu": "A kalauz ______ az utast a „megszervezni” szóról.",
+      "options_cs": [
+        "megkérdezte",
+        "megkérdezett",
+        "megkérdezi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Průvodčí se cestujícího zeptal na slovo „megszervezni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-14",
+      "type": "cloze",
+      "grammar_id": "q3-past-tense",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Včera úředník zapsal podobu „összekötni“.",
+      "sentence_hu": "Tegnap a jegyző ______ a „összekötni” alakot.",
+      "options_cs": [
+        "feljegyezte",
+        "feljegyzett",
+        "feljegyzi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Včera úředník zapsal podobu „összekötni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-15",
+      "type": "cloze",
+      "grammar_id": "q3-definite-conjugation",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Včera úředník zapsal jeden výraz: „megváltoztatni“.",
+      "sentence_hu": "Tegnap a jegyző ______ egy kifejezést: „megváltoztatni”.",
+      "options_cs": [
+        "feljegyzett",
+        "feljegyezte",
+        "feljegyez"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Včera úředník zapsal jeden výraz: „megváltoztatni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-16",
+      "type": "cloze",
+      "grammar_id": "q3-definite-conjugation",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Inženýr prozkoumal označení „végrehajtani“.",
+      "sentence_hu": "A mérnök ______ a „végrehajtani” megnevezést.",
+      "options_cs": [
+        "megvizsgálta",
+        "megvizsgált",
+        "megvizsgálja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Inženýr prozkoumal označení „végrehajtani“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-17",
+      "type": "cloze",
+      "grammar_id": "q3-definite-conjugation",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Inženýr prozkoumal nový výraz: „elindítani“.",
+      "sentence_hu": "A mérnök ______ egy új kifejezést: „elindítani”.",
+      "options_cs": [
+        "megvizsgált",
+        "megvizsgálta",
+        "megvizsgál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Inženýr prozkoumal nový výraz: „elindítani“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-18",
+      "type": "cloze",
+      "grammar_id": "q3-past-tense",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Učeň si v poznámce přečetl slovo „bekapcsolni“.",
+      "sentence_hu": "A tanonc ______ a „bekapcsolni” szót a jegyzetben.",
+      "options_cs": [
+        "elolvasta",
+        "elolvasott",
+        "elolvassa"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Učeň si v poznámce přečetl slovo „bekapcsolni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-19",
+      "type": "cloze",
+      "grammar_id": "q3-past-tense",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Telegrafista si zapamatoval výraz „meghibásodni“.",
+      "sentence_hu": "A távírász ______ a „meghibásodni” kifejezést.",
+      "options_cs": [
+        "megjegyezte",
+        "megjegyzett",
+        "megjegyzi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Telegrafista si zapamatoval výraz „meghibásodni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-20",
+      "type": "cloze",
+      "grammar_id": "q3-possessive-suffixes",
+      "type_label_cs": "Přivlastňovací přípony a minulý čas",
+      "prompt_cs": "Doplňte správný tvar. Cestující našel svou jízdenku a potom ji předložil.",
+      "sentence_hu": "Az utas ______ a jegyét, majd felmutatta.",
+      "options_cs": [
+        "megtalálta",
+        "megtalált",
+        "megtalálja"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Cestující našel svou jízdenku a potom ji předložil."
+    },
+    {
+      "id": "journey-verbs-b-grammar-21",
+      "type": "cloze",
+      "grammar_id": "q3-possessive-suffixes",
+      "type_label_cs": "Přivlastňovací přípony a minulý čas",
+      "prompt_cs": "Doplňte správný tvar. Inženýr nesl do dílny svůj výkres.",
+      "sentence_hu": "A mérnök a saját rajzát ______ a műhelybe.",
+      "options_cs": [
+        "vitte",
+        "viszi",
+        "vittem"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Inženýr nesl do dílny svůj výkres."
+    },
+    {
+      "id": "journey-verbs-b-grammar-22",
+      "type": "cloze",
+      "grammar_id": "q3-possessive-suffixes",
+      "type_label_cs": "Přivlastňovací přípony a minulý čas",
+      "prompt_cs": "Doplňte správný tvar. Telegrafista odeslal svůj telegram.",
+      "sentence_hu": "A távírász ______ a táviratát.",
+      "options_cs": [
+        "elküldte",
+        "elküldött",
+        "elküldi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Telegrafista odeslal svůj telegram."
+    },
+    {
+      "id": "journey-verbs-b-grammar-23",
+      "type": "cloze",
+      "grammar_id": "q3-definite-conjugation",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Průvodčí se cestujícího zeptal na slovo „eltervezni“.",
+      "sentence_hu": "A kalauz ______ az utast a „eltervezni” szóról.",
+      "options_cs": [
+        "megkérdezte",
+        "megkérdezett",
+        "megkérdezi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Průvodčí se cestujícího zeptal na slovo „eltervezni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-24",
+      "type": "cloze",
+      "grammar_id": "q3-past-tense",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Včera úředník zapsal podobu „egyeztetni“.",
+      "sentence_hu": "Tegnap a jegyző ______ a „egyeztetni” alakot.",
+      "options_cs": [
+        "feljegyezte",
+        "feljegyzett",
+        "feljegyzi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Včera úředník zapsal podobu „egyeztetni“."
+    },
+    {
+      "id": "journey-verbs-b-grammar-25",
+      "type": "cloze",
+      "grammar_id": "q3-definite-conjugation",
+      "type_label_cs": "Minulý čas · určitý a neurčitý předmět",
+      "prompt_cs": "Doplňte správný tvar. Včera úředník zapsal jeden výraz: „megalkotni“.",
+      "sentence_hu": "Tegnap a jegyző ______ egy kifejezést: „megalkotni”.",
+      "options_cs": [
+        "feljegyzett",
+        "feljegyezte",
+        "feljegyez"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Včera úředník zapsal jeden výraz: „megalkotni“."
+    }
+  ],
+  "stories": [
+    {
+      "id": "journey-verbs-b-story-01",
+      "title_cs": "Jízdní řád v dešti · 1",
+      "title_hu": "Eső és menetrend · 1",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "journey-verbs-b"
+      ],
+      "curriculum_lesson_id": "journey-verbs-b",
+      "new_vocabulary_ids": [
+        "elinditani",
+        "leallitani",
+        "bekapcsolni"
+      ],
+      "vocabulary_ids": [
+        "elinditani",
+        "leallitani",
+        "bekapcsolni"
+      ],
+      "segments": [
+        {
+          "text": "1913 őszén az utas a pályaudvaron várta a vonatot. A jegyzetébe három új kifejezést írt: "
+        },
+        {
+          "text": "elindítani",
+          "vocabulary_id": "elinditani"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "leállítani",
+          "vocabulary_id": "leallitani"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "bekapcsolni",
+          "vocabulary_id": "bekapcsolni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "journey-verbs-b-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Na podzim roku 1913 čekal cestující na nádraží. Do poznámek si zapsal tři nové výrazy: spustit, zastavit provoz, zapnout."
+    },
+    {
+      "id": "journey-verbs-b-story-02",
+      "title_cs": "Zpráva z dílny · 2",
+      "title_hu": "Hír a műhelyből · 2",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "journey-verbs-b"
+      ],
+      "curriculum_lesson_id": "journey-verbs-b",
+      "new_vocabulary_ids": [
+        "lefogni",
+        "fekezni",
+        "gyorsitani"
+      ],
+      "vocabulary_ids": [
+        "lefogni",
+        "fekezni",
+        "gyorsitani"
+      ],
+      "segments": [
+        {
+          "text": "A mérnök 1913-ban megvizsgálta a gépet, majd feljegyezte a munkát. A lap szélére ezt írta: "
+        },
+        {
+          "text": "lefogni",
+          "vocabulary_id": "lefogni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "fékezni",
+          "vocabulary_id": "fekezni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "gyorsítani",
+          "vocabulary_id": "gyorsitani"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "journey-verbs-b-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Inženýr v roce 1913 prohlédl stroj a zapsal si poznámky o práci. Na okraj listu napsal: zadržet, brzdit, zrychlit."
+    },
+    {
+      "id": "journey-verbs-b-story-03",
+      "title_cs": "Mapa monarchie · 3",
+      "title_hu": "A Monarchia térképe · 3",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "journey-verbs-b"
+      ],
+      "curriculum_lesson_id": "journey-verbs-b",
+      "new_vocabulary_ids": [
+        "egyeztetni",
+        "beszerezni",
+        "megalkotni"
+      ],
+      "vocabulary_ids": [
+        "egyeztetni",
+        "beszerezni",
+        "megalkotni"
+      ],
+      "segments": [
+        {
+          "text": "A térképész 1913-ban bejárta a vidéket, és a térkép mellé három szót jegyzett fel: "
+        },
+        {
+          "text": "egyeztetni",
+          "vocabulary_id": "egyeztetni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "beszerezni",
+          "vocabulary_id": "beszerezni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "megalkotni",
+          "vocabulary_id": "megalkotni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "journey-verbs-b-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Kartograf v roce 1913 procházel krajinou a vedle mapy si poznamenal tři výrazy: sladit, obstarat, vytvořit."
+    },
+    {
+      "id": "journey-verbs-b-story-04",
+      "title_cs": "Mimořádná směna · 4",
+      "title_hu": "Rendkívüli műszak · 4",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "journey-verbs-b"
+      ],
+      "curriculum_lesson_id": "journey-verbs-b",
+      "new_vocabulary_ids": [
+        "ellenorizni",
+        "osszehasonlitani",
+        "megszamolni"
+      ],
+      "vocabulary_ids": [
+        "ellenorizni",
+        "osszehasonlitani",
+        "megszamolni"
+      ],
+      "segments": [
+        {
+          "text": "A gyárban a munkások 1913-ban pontosan dolgoztak. A művezető naplójába három kifejezést írt: "
+        },
+        {
+          "text": "ellenőrizni",
+          "vocabulary_id": "ellenorizni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "összehasonlítani",
+          "vocabulary_id": "osszehasonlitani"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "megszámolni",
+          "vocabulary_id": "megszamolni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "journey-verbs-b-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Dělníci v továrně pracovali roku 1913 přesně. Mistr si do deníku zapsal tři výrazy: zkontrolovat, porovnat, spočítat."
+    },
+    {
+      "id": "journey-verbs-b-story-05",
+      "title_cs": "Telegram z cesty · 5",
+      "title_hu": "Távirat az útról · 5",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "journey-verbs-b"
+      ],
+      "curriculum_lesson_id": "journey-verbs-b",
+      "new_vocabulary_ids": [
+        "felkutatni",
+        "felfedezni",
+        "feltalalni"
+      ],
+      "vocabulary_ids": [
+        "felkutatni",
+        "felfedezni",
+        "feltalalni"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a távírász este megkapta az utas üzenetét, majd továbbította a hivatalnak. A jegyzékében három szó állt: "
+        },
+        {
+          "text": "felkutatni",
+          "vocabulary_id": "felkutatni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "felfedezni",
+          "vocabulary_id": "felfedezni"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "feltalálni",
+          "vocabulary_id": "feltalalni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "journey-verbs-b-story-05-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1913 telegrafista večer přijal zprávu cestujícího a předal ji úřadu. V seznamu měl tři výrazy: vypátrat, objevit, vynalézt."
+    }
+  ]
+}

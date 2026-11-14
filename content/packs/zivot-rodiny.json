@@ -1,5 +1,5 @@
 {
-  "order": 10,
+  "order": 6,
   "lesson": {
     "id": "zivot-rodiny",
     "theme_id": "rodina",
@@ -67,7 +67,11 @@
         }
       ],
       "example_hu": "A nagymamám a városban lakik.",
-      "example_cs": "Moje babička bydlí ve městě."
+      "example_cs": "Moje babička bydlí ve městě.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     },
     {
       "id": "nagypapa",
@@ -91,7 +95,11 @@
         }
       ],
       "example_hu": "A nagypapám a kertben van.",
-      "example_cs": "Můj dědeček je na zahradě."
+      "example_cs": "Můj dědeček je na zahradě.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     },
     {
       "id": "unokatestver",
@@ -115,7 +123,11 @@
         }
       ],
       "example_hu": "Az unokatestvérem a városban lakik.",
-      "example_cs": "Můj bratranec bydlí ve městě."
+      "example_cs": "Můj bratranec bydlí ve městě.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     },
     {
       "id": "szulo",
@@ -139,7 +151,11 @@
         }
       ],
       "example_hu": "A szülőm a városban van.",
-      "example_cs": "Můj rodič je ve městě."
+      "example_cs": "Můj rodič je ve městě.",
+      "tags": [
+        "q1",
+        "society_titles"
+      ]
     }
   ],
   "grammar": [
@@ -172,6 +188,9 @@
       "notes_cs": [
         "Kontrastujte dvojici: Szeretek kávét = mám rád kávu obecně; Szeretem a kávét = mám rád tu kávu.",
         "V tomto příkladu se v podstatném jménu spojí přivlastnění a předmětová přípona."
+      ],
+      "tags": [
+        "q1"
       ]
     }
   ],
@@ -312,5 +331,6 @@
       "explanation_cs": "A nagypapám itt van. Přípona -m ve slově nagypapám znamená „můj“."
     }
   ],
-  "stories": []
+  "stories": [],
+  "quarter": "q1"
 }

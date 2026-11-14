@@ -1,5 +1,5 @@
 {
-  "order": 8,
+  "order": 23,
   "lesson": {
     "id": "doprava-a-cile",
     "theme_id": "cestovani",
@@ -12,7 +12,7 @@
     "duration_min": 8,
     "xp_required": 150,
     "prerequisite_lesson_ids": [
-      "cesta-mestem"
+      "budovy-ve-meste"
     ],
     "vocabulary_ids": [
       "szalloda",
@@ -70,7 +70,11 @@
         }
       ],
       "example_hu": "A szálloda a városban van.",
-      "example_cs": "Hotel je ve městě."
+      "example_cs": "Hotel je ve městě.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "etterem",
@@ -100,7 +104,11 @@
         }
       ],
       "example_hu": "A vendég az étterembe megy.",
-      "example_cs": "Host jde do restaurace."
+      "example_cs": "Host jde do restaurace.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "mozi",
@@ -130,7 +138,11 @@
         }
       ],
       "example_hu": "A mozi a városban van.",
-      "example_cs": "Kino je ve městě."
+      "example_cs": "Kino je ve městě.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     },
     {
       "id": "korhaz",
@@ -160,7 +172,11 @@
         }
       ],
       "example_hu": "A kórház a városban van.",
-      "example_cs": "Nemocnice je ve městě."
+      "example_cs": "Nemocnice je ve městě.",
+      "tags": [
+        "q2",
+        "city_infrastructure"
+      ]
     }
   ],
   "grammar": [
@@ -197,6 +213,11 @@
       "notes_cs": [
         "Pomůcka: hol? se ptá na místo, hová? na směr.",
         "Učte se obě koncovky s celým slovem, protože harmonie určuje jejich podobu."
+      ],
+      "tags": [
+        "q2",
+        "inessive_ban_ben",
+        "superessive_on_en_on"
       ]
     }
   ],
@@ -297,5 +318,6 @@
       "explanation_cs": "Koncovka -be vyjadřuje směr dovnitř: étterembe, do restaurace."
     }
   ],
-  "stories": []
+  "stories": [],
+  "quarter": "q2"
 }

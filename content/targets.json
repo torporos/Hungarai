@@ -1,0 +1,79 @@
+{
+  "stories_per_words": 10,
+  "quarters": [
+    {
+      "id": "q1",
+      "title": "The Recruit",
+      "vocabulary_target": 300,
+      "exercise_sentence_target": 100,
+      "categories": [
+        { "id": "military_basic", "target": 50 },
+        { "id": "food_basic", "target": 60 },
+        { "id": "society_titles", "target": 30 },
+        { "id": "numbers_time", "target": 60 },
+        { "id": "verb_basic", "target": 70 },
+        { "id": "adjective_basic", "target": 30 }
+      ],
+      "grammar_topics": [
+        "vowel_harmony",
+        "plural_formation",
+        "indefinite_present"
+      ]
+    },
+    {
+      "id": "q2",
+      "title": "The Golden Age of Pest",
+      "vocabulary_target": 350,
+      "exercise_sentence_target": 150,
+      "categories": [
+        { "id": "city_infrastructure", "target": 80 },
+        { "id": "commerce_money", "target": 50 },
+        { "id": "clothing_society", "target": 60 },
+        { "id": "directions_positions", "target": 50 },
+        { "id": "verb_active", "target": 110 }
+      ],
+      "grammar_topics": [
+        "accusative_t",
+        "inessive_ban_ben",
+        "superessive_on_en_on",
+        "adessive_nal_nel"
+      ]
+    },
+    {
+      "id": "q3",
+      "title": "Steam and Progress",
+      "vocabulary_target": 400,
+      "exercise_sentence_target": 200,
+      "categories": [
+        { "id": "tech_1914", "target": 70 },
+        { "id": "travel_transport", "target": 80 },
+        { "id": "geography_empire", "target": 60 },
+        { "id": "professions_industry", "target": 70 },
+        { "id": "verb_past_definite", "target": 120 }
+      ],
+      "grammar_topics": [
+        "past_tense",
+        "definite_indefinite_conjugation",
+        "possessive_1s_2s_3s"
+      ]
+    },
+    {
+      "id": "q4",
+      "title": "In the Shadow of the Empire",
+      "vocabulary_target": 450,
+      "exercise_sentence_target": 250,
+      "categories": [
+        { "id": "society_bureaucracy", "target": 100 },
+        { "id": "abstract_conflict", "target": 80 },
+        { "id": "emotions_thoughts", "target": 80 },
+        { "id": "culture_arts", "target": 60 },
+        { "id": "verb_complex", "target": 130 }
+      ],
+      "grammar_topics": [
+        "conditional_mood",
+        "imperative_mood",
+        "verbal_prefixes"
+      ]
+    }
+  ]
+}

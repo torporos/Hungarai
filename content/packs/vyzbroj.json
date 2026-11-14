@@ -1,7 +1,7 @@
 {
-  "order": 17,
+  "order": 10,
   "lesson": {
-    "id": "q1-vyzbroj",
+    "id": "vyzbroj",
     "theme_id": "q1-novacek-kasarny",
     "theme_title_cs": "Q1 · Nováček v kasárnách",
     "module_number": 4,
@@ -12,7 +12,7 @@
     "duration_min": 8,
     "xp_required": 900,
     "prerequisite_lesson_ids": [
-      "q1-kasarna"
+      "kasarna"
     ],
     "vocabulary_ids": [
       "puska",
@@ -74,7 +74,7 @@
           "form_hu": "puskát",
           "translation_cs": "pušku jako předmět",
           "grammar_id": "targy-t",
-          "lesson_id": "q1-vyzbroj"
+          "lesson_id": "vyzbroj"
         }
       ],
       "morphemes": [
@@ -103,7 +103,7 @@
           "form_hu": "kardot",
           "translation_cs": "šavli jako předmět",
           "grammar_id": "targy-t",
-          "lesson_id": "q1-vyzbroj"
+          "lesson_id": "vyzbroj"
         }
       ],
       "morphemes": [
@@ -132,7 +132,7 @@
           "form_hu": "ágyút",
           "translation_cs": "dělo jako předmět",
           "grammar_id": "targy-t",
-          "lesson_id": "q1-vyzbroj"
+          "lesson_id": "vyzbroj"
         }
       ],
       "morphemes": [
@@ -161,7 +161,7 @@
           "form_hu": "szuronyt",
           "translation_cs": "bajonet jako předmět",
           "grammar_id": "targy-t",
-          "lesson_id": "q1-vyzbroj"
+          "lesson_id": "vyzbroj"
         }
       ],
       "morphemes": [
@@ -190,7 +190,7 @@
           "form_hu": "töltényt",
           "translation_cs": "náboj jako předmět",
           "grammar_id": "targy-t",
-          "lesson_id": "q1-vyzbroj"
+          "lesson_id": "vyzbroj"
         }
       ],
       "morphemes": [
@@ -219,7 +219,7 @@
           "form_hu": "lőszert",
           "translation_cs": "munici jako předmět",
           "grammar_id": "targy-t",
-          "lesson_id": "q1-vyzbroj"
+          "lesson_id": "vyzbroj"
         }
       ],
       "morphemes": [
@@ -248,7 +248,7 @@
           "form_hu": "pisztolyt",
           "translation_cs": "pistoli jako předmět",
           "grammar_id": "targy-t",
-          "lesson_id": "q1-vyzbroj"
+          "lesson_id": "vyzbroj"
         }
       ],
       "morphemes": [
@@ -277,7 +277,7 @@
           "form_hu": "revolvert",
           "translation_cs": "revolver jako předmět",
           "grammar_id": "targy-t",
-          "lesson_id": "q1-vyzbroj"
+          "lesson_id": "vyzbroj"
         }
       ],
       "morphemes": [
@@ -306,7 +306,7 @@
           "form_hu": "tőrt",
           "translation_cs": "dýku jako předmět",
           "grammar_id": "targy-t",
-          "lesson_id": "q1-vyzbroj"
+          "lesson_id": "vyzbroj"
         }
       ],
       "morphemes": [
@@ -335,7 +335,7 @@
           "form_hu": "távcsövet",
           "translation_cs": "dalekohled jako předmět",
           "grammar_id": "targy-t",
-          "lesson_id": "q1-vyzbroj"
+          "lesson_id": "vyzbroj"
         }
       ],
       "morphemes": [
@@ -572,9 +572,9 @@
       "level": "Q1 · UHER PŘED ROKEM 1914",
       "reading_time_min": 2,
       "prerequisite_lesson_ids": [
-        "q1-vyzbroj"
+        "vyzbroj"
       ],
-      "curriculum_lesson_id": "q1-vyzbroj",
+      "curriculum_lesson_id": "vyzbroj",
       "new_vocabulary_ids": [
         "puska",
         "kard",
@@ -722,5 +722,6 @@
       ],
       "translation_cs": "V roce 1913 se v posádce provádí inventura. Puška je v bedně. Bajonet je vedle pušky. Náboj je v bedně. Munice je také v bedně. Šavle je ve skříni. Pistole je na stole. Revolver je ve skříni. Dýka je v bedně. Dalekohled je ve skříni. Dělo je na dvoře. Voják vidí inventář."
     }
-  ]
+  ],
+  "quarter": "q1"
 }

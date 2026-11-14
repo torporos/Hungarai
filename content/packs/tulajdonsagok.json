@@ -1,0 +1,1116 @@
+{
+  "order": 19,
+  "lesson": {
+    "id": "tulajdonsagok",
+    "theme_id": "q1-kazdodenni-zaklady",
+    "theme_title_cs": "Q1 · Každodenní základy",
+    "module_number": 2,
+    "module_title_cs": "Vlastnosti a protiklady",
+    "title_cs": "Vlastnosti a protiklady",
+    "description": "Vlastnosti a protiklady. Slovní zásoba a různorodé procvičení v historickém kontextu před rokem 1914.",
+    "level": "Q1 · ZÁKLADY",
+    "duration_min": 10,
+    "xp_required": 100,
+    "prerequisite_lesson_ids": [
+      "igek-b"
+    ],
+    "vocabulary_ids": [
+      "jo",
+      "rossz",
+      "nagy",
+      "kicsi",
+      "hosszu",
+      "rovid",
+      "uj",
+      "regi",
+      "szep",
+      "csunya",
+      "tiszta",
+      "piszkos",
+      "meleg",
+      "hideg",
+      "gyors",
+      "lassu",
+      "konnyu",
+      "nehez",
+      "draga",
+      "olcso",
+      "boldog",
+      "szomoru",
+      "faradt",
+      "beteg",
+      "egeszseges",
+      "ehes",
+      "szomjas",
+      "eros",
+      "gyenge",
+      "fiatal"
+    ],
+    "new_vocabulary_ids": [
+      "jo",
+      "rossz",
+      "nagy",
+      "kicsi",
+      "hosszu",
+      "rovid",
+      "uj",
+      "regi",
+      "szep",
+      "csunya",
+      "tiszta",
+      "piszkos",
+      "meleg",
+      "hideg",
+      "gyors",
+      "lassu",
+      "konnyu",
+      "nehez",
+      "draga",
+      "olcso",
+      "boldog",
+      "szomoru",
+      "faradt",
+      "beteg",
+      "egeszseges",
+      "ehes",
+      "szomjas",
+      "eros",
+      "gyenge",
+      "fiatal"
+    ],
+    "grammar_ids": [
+      "q1-mnozne-cislo"
+    ],
+    "grammar_label_cs": "Tvoření množného čísla",
+    "exercise_ids": [
+      "q1-tulajdonsagok-ex-01",
+      "q1-tulajdonsagok-ex-02",
+      "q1-tulajdonsagok-ex-03",
+      "q1-tulajdonsagok-ex-04",
+      "q1-tulajdonsagok-ex-05",
+      "q1-tulajdonsagok-ex-06",
+      "q1-tulajdonsagok-ex-07",
+      "q1-tulajdonsagok-ex-08",
+      "q1-tulajdonsagok-ex-09",
+      "q1-tulajdonsagok-ex-10"
+    ],
+    "story_ids": [
+      "q1-tulajdonsagok-story",
+      "q1-tulajdonsagok-story-02",
+      "q1-tulajdonsagok-story-03"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "jo",
+      "word": "jó",
+      "translation_cs": "dobrý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jó",
+          "translation_cs": "dobrý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó jó.",
+      "example_cs": "Slovo je dobré.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "rossz",
+      "word": "rossz",
+      "translation_cs": "špatný",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rossz",
+          "translation_cs": "špatný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó rossz.",
+      "example_cs": "Slovo je špatné.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "nagy",
+      "word": "nagy",
+      "translation_cs": "velký",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nagy",
+          "translation_cs": "velký",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó nagy.",
+      "example_cs": "Slovo je velké.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "kicsi",
+      "word": "kicsi",
+      "translation_cs": "malý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kicsi",
+          "translation_cs": "malý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó kicsi.",
+      "example_cs": "Slovo je malé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "hosszu",
+      "word": "hosszú",
+      "translation_cs": "dlouhý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hosszú",
+          "translation_cs": "dlouhý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó hosszú.",
+      "example_cs": "Slovo je dlouhé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "rovid",
+      "word": "rövid",
+      "translation_cs": "krátký",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rövid",
+          "translation_cs": "krátký",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó rövid.",
+      "example_cs": "Slovo je krátké.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "uj",
+      "word": "új",
+      "translation_cs": "nový",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "új",
+          "translation_cs": "nový",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó új.",
+      "example_cs": "Slovo je nové.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "regi",
+      "word": "régi",
+      "translation_cs": "starý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "régi",
+          "translation_cs": "starý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó régi.",
+      "example_cs": "Slovo je staré.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "szep",
+      "word": "szép",
+      "translation_cs": "pěkný",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szép",
+          "translation_cs": "pěkný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó szép.",
+      "example_cs": "Slovo je pěkné.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "csunya",
+      "word": "csúnya",
+      "translation_cs": "ošklivý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csúnya",
+          "translation_cs": "ošklivý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó csúnya.",
+      "example_cs": "Slovo je ošklivé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "tiszta",
+      "word": "tiszta",
+      "translation_cs": "čistý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tiszta",
+          "translation_cs": "čistý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó tiszta.",
+      "example_cs": "Slovo je čisté.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "piszkos",
+      "word": "piszkos",
+      "translation_cs": "špinavý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "piszkos",
+          "translation_cs": "špinavý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó piszkos.",
+      "example_cs": "Slovo je špinavé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "meleg",
+      "word": "meleg",
+      "translation_cs": "teplý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "meleg",
+          "translation_cs": "teplý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó meleg.",
+      "example_cs": "Slovo je teplé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "hideg",
+      "word": "hideg",
+      "translation_cs": "studený",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hideg",
+          "translation_cs": "studený",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó hideg.",
+      "example_cs": "Slovo je studené.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "gyors",
+      "word": "gyors",
+      "translation_cs": "rychlý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gyors",
+          "translation_cs": "rychlý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó gyors.",
+      "example_cs": "Slovo je rychlé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "lassu",
+      "word": "lassú",
+      "translation_cs": "pomalý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lassú",
+          "translation_cs": "pomalý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó lassú.",
+      "example_cs": "Slovo je pomalé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "konnyu",
+      "word": "könnyű",
+      "translation_cs": "lehký; snadný",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "könnyű",
+          "translation_cs": "lehký; snadný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó könnyű.",
+      "example_cs": "Slovo je snadné.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "nehez",
+      "word": "nehéz",
+      "translation_cs": "těžký; obtížný",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nehéz",
+          "translation_cs": "těžký; obtížný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó nehéz.",
+      "example_cs": "Slovo je obtížné.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "draga",
+      "word": "drága",
+      "translation_cs": "drahý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "drága",
+          "translation_cs": "drahý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó drága.",
+      "example_cs": "Slovo je drahé.",
+      "tags": [
+        "q1",
+        "adjective_basic",
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "olcso",
+      "word": "olcsó",
+      "translation_cs": "levný",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "olcsó",
+          "translation_cs": "levný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó olcsó.",
+      "example_cs": "Slovo je levné.",
+      "tags": [
+        "q1",
+        "adjective_basic",
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "boldog",
+      "word": "boldog",
+      "translation_cs": "šťastný",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "boldog",
+          "translation_cs": "šťastný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó boldog.",
+      "example_cs": "Slovo je šťastné.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "szomoru",
+      "word": "szomorú",
+      "translation_cs": "smutný",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szomorú",
+          "translation_cs": "smutný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó szomorú.",
+      "example_cs": "Slovo je smutné.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "faradt",
+      "word": "fáradt",
+      "translation_cs": "unavený",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fáradt",
+          "translation_cs": "unavený",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó fáradt.",
+      "example_cs": "Slovo je unavené.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "beteg",
+      "word": "beteg",
+      "translation_cs": "nemocný",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beteg",
+          "translation_cs": "nemocný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó beteg.",
+      "example_cs": "Slovo je nemocné.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "egeszseges",
+      "word": "egészséges",
+      "translation_cs": "zdravý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "egészséges",
+          "translation_cs": "zdravý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó egészséges.",
+      "example_cs": "Slovo je zdravé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "ehes",
+      "word": "éhes",
+      "translation_cs": "hladový",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "éhes",
+          "translation_cs": "hladový",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó éhes.",
+      "example_cs": "Slovo je hladové.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "szomjas",
+      "word": "szomjas",
+      "translation_cs": "žíznivý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szomjas",
+          "translation_cs": "žíznivý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó szomjas.",
+      "example_cs": "Slovo je žíznivé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "eros",
+      "word": "erős",
+      "translation_cs": "silný",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "erős",
+          "translation_cs": "silný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó erős.",
+      "example_cs": "Slovo je silné.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "gyenge",
+      "word": "gyenge",
+      "translation_cs": "slabý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gyenge",
+          "translation_cs": "slabý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó gyenge.",
+      "example_cs": "Slovo je slabé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    },
+    {
+      "id": "fiatal",
+      "word": "fiatal",
+      "translation_cs": "mladý",
+      "part_of_speech_cs": "přídavné jméno",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fiatal",
+          "translation_cs": "mladý",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szó fiatal.",
+      "example_cs": "Slovo je mladé.",
+      "tags": [
+        "q1",
+        "adjective_basic"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q1-tulajdonsagok-ex-01",
+      "type": "vocabulary",
+      "vocabulary_id": "jo",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „jó“?",
+      "options_cs": [
+        "dobrý",
+        "špatný",
+        "velký"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "jó znamená „dobrý“."
+    },
+    {
+      "id": "q1-tulajdonsagok-ex-02",
+      "type": "listening",
+      "vocabulary_id": "kicsi",
+      "type_label_cs": "Poslech",
+      "audio_text": "kicsi",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "malý",
+        "dobrý",
+        "špatný"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "kicsi znamená „malý“."
+    },
+    {
+      "id": "q1-tulajdonsagok-ex-03",
+      "type": "recall",
+      "vocabulary_id": "uj",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „nový“.",
+      "accepted_answers": [
+        "új"
+      ],
+      "sentence_hu": "A szó ______.",
+      "explanation_cs": "Slovo je nové."
+    },
+    {
+      "id": "q1-tulajdonsagok-ex-04",
+      "type": "cloze",
+      "vocabulary_id": "csunya",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "A szó ______.",
+      "options_cs": [
+        "csúnya",
+        "jó",
+        "rossz"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Slovo je ošklivé."
+    },
+    {
+      "id": "q1-tulajdonsagok-ex-05",
+      "type": "order",
+      "vocabulary_id": "meleg",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "meleg.",
+        "szó",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "szó",
+          "meleg."
+        ]
+      ],
+      "explanation_cs": "Slovo je teplé."
+    },
+    {
+      "id": "q1-tulajdonsagok-ex-06",
+      "type": "vocabulary",
+      "vocabulary_id": "lassu",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „lassú“?",
+      "options_cs": [
+        "pomalý",
+        "dobrý",
+        "špatný"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "lassú znamená „pomalý“."
+    },
+    {
+      "id": "q1-tulajdonsagok-ex-07",
+      "type": "listening",
+      "vocabulary_id": "draga",
+      "type_label_cs": "Poslech",
+      "audio_text": "drága",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "drahý",
+        "dobrý",
+        "špatný"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "drága znamená „drahý“."
+    },
+    {
+      "id": "q1-tulajdonsagok-ex-08",
+      "type": "recall",
+      "vocabulary_id": "szomoru",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „smutný“.",
+      "accepted_answers": [
+        "szomorú"
+      ],
+      "sentence_hu": "A szó ______.",
+      "explanation_cs": "Slovo je smutné."
+    },
+    {
+      "id": "q1-tulajdonsagok-ex-09",
+      "type": "cloze",
+      "vocabulary_id": "egeszseges",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "A szó ______.",
+      "options_cs": [
+        "egészséges",
+        "jó",
+        "rossz"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Slovo je zdravé."
+    },
+    {
+      "id": "q1-tulajdonsagok-ex-10",
+      "type": "order",
+      "vocabulary_id": "eros",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "erős.",
+        "szó",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "szó",
+          "erős."
+        ]
+      ],
+      "explanation_cs": "Slovo je silné."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-tulajdonsagok-story",
+      "title_cs": "Dům a zahrada",
+      "title_hu": "A ház és a kert",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "tulajdonsagok"
+      ],
+      "curriculum_lesson_id": "tulajdonsagok",
+      "new_vocabulary_ids": [
+        "nagy",
+        "regi",
+        "tiszta"
+      ],
+      "vocabulary_ids": [
+        "nagy",
+        "regi",
+        "tiszta"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a "
+        },
+        {
+          "text": "nagy",
+          "vocabulary_id": "nagy"
+        },
+        {
+          "text": " ház "
+        },
+        {
+          "text": "régi",
+          "vocabulary_id": "regi"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "tiszta",
+          "vocabulary_id": "tiszta"
+        },
+        {
+          "text": " szoba meleg. A kis kert szép."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-tulajdonsagok-story-question",
+          "prompt_cs": "Jaký je pokoj?",
+          "options_cs": [
+            "Čistý a teplý.",
+            "Nový a špinavý.",
+            "Malý a studený."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Pokoj je čistý a teplý: A tiszta szoba meleg."
+        }
+      ],
+      "translation_cs": "V roce 1913 je velký dům starý. Čistý pokoj je teplý. Malá zahrada je pěkná."
+    },
+    {
+      "id": "q1-tulajdonsagok-story-02",
+      "title_cs": "Zahrada a dům",
+      "title_hu": "Kert és ház",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "tulajdonsagok"
+      ],
+      "curriculum_lesson_id": "tulajdonsagok",
+      "new_vocabulary_ids": [
+        "nagy",
+        "szep",
+        "regi",
+        "tiszta"
+      ],
+      "vocabulary_ids": [
+        "nagy",
+        "szep",
+        "regi",
+        "tiszta"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "nagy",
+          "vocabulary_id": "nagy"
+        },
+        {
+          "text": " kert "
+        },
+        {
+          "text": "szép",
+          "vocabulary_id": "szep"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "régi",
+          "vocabulary_id": "regi"
+        },
+        {
+          "text": " ház még áll. A "
+        },
+        {
+          "text": "tiszta",
+          "vocabulary_id": "tiszta"
+        },
+        {
+          "text": " szoba világos."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-tulajdonsagok-story-02-question",
+          "prompt_cs": "Jaká je zahrada?",
+          "options_cs": [
+            "Velká a pěkná.",
+            "Malá a špinavá.",
+            "Studená a smutná."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Zahrada je nagy és szép."
+        }
+      ],
+      "translation_cs": "Velká zahrada je pěkná. Starý dům stále stojí. Čistý pokoj je světlý."
+    },
+    {
+      "id": "q1-tulajdonsagok-story-03",
+      "title_cs": "Čaj a pokoj",
+      "title_hu": "Tea és szoba",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "tulajdonsagok"
+      ],
+      "curriculum_lesson_id": "tulajdonsagok",
+      "new_vocabulary_ids": [
+        "meleg",
+        "jo",
+        "hideg",
+        "rossz",
+        "nagy",
+        "uj"
+      ],
+      "vocabulary_ids": [
+        "meleg",
+        "jo",
+        "hideg",
+        "rossz",
+        "nagy",
+        "uj"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "meleg",
+          "vocabulary_id": "meleg"
+        },
+        {
+          "text": " tea "
+        },
+        {
+          "text": "jó",
+          "vocabulary_id": "jo"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "hideg",
+          "vocabulary_id": "hideg"
+        },
+        {
+          "text": " leves "
+        },
+        {
+          "text": "rossz",
+          "vocabulary_id": "rossz"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "nagy",
+          "vocabulary_id": "nagy"
+        },
+        {
+          "text": " asztal "
+        },
+        {
+          "text": "új",
+          "vocabulary_id": "uj"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-tulajdonsagok-story-03-question",
+          "prompt_cs": "Jaký je čaj?",
+          "options_cs": [
+            "Teplý a dobrý.",
+            "Studený a špatný.",
+            "Starý a špinavý."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Čaj je meleg és jó."
+        }
+      ],
+      "translation_cs": "Teplý čaj je dobrý. Studená polévka je špatná. Velký stůl je nový."
+    }
+  ],
+  "quarter": "q1"
+}

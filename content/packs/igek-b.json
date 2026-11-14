@@ -1,0 +1,1063 @@
+{
+  "order": 18,
+  "lesson": {
+    "id": "igek-b",
+    "theme_id": "q1-kazdodenni-zaklady",
+    "theme_title_cs": "Q1 · Každodenní základy",
+    "module_number": 2,
+    "module_title_cs": "Každodenní činnosti II",
+    "title_cs": "Každodenní činnosti II",
+    "description": "Každodenní činnosti II. Slovní zásoba a různorodé procvičení v historickém kontextu před rokem 1914.",
+    "level": "Q1 · ZÁKLADY",
+    "duration_min": 10,
+    "xp_required": 100,
+    "prerequisite_lesson_ids": [
+      "igek-a"
+    ],
+    "vocabulary_ids": [
+      "keresni",
+      "talalni",
+      "tudni",
+      "erteni",
+      "gondolni",
+      "hinni",
+      "szeretni",
+      "akarni",
+      "kelleni",
+      "segiteni",
+      "varni",
+      "elni",
+      "lakni",
+      "maradni",
+      "felkelni",
+      "lefekudni",
+      "oltozni",
+      "fizetni",
+      "hivni",
+      "mutatni",
+      "kerni",
+      "utazni",
+      "jatszani",
+      "enekelni",
+      "tancolni",
+      "sietni",
+      "erkezni",
+      "indulni",
+      "mosolyogni",
+      "sirni"
+    ],
+    "new_vocabulary_ids": [
+      "keresni",
+      "talalni",
+      "tudni",
+      "erteni",
+      "gondolni",
+      "hinni",
+      "szeretni",
+      "akarni",
+      "kelleni",
+      "segiteni",
+      "varni",
+      "elni",
+      "lakni",
+      "maradni",
+      "felkelni",
+      "lefekudni",
+      "oltozni",
+      "fizetni",
+      "hivni",
+      "mutatni",
+      "kerni",
+      "utazni",
+      "jatszani",
+      "enekelni",
+      "tancolni",
+      "sietni",
+      "erkezni",
+      "indulni",
+      "mosolyogni",
+      "sirni"
+    ],
+    "grammar_ids": [
+      "q1-neurcite-casovani"
+    ],
+    "grammar_label_cs": "Přítomný čas · neurčité časování",
+    "exercise_ids": [
+      "q1-igek-b-ex-01",
+      "q1-igek-b-ex-02",
+      "q1-igek-b-ex-03",
+      "q1-igek-b-ex-04",
+      "q1-igek-b-ex-05",
+      "q1-igek-b-ex-06",
+      "q1-igek-b-ex-07",
+      "q1-igek-b-ex-08",
+      "q1-igek-b-ex-09",
+      "q1-igek-b-ex-10"
+    ],
+    "story_ids": [
+      "q1-igek-b-story",
+      "q1-igek-b-story-02",
+      "q1-igek-b-story-03"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "keresni",
+      "word": "keresni",
+      "translation_cs": "hledat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "keresni",
+          "translation_cs": "hledat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Keresni jó.",
+      "example_cs": "Je dobré hledat.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "talalni",
+      "word": "találni",
+      "translation_cs": "najít",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "találni",
+          "translation_cs": "najít",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Találni jó.",
+      "example_cs": "Je dobré najít.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "tudni",
+      "word": "tudni",
+      "translation_cs": "vědět; umět",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tudni",
+          "translation_cs": "vědět; umět",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Tudni jó.",
+      "example_cs": "Je dobré vědět.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "erteni",
+      "word": "érteni",
+      "translation_cs": "rozumět",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "érteni",
+          "translation_cs": "rozumět",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Érteni jó.",
+      "example_cs": "Je dobré rozumět.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "gondolni",
+      "word": "gondolni",
+      "translation_cs": "myslet",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gondolni",
+          "translation_cs": "myslet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Gondolni jó.",
+      "example_cs": "Je dobré myslet.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "hinni",
+      "word": "hinni",
+      "translation_cs": "věřit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hinni",
+          "translation_cs": "věřit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Hinni jó.",
+      "example_cs": "Je dobré věřit.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "szeretni",
+      "word": "szeretni",
+      "translation_cs": "mít rád",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szeretni",
+          "translation_cs": "mít rád",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Szeretni jó.",
+      "example_cs": "Je dobré mít rád.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "akarni",
+      "word": "akarni",
+      "translation_cs": "chtít",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "akarni",
+          "translation_cs": "chtít",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Akarni jó.",
+      "example_cs": "Je dobré chtít.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "kelleni",
+      "word": "kelleni",
+      "translation_cs": "být třeba",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kelleni",
+          "translation_cs": "být třeba",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Kelleni jó.",
+      "example_cs": "Je dobré být třeba.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "segiteni",
+      "word": "segíteni",
+      "translation_cs": "pomáhat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "segíteni",
+          "translation_cs": "pomáhat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Segíteni jó.",
+      "example_cs": "Je dobré pomáhat.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "varni",
+      "word": "várni",
+      "translation_cs": "čekat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "várni",
+          "translation_cs": "čekat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Várni jó.",
+      "example_cs": "Je dobré čekat.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "elni",
+      "word": "élni",
+      "translation_cs": "žít",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "élni",
+          "translation_cs": "žít",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Élni jó.",
+      "example_cs": "Je dobré žít.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "lakni",
+      "word": "lakni",
+      "translation_cs": "bydlet",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lakni",
+          "translation_cs": "bydlet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Lakni jó.",
+      "example_cs": "Je dobré bydlet.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "maradni",
+      "word": "maradni",
+      "translation_cs": "zůstat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "maradni",
+          "translation_cs": "zůstat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Maradni jó.",
+      "example_cs": "Je dobré zůstat.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "felkelni",
+      "word": "felkelni",
+      "translation_cs": "vstát",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "felkelni",
+          "translation_cs": "vstát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Felkelni jó.",
+      "example_cs": "Je dobré vstát.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "lefekudni",
+      "word": "lefeküdni",
+      "translation_cs": "jít spát",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lefeküdni",
+          "translation_cs": "jít spát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Lefeküdni jó.",
+      "example_cs": "Je dobré jít spát.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "oltozni",
+      "word": "öltözni",
+      "translation_cs": "oblékat se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "öltözni",
+          "translation_cs": "oblékat se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Öltözni jó.",
+      "example_cs": "Je dobré oblékat se.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "fizetni",
+      "word": "fizetni",
+      "translation_cs": "platit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fizetni",
+          "translation_cs": "platit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Fizetni jó.",
+      "example_cs": "Je dobré platit.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "hivni",
+      "word": "hívni",
+      "translation_cs": "volat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hívni",
+          "translation_cs": "volat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Hívni jó.",
+      "example_cs": "Je dobré volat.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "mutatni",
+      "word": "mutatni",
+      "translation_cs": "ukázat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mutatni",
+          "translation_cs": "ukázat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Mutatni jó.",
+      "example_cs": "Je dobré ukázat.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "kerni",
+      "word": "kérni",
+      "translation_cs": "prosit; požádat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kérni",
+          "translation_cs": "prosit; požádat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Kérni jó.",
+      "example_cs": "Je dobré prosit.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "utazni",
+      "word": "utazni",
+      "translation_cs": "cestovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "utazni",
+          "translation_cs": "cestovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Utazni jó.",
+      "example_cs": "Je dobré cestovat.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "jatszani",
+      "word": "játszani",
+      "translation_cs": "hrát",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "játszani",
+          "translation_cs": "hrát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Játszani jó.",
+      "example_cs": "Je dobré hrát.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "enekelni",
+      "word": "énekelni",
+      "translation_cs": "zpívat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "énekelni",
+          "translation_cs": "zpívat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Énekelni jó.",
+      "example_cs": "Je dobré zpívat.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "tancolni",
+      "word": "táncolni",
+      "translation_cs": "tančit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "táncolni",
+          "translation_cs": "tančit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Táncolni jó.",
+      "example_cs": "Je dobré tančit.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "sietni",
+      "word": "sietni",
+      "translation_cs": "spěchat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sietni",
+          "translation_cs": "spěchat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Sietni jó.",
+      "example_cs": "Je dobré spěchat.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "erkezni",
+      "word": "érkezni",
+      "translation_cs": "přijít; dorazit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "érkezni",
+          "translation_cs": "přijít; dorazit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Érkezni jó.",
+      "example_cs": "Je dobré přijít.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "indulni",
+      "word": "indulni",
+      "translation_cs": "vyrazit; odjet",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "indulni",
+          "translation_cs": "vyrazit; odjet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Indulni jó.",
+      "example_cs": "Je dobré vyrazit.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "mosolyogni",
+      "word": "mosolyogni",
+      "translation_cs": "usmívat se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mosolyogni",
+          "translation_cs": "usmívat se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Mosolyogni jó.",
+      "example_cs": "Je dobré usmívat se.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    },
+    {
+      "id": "sirni",
+      "word": "sírni",
+      "translation_cs": "plakat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sírni",
+          "translation_cs": "plakat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Sírni jó.",
+      "example_cs": "Je dobré plakat.",
+      "tags": [
+        "q1",
+        "verb_basic"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q1-igek-b-ex-01",
+      "type": "vocabulary",
+      "vocabulary_id": "keresni",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „keresni“?",
+      "options_cs": [
+        "hledat",
+        "najít",
+        "vědět; umět"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "keresni znamená „hledat“."
+    },
+    {
+      "id": "q1-igek-b-ex-02",
+      "type": "listening",
+      "vocabulary_id": "erteni",
+      "type_label_cs": "Poslech",
+      "audio_text": "érteni",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "rozumět",
+        "hledat",
+        "najít"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "érteni znamená „rozumět“."
+    },
+    {
+      "id": "q1-igek-b-ex-03",
+      "type": "recall",
+      "vocabulary_id": "szeretni",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „mít rád“.",
+      "accepted_answers": [
+        "szeretni"
+      ],
+      "sentence_hu": "______ jó.",
+      "explanation_cs": "Je dobré mít rád."
+    },
+    {
+      "id": "q1-igek-b-ex-04",
+      "type": "cloze",
+      "vocabulary_id": "segiteni",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "______ jó.",
+      "options_cs": [
+        "segíteni",
+        "keresni",
+        "találni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Je dobré pomáhat."
+    },
+    {
+      "id": "q1-igek-b-ex-05",
+      "type": "order",
+      "vocabulary_id": "lakni",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "jó.",
+        "Lakni"
+      ],
+      "accepted_orders": [
+        [
+          "Lakni",
+          "jó."
+        ]
+      ],
+      "explanation_cs": "Je dobré bydlet."
+    },
+    {
+      "id": "q1-igek-b-ex-06",
+      "type": "vocabulary",
+      "vocabulary_id": "lefekudni",
+      "type_label_cs": "Význam slova",
+      "prompt_cs": "Co znamená „lefeküdni“?",
+      "options_cs": [
+        "jít spát",
+        "hledat",
+        "najít"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "lefeküdni znamená „jít spát“."
+    },
+    {
+      "id": "q1-igek-b-ex-07",
+      "type": "listening",
+      "vocabulary_id": "hivni",
+      "type_label_cs": "Poslech",
+      "audio_text": "hívni",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "volat",
+        "hledat",
+        "najít"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "hívni znamená „volat“."
+    },
+    {
+      "id": "q1-igek-b-ex-08",
+      "type": "recall",
+      "vocabulary_id": "utazni",
+      "type_label_cs": "Aktivní vybavení",
+      "prompt_cs": "Napište maďarsky „cestovat“.",
+      "accepted_answers": [
+        "utazni"
+      ],
+      "sentence_hu": "______ jó.",
+      "explanation_cs": "Je dobré cestovat."
+    },
+    {
+      "id": "q1-igek-b-ex-09",
+      "type": "cloze",
+      "vocabulary_id": "tancolni",
+      "type_label_cs": "Doplňovačka",
+      "prompt_cs": "Doplňte chybějící slovo.",
+      "sentence_hu": "______ jó.",
+      "options_cs": [
+        "táncolni",
+        "keresni",
+        "találni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Je dobré tančit."
+    },
+    {
+      "id": "q1-igek-b-ex-10",
+      "type": "order",
+      "vocabulary_id": "indulni",
+      "type_label_cs": "Tvorba věty",
+      "prompt_cs": "Sestavte větu z nabízených slov.",
+      "words_hu": [
+        "jó.",
+        "Indulni"
+      ],
+      "accepted_orders": [
+        [
+          "Indulni",
+          "jó."
+        ]
+      ],
+      "explanation_cs": "Je dobré vyrazit."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-igek-b-story",
+      "title_cs": "Kniha a hudba",
+      "title_hu": "Könyv és zene",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "igek-b"
+      ],
+      "curriculum_lesson_id": "igek-b",
+      "new_vocabulary_ids": [
+        "enekelni",
+        "tancolni"
+      ],
+      "vocabulary_ids": [
+        "enekelni",
+        "tancolni"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban Anna olvasni szeret. A fiú "
+        },
+        {
+          "text": "énekelni",
+          "vocabulary_id": "enekelni"
+        },
+        {
+          "text": " és "
+        },
+        {
+          "text": "táncolni",
+          "vocabulary_id": "tancolni"
+        },
+        {
+          "text": " szeret. Este a család együtt van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-igek-b-story-question",
+          "prompt_cs": "Co Anna ráda dělá?",
+          "options_cs": [
+            "Čte.",
+            "Vaří.",
+            "Běží."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Anna ráda čte: Anna olvasni szeret."
+        }
+      ],
+      "translation_cs": "V roce 1913 Anna ráda čte. Chlapec rád zpívá a tančí. Večer je rodina spolu."
+    },
+    {
+      "id": "q1-igek-b-story-02",
+      "title_cs": "Hudba a hra",
+      "title_hu": "Zene és játék",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "igek-b"
+      ],
+      "curriculum_lesson_id": "igek-b",
+      "new_vocabulary_ids": [
+        "jatszani",
+        "enekelni",
+        "tancolni",
+        "mosolyogni"
+      ],
+      "vocabulary_ids": [
+        "jatszani",
+        "enekelni",
+        "tancolni",
+        "mosolyogni"
+      ],
+      "segments": [
+        {
+          "text": "A család "
+        },
+        {
+          "text": "játszani",
+          "vocabulary_id": "jatszani"
+        },
+        {
+          "text": " szeret. Anna "
+        },
+        {
+          "text": "énekelni",
+          "vocabulary_id": "enekelni"
+        },
+        {
+          "text": " és "
+        },
+        {
+          "text": "táncolni",
+          "vocabulary_id": "tancolni"
+        },
+        {
+          "text": " tud. A fiú "
+        },
+        {
+          "text": "mosolyogni",
+          "vocabulary_id": "mosolyogni"
+        },
+        {
+          "text": " akar."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-igek-b-story-02-question",
+          "prompt_cs": "Co umí Anna?",
+          "options_cs": [
+            "Zpívat a tančit.",
+            "Vařit a péct.",
+            "Psát a číst."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Anna umí énekelni és táncolni."
+        }
+      ],
+      "translation_cs": "Rodina si ráda hraje. Anna umí zpívat a tančit. Chlapec se chce usmívat."
+    },
+    {
+      "id": "q1-igek-b-story-03",
+      "title_cs": "Běžný den",
+      "title_hu": "Egy hétköznap",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "igek-b"
+      ],
+      "curriculum_lesson_id": "igek-b",
+      "new_vocabulary_ids": [
+        "utazni",
+        "mosolyogni"
+      ],
+      "vocabulary_ids": [
+        "utazni",
+        "mosolyogni"
+      ],
+      "segments": [
+        {
+          "text": "János "
+        },
+        {
+          "text": "utazni",
+          "vocabulary_id": "utazni"
+        },
+        {
+          "text": " szeret. Anna válaszolni tud. Este a család együtt "
+        },
+        {
+          "text": "mosolyogni",
+          "vocabulary_id": "mosolyogni"
+        },
+        {
+          "text": " szeret."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-igek-b-story-03-question",
+          "prompt_cs": "Co János rád dělá?",
+          "options_cs": [
+            "Cestuje.",
+            "Spí.",
+            "Vaří."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "János rád utazni szeret."
+        }
+      ],
+      "translation_cs": "János rád cestuje. Anna umí odpovídat. Večer se rodina ráda společně usmívá."
+    }
+  ],
+  "quarter": "q1"
+}

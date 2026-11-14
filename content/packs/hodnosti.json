@@ -1,7 +1,7 @@
 {
-  "order": 14,
+  "order": 7,
   "lesson": {
-    "id": "q1-hodnosti",
+    "id": "hodnosti",
     "theme_id": "q1-novacek-kasarny",
     "theme_title_cs": "Q1 · Nováček v kasárnách",
     "module_number": 1,
@@ -12,7 +12,7 @@
     "duration_min": 8,
     "xp_required": 600,
     "prerequisite_lesson_ids": [
-      "kozlekedes-1913"
+      "zivot-rodiny"
     ],
     "vocabulary_ids": [
       "honved",
@@ -314,6 +314,10 @@
       "notes_cs": [
         "Neurčité časování se používá také tehdy, když sloveso nemá předmět: A honvéd pihen. = Voják odpočívá.",
         "Rozdíl mezi neurčitým a určitým časováním se bude rozvíjet v pozdějším čtvrtletí."
+      ],
+      "tags": [
+        "q1",
+        "indefinite_present"
       ]
     }
   ],
@@ -526,9 +530,9 @@
       "level": "Q1 · UHER PŘED ROKEM 1914",
       "reading_time_min": 2,
       "prerequisite_lesson_ids": [
-        "q1-hodnosti"
+        "hodnosti"
       ],
-      "curriculum_lesson_id": "q1-hodnosti",
+      "curriculum_lesson_id": "hodnosti",
       "new_vocabulary_ids": [
         "honved",
         "orrmester",
@@ -687,5 +691,6 @@
       ],
       "translation_cs": "V roce 1913 je János v kasárnách. János je honvéd. Vojín žádá o vodu. Seržant mu vodu dává. Poručík je v pokoji. Kapitán je v kasárnách. Desátník žádá o chléb. Četař je v kasárnách. Plukovník je ve městě. Generál je v Budapešti. Praporčík žádá o vodu. János je v kasárnách."
     }
-  ]
+  ],
+  "quarter": "q1"
 }

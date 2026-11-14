@@ -1,5 +1,5 @@
 {
-  "order": 7,
+  "order": 4,
   "lesson": {
     "id": "nakup-dalsi-chute",
     "theme_id": "jidlo",
@@ -65,7 +65,11 @@
         }
       ],
       "example_hu": "Kérek sajtot.",
-      "example_cs": "Prosím si sýr."
+      "example_cs": "Prosím si sýr.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
     },
     {
       "id": "tea",
@@ -89,7 +93,11 @@
         }
       ],
       "example_hu": "Kérek egy teát.",
-      "example_cs": "Prosím si čaj."
+      "example_cs": "Prosím si čaj.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
     },
     {
       "id": "tojas",
@@ -113,7 +121,11 @@
         }
       ],
       "example_hu": "Kérek egy tojást.",
-      "example_cs": "Prosím si jedno vejce."
+      "example_cs": "Prosím si jedno vejce.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
     },
     {
       "id": "leves",
@@ -137,7 +149,11 @@
         }
       ],
       "example_hu": "Kérek egy levest.",
-      "example_cs": "Prosím si polévku."
+      "example_cs": "Prosím si polévku.",
+      "tags": [
+        "q1",
+        "food_basic"
+      ]
     }
   ],
   "grammar": [],
@@ -252,5 +268,6 @@
       "explanation_cs": "Kérek egy levest és egy tojást. Obě jídla jsou předmětem žádosti."
     }
   ],
-  "stories": []
+  "stories": [],
+  "quarter": "q1"
 }

@@ -1,0 +1,2724 @@
+{
+  "order": 31,
+  "quarter": "q2",
+  "lesson": {
+    "id": "varosi-igek-b",
+    "theme_id": "q2-golden-age-pest",
+    "theme_title_cs": "Q2 · Zlatý věk Pešti",
+    "module_number": 2,
+    "module_title_cs": "Každodenní městské činnosti",
+    "title_cs": "Obchod, práce a volný čas",
+    "description": "Aktivní slovesa v Pešti roku 1913: pošta, doprava, obchod, služby a společenský život.",
+    "level": "Q2 · MĚSTO A INSTITUCE",
+    "duration_min": 18,
+    "xp_required": 1000,
+    "prerequisite_lesson_ids": [
+      "varosi-igek-a"
+    ],
+    "vocabulary_ids": [
+      "javitani",
+      "tisztitani",
+      "soporni",
+      "szolgalni",
+      "gyogyitani",
+      "apolni",
+      "kezelni",
+      "vizsgalni",
+      "varrni",
+      "vasalni",
+      "alkalmazni",
+      "elfogadni",
+      "visszautasitani",
+      "szamlazni",
+      "megrendelni",
+      "kiszallitani",
+      "bepakolni",
+      "becsomagolni",
+      "kicsomagolni",
+      "cserelni",
+      "arusitani",
+      "felkeresni",
+      "megtekinteni",
+      "kiprobalni",
+      "megorizni",
+      "elvesziteni",
+      "megtalalni",
+      "keresgelni",
+      "lefoglalni",
+      "foglalni",
+      "sorakozni",
+      "beallni",
+      "megnyitni",
+      "felolvasni",
+      "leforditani",
+      "pihenni",
+      "mulatni",
+      "zenelni",
+      "unnepelni",
+      "latogatni",
+      "fogadni",
+      "megvendegelni",
+      "elhivni",
+      "iranyitani",
+      "kalauzolni",
+      "utanakeresni",
+      "elintezni",
+      "elvegezni",
+      "ervenyesiteni",
+      "bejelenteni",
+      "megfizetni",
+      "befizetni",
+      "visszafizetni"
+    ],
+    "new_vocabulary_ids": [
+      "javitani",
+      "tisztitani",
+      "soporni",
+      "szolgalni",
+      "gyogyitani",
+      "apolni",
+      "kezelni",
+      "vizsgalni",
+      "varrni",
+      "vasalni",
+      "alkalmazni",
+      "elfogadni",
+      "visszautasitani",
+      "szamlazni",
+      "megrendelni",
+      "kiszallitani",
+      "bepakolni",
+      "becsomagolni",
+      "kicsomagolni",
+      "cserelni",
+      "arusitani",
+      "felkeresni",
+      "megtekinteni",
+      "kiprobalni",
+      "megorizni",
+      "elvesziteni",
+      "megtalalni",
+      "keresgelni",
+      "lefoglalni",
+      "foglalni",
+      "sorakozni",
+      "beallni",
+      "megnyitni",
+      "felolvasni",
+      "leforditani",
+      "pihenni",
+      "mulatni",
+      "zenelni",
+      "unnepelni",
+      "latogatni",
+      "fogadni",
+      "megvendegelni",
+      "elhivni",
+      "iranyitani",
+      "kalauzolni",
+      "utanakeresni",
+      "elintezni",
+      "elvegezni",
+      "ervenyesiteni",
+      "bejelenteni",
+      "megfizetni",
+      "befizetni",
+      "visszafizetni"
+    ],
+    "grammar_ids": [
+      "targy-t",
+      "umisteni-v",
+      "poloha-na-povrchu",
+      "poloha-u-mista"
+    ],
+    "grammar_label_cs": "Předmět -t · poloha v, na a u místa",
+    "exercise_ids": [
+      "varosi-igek-b-verb-01",
+      "varosi-igek-b-verb-02",
+      "varosi-igek-b-verb-03",
+      "varosi-igek-b-verb-04",
+      "varosi-igek-b-verb-05",
+      "varosi-igek-b-verb-06",
+      "varosi-igek-b-verb-07",
+      "varosi-igek-b-verb-08",
+      "varosi-igek-b-verb-09",
+      "varosi-igek-b-verb-10",
+      "varosi-igek-b-verb-11",
+      "varosi-igek-b-verb-12",
+      "varosi-igek-b-verb-13",
+      "varosi-igek-b-verb-14",
+      "varosi-igek-b-verb-15",
+      "varosi-igek-b-verb-16",
+      "varosi-igek-b-verb-17",
+      "varosi-igek-b-verb-18",
+      "varosi-igek-b-verb-19",
+      "varosi-igek-b-verb-20",
+      "varosi-igek-b-verb-21",
+      "varosi-igek-b-verb-22",
+      "varosi-igek-b-verb-23",
+      "varosi-igek-b-verb-24",
+      "varosi-igek-b-verb-25",
+      "varosi-igek-b-verb-26",
+      "varosi-igek-b-verb-27",
+      "varosi-igek-b-verb-28",
+      "varosi-igek-b-verb-29",
+      "varosi-igek-b-verb-30",
+      "varosi-igek-b-verb-31",
+      "varosi-igek-b-verb-32",
+      "varosi-igek-b-verb-33",
+      "varosi-igek-b-verb-34",
+      "varosi-igek-b-verb-35",
+      "varosi-igek-b-verb-36",
+      "varosi-igek-b-verb-37",
+      "varosi-igek-b-verb-38",
+      "varosi-igek-b-verb-39",
+      "varosi-igek-b-verb-40",
+      "varosi-igek-b-verb-41",
+      "varosi-igek-b-verb-42",
+      "varosi-igek-b-verb-43",
+      "varosi-igek-b-verb-44",
+      "varosi-igek-b-verb-45",
+      "varosi-igek-b-verb-46",
+      "varosi-igek-b-verb-47",
+      "varosi-igek-b-verb-48",
+      "varosi-igek-b-verb-49",
+      "varosi-igek-b-verb-50",
+      "varosi-igek-b-verb-51",
+      "varosi-igek-b-verb-52",
+      "varosi-igek-b-verb-53",
+      "varosi-igek-b-case-01",
+      "varosi-igek-b-case-02",
+      "varosi-igek-b-case-03"
+    ],
+    "story_ids": [
+      "varosi-igek-b-story-01",
+      "varosi-igek-b-story-02",
+      "varosi-igek-b-story-03",
+      "varosi-igek-b-story-04",
+      "varosi-igek-b-story-05"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "javitani",
+      "word": "javítani",
+      "translation_cs": "opravovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "javítani",
+          "translation_cs": "opravovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos javítani.",
+      "example_cs": "V městském životě je důležité opravovat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "tisztitani",
+      "word": "tisztítani",
+      "translation_cs": "čistit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tisztítani",
+          "translation_cs": "čistit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban hasznos tisztítani.",
+      "example_cs": "Ve městě je užitečné čistit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "soporni",
+      "word": "söpörni",
+      "translation_cs": "zametat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "söpörni",
+          "translation_cs": "zametat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben gyakran lehet söpörni.",
+      "example_cs": "V městském životě lze zametat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "szolgalni",
+      "word": "szolgálni",
+      "translation_cs": "sloužit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szolgálni",
+          "translation_cs": "sloužit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban néha szükséges szolgálni.",
+      "example_cs": "Ve městě je někdy třeba sloužit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "gyogyitani",
+      "word": "gyógyítani",
+      "translation_cs": "léčit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gyógyítani",
+          "translation_cs": "léčit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban lehetséges gyógyítani.",
+      "example_cs": "Ve městě je možné léčit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "apolni",
+      "word": "ápolni",
+      "translation_cs": "ošetřovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ápolni",
+          "translation_cs": "ošetřovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos tudni ápolni.",
+      "example_cs": "V městském životě je důležité umět ošetřovat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "kezelni",
+      "word": "kezelni",
+      "translation_cs": "obsluhovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kezelni",
+          "translation_cs": "obsluhovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos kezelni.",
+      "example_cs": "V městském životě je důležité obsluhovat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "vizsgalni",
+      "word": "vizsgálni",
+      "translation_cs": "vyšetřovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vizsgálni",
+          "translation_cs": "vyšetřovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban hasznos vizsgálni.",
+      "example_cs": "Ve městě je užitečné vyšetřovat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "varrni",
+      "word": "varrni",
+      "translation_cs": "šít",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "varrni",
+          "translation_cs": "šít",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben gyakran lehet varrni.",
+      "example_cs": "V městském životě lze šít.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "vasalni",
+      "word": "vasalni",
+      "translation_cs": "žehlit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasalni",
+          "translation_cs": "žehlit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban néha szükséges vasalni.",
+      "example_cs": "Ve městě je někdy třeba žehlit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "alkalmazni",
+      "word": "alkalmazni",
+      "translation_cs": "zaměstnávat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "alkalmazni",
+          "translation_cs": "zaměstnávat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban lehetséges alkalmazni.",
+      "example_cs": "Ve městě je možné zaměstnávat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "elfogadni",
+      "word": "elfogadni",
+      "translation_cs": "přijmout",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elfogadni",
+          "translation_cs": "přijmout",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos tudni elfogadni.",
+      "example_cs": "V městském životě je důležité umět přijmout.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "visszautasitani",
+      "word": "visszautasítani",
+      "translation_cs": "odmítnout",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "visszautasítani",
+          "translation_cs": "odmítnout",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos visszautasítani.",
+      "example_cs": "V městském životě je důležité odmítnout.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "szamlazni",
+      "word": "számlázni",
+      "translation_cs": "účtovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "számlázni",
+          "translation_cs": "účtovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban hasznos számlázni.",
+      "example_cs": "Ve městě je užitečné účtovat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "megrendelni",
+      "word": "megrendelni",
+      "translation_cs": "objednat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megrendelni",
+          "translation_cs": "objednat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben gyakran lehet megrendelni.",
+      "example_cs": "V městském životě lze objednat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "kiszallitani",
+      "word": "kiszállítani",
+      "translation_cs": "doručit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kiszállítani",
+          "translation_cs": "doručit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban néha szükséges kiszállítani.",
+      "example_cs": "Ve městě je někdy třeba doručit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "bepakolni",
+      "word": "bepakolni",
+      "translation_cs": "naložit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bepakolni",
+          "translation_cs": "naložit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban lehetséges bepakolni.",
+      "example_cs": "Ve městě je možné naložit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "becsomagolni",
+      "word": "becsomagolni",
+      "translation_cs": "zabalit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "becsomagolni",
+          "translation_cs": "zabalit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos tudni becsomagolni.",
+      "example_cs": "V městském životě je důležité umět zabalit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "kicsomagolni",
+      "word": "kicsomagolni",
+      "translation_cs": "rozbalit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kicsomagolni",
+          "translation_cs": "rozbalit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos kicsomagolni.",
+      "example_cs": "V městském životě je důležité rozbalit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "cserelni",
+      "word": "cserélni",
+      "translation_cs": "vyměnit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "cserélni",
+          "translation_cs": "vyměnit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban hasznos cserélni.",
+      "example_cs": "Ve městě je užitečné vyměnit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "arusitani",
+      "word": "árusítani",
+      "translation_cs": "prodávat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "árusítani",
+          "translation_cs": "prodávat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben gyakran lehet árusítani.",
+      "example_cs": "V městském životě lze prodávat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "felkeresni",
+      "word": "felkeresni",
+      "translation_cs": "navštívit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "felkeresni",
+          "translation_cs": "navštívit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban néha szükséges felkeresni.",
+      "example_cs": "Ve městě je někdy třeba navštívit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "megtekinteni",
+      "word": "megtekinteni",
+      "translation_cs": "prohlédnout si",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megtekinteni",
+          "translation_cs": "prohlédnout si",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban lehetséges megtekinteni.",
+      "example_cs": "Ve městě je možné prohlédnout si.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "kiprobalni",
+      "word": "kipróbálni",
+      "translation_cs": "vyzkoušet",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kipróbálni",
+          "translation_cs": "vyzkoušet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos tudni kipróbálni.",
+      "example_cs": "V městském životě je důležité umět vyzkoušet.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "megorizni",
+      "word": "megőrizni",
+      "translation_cs": "uchovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megőrizni",
+          "translation_cs": "uchovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos megőrizni.",
+      "example_cs": "V městském životě je důležité uchovat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "elvesziteni",
+      "word": "elveszíteni",
+      "translation_cs": "ztratit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elveszíteni",
+          "translation_cs": "ztratit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban hasznos elveszíteni.",
+      "example_cs": "Ve městě je užitečné ztratit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "megtalalni",
+      "word": "megtalálni",
+      "translation_cs": "najít",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megtalálni",
+          "translation_cs": "najít",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben gyakran lehet megtalálni.",
+      "example_cs": "V městském životě lze najít.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "keresgelni",
+      "word": "keresgélni",
+      "translation_cs": "hledat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "keresgélni",
+          "translation_cs": "hledat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban néha szükséges keresgélni.",
+      "example_cs": "Ve městě je někdy třeba hledat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "lefoglalni",
+      "word": "lefoglalni",
+      "translation_cs": "rezervovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lefoglalni",
+          "translation_cs": "rezervovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban lehetséges lefoglalni.",
+      "example_cs": "Ve městě je možné rezervovat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "foglalni",
+      "word": "foglalni",
+      "translation_cs": "rezervovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "foglalni",
+          "translation_cs": "rezervovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos tudni foglalni.",
+      "example_cs": "V městském životě je důležité umět rezervovat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "sorakozni",
+      "word": "sorakozni",
+      "translation_cs": "seřadit se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sorakozni",
+          "translation_cs": "seřadit se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos sorakozni.",
+      "example_cs": "V městském životě je důležité seřadit se.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "beallni",
+      "word": "beállni",
+      "translation_cs": "zařadit se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "beállni",
+          "translation_cs": "zařadit se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban hasznos beállni.",
+      "example_cs": "Ve městě je užitečné zařadit se.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "megnyitni",
+      "word": "megnyitni",
+      "translation_cs": "otevřít",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megnyitni",
+          "translation_cs": "otevřít",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben gyakran lehet megnyitni.",
+      "example_cs": "V městském životě lze otevřít.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "felolvasni",
+      "word": "felolvasni",
+      "translation_cs": "předčítat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "felolvasni",
+          "translation_cs": "předčítat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban néha szükséges felolvasni.",
+      "example_cs": "Ve městě je někdy třeba předčítat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "leforditani",
+      "word": "lefordítani",
+      "translation_cs": "přeložit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lefordítani",
+          "translation_cs": "přeložit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban lehetséges lefordítani.",
+      "example_cs": "Ve městě je možné přeložit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "pihenni",
+      "word": "pihenni",
+      "translation_cs": "odpočívat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "pihenni",
+          "translation_cs": "odpočívat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos tudni pihenni.",
+      "example_cs": "V městském životě je důležité umět odpočívat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "mulatni",
+      "word": "mulatni",
+      "translation_cs": "bavit se",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mulatni",
+          "translation_cs": "bavit se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos mulatni.",
+      "example_cs": "V městském životě je důležité bavit se.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "zenelni",
+      "word": "zenélni",
+      "translation_cs": "hrát hudbu",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "zenélni",
+          "translation_cs": "hrát hudbu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban hasznos zenélni.",
+      "example_cs": "Ve městě je užitečné hrát hudbu.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "unnepelni",
+      "word": "ünnepelni",
+      "translation_cs": "slavit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ünnepelni",
+          "translation_cs": "slavit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben gyakran lehet ünnepelni.",
+      "example_cs": "V městském životě lze slavit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "latogatni",
+      "word": "látogatni",
+      "translation_cs": "navštěvovat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "látogatni",
+          "translation_cs": "navštěvovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban néha szükséges látogatni.",
+      "example_cs": "Ve městě je někdy třeba navštěvovat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "fogadni",
+      "word": "fogadni",
+      "translation_cs": "přijímat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fogadni",
+          "translation_cs": "přijímat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban lehetséges fogadni.",
+      "example_cs": "Ve městě je možné přijímat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "megvendegelni",
+      "word": "megvendégelni",
+      "translation_cs": "pohostit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megvendégelni",
+          "translation_cs": "pohostit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos tudni megvendégelni.",
+      "example_cs": "V městském životě je důležité umět pohostit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "elhivni",
+      "word": "elhívni",
+      "translation_cs": "zavolat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elhívni",
+          "translation_cs": "zavolat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos elhívni.",
+      "example_cs": "V městském životě je důležité zavolat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "iranyitani",
+      "word": "irányítani",
+      "translation_cs": "řídit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "irányítani",
+          "translation_cs": "řídit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban hasznos irányítani.",
+      "example_cs": "Ve městě je užitečné řídit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "kalauzolni",
+      "word": "kalauzolni",
+      "translation_cs": "provázet",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kalauzolni",
+          "translation_cs": "provázet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben gyakran lehet kalauzolni.",
+      "example_cs": "V městském životě lze provázet.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "utanakeresni",
+      "word": "utánakeresni",
+      "translation_cs": "dohledat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "utánakeresni",
+          "translation_cs": "dohledat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban néha szükséges utánakeresni.",
+      "example_cs": "Ve městě je někdy třeba dohledat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "elintezni",
+      "word": "elintézni",
+      "translation_cs": "vyřídit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elintézni",
+          "translation_cs": "vyřídit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban lehetséges elintézni.",
+      "example_cs": "Ve městě je možné vyřídit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "elvegezni",
+      "word": "elvégezni",
+      "translation_cs": "vykonat",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "elvégezni",
+          "translation_cs": "vykonat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos tudni elvégezni.",
+      "example_cs": "V městském životě je důležité umět vykonat.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "ervenyesiteni",
+      "word": "érvényesíteni",
+      "translation_cs": "uplatnit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "érvényesíteni",
+          "translation_cs": "uplatnit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben fontos érvényesíteni.",
+      "example_cs": "V městském životě je důležité uplatnit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "bejelenteni",
+      "word": "bejelenteni",
+      "translation_cs": "oznámit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bejelenteni",
+          "translation_cs": "oznámit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban hasznos bejelenteni.",
+      "example_cs": "Ve městě je užitečné oznámit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "megfizetni",
+      "word": "megfizetni",
+      "translation_cs": "zaplatit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "megfizetni",
+          "translation_cs": "zaplatit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városi életben gyakran lehet megfizetni.",
+      "example_cs": "V městském životě lze zaplatit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "befizetni",
+      "word": "befizetni",
+      "translation_cs": "zaplatit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "befizetni",
+          "translation_cs": "zaplatit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban néha szükséges befizetni.",
+      "example_cs": "Ve městě je někdy třeba zaplatit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    },
+    {
+      "id": "visszafizetni",
+      "word": "visszafizetni",
+      "translation_cs": "splatit",
+      "part_of_speech_cs": "sloveso · infinitiv",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "visszafizetni",
+          "translation_cs": "splatit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A városban lehetséges visszafizetni.",
+      "example_cs": "Ve městě je možné splatit.",
+      "tags": [
+        "q2",
+        "verb_active"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "varosi-igek-b-verb-01",
+      "type": "cloze",
+      "vocabulary_id": "javitani",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: opravovat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "javítani",
+        "tisztítani",
+        "söpörni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba opravovat."
+    },
+    {
+      "id": "varosi-igek-b-verb-02",
+      "type": "recall",
+      "vocabulary_id": "tisztitani",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: čistit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "tisztítani"
+      ],
+      "explanation_cs": "Ve městě je často třeba čistit."
+    },
+    {
+      "id": "varosi-igek-b-verb-03",
+      "type": "order",
+      "vocabulary_id": "soporni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell söpörni.",
+      "words_hu": [
+        "söpörni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "söpörni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba zametat."
+    },
+    {
+      "id": "varosi-igek-b-verb-04",
+      "type": "cloze",
+      "vocabulary_id": "szolgalni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: sloužit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "szolgálni",
+        "gyógyítani",
+        "ápolni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba sloužit."
+    },
+    {
+      "id": "varosi-igek-b-verb-05",
+      "type": "recall",
+      "vocabulary_id": "gyogyitani",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: léčit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "gyógyítani"
+      ],
+      "explanation_cs": "Ve městě je často třeba léčit."
+    },
+    {
+      "id": "varosi-igek-b-verb-06",
+      "type": "order",
+      "vocabulary_id": "apolni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell ápolni.",
+      "words_hu": [
+        "ápolni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "ápolni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba ošetřovat."
+    },
+    {
+      "id": "varosi-igek-b-verb-07",
+      "type": "cloze",
+      "vocabulary_id": "kezelni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: obsluhovat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "kezelni",
+        "vizsgálni",
+        "varrni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba obsluhovat."
+    },
+    {
+      "id": "varosi-igek-b-verb-08",
+      "type": "recall",
+      "vocabulary_id": "vizsgalni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: vyšetřovat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "vizsgálni"
+      ],
+      "explanation_cs": "Ve městě je často třeba vyšetřovat."
+    },
+    {
+      "id": "varosi-igek-b-verb-09",
+      "type": "order",
+      "vocabulary_id": "varrni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell varrni.",
+      "words_hu": [
+        "varrni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "varrni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba šít."
+    },
+    {
+      "id": "varosi-igek-b-verb-10",
+      "type": "cloze",
+      "vocabulary_id": "vasalni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: žehlit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "vasalni",
+        "alkalmazni",
+        "elfogadni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba žehlit."
+    },
+    {
+      "id": "varosi-igek-b-verb-11",
+      "type": "recall",
+      "vocabulary_id": "alkalmazni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: zaměstnávat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "alkalmazni"
+      ],
+      "explanation_cs": "Ve městě je často třeba zaměstnávat."
+    },
+    {
+      "id": "varosi-igek-b-verb-12",
+      "type": "order",
+      "vocabulary_id": "elfogadni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell elfogadni.",
+      "words_hu": [
+        "elfogadni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "elfogadni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba přijmout."
+    },
+    {
+      "id": "varosi-igek-b-verb-13",
+      "type": "cloze",
+      "vocabulary_id": "visszautasitani",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: odmítnout.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "visszautasítani",
+        "számlázni",
+        "megrendelni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba odmítnout."
+    },
+    {
+      "id": "varosi-igek-b-verb-14",
+      "type": "recall",
+      "vocabulary_id": "szamlazni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: účtovat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "számlázni"
+      ],
+      "explanation_cs": "Ve městě je často třeba účtovat."
+    },
+    {
+      "id": "varosi-igek-b-verb-15",
+      "type": "order",
+      "vocabulary_id": "megrendelni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell megrendelni.",
+      "words_hu": [
+        "megrendelni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "megrendelni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba objednat."
+    },
+    {
+      "id": "varosi-igek-b-verb-16",
+      "type": "cloze",
+      "vocabulary_id": "kiszallitani",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: doručit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "kiszállítani",
+        "bepakolni",
+        "becsomagolni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba doručit."
+    },
+    {
+      "id": "varosi-igek-b-verb-17",
+      "type": "recall",
+      "vocabulary_id": "bepakolni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: naložit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "bepakolni"
+      ],
+      "explanation_cs": "Ve městě je často třeba naložit."
+    },
+    {
+      "id": "varosi-igek-b-verb-18",
+      "type": "order",
+      "vocabulary_id": "becsomagolni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell becsomagolni.",
+      "words_hu": [
+        "becsomagolni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "becsomagolni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba zabalit."
+    },
+    {
+      "id": "varosi-igek-b-verb-19",
+      "type": "cloze",
+      "vocabulary_id": "kicsomagolni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: rozbalit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "kicsomagolni",
+        "cserélni",
+        "árusítani"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba rozbalit."
+    },
+    {
+      "id": "varosi-igek-b-verb-20",
+      "type": "recall",
+      "vocabulary_id": "cserelni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: vyměnit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "cserélni"
+      ],
+      "explanation_cs": "Ve městě je často třeba vyměnit."
+    },
+    {
+      "id": "varosi-igek-b-verb-21",
+      "type": "order",
+      "vocabulary_id": "arusitani",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell árusítani.",
+      "words_hu": [
+        "árusítani.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "árusítani."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba prodávat."
+    },
+    {
+      "id": "varosi-igek-b-verb-22",
+      "type": "cloze",
+      "vocabulary_id": "felkeresni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: navštívit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "felkeresni",
+        "megtekinteni",
+        "kipróbálni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba navštívit."
+    },
+    {
+      "id": "varosi-igek-b-verb-23",
+      "type": "recall",
+      "vocabulary_id": "megtekinteni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: prohlédnout si.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "megtekinteni"
+      ],
+      "explanation_cs": "Ve městě je často třeba prohlédnout si."
+    },
+    {
+      "id": "varosi-igek-b-verb-24",
+      "type": "order",
+      "vocabulary_id": "kiprobalni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell kipróbálni.",
+      "words_hu": [
+        "kipróbálni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "kipróbálni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba vyzkoušet."
+    },
+    {
+      "id": "varosi-igek-b-verb-25",
+      "type": "cloze",
+      "vocabulary_id": "megorizni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: uchovat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "megőrizni",
+        "elveszíteni",
+        "megtalálni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba uchovat."
+    },
+    {
+      "id": "varosi-igek-b-verb-26",
+      "type": "recall",
+      "vocabulary_id": "elvesziteni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: ztratit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "elveszíteni"
+      ],
+      "explanation_cs": "Ve městě je často třeba ztratit."
+    },
+    {
+      "id": "varosi-igek-b-verb-27",
+      "type": "order",
+      "vocabulary_id": "megtalalni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell megtalálni.",
+      "words_hu": [
+        "megtalálni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "megtalálni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba najít."
+    },
+    {
+      "id": "varosi-igek-b-verb-28",
+      "type": "cloze",
+      "vocabulary_id": "keresgelni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: hledat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "keresgélni",
+        "lefoglalni",
+        "foglalni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba hledat."
+    },
+    {
+      "id": "varosi-igek-b-verb-29",
+      "type": "recall",
+      "vocabulary_id": "lefoglalni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: rezervovat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "lefoglalni"
+      ],
+      "explanation_cs": "Ve městě je často třeba rezervovat."
+    },
+    {
+      "id": "varosi-igek-b-verb-30",
+      "type": "order",
+      "vocabulary_id": "foglalni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell foglalni.",
+      "words_hu": [
+        "foglalni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "foglalni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba rezervovat."
+    },
+    {
+      "id": "varosi-igek-b-verb-31",
+      "type": "cloze",
+      "vocabulary_id": "sorakozni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: seřadit se.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "sorakozni",
+        "beállni",
+        "megnyitni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba seřadit se."
+    },
+    {
+      "id": "varosi-igek-b-verb-32",
+      "type": "recall",
+      "vocabulary_id": "beallni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: zařadit se.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "beállni"
+      ],
+      "explanation_cs": "Ve městě je často třeba zařadit se."
+    },
+    {
+      "id": "varosi-igek-b-verb-33",
+      "type": "order",
+      "vocabulary_id": "megnyitni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell megnyitni.",
+      "words_hu": [
+        "megnyitni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "megnyitni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba otevřít."
+    },
+    {
+      "id": "varosi-igek-b-verb-34",
+      "type": "cloze",
+      "vocabulary_id": "felolvasni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: předčítat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "felolvasni",
+        "lefordítani",
+        "pihenni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba předčítat."
+    },
+    {
+      "id": "varosi-igek-b-verb-35",
+      "type": "recall",
+      "vocabulary_id": "leforditani",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: přeložit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "lefordítani"
+      ],
+      "explanation_cs": "Ve městě je často třeba přeložit."
+    },
+    {
+      "id": "varosi-igek-b-verb-36",
+      "type": "order",
+      "vocabulary_id": "pihenni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell pihenni.",
+      "words_hu": [
+        "pihenni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "pihenni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba odpočívat."
+    },
+    {
+      "id": "varosi-igek-b-verb-37",
+      "type": "cloze",
+      "vocabulary_id": "mulatni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: bavit se.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "mulatni",
+        "zenélni",
+        "ünnepelni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba bavit se."
+    },
+    {
+      "id": "varosi-igek-b-verb-38",
+      "type": "recall",
+      "vocabulary_id": "zenelni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: hrát hudbu.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "zenélni"
+      ],
+      "explanation_cs": "Ve městě je často třeba hrát hudbu."
+    },
+    {
+      "id": "varosi-igek-b-verb-39",
+      "type": "order",
+      "vocabulary_id": "unnepelni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell ünnepelni.",
+      "words_hu": [
+        "ünnepelni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "ünnepelni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba slavit."
+    },
+    {
+      "id": "varosi-igek-b-verb-40",
+      "type": "cloze",
+      "vocabulary_id": "latogatni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: navštěvovat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "látogatni",
+        "fogadni",
+        "megvendégelni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba navštěvovat."
+    },
+    {
+      "id": "varosi-igek-b-verb-41",
+      "type": "recall",
+      "vocabulary_id": "fogadni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: přijímat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "fogadni"
+      ],
+      "explanation_cs": "Ve městě je často třeba přijímat."
+    },
+    {
+      "id": "varosi-igek-b-verb-42",
+      "type": "order",
+      "vocabulary_id": "megvendegelni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell megvendégelni.",
+      "words_hu": [
+        "megvendégelni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "megvendégelni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba pohostit."
+    },
+    {
+      "id": "varosi-igek-b-verb-43",
+      "type": "cloze",
+      "vocabulary_id": "elhivni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: zavolat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "elhívni",
+        "irányítani",
+        "kalauzolni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba zavolat."
+    },
+    {
+      "id": "varosi-igek-b-verb-44",
+      "type": "recall",
+      "vocabulary_id": "iranyitani",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: řídit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "irányítani"
+      ],
+      "explanation_cs": "Ve městě je často třeba řídit."
+    },
+    {
+      "id": "varosi-igek-b-verb-45",
+      "type": "order",
+      "vocabulary_id": "kalauzolni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell kalauzolni.",
+      "words_hu": [
+        "kalauzolni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "kalauzolni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba provázet."
+    },
+    {
+      "id": "varosi-igek-b-verb-46",
+      "type": "cloze",
+      "vocabulary_id": "utanakeresni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: dohledat.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "utánakeresni",
+        "elintézni",
+        "elvégezni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba dohledat."
+    },
+    {
+      "id": "varosi-igek-b-verb-47",
+      "type": "recall",
+      "vocabulary_id": "elintezni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: vyřídit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "elintézni"
+      ],
+      "explanation_cs": "Ve městě je často třeba vyřídit."
+    },
+    {
+      "id": "varosi-igek-b-verb-48",
+      "type": "order",
+      "vocabulary_id": "elvegezni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell elvégezni.",
+      "words_hu": [
+        "elvégezni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "elvégezni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba vykonat."
+    },
+    {
+      "id": "varosi-igek-b-verb-49",
+      "type": "cloze",
+      "vocabulary_id": "ervenyesiteni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: uplatnit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "érvényesíteni",
+        "bejelenteni",
+        "megfizetni"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba uplatnit."
+    },
+    {
+      "id": "varosi-igek-b-verb-50",
+      "type": "recall",
+      "vocabulary_id": "bejelenteni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: oznámit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "bejelenteni"
+      ],
+      "explanation_cs": "Ve městě je často třeba oznámit."
+    },
+    {
+      "id": "varosi-igek-b-verb-51",
+      "type": "order",
+      "vocabulary_id": "megfizetni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Sestavte větu s infinitivem.",
+      "sentence_hu": "A városi életben gyakran kell megfizetni.",
+      "words_hu": [
+        "megfizetni.",
+        "kell",
+        "gyakran",
+        "életben",
+        "városi",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "városi",
+          "életben",
+          "gyakran",
+          "kell",
+          "megfizetni."
+        ]
+      ],
+      "explanation_cs": "Ve městě je často třeba zaplatit."
+    },
+    {
+      "id": "varosi-igek-b-verb-52",
+      "type": "cloze",
+      "vocabulary_id": "befizetni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: zaplatit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "options_cs": [
+        "befizetni",
+        "visszafizetni",
+        "javítani"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ve městě je často třeba zaplatit."
+    },
+    {
+      "id": "varosi-igek-b-verb-53",
+      "type": "recall",
+      "vocabulary_id": "visszafizetni",
+      "type_label_cs": "Slovesa v městském životě",
+      "prompt_cs": "Doplňte maďarský infinitiv: splatit.",
+      "sentence_hu": "A városi életben gyakran kell ______.",
+      "accepted_answers": [
+        "visszafizetni"
+      ],
+      "explanation_cs": "Ve městě je často třeba splatit."
+    },
+    {
+      "id": "varosi-igek-b-case-01",
+      "type": "cloze",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Doplňte správný předmětový tvar.",
+      "sentence_hu": "A postás feladja a ______.",
+      "options_cs": [
+        "levelet",
+        "levélben",
+        "levélnél"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Pošťák podá dopis.",
+      "type_label_cs": "Pádové koncovky v městském životě"
+    },
+    {
+      "id": "varosi-igek-b-case-02",
+      "type": "recall",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Doplňte maďarsky: Host čeká v bance.",
+      "sentence_hu": "A vendég a ______ vár.",
+      "accepted_answers": [
+        "bankban"
+      ],
+      "explanation_cs": "Host čeká v bance.",
+      "type_label_cs": "Pádové koncovky v městském životě"
+    },
+    {
+      "id": "varosi-igek-b-case-03",
+      "type": "order",
+      "grammar_id": "poloha-u-mista",
+      "prompt_cs": "Sestavte větu.",
+      "sentence_hu": "A vendég a bejáratnál vár.",
+      "words_hu": [
+        "vár.",
+        "bejáratnál",
+        "a",
+        "vendég",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "vendég",
+          "a",
+          "bejáratnál",
+          "vár."
+        ]
+      ],
+      "explanation_cs": "Host čeká u vchodu.",
+      "type_label_cs": "Pádové koncovky v městském životě"
+    }
+  ],
+  "stories": [
+    {
+      "id": "varosi-igek-b-story-01",
+      "title_cs": "Objednávka sukna",
+      "title_hu": "Posztórendelés",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "varosi-igek-b"
+      ],
+      "curriculum_lesson_id": "varosi-igek-b",
+      "new_vocabulary_ids": [
+        "megrendelni",
+        "szamlazni",
+        "becsomagolni",
+        "kiszallitani",
+        "megfizetni"
+      ],
+      "vocabulary_ids": [
+        "megrendelni",
+        "szamlazni",
+        "becsomagolni",
+        "kiszallitani",
+        "megfizetni"
+      ],
+      "segments": [
+        {
+          "text": "A szabó posztót "
+        },
+        {
+          "text": "rendel",
+          "vocabulary_id": "megrendelni"
+        },
+        {
+          "text": " a kereskedőtől. A kereskedő "
+        },
+        {
+          "text": "számlázza",
+          "vocabulary_id": "szamlazni"
+        },
+        {
+          "text": " az árut, gondosan "
+        },
+        {
+          "text": "becsomagolja",
+          "vocabulary_id": "becsomagolni"
+        },
+        {
+          "text": ", majd a műhelybe "
+        },
+        {
+          "text": "kiszállítja",
+          "vocabulary_id": "kiszallitani"
+        },
+        {
+          "text": ". A szabó az összeget időben "
+        },
+        {
+          "text": "megfizeti",
+          "vocabulary_id": "megfizetni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "varosi-igek-b-story-01-question",
+          "prompt_cs": "Kam obchodník sukno doručí?",
+          "options_cs": [
+            "Do dílny.",
+            "Na nádraží.",
+            "Do divadla."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A kereskedő a műhelybe szállítja az árut."
+        }
+      ],
+      "translation_cs": "Krejčí objedná sukno u obchodníka. Obchodník zboží vyúčtuje, pečlivě zabalí a doručí do dílny. Krejčí částku včas zaplatí."
+    },
+    {
+      "id": "varosi-igek-b-story-02",
+      "title_cs": "V dílně",
+      "title_hu": "A műhelyben",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "varosi-igek-b"
+      ],
+      "curriculum_lesson_id": "varosi-igek-b",
+      "new_vocabulary_ids": [
+        "varrni",
+        "vasalni",
+        "javitani",
+        "tisztitani",
+        "soporni"
+      ],
+      "vocabulary_ids": [
+        "varrni",
+        "vasalni",
+        "javitani",
+        "tisztitani",
+        "soporni"
+      ],
+      "segments": [
+        {
+          "text": "A varrónő egész nap "
+        },
+        {
+          "text": "varr",
+          "vocabulary_id": "varrni"
+        },
+        {
+          "text": ". A segéd "
+        },
+        {
+          "text": "vasalja",
+          "vocabulary_id": "vasalni"
+        },
+        {
+          "text": " az elkészült ruhát, a szabó pedig "
+        },
+        {
+          "text": "javítja",
+          "vocabulary_id": "javitani"
+        },
+        {
+          "text": " a kabátot. Este a tanonc "
+        },
+        {
+          "text": "tisztítja",
+          "vocabulary_id": "tisztitani"
+        },
+        {
+          "text": " a szerszámokat és "
+        },
+        {
+          "text": "söpör",
+          "vocabulary_id": "soporni"
+        },
+        {
+          "text": " a padlón."
+        }
+      ],
+      "questions": [
+        {
+          "id": "varosi-igek-b-story-02-question",
+          "prompt_cs": "Co učeň večer zametá?",
+          "options_cs": [
+            "Podlahu.",
+            "Náměstí.",
+            "Nábřeží."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A tanonc a padlón söpör."
+        }
+      ],
+      "translation_cs": "Švadlena celý den šije. Pomocník žehlí hotové šaty a krejčí opravuje kabát. Večer učeň čistí nástroje a zametá podlahu."
+    },
+    {
+      "id": "varosi-igek-b-story-03",
+      "title_cs": "Vklad v bance",
+      "title_hu": "Betét a bankban",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "varosi-igek-b"
+      ],
+      "curriculum_lesson_id": "varosi-igek-b",
+      "new_vocabulary_ids": [
+        "befizetni",
+        "visszafizetni",
+        "lefoglalni",
+        "megorizni",
+        "elvesziteni"
+      ],
+      "vocabulary_ids": [
+        "befizetni",
+        "visszafizetni",
+        "lefoglalni",
+        "megorizni",
+        "elvesziteni"
+      ],
+      "segments": [
+        {
+          "text": "A polgár pénzt "
+        },
+        {
+          "text": "fizet be",
+          "vocabulary_id": "befizetni"
+        },
+        {
+          "text": " a bankba. A kölcsönt pontosan "
+        },
+        {
+          "text": "visszafizeti",
+          "vocabulary_id": "visszafizetni"
+        },
+        {
+          "text": ". A család előre "
+        },
+        {
+          "text": "lefoglal",
+          "vocabulary_id": "lefoglalni"
+        },
+        {
+          "text": " egy helyet a vasúti kocsiban, és az iratokat gondosan "
+        },
+        {
+          "text": "megőrzi",
+          "vocabulary_id": "megorizni"
+        },
+        {
+          "text": "; semmit sem akar "
+        },
+        {
+          "text": "elveszíteni",
+          "vocabulary_id": "elvesziteni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "varosi-igek-b-story-03-question",
+          "prompt_cs": "Co rodina rezervuje?",
+          "options_cs": [
+            "Místo ve vlakovém voze.",
+            "Stůl v kavárně.",
+            "Lístek do divadla."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A család helyet foglal a vasúti kocsiban."
+        }
+      ],
+      "translation_cs": "Měšťan vloží peníze v bance. Půjčku přesně splatí. Rodina si rezervuje místo ve vlakovém voze a pečlivě uchovává doklady; nechce nic ztratit."
+    },
+    {
+      "id": "varosi-igek-b-story-04",
+      "title_cs": "Městské povinnosti",
+      "title_hu": "Városi teendők",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "varosi-igek-b"
+      ],
+      "curriculum_lesson_id": "varosi-igek-b",
+      "new_vocabulary_ids": [
+        "elintezni",
+        "elvegezni",
+        "bejelenteni",
+        "ervenyesiteni",
+        "sorakozni"
+      ],
+      "vocabulary_ids": [
+        "elintezni",
+        "elvegezni",
+        "bejelenteni",
+        "ervenyesiteni",
+        "sorakozni"
+      ],
+      "segments": [
+        {
+          "text": "A polgár a hivatalban "
+        },
+        {
+          "text": "elintézi",
+          "vocabulary_id": "elintezni"
+        },
+        {
+          "text": " az ügyét. A jegyző "
+        },
+        {
+          "text": "bejelenti",
+          "vocabulary_id": "bejelenteni"
+        },
+        {
+          "text": " a változást, majd az ügyfél "
+        },
+        {
+          "text": "érvényesíti",
+          "vocabulary_id": "ervenyesiteni"
+        },
+        {
+          "text": " az engedélyét. A hivatalnok minden munkát "
+        },
+        {
+          "text": "elvégez",
+          "vocabulary_id": "elvegezni"
+        },
+        {
+          "text": ", az emberek pedig türelmesen "
+        },
+        {
+          "text": "sorakoznak",
+          "vocabulary_id": "sorakozni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "varosi-igek-b-story-04-question",
+          "prompt_cs": "Kde měšťan vyřídí svou záležitost?",
+          "options_cs": [
+            "Na úřadě.",
+            "V přístavu.",
+            "V lázních."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A polgár a hivatalban intézi el az ügyét."
+        }
+      ],
+      "translation_cs": "Měšťan vyřídí svou záležitost na úřadě. Úředník oznámí změnu a klient uplatní své povolení. Úředník vykoná všechnu práci a lidé trpělivě stojí ve frontě."
+    },
+    {
+      "id": "varosi-igek-b-story-05",
+      "title_cs": "Večerní návštěva",
+      "title_hu": "Esti vendégség",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "varosi-igek-b"
+      ],
+      "curriculum_lesson_id": "varosi-igek-b",
+      "new_vocabulary_ids": [
+        "pihenni",
+        "mulatni",
+        "zenelni",
+        "unnepelni",
+        "latogatni",
+        "fogadni",
+        "megvendegelni"
+      ],
+      "vocabulary_ids": [
+        "pihenni",
+        "mulatni",
+        "zenelni",
+        "unnepelni",
+        "latogatni",
+        "fogadni",
+        "megvendegelni"
+      ],
+      "segments": [
+        {
+          "text": "A polgári család este vendégeket "
+        },
+        {
+          "text": "fogad",
+          "vocabulary_id": "fogadni"
+        },
+        {
+          "text": ". A házigazda "
+        },
+        {
+          "text": "megvendégeli",
+          "vocabulary_id": "megvendegelni"
+        },
+        {
+          "text": " barátait. A fiatalok "
+        },
+        {
+          "text": "zenélnek",
+          "vocabulary_id": "zenelni"
+        },
+        {
+          "text": " és sokáig "
+        },
+        {
+          "text": "mulatnak",
+          "vocabulary_id": "mulatni"
+        },
+        {
+          "text": ". Másnap a család rokonokat "
+        },
+        {
+          "text": "látogat",
+          "vocabulary_id": "latogatni"
+        },
+        {
+          "text": "; vasárnap pedig otthon "
+        },
+        {
+          "text": "pihen",
+          "vocabulary_id": "pihenni"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "varosi-igek-b-story-05-question",
+          "prompt_cs": "Kdo pohostí přátele?",
+          "options_cs": [
+            "Hostitel.",
+            "Kočí.",
+            "Pošťák."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A házigazda megvendégeli a barátait."
+        }
+      ],
+      "translation_cs": "Měšťanská rodina večer přijímá hosty. Hostitel pohostí své přátele. Mladí lidé hrají hudbu a dlouho se baví. Druhý den rodina navštíví příbuzné a v neděli odpočívá doma."
+    }
+  ]
+}

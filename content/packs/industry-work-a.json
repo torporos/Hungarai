@@ -1,0 +1,2471 @@
+{
+  "order": 38,
+  "quarter": "q3",
+  "lesson": {
+    "id": "industry-work-a",
+    "theme_id": "uhersko-1913",
+    "theme_title_cs": "Q3 · Parní pokrok a cesta monarchií",
+    "module_number": 3,
+    "module_title_cs": "Cesta, technika a minulý čas",
+    "title_cs": "Lidé v továrně a na dráze",
+    "description": "Historická maďarština v Rakousko-Uhersku do roku 1914; technika, doprava, zeměpis, profese a minulý čas.",
+    "level": "Q3 · CESTOVÁNÍ A TECHNIKA",
+    "duration_min": 20,
+    "xp_required": 1800,
+    "prerequisite_lesson_ids": [
+      "empire-map"
+    ],
+    "vocabulary_ids": [
+      "jegyvizsgalo",
+      "allomasfonok",
+      "forgalmista",
+      "hajoskapitany",
+      "matroz",
+      "gepesz",
+      "esztergalyos",
+      "kovacs",
+      "ontomunkas",
+      "kazanfuto",
+      "lakatos",
+      "badogos",
+      "villanyszerelo",
+      "szerelo",
+      "gepkezelo",
+      "muvezeto",
+      "munkavezeto",
+      "gyarimunkas",
+      "banyasz",
+      "szenbanyasz",
+      "kohasz",
+      "olvasztar",
+      "textilmunkas",
+      "fono",
+      "szovo",
+      "szovomunkas",
+      "kemenysepro",
+      "epitesz",
+      "epitomunkas",
+      "hidepito",
+      "utepito",
+      "muszakirajzolo",
+      "epitomester",
+      "kerekgyarto",
+      "kerekparjavito",
+      "tavirasz",
+      "tavirdasz",
+      "telefonoskisasszony",
+      "nyomdasz",
+      "szedo",
+      "ujsagiro",
+      "fenykepesz",
+      "hidor",
+      "hajos",
+      "rakodomunkas",
+      "kikotomunkas",
+      "raktaros",
+      "csomaghordo",
+      "fuvaros",
+      "vasutior"
+    ],
+    "new_vocabulary_ids": [
+      "jegyvizsgalo",
+      "allomasfonok",
+      "forgalmista",
+      "hajoskapitany",
+      "matroz",
+      "gepesz",
+      "esztergalyos",
+      "kovacs",
+      "ontomunkas",
+      "kazanfuto",
+      "lakatos",
+      "badogos",
+      "villanyszerelo",
+      "szerelo",
+      "gepkezelo",
+      "muvezeto",
+      "munkavezeto",
+      "gyarimunkas",
+      "banyasz",
+      "szenbanyasz",
+      "kohasz",
+      "olvasztar",
+      "textilmunkas",
+      "fono",
+      "szovo",
+      "szovomunkas",
+      "kemenysepro",
+      "epitesz",
+      "epitomunkas",
+      "hidepito",
+      "utepito",
+      "muszakirajzolo",
+      "epitomester",
+      "kerekgyarto",
+      "kerekparjavito",
+      "tavirasz",
+      "tavirdasz",
+      "telefonoskisasszony",
+      "nyomdasz",
+      "szedo",
+      "ujsagiro",
+      "fenykepesz",
+      "hidor",
+      "hajos",
+      "rakodomunkas",
+      "kikotomunkas",
+      "raktaros",
+      "csomaghordo",
+      "fuvaros",
+      "vasutior"
+    ],
+    "grammar_ids": [],
+    "grammar_label_cs": "Slovní zásoba techniky, cest a povolání",
+    "exercise_ids": [
+      "industry-work-a-word-01",
+      "industry-work-a-word-02",
+      "industry-work-a-word-03",
+      "industry-work-a-word-04",
+      "industry-work-a-word-05",
+      "industry-work-a-word-06",
+      "industry-work-a-word-07",
+      "industry-work-a-word-08",
+      "industry-work-a-word-09",
+      "industry-work-a-word-10",
+      "industry-work-a-word-11",
+      "industry-work-a-word-12",
+      "industry-work-a-word-13",
+      "industry-work-a-word-14",
+      "industry-work-a-word-15",
+      "industry-work-a-word-16",
+      "industry-work-a-word-17",
+      "industry-work-a-word-18",
+      "industry-work-a-word-19",
+      "industry-work-a-word-20",
+      "industry-work-a-word-21",
+      "industry-work-a-word-22",
+      "industry-work-a-word-23",
+      "industry-work-a-word-24",
+      "industry-work-a-word-25",
+      "industry-work-a-word-26",
+      "industry-work-a-word-27",
+      "industry-work-a-word-28",
+      "industry-work-a-word-29",
+      "industry-work-a-word-30",
+      "industry-work-a-word-31",
+      "industry-work-a-word-32",
+      "industry-work-a-word-33",
+      "industry-work-a-word-34",
+      "industry-work-a-word-35",
+      "industry-work-a-word-36",
+      "industry-work-a-word-37",
+      "industry-work-a-word-38",
+      "industry-work-a-word-39",
+      "industry-work-a-word-40",
+      "industry-work-a-word-41",
+      "industry-work-a-word-42",
+      "industry-work-a-word-43",
+      "industry-work-a-word-44",
+      "industry-work-a-word-45",
+      "industry-work-a-word-46",
+      "industry-work-a-word-47",
+      "industry-work-a-word-48",
+      "industry-work-a-word-49",
+      "industry-work-a-word-50"
+    ],
+    "story_ids": [
+      "industry-work-a-story-01",
+      "industry-work-a-story-02",
+      "industry-work-a-story-03",
+      "industry-work-a-story-04",
+      "industry-work-a-story-05"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "jegyvizsgalo",
+      "word": "jegyvizsgáló",
+      "translation_cs": "průvodčí kontrolující jízdenky",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jegyvizsgáló",
+          "translation_cs": "průvodčí kontrolující jízdenky",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „jegyvizsgáló” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „průvodčí kontrolující jízdenky“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "allomasfonok",
+      "word": "állomásfőnök",
+      "translation_cs": "přednosta stanice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "állomásfőnök",
+          "translation_cs": "přednosta stanice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „állomásfőnök” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „přednosta stanice“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "forgalmista",
+      "word": "forgalmista",
+      "translation_cs": "výpravčí",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "forgalmista",
+          "translation_cs": "výpravčí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „forgalmista” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „výpravčí“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "hajoskapitany",
+      "word": "hajóskapitány",
+      "translation_cs": "kapitán",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hajóskapitány",
+          "translation_cs": "kapitán",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hajóskapitány” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „kapitán“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "matroz",
+      "word": "matróz",
+      "translation_cs": "námořník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "matróz",
+          "translation_cs": "námořník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „matróz” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „námořník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "gepesz",
+      "word": "gépész",
+      "translation_cs": "strojník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gépész",
+          "translation_cs": "strojník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „gépész” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „strojník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "esztergalyos",
+      "word": "esztergályos",
+      "translation_cs": "soustružník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "esztergályos",
+          "translation_cs": "soustružník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „esztergályos” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „soustružník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "kovacs",
+      "word": "kovács",
+      "translation_cs": "kovář",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kovács",
+          "translation_cs": "kovář",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kovács” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „kovář“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "ontomunkas",
+      "word": "öntőmunkás",
+      "translation_cs": "slévárenský dělník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "öntőmunkás",
+          "translation_cs": "slévárenský dělník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „öntőmunkás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „slévárenský dělník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "kazanfuto",
+      "word": "kazánfűtő",
+      "translation_cs": "kotelník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kazánfűtő",
+          "translation_cs": "kotelník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kazánfűtő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „kotelník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "lakatos",
+      "word": "lakatos",
+      "translation_cs": "zámečník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "lakatos",
+          "translation_cs": "zámečník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „lakatos” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „zámečník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "badogos",
+      "word": "bádogos",
+      "translation_cs": "klempíř",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bádogos",
+          "translation_cs": "klempíř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „bádogos” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „klempíř“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "villanyszerelo",
+      "word": "villanyszerelő",
+      "translation_cs": "elektrikář",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "villanyszerelő",
+          "translation_cs": "elektrikář",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „villanyszerelő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „elektrikář“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "szerelo",
+      "word": "szerelő",
+      "translation_cs": "montér",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szerelő",
+          "translation_cs": "montér",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „szerelő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „montér“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "gepkezelo",
+      "word": "gépkezelő",
+      "translation_cs": "obsluha stroje",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gépkezelő",
+          "translation_cs": "obsluha stroje",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „gépkezelő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „obsluha stroje“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "muvezeto",
+      "word": "művezető",
+      "translation_cs": "mistr",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "művezető",
+          "translation_cs": "mistr",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „művezető” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „mistr“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "munkavezeto",
+      "word": "munkavezető",
+      "translation_cs": "vedoucí práce",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "munkavezető",
+          "translation_cs": "vedoucí práce",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „munkavezető” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „vedoucí práce“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "gyarimunkas",
+      "word": "gyári munkás",
+      "translation_cs": "tovární dělník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gyári munkás",
+          "translation_cs": "tovární dělník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „gyári munkás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „tovární dělník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "banyasz",
+      "word": "bányász",
+      "translation_cs": "horník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "bányász",
+          "translation_cs": "horník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „bányász” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „horník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "szenbanyasz",
+      "word": "szénbányász",
+      "translation_cs": "uhlíř",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szénbányász",
+          "translation_cs": "uhlíř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „szénbányász” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „uhlíř“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "kohasz",
+      "word": "kohász",
+      "translation_cs": "hutník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kohász",
+          "translation_cs": "hutník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kohász” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „hutník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "olvasztar",
+      "word": "olvasztár",
+      "translation_cs": "tavič",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "olvasztár",
+          "translation_cs": "tavič",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „olvasztár” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „tavič“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "textilmunkas",
+      "word": "textilmunkás",
+      "translation_cs": "textilní dělník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "textilmunkás",
+          "translation_cs": "textilní dělník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „textilmunkás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „textilní dělník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "fono",
+      "word": "fonó",
+      "translation_cs": "přadlák",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fonó",
+          "translation_cs": "přadlák",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „fonó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „přadlák“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "szovo",
+      "word": "szövő",
+      "translation_cs": "tkadlec",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szövő",
+          "translation_cs": "tkadlec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „szövő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „tkadlec“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "szovomunkas",
+      "word": "szövőmunkás",
+      "translation_cs": "tkalcovský dělník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szövőmunkás",
+          "translation_cs": "tkalcovský dělník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „szövőmunkás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „tkalcovský dělník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "kemenysepro",
+      "word": "kéményseprő",
+      "translation_cs": "kominík",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kéményseprő",
+          "translation_cs": "kominík",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kéményseprő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „kominík“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "epitesz",
+      "word": "építész",
+      "translation_cs": "architekt",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "építész",
+          "translation_cs": "architekt",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „építész” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „architekt“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "epitomunkas",
+      "word": "építőmunkás",
+      "translation_cs": "stavební dělník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "építőmunkás",
+          "translation_cs": "stavební dělník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „építőmunkás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „stavební dělník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "hidepito",
+      "word": "hídépítő",
+      "translation_cs": "stavitel mostů",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hídépítő",
+          "translation_cs": "stavitel mostů",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hídépítő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „stavitel mostů“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "utepito",
+      "word": "útépítő",
+      "translation_cs": "silničář",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "útépítő",
+          "translation_cs": "silničář",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „útépítő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „silničář“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "muszakirajzolo",
+      "word": "műszaki rajzoló",
+      "translation_cs": "technický kreslič",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "műszaki rajzoló",
+          "translation_cs": "technický kreslič",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „műszaki rajzoló” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „technický kreslič“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "epitomester",
+      "word": "építőmester",
+      "translation_cs": "stavitel",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "építőmester",
+          "translation_cs": "stavitel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „építőmester” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „stavitel“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "kerekgyarto",
+      "word": "kerékgyártó",
+      "translation_cs": "kolář",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kerékgyártó",
+          "translation_cs": "kolář",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kerékgyártó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „kolář“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "kerekparjavito",
+      "word": "kerékpárjavító",
+      "translation_cs": "opravář jízdních kol",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kerékpárjavító",
+          "translation_cs": "opravář jízdních kol",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kerékpárjavító” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „opravář jízdních kol“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "tavirasz",
+      "word": "távírász",
+      "translation_cs": "telegrafista",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "távírász",
+          "translation_cs": "telegrafista",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „távírász” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „telegrafista“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "tavirdasz",
+      "word": "távirdász",
+      "translation_cs": "telegrafní úředník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "távirdász",
+          "translation_cs": "telegrafní úředník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „távirdász” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „telegrafní úředník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "telefonoskisasszony",
+      "word": "telefonos kisasszony",
+      "translation_cs": "telefonistka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "telefonos kisasszony",
+          "translation_cs": "telefonistka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „telefonos kisasszony” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „telefonistka“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "nyomdasz",
+      "word": "nyomdász",
+      "translation_cs": "tiskař",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "nyomdász",
+          "translation_cs": "tiskař",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „nyomdász” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „tiskař“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "szedo",
+      "word": "szedő",
+      "translation_cs": "sazeč",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szedő",
+          "translation_cs": "sazeč",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „szedő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „sazeč“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "ujsagiro",
+      "word": "újságíró",
+      "translation_cs": "novinář",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "újságíró",
+          "translation_cs": "novinář",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „újságíró” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „novinář“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "fenykepesz",
+      "word": "fényképész",
+      "translation_cs": "fotograf",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fényképész",
+          "translation_cs": "fotograf",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „fényképész” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „fotograf“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "hidor",
+      "word": "hídőr",
+      "translation_cs": "mostní hlídač",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hídőr",
+          "translation_cs": "mostní hlídač",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hídőr” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „mostní hlídač“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "hajos",
+      "word": "hajós",
+      "translation_cs": "lodník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hajós",
+          "translation_cs": "lodník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hajós” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „lodník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "rakodomunkas",
+      "word": "rakodómunkás",
+      "translation_cs": "přístavní dělník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rakodómunkás",
+          "translation_cs": "přístavní dělník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „rakodómunkás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „přístavní dělník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "kikotomunkas",
+      "word": "kikötőmunkás",
+      "translation_cs": "dělník v přístavu",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kikötőmunkás",
+          "translation_cs": "dělník v přístavu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kikötőmunkás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „dělník v přístavu“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "raktaros",
+      "word": "raktáros",
+      "translation_cs": "skladník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "raktáros",
+          "translation_cs": "skladník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „raktáros” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „skladník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "csomaghordo",
+      "word": "csomaghordó",
+      "translation_cs": "nosič zavazadel",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csomaghordó",
+          "translation_cs": "nosič zavazadel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „csomaghordó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „nosič zavazadel“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "fuvaros",
+      "word": "fuvaros",
+      "translation_cs": "povozník",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fuvaros",
+          "translation_cs": "povozník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „fuvaros” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „povozník“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "vasutior",
+      "word": "vasúti őr",
+      "translation_cs": "železniční strážný",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasúti őr",
+          "translation_cs": "železniční strážný",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vasúti őr” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „železniční strážný“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "industry-work-a-word-01",
+      "type": "cloze",
+      "vocabulary_id": "jegyvizsgalo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „průvodčí kontrolující jízdenky“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "jegyvizsgáló",
+        "állomásfőnök",
+        "forgalmista"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „jegyvizsgáló” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-02",
+      "type": "recall",
+      "vocabulary_id": "allomasfonok",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „přednosta stanice“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "állomásfőnök"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „állomásfőnök” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-03",
+      "type": "order",
+      "vocabulary_id": "forgalmista",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „forgalmista” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„forgalmista”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„forgalmista”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „forgalmista” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-04",
+      "type": "cloze",
+      "vocabulary_id": "hajoskapitany",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „kapitán“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "hajóskapitány",
+        "matróz",
+        "gépész"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hajóskapitány” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-05",
+      "type": "recall",
+      "vocabulary_id": "matroz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „námořník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "matróz"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „matróz” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-06",
+      "type": "order",
+      "vocabulary_id": "gepesz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „gépész” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„gépész”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„gépész”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „gépész” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-07",
+      "type": "cloze",
+      "vocabulary_id": "esztergalyos",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „soustružník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "esztergályos",
+        "kovács",
+        "öntőmunkás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „esztergályos” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-08",
+      "type": "recall",
+      "vocabulary_id": "kovacs",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „kovář“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "kovács"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kovács” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-09",
+      "type": "order",
+      "vocabulary_id": "ontomunkas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „öntőmunkás” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„öntőmunkás”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„öntőmunkás”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „öntőmunkás” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-10",
+      "type": "cloze",
+      "vocabulary_id": "kazanfuto",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „kotelník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "kazánfűtő",
+        "lakatos",
+        "bádogos"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kazánfűtő” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-11",
+      "type": "recall",
+      "vocabulary_id": "lakatos",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zámečník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "lakatos"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „lakatos” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-12",
+      "type": "order",
+      "vocabulary_id": "badogos",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „bádogos” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„bádogos”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„bádogos”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „bádogos” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-13",
+      "type": "cloze",
+      "vocabulary_id": "villanyszerelo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „elektrikář“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "villanyszerelő",
+        "szerelő",
+        "gépkezelő"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „villanyszerelő” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-14",
+      "type": "recall",
+      "vocabulary_id": "szerelo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „montér“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "szerelő"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szerelő” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-15",
+      "type": "order",
+      "vocabulary_id": "gepkezelo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „gépkezelő” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„gépkezelő”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„gépkezelő”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „gépkezelő” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-16",
+      "type": "cloze",
+      "vocabulary_id": "muvezeto",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „mistr“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "művezető",
+        "munkavezető",
+        "gyári munkás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „művezető” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-17",
+      "type": "recall",
+      "vocabulary_id": "munkavezeto",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vedoucí práce“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "munkavezető"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „munkavezető” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-18",
+      "type": "order",
+      "vocabulary_id": "gyarimunkas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „gyári munkás” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "munkás”",
+        "„gyári",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„gyári",
+          "munkás”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „gyári munkás” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-19",
+      "type": "cloze",
+      "vocabulary_id": "banyasz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „horník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "bányász",
+        "szénbányász",
+        "kohász"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „bányász” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-20",
+      "type": "recall",
+      "vocabulary_id": "szenbanyasz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „uhlíř“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "szénbányász"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szénbányász” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-21",
+      "type": "order",
+      "vocabulary_id": "kohasz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „kohász” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„kohász”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„kohász”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kohász” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-22",
+      "type": "cloze",
+      "vocabulary_id": "olvasztar",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „tavič“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "olvasztár",
+        "textilmunkás",
+        "fonó"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „olvasztár” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-23",
+      "type": "recall",
+      "vocabulary_id": "textilmunkas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „textilní dělník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "textilmunkás"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „textilmunkás” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-24",
+      "type": "order",
+      "vocabulary_id": "fono",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „fonó” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„fonó”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„fonó”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fonó” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-25",
+      "type": "cloze",
+      "vocabulary_id": "szovo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „tkadlec“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "szövő",
+        "szövőmunkás",
+        "kéményseprő"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szövő” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-26",
+      "type": "recall",
+      "vocabulary_id": "szovomunkas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „tkalcovský dělník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "szövőmunkás"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szövőmunkás” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-27",
+      "type": "order",
+      "vocabulary_id": "kemenysepro",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „kéményseprő” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„kéményseprő”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„kéményseprő”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kéményseprő” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-28",
+      "type": "cloze",
+      "vocabulary_id": "epitesz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „architekt“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "építész",
+        "építőmunkás",
+        "hídépítő"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „építész” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-29",
+      "type": "recall",
+      "vocabulary_id": "epitomunkas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „stavební dělník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "építőmunkás"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „építőmunkás” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-30",
+      "type": "order",
+      "vocabulary_id": "hidepito",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „hídépítő” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„hídépítő”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„hídépítő”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hídépítő” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-31",
+      "type": "cloze",
+      "vocabulary_id": "utepito",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „silničář“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "útépítő",
+        "műszaki rajzoló",
+        "építőmester"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „útépítő” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-32",
+      "type": "recall",
+      "vocabulary_id": "muszakirajzolo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „technický kreslič“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "műszaki rajzoló"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „műszaki rajzoló” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-33",
+      "type": "order",
+      "vocabulary_id": "epitomester",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „építőmester” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„építőmester”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„építőmester”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „építőmester” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-34",
+      "type": "cloze",
+      "vocabulary_id": "kerekgyarto",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „kolář“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "kerékgyártó",
+        "kerékpárjavító",
+        "távírász"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kerékgyártó” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-35",
+      "type": "recall",
+      "vocabulary_id": "kerekparjavito",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „opravář jízdních kol“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "kerékpárjavító"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kerékpárjavító” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-36",
+      "type": "order",
+      "vocabulary_id": "tavirasz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „távírász” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„távírász”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„távírász”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „távírász” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-37",
+      "type": "cloze",
+      "vocabulary_id": "tavirdasz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „telegrafní úředník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "távirdász",
+        "telefonos kisasszony",
+        "nyomdász"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „távirdász” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-38",
+      "type": "recall",
+      "vocabulary_id": "telefonoskisasszony",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „telefonistka“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "telefonos kisasszony"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „telefonos kisasszony” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-39",
+      "type": "order",
+      "vocabulary_id": "nyomdasz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „nyomdász” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„nyomdász”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„nyomdász”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „nyomdász” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-40",
+      "type": "cloze",
+      "vocabulary_id": "szedo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „sazeč“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "szedő",
+        "újságíró",
+        "fényképész"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szedő” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-41",
+      "type": "recall",
+      "vocabulary_id": "ujsagiro",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „novinář“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "újságíró"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „újságíró” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-42",
+      "type": "order",
+      "vocabulary_id": "fenykepesz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „fényképész” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„fényképész”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„fényképész”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fényképész” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-43",
+      "type": "cloze",
+      "vocabulary_id": "hidor",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „mostní hlídač“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "hídőr",
+        "hajós",
+        "rakodómunkás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hídőr” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-44",
+      "type": "recall",
+      "vocabulary_id": "hajos",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „lodník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "hajós"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hajós” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-45",
+      "type": "order",
+      "vocabulary_id": "rakodomunkas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „rakodómunkás” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„rakodómunkás”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„rakodómunkás”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „rakodómunkás” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-46",
+      "type": "cloze",
+      "vocabulary_id": "kikotomunkas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „dělník v přístavu“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "kikötőmunkás",
+        "raktáros",
+        "csomaghordó"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kikötőmunkás” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-47",
+      "type": "recall",
+      "vocabulary_id": "raktaros",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „skladník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "raktáros"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „raktáros” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-48",
+      "type": "order",
+      "vocabulary_id": "csomaghordo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „csomaghordó” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„csomaghordó”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„csomaghordó”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „csomaghordó” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-49",
+      "type": "cloze",
+      "vocabulary_id": "fuvaros",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „povozník“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "fuvaros",
+        "vasúti őr",
+        "jegyvizsgáló"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fuvaros” kifejezést."
+    },
+    {
+      "id": "industry-work-a-word-50",
+      "type": "recall",
+      "vocabulary_id": "vasutior",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „železniční strážný“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "vasúti őr"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vasúti őr” kifejezést."
+    }
+  ],
+  "stories": [
+    {
+      "id": "industry-work-a-story-01",
+      "title_cs": "Jízdní řád v dešti · 1",
+      "title_hu": "Eső és menetrend · 1",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "industry-work-a"
+      ],
+      "curriculum_lesson_id": "industry-work-a",
+      "new_vocabulary_ids": [
+        "jegyvizsgalo",
+        "allomasfonok",
+        "forgalmista"
+      ],
+      "vocabulary_ids": [
+        "jegyvizsgalo",
+        "allomasfonok",
+        "forgalmista"
+      ],
+      "segments": [
+        {
+          "text": "1913 őszén az utas a pályaudvaron várta a vonatot. A jegyzetébe három új kifejezést írt: "
+        },
+        {
+          "text": "jegyvizsgáló",
+          "vocabulary_id": "jegyvizsgalo"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "állomásfőnök",
+          "vocabulary_id": "allomasfonok"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "forgalmista",
+          "vocabulary_id": "forgalmista"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "industry-work-a-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Na podzim roku 1913 čekal cestující na nádraží. Do poznámek si zapsal tři nové výrazy: průvodčí kontrolující jízdenky, přednosta stanice, výpravčí."
+    },
+    {
+      "id": "industry-work-a-story-02",
+      "title_cs": "Zpráva z dílny · 2",
+      "title_hu": "Hír a műhelyből · 2",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "industry-work-a"
+      ],
+      "curriculum_lesson_id": "industry-work-a",
+      "new_vocabulary_ids": [
+        "kovacs",
+        "ontomunkas",
+        "kazanfuto"
+      ],
+      "vocabulary_ids": [
+        "kovacs",
+        "ontomunkas",
+        "kazanfuto"
+      ],
+      "segments": [
+        {
+          "text": "A mérnök 1913-ban megvizsgálta a gépet, majd feljegyezte a munkát. A lap szélére ezt írta: "
+        },
+        {
+          "text": "kovács",
+          "vocabulary_id": "kovacs"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "öntőmunkás",
+          "vocabulary_id": "ontomunkas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "kazánfűtő",
+          "vocabulary_id": "kazanfuto"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "industry-work-a-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Inženýr v roce 1913 prohlédl stroj a zapsal si poznámky o práci. Na okraj listu napsal: kovář, slévárenský dělník, kotelník."
+    },
+    {
+      "id": "industry-work-a-story-03",
+      "title_cs": "Mapa monarchie · 3",
+      "title_hu": "A Monarchia térképe · 3",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "industry-work-a"
+      ],
+      "curriculum_lesson_id": "industry-work-a",
+      "new_vocabulary_ids": [
+        "gepkezelo",
+        "muvezeto",
+        "munkavezeto"
+      ],
+      "vocabulary_ids": [
+        "gepkezelo",
+        "muvezeto",
+        "munkavezeto"
+      ],
+      "segments": [
+        {
+          "text": "A térképész 1913-ban bejárta a vidéket, és a térkép mellé három szót jegyzett fel: "
+        },
+        {
+          "text": "gépkezelő",
+          "vocabulary_id": "gepkezelo"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "művezető",
+          "vocabulary_id": "muvezeto"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "munkavezető",
+          "vocabulary_id": "munkavezeto"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "industry-work-a-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Kartograf v roce 1913 procházel krajinou a vedle mapy si poznamenal tři výrazy: obsluha stroje, mistr, vedoucí práce."
+    },
+    {
+      "id": "industry-work-a-story-04",
+      "title_cs": "Mimořádná směna · 4",
+      "title_hu": "Rendkívüli műszak · 4",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "industry-work-a"
+      ],
+      "curriculum_lesson_id": "industry-work-a",
+      "new_vocabulary_ids": [
+        "olvasztar",
+        "textilmunkas",
+        "fono"
+      ],
+      "vocabulary_ids": [
+        "olvasztar",
+        "textilmunkas",
+        "fono"
+      ],
+      "segments": [
+        {
+          "text": "A gyárban a munkások 1913-ban pontosan dolgoztak. A művezető naplójába három kifejezést írt: "
+        },
+        {
+          "text": "olvasztár",
+          "vocabulary_id": "olvasztar"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "textilmunkás",
+          "vocabulary_id": "textilmunkas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "fonó",
+          "vocabulary_id": "fono"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "industry-work-a-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Dělníci v továrně pracovali roku 1913 přesně. Mistr si do deníku zapsal tři výrazy: tavič, textilní dělník, přadlák."
+    },
+    {
+      "id": "industry-work-a-story-05",
+      "title_cs": "Telegram z cesty · 5",
+      "title_hu": "Távirat az útról · 5",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "industry-work-a"
+      ],
+      "curriculum_lesson_id": "industry-work-a",
+      "new_vocabulary_ids": [
+        "epitomunkas",
+        "hidepito",
+        "utepito"
+      ],
+      "vocabulary_ids": [
+        "epitomunkas",
+        "hidepito",
+        "utepito"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a távírász este megkapta az utas üzenetét, majd továbbította a hivatalnak. A jegyzékében három szó állt: "
+        },
+        {
+          "text": "építőmunkás",
+          "vocabulary_id": "epitomunkas"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "hídépítő",
+          "vocabulary_id": "hidepito"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "útépítő",
+          "vocabulary_id": "utepito"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "industry-work-a-story-05-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1913 telegrafista večer přijal zprávu cestujícího a předal ji úřadu. V seznamu měl tři výrazy: stavební dělník, stavitel mostů, silničář."
+    }
+  ]
+}

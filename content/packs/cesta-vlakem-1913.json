@@ -1,5 +1,5 @@
 {
-  "order": 11,
+  "order": 32,
   "lesson": {
     "id": "cesta-vlakem-1913",
     "theme_id": "uhersko-1913",
@@ -12,7 +12,7 @@
     "duration_min": 8,
     "xp_required": 400,
     "prerequisite_lesson_ids": [
-      "zivot-rodiny"
+      "varosi-igek-b"
     ],
     "vocabulary_ids": [
       "palyaudvar",
@@ -72,7 +72,12 @@
         }
       ],
       "example_hu": "A pályaudvar a városban van.",
-      "example_cs": "Železniční nádraží je ve městě."
+      "example_cs": "Železniční nádraží je ve městě.",
+      "tags": [
+        "q3",
+        "travel_transport",
+        "tech_1914"
+      ]
     },
     {
       "id": "menetrend",
@@ -96,7 +101,12 @@
         }
       ],
       "example_hu": "A menetrend a pályaudvaron van.",
-      "example_cs": "Jízdní řád je na nádraží."
+      "example_cs": "Jízdní řád je na nádraží.",
+      "tags": [
+        "q3",
+        "travel_transport",
+        "tech_1914"
+      ]
     },
     {
       "id": "peron",
@@ -120,7 +130,12 @@
         }
       ],
       "example_hu": "A vonat a peronon van.",
-      "example_cs": "Vlak je na nástupišti."
+      "example_cs": "Vlak je na nástupišti.",
+      "tags": [
+        "q3",
+        "travel_transport",
+        "tech_1914"
+      ]
     },
     {
       "id": "borond",
@@ -144,7 +159,11 @@
         }
       ],
       "example_hu": "A bőrönd a szobában van.",
-      "example_cs": "Cestovní kufr je v pokoji."
+      "example_cs": "Cestovní kufr je v pokoji.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
     },
     {
       "id": "indul",
@@ -161,7 +180,11 @@
         }
       ],
       "example_hu": "A vonat reggel indul.",
-      "example_cs": "Vlak ráno odjíždí."
+      "example_cs": "Vlak ráno odjíždí.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
     },
     {
       "id": "erkezik",
@@ -178,7 +201,11 @@
         }
       ],
       "example_hu": "A vonat Budapestre érkezik.",
-      "example_cs": "Vlak přijíždí do Budapešti."
+      "example_cs": "Vlak přijíždí do Budapešti.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
     }
   ],
   "grammar": [
@@ -211,6 +238,9 @@
       "notes_cs": [
         "Základní tvar slovesa je ve slovníčku uveden bez osobní koncovky pro „já“.",
         "U slovesa érkezik patří zakončení -ik k jeho základnímu tvaru."
+      ],
+      "tags": [
+        "q3"
       ]
     }
   ],
@@ -554,5 +584,6 @@
       ],
       "translation_cs": "V roce 1913 Anna cestuje do Budapešti. Ráno je na nádraží. Jízdní řád je na stěně. Anna se dívá do jízdního řádu. Vlak je na nástupišti. Kufr je také na nástupišti. Anna žádá o jízdenku. Vlak odjíždí. Anna je ve vlaku. Vlak přijíždí do Budapešti. Anna jde do hotelu. Hotel je ve městě. Kufr je v pokoji. Anna je v Budapešti."
     }
-  ]
+  ],
+  "quarter": "q3"
 }

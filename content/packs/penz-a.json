@@ -1,0 +1,1346 @@
+{
+  "order": 25,
+  "lesson": {
+    "id": "penz-a",
+    "theme_id": "q2-golden-age-pest",
+    "theme_title_cs": "Q2 · Zlatý věk Pešti",
+    "module_number": 2,
+    "module_title_cs": "Obchod a peníze",
+    "title_cs": "Koruna, fillér a obchodníci",
+    "description": "Historický obchod v Pešti roku 1913. Procvičíte předmětovou koncovku -t a místní koncovky -ban/-ben, -on/-en/-ön a -nál/-nél.",
+    "level": "Q2 · MĚSTO A INSTITUCE",
+    "duration_min": 12,
+    "xp_required": 600,
+    "prerequisite_lesson_ids": [
+      "posta-1913"
+    ],
+    "vocabulary_ids": [
+      "korona",
+      "filler",
+      "penz",
+      "penztarca",
+      "erszeny",
+      "bank",
+      "bankjegy",
+      "erme",
+      "aranypenz",
+      "ezustpenz",
+      "rezpenz",
+      "apropenz",
+      "valtopenz",
+      "penztar",
+      "penztaros",
+      "szamla",
+      "nyugta",
+      "ar",
+      "aru",
+      "vasar",
+      "kereskedo",
+      "arus",
+      "vevo"
+    ],
+    "new_vocabulary_ids": [
+      "korona",
+      "filler",
+      "penz",
+      "penztarca",
+      "erszeny",
+      "bank",
+      "bankjegy",
+      "erme",
+      "aranypenz",
+      "ezustpenz",
+      "rezpenz",
+      "apropenz",
+      "valtopenz",
+      "penztar",
+      "penztaros",
+      "szamla",
+      "nyugta",
+      "ar",
+      "aru",
+      "vasar",
+      "kereskedo",
+      "arus",
+      "vevo"
+    ],
+    "grammar_ids": [
+      "targy-t",
+      "umisteni-v",
+      "poloha-na-povrchu",
+      "poloha-u-mista"
+    ],
+    "grammar_label_cs": "Předmět -t · poloha v, na a u místa",
+    "exercise_ids": [
+      "q2-penz-a-grammar-01",
+      "q2-penz-a-grammar-02",
+      "q2-penz-a-grammar-03",
+      "q2-penz-a-grammar-04",
+      "q2-penz-a-grammar-05",
+      "q2-penz-a-grammar-06",
+      "q2-penz-a-grammar-07",
+      "q2-penz-a-grammar-08",
+      "q2-penz-a-grammar-09",
+      "q2-penz-a-grammar-10",
+      "q2-penz-a-grammar-11",
+      "q2-penz-a-grammar-12",
+      "q2-penz-a-vocab-01",
+      "q2-penz-a-vocab-02",
+      "q2-penz-a-vocab-03",
+      "q2-penz-a-vocab-04",
+      "q2-penz-a-vocab-05",
+      "q2-penz-a-vocab-06",
+      "q2-penz-a-vocab-07",
+      "q2-penz-a-vocab-08"
+    ],
+    "story_ids": [
+      "q2-penz-a-story-01",
+      "q2-penz-a-story-02",
+      "q2-penz-a-story-03",
+      "q2-penz-a-story-04"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "korona",
+      "word": "korona",
+      "translation_cs": "koruna",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "koronát",
+          "translation_cs": "korunu",
+          "grammar_id": "targy-t",
+          "lesson_id": "penz-a"
+        },
+        {
+          "form_hu": "koronánál",
+          "translation_cs": "u koruny",
+          "grammar_id": "poloha-u-mista",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "korona",
+          "translation_cs": "koruna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A korona fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "filler",
+      "word": "fillér",
+      "translation_cs": "fillér; haléř",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "fillért",
+          "translation_cs": "fillér jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "fillér",
+          "translation_cs": "fillér; haléř",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A fillér fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "penz",
+      "word": "pénz",
+      "translation_cs": "peníze",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "pénz",
+          "translation_cs": "peníze",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A pénz fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "penztarca",
+      "word": "pénztárca",
+      "translation_cs": "peněženka",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "mixed",
+      "forms": [
+        {
+          "form_hu": "pénztárcában",
+          "translation_cs": "v peněžence",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "pénztárca",
+          "translation_cs": "peněženka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A pénztárca fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "erszeny",
+      "word": "erszény",
+      "translation_cs": "měšec",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "erszény",
+          "translation_cs": "měšec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az erszény fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "bank",
+      "word": "bank",
+      "translation_cs": "banka",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "bankban",
+          "translation_cs": "v bance",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "penz-a"
+        },
+        {
+          "form_hu": "banknál",
+          "translation_cs": "u banky",
+          "grammar_id": "poloha-u-mista",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "bank",
+          "translation_cs": "banka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bank fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "bankjegy",
+      "word": "bankjegy",
+      "translation_cs": "bankovka",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "mixed",
+      "forms": [
+        {
+          "form_hu": "bankjegyen",
+          "translation_cs": "na bankovce",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "bankjegy",
+          "translation_cs": "bankovka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bankjegy fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "erme",
+      "word": "érme",
+      "translation_cs": "mince",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "érmét",
+          "translation_cs": "minci jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "penz-a"
+        },
+        {
+          "form_hu": "érmén",
+          "translation_cs": "na minci",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "érme",
+          "translation_cs": "mince",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az érme fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "aranypenz",
+      "word": "aranypénz",
+      "translation_cs": "zlatá mince",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "aranypénz",
+          "translation_cs": "zlatá mince",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az aranypénz fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "ezustpenz",
+      "word": "ezüstpénz",
+      "translation_cs": "stříbrná mince",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ezüstpénz",
+          "translation_cs": "stříbrná mince",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az ezüstpénz fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "rezpenz",
+      "word": "rézpénz",
+      "translation_cs": "měděná mince",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "rézpénz",
+          "translation_cs": "měděná mince",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A rézpénz fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "apropenz",
+      "word": "aprópénz",
+      "translation_cs": "drobné",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "aprópénz",
+          "translation_cs": "drobné",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az aprópénz fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "valtopenz",
+      "word": "váltópénz",
+      "translation_cs": "drobné mince",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "váltópénz",
+          "translation_cs": "drobné mince",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A váltópénz fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "penztar",
+      "word": "pénztár",
+      "translation_cs": "pokladna",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "mixed",
+      "forms": [
+        {
+          "form_hu": "pénztárban",
+          "translation_cs": "v pokladně",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "penz-a"
+        },
+        {
+          "form_hu": "pénztárnál",
+          "translation_cs": "u pokladny",
+          "grammar_id": "poloha-u-mista",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "pénztár",
+          "translation_cs": "pokladna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A pénztár fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "penztaros",
+      "word": "pénztáros",
+      "translation_cs": "pokladní",
+      "part_of_speech_cs": "podstatné jméno · obchod a lidé",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "pénztáros",
+          "translation_cs": "pokladní",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A pénztáros fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "szamla",
+      "word": "számla",
+      "translation_cs": "účet; faktura",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "számlát",
+          "translation_cs": "účet jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "számla",
+          "translation_cs": "účet; faktura",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A számla fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "nyugta",
+      "word": "nyugta",
+      "translation_cs": "účtenka",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "nyugtát",
+          "translation_cs": "účtenku",
+          "grammar_id": "targy-t",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "nyugta",
+          "translation_cs": "účtenka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A nyugta fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "ar",
+      "word": "ár",
+      "translation_cs": "cena",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ár",
+          "translation_cs": "cena",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az ár fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "aru",
+      "word": "áru",
+      "translation_cs": "zboží",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "árut",
+          "translation_cs": "zboží jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "áru",
+          "translation_cs": "zboží",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az áru fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "vasar",
+      "word": "vásár",
+      "translation_cs": "jarmark",
+      "part_of_speech_cs": "podstatné jméno · obchod",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vásár",
+          "translation_cs": "jarmark",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vásár fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "kereskedo",
+      "word": "kereskedő",
+      "translation_cs": "obchodník",
+      "part_of_speech_cs": "podstatné jméno · obchod a lidé",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kereskedő",
+          "translation_cs": "obchodník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kereskedő fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "arus",
+      "word": "árus",
+      "translation_cs": "prodavač; trhovec",
+      "part_of_speech_cs": "podstatné jméno · obchod a lidé",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "árus",
+          "translation_cs": "prodavač; trhovec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az árus fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    },
+    {
+      "id": "vevo",
+      "word": "vevő",
+      "translation_cs": "kupující",
+      "part_of_speech_cs": "podstatné jméno · obchod a lidé",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "vevőt",
+          "translation_cs": "kupujícího",
+          "grammar_id": "targy-t",
+          "lesson_id": "penz-a"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "vevő",
+          "translation_cs": "kupující",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vevő fontos.",
+      "example_cs": "Tento výraz je v obchodě důležitý.",
+      "tags": [
+        "q2",
+        "commerce_money"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q2-penz-a-grammar-01",
+      "type": "cloze",
+      "vocabulary_id": "korona",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný tvar.",
+      "sentence_hu": "A vevő egy ______ fizet.",
+      "options_cs": [
+        "koronát",
+        "koronáte",
+        "a városban"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kupující platí jednu korunu."
+    },
+    {
+      "id": "q2-penz-a-grammar-02",
+      "type": "recall",
+      "vocabulary_id": "filler",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Pokladní vrací fillér.",
+      "sentence_hu": "A pénztáros ______ ad vissza.",
+      "accepted_answers": [
+        "fillért"
+      ],
+      "explanation_cs": "Pokladní vrací fillér."
+    },
+    {
+      "id": "q2-penz-a-grammar-03",
+      "type": "order",
+      "vocabulary_id": "aru",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Sestavte větu.",
+      "words_hu": [
+        "vásárol.",
+        "árut",
+        "kereskedő",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "kereskedő",
+          "árut",
+          "vásárol."
+        ]
+      ],
+      "explanation_cs": "Obchodník nakupuje zboží."
+    },
+    {
+      "id": "q2-penz-a-grammar-04",
+      "type": "cloze",
+      "vocabulary_id": "nyugta",
+      "grammar_id": "targy-t",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný tvar.",
+      "sentence_hu": "A vevő ______ kér.",
+      "options_cs": [
+        "nyugtát",
+        "nyugtáte",
+        "a városban"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kupující žádá účtenku."
+    },
+    {
+      "id": "q2-penz-a-grammar-05",
+      "type": "recall",
+      "vocabulary_id": "bank",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: V bance jsou peníze.",
+      "sentence_hu": "A ______ pénz van.",
+      "accepted_answers": [
+        "bankban"
+      ],
+      "explanation_cs": "V bance jsou peníze."
+    },
+    {
+      "id": "q2-penz-a-grammar-06",
+      "type": "order",
+      "vocabulary_id": "penztarca",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Sestavte větu.",
+      "words_hu": [
+        "van.",
+        "aprópénz",
+        "pénztárcában",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "pénztárcában",
+          "aprópénz",
+          "van."
+        ]
+      ],
+      "explanation_cs": "V peněžence jsou drobné."
+    },
+    {
+      "id": "q2-penz-a-grammar-07",
+      "type": "cloze",
+      "vocabulary_id": "penztar",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný tvar.",
+      "sentence_hu": "A ______ korona van.",
+      "options_cs": [
+        "pénztárban",
+        "pénztárbane",
+        "a városban"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "V pokladně jsou koruny."
+    },
+    {
+      "id": "q2-penz-a-grammar-08",
+      "type": "recall",
+      "vocabulary_id": "aru",
+      "grammar_id": "umisteni-v",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Zboží v obchodě je levné.",
+      "sentence_hu": "A boltban az ______ olcsó.",
+      "accepted_answers": [
+        "áru"
+      ],
+      "explanation_cs": "Zboží v obchodě je levné."
+    },
+    {
+      "id": "q2-penz-a-grammar-09",
+      "type": "order",
+      "vocabulary_id": "penztar",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Sestavte větu.",
+      "words_hu": [
+        "fizet.",
+        "pénztárnál",
+        "a",
+        "vevő",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "vevő",
+          "a",
+          "pénztárnál",
+          "fizet."
+        ]
+      ],
+      "explanation_cs": "Kupující platí u pokladny."
+    },
+    {
+      "id": "q2-penz-a-grammar-10",
+      "type": "cloze",
+      "vocabulary_id": "bank",
+      "grammar_id": "poloha-u-mista",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte správný tvar.",
+      "sentence_hu": "A ______ vár a kereskedő.",
+      "options_cs": [
+        "banknál",
+        "banknále",
+        "a városban"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Obchodník čeká u banky."
+    },
+    {
+      "id": "q2-penz-a-grammar-11",
+      "type": "recall",
+      "vocabulary_id": "bankjegy",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Doplňte maďarsky: Pokladní vidí na bankovce číslo.",
+      "sentence_hu": "A pénztáros a ______ számot lát.",
+      "accepted_answers": [
+        "bankjegyen"
+      ],
+      "explanation_cs": "Pokladní vidí na bankovce číslo."
+    },
+    {
+      "id": "q2-penz-a-grammar-12",
+      "type": "order",
+      "vocabulary_id": "erme",
+      "grammar_id": "poloha-na-povrchu",
+      "type_label_cs": "Procvičení pádových koncovek",
+      "prompt_cs": "Sestavte větu.",
+      "words_hu": [
+        "van.",
+        "korona",
+        "érmén",
+        "Az"
+      ],
+      "accepted_orders": [
+        [
+          "Az",
+          "érmén",
+          "korona",
+          "van."
+        ]
+      ],
+      "explanation_cs": "Na minci je koruna."
+    },
+    {
+      "id": "q2-penz-a-vocab-01",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "korona",
+      "prompt_cs": "Co znamená „korona“?",
+      "options_cs": [
+        "koruna",
+        "fillér; haléř",
+        "peníze"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "korona znamená „koruna“."
+    },
+    {
+      "id": "q2-penz-a-vocab-02",
+      "type": "listening",
+      "type_label_cs": "Poslech",
+      "vocabulary_id": "filler",
+      "audio_text": "fillér",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "fillér; haléř",
+        "koruna",
+        "peníze"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "fillér znamená „fillér; haléř“."
+    },
+    {
+      "id": "q2-penz-a-vocab-03",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "penz",
+      "prompt_cs": "Co znamená „pénz“?",
+      "options_cs": [
+        "peníze",
+        "koruna",
+        "fillér; haléř"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "pénz znamená „peníze“."
+    },
+    {
+      "id": "q2-penz-a-vocab-04",
+      "type": "listening",
+      "type_label_cs": "Poslech",
+      "vocabulary_id": "penztarca",
+      "audio_text": "pénztárca",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "peněženka",
+        "koruna",
+        "fillér; haléř"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "pénztárca znamená „peněženka“."
+    },
+    {
+      "id": "q2-penz-a-vocab-05",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "erszeny",
+      "prompt_cs": "Co znamená „erszény“?",
+      "options_cs": [
+        "měšec",
+        "koruna",
+        "fillér; haléř"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "erszény znamená „měšec“."
+    },
+    {
+      "id": "q2-penz-a-vocab-06",
+      "type": "listening",
+      "type_label_cs": "Poslech",
+      "vocabulary_id": "bank",
+      "audio_text": "bank",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "banka",
+        "koruna",
+        "fillér; haléř"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "bank znamená „banka“."
+    },
+    {
+      "id": "q2-penz-a-vocab-07",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "bankjegy",
+      "prompt_cs": "Co znamená „bankjegy“?",
+      "options_cs": [
+        "bankovka",
+        "koruna",
+        "fillér; haléř"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "bankjegy znamená „bankovka“."
+    },
+    {
+      "id": "q2-penz-a-vocab-08",
+      "type": "listening",
+      "type_label_cs": "Poslech",
+      "vocabulary_id": "erme",
+      "audio_text": "érme",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "mince",
+        "koruna",
+        "fillér; haléř"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "érme znamená „mince“."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q2-penz-a-story-01",
+      "title_cs": "Koruna na trhu",
+      "title_hu": "Korona a piacon",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "penz-a"
+      ],
+      "curriculum_lesson_id": "penz-a",
+      "new_vocabulary_ids": [
+        "vevo",
+        "korona",
+        "arus",
+        "filler",
+        "kereskedo",
+        "nyugta"
+      ],
+      "vocabulary_ids": [
+        "vevo",
+        "korona",
+        "arus",
+        "filler",
+        "kereskedo",
+        "nyugta"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a piacon a "
+        },
+        {
+          "text": "vevő",
+          "vocabulary_id": "vevo"
+        },
+        {
+          "text": " egy "
+        },
+        {
+          "text": "koronát",
+          "vocabulary_id": "korona"
+        },
+        {
+          "text": " fizet. Az "
+        },
+        {
+          "text": "árus",
+          "vocabulary_id": "arus"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fillért",
+          "vocabulary_id": "filler"
+        },
+        {
+          "text": " ad vissza. A "
+        },
+        {
+          "text": "kereskedő",
+          "vocabulary_id": "kereskedo"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nyugtát",
+          "vocabulary_id": "nyugta"
+        },
+        {
+          "text": " ad."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q2-penz-a-story-01-question",
+          "prompt_cs": "Co dostane kupující?",
+          "options_cs": [
+            "Účtenku.",
+            "Jízdenku.",
+            "Dopis."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Obchodník dává nyugtát."
+        }
+      ],
+      "translation_cs": "V roce 1913 platí na trhu kupující jednu korunu. Prodavač vrací fillér. Obchodník dává účtenku."
+    },
+    {
+      "id": "q2-penz-a-story-02",
+      "title_cs": "V bance",
+      "title_hu": "A bankban",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "penz-a"
+      ],
+      "curriculum_lesson_id": "penz-a",
+      "new_vocabulary_ids": [
+        "bank",
+        "bankjegy",
+        "penztarca",
+        "apropenz",
+        "erme"
+      ],
+      "vocabulary_ids": [
+        "bank",
+        "bankjegy",
+        "penztarca",
+        "apropenz",
+        "erme"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "bankban",
+          "vocabulary_id": "bank"
+        },
+        {
+          "text": " pénz és "
+        },
+        {
+          "text": "bankjegy",
+          "vocabulary_id": "bankjegy"
+        },
+        {
+          "text": " van. A vevő a "
+        },
+        {
+          "text": "pénztárcában",
+          "vocabulary_id": "penztarca"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "aprópénzt",
+          "vocabulary_id": "apropenz"
+        },
+        {
+          "text": " tart. Az "
+        },
+        {
+          "text": "érme",
+          "vocabulary_id": "erme"
+        },
+        {
+          "text": " a kezében van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q2-penz-a-story-02-question",
+          "prompt_cs": "Hol van a pénz?",
+          "options_cs": [
+            "V bance.",
+            "V divadle.",
+            "Na nádraží."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Peníze jsou v bance: A bankban pénz van."
+        }
+      ],
+      "translation_cs": "V bance jsou peníze a bankovky. Kupující má v peněžence drobné. Minci drží v ruce."
+    },
+    {
+      "id": "q2-penz-a-story-03",
+      "title_cs": "Jarmark a ceník",
+      "title_hu": "Vásár és ár",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "penz-a"
+      ],
+      "curriculum_lesson_id": "penz-a",
+      "new_vocabulary_ids": [
+        "vasar",
+        "kereskedo",
+        "aru",
+        "vevo",
+        "ar"
+      ],
+      "vocabulary_ids": [
+        "vasar",
+        "kereskedo",
+        "aru",
+        "vevo",
+        "ar"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "vásáron",
+          "vocabulary_id": "vasar"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "kereskedő",
+          "vocabulary_id": "kereskedo"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "árut",
+          "vocabulary_id": "aru"
+        },
+        {
+          "text": " kínál. A "
+        },
+        {
+          "text": "vevő",
+          "vocabulary_id": "vevo"
+        },
+        {
+          "text": " az "
+        },
+        {
+          "text": "árat",
+          "vocabulary_id": "ar"
+        },
+        {
+          "text": " nézi. Az ár fontos."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q2-penz-a-story-03-question",
+          "prompt_cs": "Co si kupující prohlíží?",
+          "options_cs": [
+            "Cenu.",
+            "Kalendář.",
+            "Jízdní řád."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Kupující si prohlíží az árat."
+        }
+      ],
+      "translation_cs": "Na jarmarku nabízí obchodník zboží. Kupující si prohlíží cenu. Cena je důležitá."
+    },
+    {
+      "id": "q2-penz-a-story-04",
+      "title_cs": "Platba u pokladny",
+      "title_hu": "Fizetés a pénztárnál",
+      "level": "Q2 · PEST V ROCE 1913",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "penz-a"
+      ],
+      "curriculum_lesson_id": "penz-a",
+      "new_vocabulary_ids": [
+        "vevo",
+        "penztar",
+        "penztaros",
+        "szamla",
+        "korona"
+      ],
+      "vocabulary_ids": [
+        "vevo",
+        "penztar",
+        "penztaros",
+        "szamla",
+        "korona"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "vevő",
+          "vocabulary_id": "vevo"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "pénztárnál",
+          "vocabulary_id": "penztar"
+        },
+        {
+          "text": " fizet. A "
+        },
+        {
+          "text": "pénztáros",
+          "vocabulary_id": "penztaros"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "számlát",
+          "vocabulary_id": "szamla"
+        },
+        {
+          "text": " nézi. A vásárló "
+        },
+        {
+          "text": "koronát",
+          "vocabulary_id": "korona"
+        },
+        {
+          "text": " ad."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q2-penz-a-story-04-question",
+          "prompt_cs": "Hol fizet kupující?",
+          "options_cs": [
+            "U pokladny.",
+            "U řeky.",
+            "V zahradě."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Kupující platí a pénztárnál."
+        }
+      ],
+      "translation_cs": "Kupující platí u pokladny. Pokladní se dívá na účet. Zákazník dává koruny."
+    }
+  ],
+  "quarter": "q2"
+}

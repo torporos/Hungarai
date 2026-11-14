@@ -8,28 +8,66 @@
     "groups": [
       {
         "name_cs": "Zadní samohlásky",
-        "vowels_hu": ["a", "á", "o", "ó", "u", "ú"],
+        "vowels_hu": [
+          "a",
+          "á",
+          "o",
+          "ó",
+          "u",
+          "ú"
+        ],
         "suffix_hu": "-ban",
         "examples": [
-          { "form_hu": "házban", "translation_cs": "v domě" },
-          { "form_hu": "almában", "translation_cs": "v jablku" },
-          { "form_hu": "táskában", "translation_cs": "v tašce" }
+          {
+            "form_hu": "házban",
+            "translation_cs": "v domě"
+          },
+          {
+            "form_hu": "almában",
+            "translation_cs": "v jablku"
+          },
+          {
+            "form_hu": "táskában",
+            "translation_cs": "v tašce"
+          }
         ]
       },
       {
         "name_cs": "Přední samohlásky",
-        "vowels_hu": ["e", "é", "i", "í", "ö", "ő", "ü", "ű"],
+        "vowels_hu": [
+          "e",
+          "é",
+          "i",
+          "í",
+          "ö",
+          "ő",
+          "ü",
+          "ű"
+        ],
         "suffix_hu": "-ben",
         "examples": [
-          { "form_hu": "kertben", "translation_cs": "na zahradě" },
-          { "form_hu": "könyvben", "translation_cs": "v knize" },
-          { "form_hu": "vízben", "translation_cs": "ve vodě" }
+          {
+            "form_hu": "kertben",
+            "translation_cs": "na zahradě"
+          },
+          {
+            "form_hu": "könyvben",
+            "translation_cs": "v knize"
+          },
+          {
+            "form_hu": "vízben",
+            "translation_cs": "ve vodě"
+          }
         ]
       }
     ],
     "notes_cs": [
       "Dlouhé a krátké samohlásky patří do stejné skupiny: a/á, e/é, i/í.",
       "U některých slov mohou neutrální samohlásky nebo ustálené výjimky ovlivnit výběr přípony."
+    ],
+    "tags": [
+      "q1",
+      "vowel_harmony"
     ]
   },
   {
@@ -43,53 +81,47 @@
         "name_cs": "Zadní varianta",
         "suffix_hu": "-ban",
         "examples": [
-          { "form_hu": "a házban", "translation_cs": "v domě" },
-          { "form_hu": "a táskában", "translation_cs": "v tašce" },
-          { "form_hu": "az almában", "translation_cs": "v jablku" }
+          {
+            "form_hu": "a házban",
+            "translation_cs": "v domě"
+          },
+          {
+            "form_hu": "a táskában",
+            "translation_cs": "v tašce"
+          },
+          {
+            "form_hu": "az almában",
+            "translation_cs": "v jablku"
+          }
         ]
       },
       {
         "name_cs": "Přední varianta",
         "suffix_hu": "-ben",
         "examples": [
-          { "form_hu": "a kertben", "translation_cs": "na zahradě" },
-          { "form_hu": "a könyvben", "translation_cs": "v knize" },
-          { "form_hu": "a vízben", "translation_cs": "ve vodě" }
+          {
+            "form_hu": "a kertben",
+            "translation_cs": "na zahradě"
+          },
+          {
+            "form_hu": "a könyvben",
+            "translation_cs": "v knize"
+          },
+          {
+            "form_hu": "a vízben",
+            "translation_cs": "ve vodě"
+          }
         ]
       }
     ],
     "notes_cs": [
       "Přípona se píše dohromady se slovem.",
       "Pozor na význam: -ban/-ben popisuje polohu uvnitř, zatímco -ba/-be vyjadřuje směr dovnitř."
-    ]
-  },
-  {
-    "id": "smer-dovnitr",
-    "title_cs": "Směr dovnitř: -ba / -be",
-    "level": "A1 · KONCOVKY",
-    "summary_cs": "Koncovky -ba a -be říkají, že někdo nebo něco míří dovnitř.",
-    "rule_cs": "Stejně jako u dalších maďarských přípon vybíráme variantu podle samohláskové harmonie.",
-    "groups": [
-      {
-        "name_cs": "Zadní varianta",
-        "suffix_hu": "-ba",
-        "examples": [
-          { "form_hu": "a házba", "translation_cs": "do domu" },
-          { "form_hu": "a táskába", "translation_cs": "do tašky" }
-        ]
-      },
-      {
-        "name_cs": "Přední varianta",
-        "suffix_hu": "-be",
-        "examples": [
-          { "form_hu": "a kertbe", "translation_cs": "na zahradu" },
-          { "form_hu": "a könyvbe", "translation_cs": "do knihy" }
-        ]
-      }
     ],
-    "notes_cs": [
-      "Porovnejte: a házban = v domě, ale a házba = do domu.",
-      "Po slovesech pohybu se často používá tvar vyjadřující směr."
+    "tags": [
+      "q2",
+      "q1",
+      "inessive_ban_ben"
     ]
   },
   {
@@ -103,11 +135,26 @@
         "name_cs": "Jídlo jako předmět",
         "suffix_hu": "-t",
         "examples": [
-          { "form_hu": "almát", "translation_cs": "jablko (jako předmět)" },
-          { "form_hu": "kávét", "translation_cs": "kávu" },
-          { "form_hu": "kenyeret", "translation_cs": "chléb (jako předmět)" },
-          { "form_hu": "tejet", "translation_cs": "mléko (jako předmět)" },
-          { "form_hu": "jegyet", "translation_cs": "jízdenku" }
+          {
+            "form_hu": "almát",
+            "translation_cs": "jablko (jako předmět)"
+          },
+          {
+            "form_hu": "kávét",
+            "translation_cs": "kávu"
+          },
+          {
+            "form_hu": "kenyeret",
+            "translation_cs": "chléb (jako předmět)"
+          },
+          {
+            "form_hu": "tejet",
+            "translation_cs": "mléko (jako předmět)"
+          },
+          {
+            "form_hu": "jegyet",
+            "translation_cs": "jízdenku"
+          }
         ]
       }
     ],
@@ -115,6 +162,11 @@
       "Věta Kérek egy almát znamená Prosím si jablko.",
       "Tvar se někdy mění víc než pouhým přidáním -t; učte se ho spolu s novým slovem.",
       "Například kenyér → kenyeret mění kmenovou samohlásku; alma → almát prodlužuje koncové a."
+    ],
+    "tags": [
+      "q1",
+      "q2",
+      "accusative_t"
     ]
   },
   {
@@ -128,124 +180,35 @@
         "name_cs": "Užitečné věty",
         "suffix_hu": "kér → kérek",
         "examples": [
-          { "form_hu": "kér", "translation_cs": "on / ona žádá · slovníkový tvar" },
-          { "form_hu": "kérek", "translation_cs": "já žádám / prosím si" },
-          { "form_hu": "Kérek egy kávét.", "translation_cs": "Prosím si kávu." },
-          { "form_hu": "Kérek egy almát.", "translation_cs": "Prosím si jablko." },
-          { "form_hu": "Mennyibe kerül?", "translation_cs": "Kolik to stojí?" }
+          {
+            "form_hu": "kér",
+            "translation_cs": "on / ona žádá · slovníkový tvar"
+          },
+          {
+            "form_hu": "kérek",
+            "translation_cs": "já žádám / prosím si"
+          },
+          {
+            "form_hu": "Kérek egy kávét.",
+            "translation_cs": "Prosím si kávu."
+          },
+          {
+            "form_hu": "Kérek egy almát.",
+            "translation_cs": "Prosím si jablko."
+          },
+          {
+            "form_hu": "Mennyibe kerül?",
+            "translation_cs": "Kolik to stojí?"
+          }
         ]
       }
     ],
     "notes_cs": [
       "Egy znamená jeden nebo jedna; v běžné objednávce odpovídá českému neurčitému členu.",
       "Mennyi? znamená Kolik?"
-    ]
-  },
-  {
-    "id": "pohybova-slova",
-    "title_cs": "Kam jedeme? Hová a megy",
-    "level": "A1 · POHYB",
-    "summary_cs": "Spojte otázku na cíl, sloveso pohybu a koncovku směru.",
-    "rule_cs": "Hová? znamená Kam? Ve větě A vonat a városba megy sloveso megy označuje pohyb a -ba vyjadřuje cíl: Vlak jede do města.",
-    "groups": [
-      {
-        "name_cs": "Otázka a odpověď",
-        "suffix_hu": "hová",
-        "examples": [
-          { "form_hu": "Hová megy?", "translation_cs": "Kam jede / jde?" },
-          { "form_hu": "A vonat a városba megy.", "translation_cs": "Vlak jede do města." },
-          { "form_hu": "Hová megy a vonat?", "translation_cs": "Kam jede vlak?" }
-        ]
-      }
     ],
-    "notes_cs": [
-      "Hová se ptá na směr; hol se ptá na místo, kde se něco nachází.",
-      "U podmětu ve 3. osobě jednotného čísla použijte megy."
-    ]
-  },
-  {
-    "id": "poloha-na-povrchu",
-    "title_cs": "Poloha na místě: -n / -on / -en / -ön",
-    "level": "A1 · DALŠÍ MÍSTNÍ KONCOVKY",
-    "summary_cs": "Pro polohu na náměstí nebo na mostě se používá další skupina místních koncovek.",
-    "rule_cs": "U slov zakončených samohláskou často připojíme -n. Po souhlásce vybíráme -on, -en nebo -ön podle harmonie. Konkrétní podobu je dobré ověřit na daném slově; existují i ustálené výjimky.",
-    "groups": [
-      {
-        "name_cs": "Po samohlásce a na náměstí",
-        "suffix_hu": "-n / -en",
-        "examples": [
-          { "form_hu": "folyó → folyón", "translation_cs": "řeka → na řece" },
-          { "form_hu": "tér → téren", "translation_cs": "náměstí → na náměstí" },
-          { "form_hu": "A múzeum a téren van.", "translation_cs": "Muzeum je na náměstí." }
-        ]
-      },
-      {
-        "name_cs": "Varianty po souhlásce",
-        "suffix_hu": "-on / -en / -ön",
-        "examples": [
-          { "form_hu": "híd → hídon", "translation_cs": "most → na mostě" },
-          { "form_hu": "asztal → asztalon", "translation_cs": "stůl → na stole" },
-          { "form_hu": "A híd közel van.", "translation_cs": "Most je blízko." }
-        ]
-      }
-    ],
-    "notes_cs": [
-      "Slovo híd obsahuje přední neutrální í, přesto má ustálený tvar hídon.",
-      "Srovnejte význam: a parkban = v parku, a téren = na náměstí.",
-      "Koncovka pro povrch nebo místo není vždy doslovný překlad českého předložkového pádu."
-    ]
-  },
-  {
-    "id": "birtokos-m",
-    "title_cs": "Přivlastnění: moje věc nebo osoba",
-    "level": "A1 · RODINA",
-    "summary_cs": "Maďarština připojuje „můj/moje“ přímo ke jménu.",
-    "rule_cs": "Pro přivlastnění v 1. osobě jednotného čísla připojíme k podstatnému jménu příponu. Podoba se řídí harmonií a zakončením slova: často -om/-em po souhlásce, zatímco slova končící na -a mohou délku samohlásky změnit.",
-    "groups": [
-      {
-        "name_cs": "Přítel a rodina",
-        "suffix_hu": "-om / -em",
-        "examples": [
-          { "form_hu": "barát → barátom", "translation_cs": "přítel → můj přítel" },
-          { "form_hu": "család → családom", "translation_cs": "rodina → moje rodina" },
-          { "form_hu": "vendég → vendégem", "translation_cs": "host → můj host" },
-          { "form_hu": "testvér → testvérem", "translation_cs": "sourozenec → můj sourozenec" }
-        ]
-      },
-      {
-        "name_cs": "Slova zakončená na -a",
-        "suffix_hu": "-m",
-        "examples": [
-          { "form_hu": "anya → anyám", "translation_cs": "matka → moje matka" },
-          { "form_hu": "apa → apám", "translation_cs": "otec → můj otec" }
-        ]
-      }
-    ],
-    "notes_cs": [
-      "Přípona se připojuje ke slovu; české „můj/moje“ stojí zvlášť, maďarsky je součástí slova.",
-      "Neučte se jen samotnou příponu: zapamatujte si i změny kmene, například anya → anyám."
-    ]
-  },
-  {
-    "id": "casovani-prvni-osoba",
-    "title_cs": "Slovesa: „já“ v přítomném čase",
-    "level": "A1 · MŮJ DEN",
-    "summary_cs": "Slovníkový tvar slovesa se při „já“ mění podle osobní koncovky.",
-    "rule_cs": "Maďarská slovesa se ve slovníku běžně uvádějí ve 3. osobě jednotného čísla. Pro jednoduchý přítomný čas v 1. osobě přidáme osobní koncovku; její podoba závisí na harmonii i na tvaru slovesa.",
-    "groups": [
-      {
-        "name_cs": "Základní tvary v první osobě",
-        "suffix_hu": "já",
-        "examples": [
-          { "form_hu": "lakik → lakom", "translation_cs": "bydlí → bydlím" },
-          { "form_hu": "szeret → szeretek", "translation_cs": "má rád → mám rád" },
-          { "form_hu": "kér → kérek", "translation_cs": "žádá → žádám / prosím si" }
-        ]
-      }
-    ],
-    "notes_cs": [
-      "Základní slovníkový tvar ponecháváme ve slovníčku; osobní tvary se učíme postupně jako samostatné tvary.",
-      "U slovesa lakik se v běžné mluvě objevuje také lakok; tato lekce procvičuje tradiční tvar lakom."
+    "tags": [
+      "q1"
     ]
   },
   {
@@ -259,39 +222,118 @@
         "name_cs": "Předměty doma",
         "suffix_hu": "-k / -ok / -ek",
         "examples": [
-          { "form_hu": "ajtó → ajtók", "translation_cs": "dveře → dveře (množné číslo)" },
-          { "form_hu": "ablak → ablakok", "translation_cs": "okno → okna" },
-          { "form_hu": "asztal → asztalok", "translation_cs": "stůl → stoly" },
-          { "form_hu": "szék → székek", "translation_cs": "židle → židle (množné číslo)" }
+          {
+            "form_hu": "ajtó → ajtók",
+            "translation_cs": "dveře → dveře (množné číslo)"
+          },
+          {
+            "form_hu": "ablak → ablakok",
+            "translation_cs": "okno → okna"
+          },
+          {
+            "form_hu": "asztal → asztalok",
+            "translation_cs": "stůl → stoly"
+          },
+          {
+            "form_hu": "szék → székek",
+            "translation_cs": "židle → židle (množné číslo)"
+          }
         ]
       }
     ],
     "notes_cs": [
       "Konkrétní spojovací samohlásku vybíráme podle harmonie slova.",
       "V běžných větách se tvar slovesa přizpůsobuje podmětu; zde se soustředíme jen na podstatná jména."
+    ],
+    "tags": [
+      "q1"
     ]
   },
   {
-    "id": "mista-a-smery",
-    "title_cs": "Kde jsem a kam jdu?",
-    "level": "A1 · CESTOVÁNÍ",
-    "summary_cs": "Rozlišujte místo, kde něco je, od cíle, kam někdo míří.",
-    "rule_cs": "Koncovky -ban/-ben vyjadřují polohu uvnitř; -ba/-be vyjadřují směr dovnitř. Otázka hol? znamená kde?, zatímco hová? znamená kam?",
+    "id": "birtokos-m",
+    "title_cs": "Přivlastnění: moje věc nebo osoba",
+    "level": "A1 · RODINA",
+    "summary_cs": "Maďarština připojuje „můj/moje“ přímo ke jménu.",
+    "rule_cs": "Pro přivlastnění v 1. osobě jednotného čísla připojíme k podstatnému jménu příponu. Podoba se řídí harmonií a zakončením slova: často -om/-em po souhlásce, zatímco slova končící na -a mohou délku samohlásky změnit.",
     "groups": [
       {
-        "name_cs": "Místo a cíl",
-        "suffix_hu": "-ban/-ben · -ba/-be",
+        "name_cs": "Přítel a rodina",
+        "suffix_hu": "-om / -em",
         "examples": [
-          { "form_hu": "szálloda → szállodában / szállodába", "translation_cs": "hotel → v hotelu / do hotelu" },
-          { "form_hu": "étterem → étteremben / étterembe", "translation_cs": "restaurace → v restauraci / do restaurace" },
-          { "form_hu": "mozi → moziban / moziba", "translation_cs": "kino → v kině / do kina" },
-          { "form_hu": "kórház → kórházban / kórházba", "translation_cs": "nemocnice → v nemocnici / do nemocnice" }
+          {
+            "form_hu": "barát → barátom",
+            "translation_cs": "přítel → můj přítel"
+          },
+          {
+            "form_hu": "család → családom",
+            "translation_cs": "rodina → moje rodina"
+          },
+          {
+            "form_hu": "vendég → vendégem",
+            "translation_cs": "host → můj host"
+          },
+          {
+            "form_hu": "testvér → testvérem",
+            "translation_cs": "sourozenec → můj sourozenec"
+          }
+        ]
+      },
+      {
+        "name_cs": "Slova zakončená na -a",
+        "suffix_hu": "-m",
+        "examples": [
+          {
+            "form_hu": "anya → anyám",
+            "translation_cs": "matka → moje matka"
+          },
+          {
+            "form_hu": "apa → apám",
+            "translation_cs": "otec → můj otec"
+          }
         ]
       }
     ],
     "notes_cs": [
-      "Pomůcka: hol? se ptá na místo, hová? na směr.",
-      "Učte se obě koncovky s celým slovem, protože harmonie určuje jejich podobu."
+      "Přípona se připojuje ke slovu; české „můj/moje“ stojí zvlášť, maďarsky je součástí slova.",
+      "Neučte se jen samotnou příponu: zapamatujte si i změny kmene, například anya → anyám."
+    ],
+    "tags": [
+      "q2",
+      "q1"
+    ]
+  },
+  {
+    "id": "casovani-prvni-osoba",
+    "title_cs": "Slovesa: „já“ v přítomném čase",
+    "level": "A1 · MŮJ DEN",
+    "summary_cs": "Slovníkový tvar slovesa se při „já“ mění podle osobní koncovky.",
+    "rule_cs": "Maďarská slovesa se ve slovníku běžně uvádějí ve 3. osobě jednotného čísla. Pro jednoduchý přítomný čas v 1. osobě přidáme osobní koncovku; její podoba závisí na harmonii i na tvaru slovesa.",
+    "groups": [
+      {
+        "name_cs": "Základní tvary v první osobě",
+        "suffix_hu": "já",
+        "examples": [
+          {
+            "form_hu": "lakik → lakom",
+            "translation_cs": "bydlí → bydlím"
+          },
+          {
+            "form_hu": "szeret → szeretek",
+            "translation_cs": "má rád → mám rád"
+          },
+          {
+            "form_hu": "kér → kérek",
+            "translation_cs": "žádá → žádám / prosím si"
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Základní slovníkový tvar ponecháváme ve slovníčku; osobní tvary se učíme postupně jako samostatné tvary.",
+      "U slovesa lakik se v běžné mluvě objevuje také lakok; tato lekce procvičuje tradiční tvar lakom."
+    ],
+    "tags": [
+      "q1"
     ]
   },
   {
@@ -305,104 +347,27 @@
         "name_cs": "Srovnání",
         "suffix_hu": "szeretek · szeretem",
         "examples": [
-          { "form_hu": "Szeretek kávét.", "translation_cs": "Mám rád kávu (obecně)." },
-          { "form_hu": "Szeretem a családomat.", "translation_cs": "Mám rád svou rodinu." },
-          { "form_hu": "család + -om + -at → családomat", "translation_cs": "rodina + moje + předmět" }
+          {
+            "form_hu": "Szeretek kávét.",
+            "translation_cs": "Mám rád kávu (obecně)."
+          },
+          {
+            "form_hu": "Szeretem a családomat.",
+            "translation_cs": "Mám rád svou rodinu."
+          },
+          {
+            "form_hu": "család + -om + -at → családomat",
+            "translation_cs": "rodina + moje + předmět"
+          }
         ]
       }
     ],
     "notes_cs": [
       "Kontrastujte dvojici: Szeretek kávét = mám rád kávu obecně; Szeretem a kávét = mám rád tu kávu.",
       "V tomto příkladu se v podstatném jménu spojí přivlastnění a předmětová přípona."
-    ]
-  },
-  {
-    "id": "jelenido-harmadik-osoba",
-    "title_cs": "Přítomný čas ve 3. osobě",
-    "level": "A1 · UHER PŘED ROKEM 1914",
-    "summary_cs": "Ve větě o vlaku či cestujícím se základní tvar slovesa často používá také pro „on/ona/to“.",
-    "rule_cs": "U mnoha sloves je tvar 3. osoby jednotného čísla přítomného času stejný jako základní tvar uváděný ve slovníčku: A vonat indul. (Vlak odjíždí.) Sloveso megy je nepravidelné a některá slovesa mají ve 3. osobě zakončení -ik, například érkezik.",
-    "groups": [
-      {
-        "name_cs": "Cestující a vlak",
-        "suffix_hu": "základní tvar",
-        "examples": [
-          { "form_hu": "indul → A vonat indul.", "translation_cs": "odjíždí → Vlak odjíždí." },
-          { "form_hu": "érkezik → A vonat érkezik.", "translation_cs": "přijíždí → Vlak přijíždí." },
-          { "form_hu": "megy → A vendég megy.", "translation_cs": "jde / jede → Host jde / jede." }
-        ]
-      }
     ],
-    "notes_cs": [
-      "Základní tvar slovesa je ve slovníčku uveden bez osobní koncovky pro „já“.",
-      "U slovesa érkezik patří zakončení -ik k jeho základnímu tvaru."
-    ]
-  },
-  {
-    "id": "prijemce-nak-nek",
-    "title_cs": "Adresát: koncovka -nak/-nek",
-    "level": "A1 · DOPIS A POŠTA",
-    "summary_cs": "Koncovka označí člověka nebo skupinu, které něco dáváme či píšeme.",
-    "rule_cs": "K podstatnému jménu připojte -nak po zadních samohláskách a -nek po předních. Tvar označuje příjemce: a családnak = rodině, a vendégnek = hostovi.",
-    "groups": [
-      {
-        "name_cs": "Komu?",
-        "suffix_hu": "-nak / -nek",
-        "examples": [
-          { "form_hu": "család + -nak → családnak", "translation_cs": "rodina → rodině" },
-          { "form_hu": "vendég + -nek → vendégnek", "translation_cs": "host → hostovi" },
-          { "form_hu": "A családnak levelet írok.", "translation_cs": "Píšu rodině dopis." }
-        ]
-      }
-    ],
-    "notes_cs": [
-      "Volbu -nak/-nek řídí samohlásková harmonie.",
-      "Vlastní jména se skloňují stejně: Anna → Annának, tedy Anně."
-    ]
-  },
-  {
-    "id": "prepravni-prostredek-val-vel",
-    "title_cs": "Čím jedu? Koncovka -val/-vel",
-    "level": "A1 · MĚSTO V ROCE 1913",
-    "summary_cs": "Koncovka -val/-vel vyjadřuje prostředek nebo doprovod.",
-    "rule_cs": "Po samohlásce připojte -val/-vel podle harmonie. Po souhlásce se počáteční v v koncovce přizpůsobí poslední souhlásce slova; v pravopisu se tato souhláska zdvojí: kocsi + -val = kocsival, villamos + -val = villamossal.",
-    "groups": [
-      {
-        "name_cs": "Cesta městem",
-        "suffix_hu": "-val / -vel",
-        "examples": [
-          { "form_hu": "kocsi + -val → kocsival", "translation_cs": "kočár → kočárem" },
-          { "form_hu": "villamos + -val → villamossal", "translation_cs": "tramvaj → tramvají" },
-          { "form_hu": "ló + -val → lóval", "translation_cs": "kůň → s koněm" }
-        ]
-      }
-    ],
-    "notes_cs": [
-      "U slov zakončených souhláskou se v -val/-vel zdvojí poslední souhláska: vonat + -val = vonattal.",
-      "Význam závisí na větě: villamossal megy = jede tramvají; lóval van = je s koněm."
-    ]
-  },
-  {
-    "id": "q1-mnozne-cislo",
-    "title_cs": "Množné číslo: koncovka -k",
-    "level": "Q1 · ZÁKLADNÍ TVARY",
-    "summary_cs": "Koncovka -k tvoří množné číslo; před ní se často vloží samohláska podle zakončení a harmonie.",
-    "rule_cs": "Po samohlásce obvykle připojte -k: csákó → csákók. Po souhlásce se často vloží harmonická samohláska: gomb → gombok, ing → ingek. Některá slova mění kmen nebo délku samohlásky, proto se učte celý tvar.",
-    "groups": [
-      {
-        "name_cs": "Věci v kasárnách",
-        "suffix_hu": "-k",
-        "examples": [
-          { "form_hu": "csákó → csákók", "translation_cs": "čákó (jeden kus) → více čákó" },
-          { "form_hu": "gomb → gombok", "translation_cs": "knoflík → knoflíky" },
-          { "form_hu": "ing → ingek", "translation_cs": "košile (jedna) → košile (množné číslo)" },
-          { "form_hu": "ágy → ágyak", "translation_cs": "postel → postele" }
-        ]
-      }
-    ],
-    "notes_cs": [
-      "Po zadních samohláskách bývá vkládací samohláska -o/-a; po předních často -e/-ö.",
-      "Jednotlivé tvary se mohou lišit, například csizma → csizmák; množné číslo se proto procvičuje spolu se slovem."
+    "tags": [
+      "q1"
     ]
   },
   {
@@ -416,15 +381,605 @@
         "name_cs": "Krátké věty z kasáren",
         "suffix_hu": "neurčité časování",
         "examples": [
-          { "form_hu": "A honvéd vizet kér.", "translation_cs": "Voják žádá o vodu." },
-          { "form_hu": "A közlegény kenyeret kér.", "translation_cs": "Vojín žádá o chléb." },
-          { "form_hu": "Az őrmester parancsot ad.", "translation_cs": "Seržant dává rozkaz." }
+          {
+            "form_hu": "A honvéd vizet kér.",
+            "translation_cs": "Voják žádá o vodu."
+          },
+          {
+            "form_hu": "A közlegény kenyeret kér.",
+            "translation_cs": "Vojín žádá o chléb."
+          },
+          {
+            "form_hu": "Az őrmester parancsot ad.",
+            "translation_cs": "Seržant dává rozkaz."
+          }
         ]
       }
     ],
     "notes_cs": [
       "Neurčité časování se používá také tehdy, když sloveso nemá předmět: A honvéd pihen. = Voják odpočívá.",
       "Rozdíl mezi neurčitým a určitým časováním se bude rozvíjet v pozdějším čtvrtletí."
+    ],
+    "tags": [
+      "q1",
+      "indefinite_present"
+    ]
+  },
+  {
+    "id": "q1-mnozne-cislo",
+    "title_cs": "Množné číslo: koncovka -k",
+    "level": "Q1 · ZÁKLADNÍ TVARY",
+    "summary_cs": "Koncovka -k tvoří množné číslo; před ní se často vloží samohláska podle zakončení a harmonie.",
+    "rule_cs": "Po samohlásce obvykle připojte -k: csákó → csákók. Po souhlásce se často vloží harmonická samohláska: gomb → gombok, ing → ingek. Některá slova mění kmen nebo délku samohlásky, proto se učte celý tvar.",
+    "groups": [
+      {
+        "name_cs": "Věci v kasárnách",
+        "suffix_hu": "-k",
+        "examples": [
+          {
+            "form_hu": "csákó → csákók",
+            "translation_cs": "čákó (jeden kus) → více čákó"
+          },
+          {
+            "form_hu": "gomb → gombok",
+            "translation_cs": "knoflík → knoflíky"
+          },
+          {
+            "form_hu": "ing → ingek",
+            "translation_cs": "košile (jedna) → košile (množné číslo)"
+          },
+          {
+            "form_hu": "ágy → ágyak",
+            "translation_cs": "postel → postele"
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Po zadních samohláskách bývá vkládací samohláska -o/-a; po předních často -e/-ö.",
+      "Jednotlivé tvary se mohou lišit, například csizma → csizmák; množné číslo se proto procvičuje spolu se slovem."
+    ],
+    "tags": [
+      "q1",
+      "plural_formation"
+    ]
+  },
+  {
+    "id": "smer-dovnitr",
+    "title_cs": "Směr dovnitř: -ba / -be",
+    "level": "A1 · KONCOVKY",
+    "summary_cs": "Koncovky -ba a -be říkají, že někdo nebo něco míří dovnitř.",
+    "rule_cs": "Stejně jako u dalších maďarských přípon vybíráme variantu podle samohláskové harmonie.",
+    "groups": [
+      {
+        "name_cs": "Zadní varianta",
+        "suffix_hu": "-ba",
+        "examples": [
+          {
+            "form_hu": "a házba",
+            "translation_cs": "do domu"
+          },
+          {
+            "form_hu": "a táskába",
+            "translation_cs": "do tašky"
+          }
+        ]
+      },
+      {
+        "name_cs": "Přední varianta",
+        "suffix_hu": "-be",
+        "examples": [
+          {
+            "form_hu": "a kertbe",
+            "translation_cs": "na zahradu"
+          },
+          {
+            "form_hu": "a könyvbe",
+            "translation_cs": "do knihy"
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Porovnejte: a házban = v domě, ale a házba = do domu.",
+      "Po slovesech pohybu se často používá tvar vyjadřující směr."
+    ],
+    "tags": [
+      "q2"
+    ]
+  },
+  {
+    "id": "pohybova-slova",
+    "title_cs": "Kam jedeme? Hová a megy",
+    "level": "A1 · POHYB",
+    "summary_cs": "Spojte otázku na cíl, sloveso pohybu a koncovku směru.",
+    "rule_cs": "Hová? znamená Kam? Ve větě A vonat a városba megy sloveso megy označuje pohyb a -ba vyjadřuje cíl: Vlak jede do města.",
+    "groups": [
+      {
+        "name_cs": "Otázka a odpověď",
+        "suffix_hu": "hová",
+        "examples": [
+          {
+            "form_hu": "Hová megy?",
+            "translation_cs": "Kam jede / jde?"
+          },
+          {
+            "form_hu": "A vonat a városba megy.",
+            "translation_cs": "Vlak jede do města."
+          },
+          {
+            "form_hu": "Hová megy a vonat?",
+            "translation_cs": "Kam jede vlak?"
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Hová se ptá na směr; hol se ptá na místo, kde se něco nachází.",
+      "U podmětu ve 3. osobě jednotného čísla použijte megy."
+    ],
+    "tags": [
+      "q2"
+    ]
+  },
+  {
+    "id": "poloha-na-povrchu",
+    "title_cs": "Poloha na místě: -n / -on / -en / -ön",
+    "level": "A1 · DALŠÍ MÍSTNÍ KONCOVKY",
+    "summary_cs": "Pro polohu na náměstí nebo na mostě se používá další skupina místních koncovek.",
+    "rule_cs": "U slov zakončených samohláskou často připojíme -n. Po souhlásce vybíráme -on, -en nebo -ön podle harmonie. Konkrétní podobu je dobré ověřit na daném slově; existují i ustálené výjimky.",
+    "groups": [
+      {
+        "name_cs": "Po samohlásce a na náměstí",
+        "suffix_hu": "-n / -en",
+        "examples": [
+          {
+            "form_hu": "folyó → folyón",
+            "translation_cs": "řeka → na řece"
+          },
+          {
+            "form_hu": "tér → téren",
+            "translation_cs": "náměstí → na náměstí"
+          },
+          {
+            "form_hu": "A múzeum a téren van.",
+            "translation_cs": "Muzeum je na náměstí."
+          }
+        ]
+      },
+      {
+        "name_cs": "Varianty po souhlásce",
+        "suffix_hu": "-on / -en / -ön",
+        "examples": [
+          {
+            "form_hu": "híd → hídon",
+            "translation_cs": "most → na mostě"
+          },
+          {
+            "form_hu": "asztal → asztalon",
+            "translation_cs": "stůl → na stole"
+          },
+          {
+            "form_hu": "A híd közel van.",
+            "translation_cs": "Most je blízko."
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Slovo híd obsahuje přední neutrální í, přesto má ustálený tvar hídon.",
+      "Srovnejte význam: a parkban = v parku, a téren = na náměstí.",
+      "Koncovka pro povrch nebo místo není vždy doslovný překlad českého předložkového pádu."
+    ],
+    "tags": [
+      "q2",
+      "superessive_on_en_on"
+    ]
+  },
+  {
+    "id": "poloha-u-mista",
+    "title_cs": "Poloha u místa: -nál / -nél",
+    "level": "Q2 · MÍSTA A SMĚRY",
+    "summary_cs": "Přípony -nál a -nél vyjadřují polohu u konkrétního místa nebo osoby.",
+    "rule_cs": "K podstatnému jménu připojte -nál po zadních samohláskách a -nél po předních. Tvar často odpovídá českému „u“ nebo „při“: postánál = u pošty, kertnél = u zahrady. Nezaměňujte s -ban / -ben, které vyjadřuje polohu uvnitř.",
+    "groups": [
+      {
+        "name_cs": "Po zadních samohláskách",
+        "suffix_hu": "-nál",
+        "examples": [
+          {
+            "form_hu": "posta → postánál",
+            "translation_cs": "pošta → u pošty"
+          },
+          {
+            "form_hu": "szálloda → szállodánál",
+            "translation_cs": "hotel → u hotelu"
+          },
+          {
+            "form_hu": "A posta a szállodánál van.",
+            "translation_cs": "Pošta je u hotelu."
+          }
+        ]
+      },
+      {
+        "name_cs": "Po předních samohláskách",
+        "suffix_hu": "-nél",
+        "examples": [
+          {
+            "form_hu": "kert → kertnél",
+            "translation_cs": "zahrada → u zahrady"
+          },
+          {
+            "form_hu": "személy → személynél",
+            "translation_cs": "osoba → u osoby"
+          },
+          {
+            "form_hu": "A kertnél várok.",
+            "translation_cs": "Čekám u zahrady."
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Základní rozlišení: a postánál = u pošty, a postában = na poště / uvnitř pošty.",
+      "Slovo híd má přední í, ale užívá ustálený tvar hídnál.",
+      "Názvy zakončené samohláskou mohou při připojení přípony změnit pravopis."
+    ],
+    "tags": [
+      "q2",
+      "adessive_nal_nel"
+    ]
+  },
+  {
+    "id": "mista-a-smery",
+    "title_cs": "Kde jsem a kam jdu?",
+    "level": "A1 · CESTOVÁNÍ",
+    "summary_cs": "Rozlišujte místo, kde něco je, od cíle, kam někdo míří.",
+    "rule_cs": "Koncovky -ban/-ben vyjadřují polohu uvnitř; -ba/-be vyjadřují směr dovnitř. Otázka hol? znamená kde?, zatímco hová? znamená kam?",
+    "groups": [
+      {
+        "name_cs": "Místo a cíl",
+        "suffix_hu": "-ban/-ben · -ba/-be",
+        "examples": [
+          {
+            "form_hu": "szálloda → szállodában / szállodába",
+            "translation_cs": "hotel → v hotelu / do hotelu"
+          },
+          {
+            "form_hu": "étterem → étteremben / étterembe",
+            "translation_cs": "restaurace → v restauraci / do restaurace"
+          },
+          {
+            "form_hu": "mozi → moziban / moziba",
+            "translation_cs": "kino → v kině / do kina"
+          },
+          {
+            "form_hu": "kórház → kórházban / kórházba",
+            "translation_cs": "nemocnice → v nemocnici / do nemocnice"
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Pomůcka: hol? se ptá na místo, hová? na směr.",
+      "Učte se obě koncovky s celým slovem, protože harmonie určuje jejich podobu."
+    ],
+    "tags": [
+      "q2",
+      "inessive_ban_ben",
+      "superessive_on_en_on"
+    ]
+  },
+  {
+    "id": "prijemce-nak-nek",
+    "title_cs": "Adresát: koncovka -nak/-nek",
+    "level": "A1 · DOPIS A POŠTA",
+    "summary_cs": "Koncovka označí člověka nebo skupinu, které něco dáváme či píšeme.",
+    "rule_cs": "K podstatnému jménu připojte -nak po zadních samohláskách a -nek po předních. Tvar označuje příjemce: a családnak = rodině, a vendégnek = hostovi.",
+    "groups": [
+      {
+        "name_cs": "Komu?",
+        "suffix_hu": "-nak / -nek",
+        "examples": [
+          {
+            "form_hu": "család + -nak → családnak",
+            "translation_cs": "rodina → rodině"
+          },
+          {
+            "form_hu": "vendég + -nek → vendégnek",
+            "translation_cs": "host → hostovi"
+          },
+          {
+            "form_hu": "A családnak levelet írok.",
+            "translation_cs": "Píšu rodině dopis."
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Volbu -nak/-nek řídí samohlásková harmonie.",
+      "Vlastní jména se skloňují stejně: Anna → Annának, tedy Anně."
+    ],
+    "tags": [
+      "q2"
+    ]
+  },
+  {
+    "id": "jelenido-harmadik-osoba",
+    "title_cs": "Přítomný čas ve 3. osobě",
+    "level": "A1 · UHER PŘED ROKEM 1914",
+    "summary_cs": "Ve větě o vlaku či cestujícím se základní tvar slovesa často používá také pro „on/ona/to“.",
+    "rule_cs": "U mnoha sloves je tvar 3. osoby jednotného čísla přítomného času stejný jako základní tvar uváděný ve slovníčku: A vonat indul. (Vlak odjíždí.) Sloveso megy je nepravidelné a některá slovesa mají ve 3. osobě zakončení -ik, například érkezik.",
+    "groups": [
+      {
+        "name_cs": "Cestující a vlak",
+        "suffix_hu": "základní tvar",
+        "examples": [
+          {
+            "form_hu": "indul → A vonat indul.",
+            "translation_cs": "odjíždí → Vlak odjíždí."
+          },
+          {
+            "form_hu": "érkezik → A vonat érkezik.",
+            "translation_cs": "přijíždí → Vlak přijíždí."
+          },
+          {
+            "form_hu": "megy → A vendég megy.",
+            "translation_cs": "jde / jede → Host jde / jede."
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Základní tvar slovesa je ve slovníčku uveden bez osobní koncovky pro „já“.",
+      "U slovesa érkezik patří zakončení -ik k jeho základnímu tvaru."
+    ],
+    "tags": [
+      "q3"
+    ]
+  },
+  {
+    "id": "prepravni-prostredek-val-vel",
+    "title_cs": "Čím jedu? Koncovka -val/-vel",
+    "level": "A1 · MĚSTO V ROCE 1913",
+    "summary_cs": "Koncovka -val/-vel vyjadřuje prostředek nebo doprovod.",
+    "rule_cs": "Po samohlásce připojte -val/-vel podle harmonie. Po souhlásce se počáteční v v koncovce přizpůsobí poslední souhlásce slova; v pravopisu se tato souhláska zdvojí: kocsi + -val = kocsival, villamos + -val = villamossal.",
+    "groups": [
+      {
+        "name_cs": "Cesta městem",
+        "suffix_hu": "-val / -vel",
+        "examples": [
+          {
+            "form_hu": "kocsi + -val → kocsival",
+            "translation_cs": "kočár → kočárem"
+          },
+          {
+            "form_hu": "villamos + -val → villamossal",
+            "translation_cs": "tramvaj → tramvají"
+          },
+          {
+            "form_hu": "ló + -val → lóval",
+            "translation_cs": "kůň → s koněm"
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "U slov zakončených souhláskou se v -val/-vel zdvojí poslední souhláska: vonat + -val = vonattal.",
+      "Význam závisí na větě: villamossal megy = jede tramvají; lóval van = je s koněm."
+    ],
+    "tags": [
+      "q3"
+    ]
+  },
+  {
+    "id": "q3-past-tense",
+    "title_cs": "Minulý čas",
+    "level": "Q3 · CESTOVÁNÍ A TECHNIKA",
+    "summary_cs": "Minulý čas se tvoří příponou -t/-tt a osobní koncovkou.",
+    "rule_cs": "V minulém čase se k základu slovesa připojuje -t nebo -tt a osobní koncovka. Například a vonat elindult = vlak vyjel; az utas megérkezett = cestující dorazil. Tvar se mění podle osoby a podle hláskové stavby slovesa.",
+    "groups": [
+      {
+        "name_cs": "Cesta a práce v minulosti",
+        "suffix_hu": "-t/-tt · minulý čas",
+        "examples": [
+          {
+            "form_hu": "Tegnap a vonat elindult.",
+            "translation_cs": "Včera vlak vyjel."
+          },
+          {
+            "form_hu": "A mérnök megvizsgálta a gépet.",
+            "translation_cs": "Inženýr prohlédl stroj."
+          },
+          {
+            "form_hu": "A távírász elküldött egy táviratot.",
+            "translation_cs": "Telegrafista odeslal telegram."
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Neurčitý předmět vyžaduje neurčité časování; určitý předmět určité časování.",
+      "Pořadí slov se řídí informačním důrazem; minulý tvar slovesa zůstává u slovesa."
+    ],
+    "tags": [
+      "q3",
+      "past_tense"
+    ]
+  },
+  {
+    "id": "q3-definite-conjugation",
+    "title_cs": "Minulý čas: určité a neurčité časování",
+    "level": "Q3 · CESTOVÁNÍ A TECHNIKA",
+    "summary_cs": "Určitý předmět vyžaduje určité časování; neurčitý předmět neurčité.",
+    "rule_cs": "Porovnejte a mérnök megvizsgált egy gépet (inženýr prohlédl nějaký stroj) a a mérnök megvizsgálta a gépet (inženýr prohlédl ten stroj). U 3. osoby se rozdíl dobře slyší: neurčitě -t/-tt, určitě -ta/-te. V 1. osobě jednotného čísla mohou být některé tvary stejné, proto se učte celý větný vzor.",
+    "groups": [
+      {
+        "name_cs": "Neurčitý a určitý předmět",
+        "suffix_hu": "neurčité · určité",
+        "examples": [
+          {
+            "form_hu": "A kalauz megkérdezett egy utast.",
+            "translation_cs": "Průvodčí se zeptal jednoho cestujícího."
+          },
+          {
+            "form_hu": "A kalauz megkérdezte az utast.",
+            "translation_cs": "Průvodčí se zeptal toho cestujícího."
+          },
+          {
+            "form_hu": "A mérnök megjavította a gépet.",
+            "translation_cs": "Inženýr opravil stroj."
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Neurčitý člen egy označuje neurčitý předmět.",
+      "Přivlastňovací přípona u předmětu může určitou osobu nebo věc určit: a jegyét = jeho/její jízdenku."
+    ],
+    "tags": [
+      "q3",
+      "definite_indefinite_conjugation"
+    ]
+  },
+  {
+    "id": "q3-possessive-suffixes",
+    "title_cs": "Přivlastňovací přípony: můj, tvůj, jeho/její",
+    "level": "Q3 · CESTOVÁNÍ A TECHNIKA",
+    "summary_cs": "Přivlastňovací přípona se připojuje přímo k podstatnému jménu.",
+    "rule_cs": "Přípona vyjadřuje vlastníka: jegyem = moje jízdenka, jegyed = tvoje jízdenka, jegye = jeho/její jízdenka. Podoba přípony závisí na zakončení a samohláskové harmonii podstatného jména. U koncového samohláskového základu se tvary mohou lišit, například hajóm = má loď.",
+    "groups": [
+      {
+        "name_cs": "Cestovní věci",
+        "suffix_hu": "-em/-om · -ed/-od · -e/-a",
+        "examples": [
+          {
+            "form_hu": "Megvan a jegyem.",
+            "translation_cs": "Mám svou jízdenku."
+          },
+          {
+            "form_hu": "Mutasd a jegyedet!",
+            "translation_cs": "Ukaž svou jízdenku!"
+          },
+          {
+            "form_hu": "A mérnök elővette a rajzát.",
+            "translation_cs": "Inženýr vytáhl svůj výkres."
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Vlastník je vyjádřen příponou, nikoli samostatným zájmenem.",
+      "Předmět s přivlastňovací příponou obvykle vyžaduje určité časování slovesa."
+    ],
+    "tags": [
+      "q3",
+      "possessive_1s_2s_3s"
+    ]
+  },
+  {
+    "id": "q4-conditional-mood",
+    "title_cs": "Podmiňovací způsob",
+    "level": "Q4 · SPOLEČNOST V ROCE 1914",
+    "summary_cs": "Podmiňovací způsob vyjadřuje podmínku, přání nebo zdvořilou žádost.",
+    "rule_cs": "Podmiňovací tvary se tvoří pomocí -na/-ne nebo -ná/-né podle časování a předmětu. Například a jegyző válaszolna = písař by odpověděl; ha megkapná az iratot = kdyby dostal tu listinu. Ve vedlejší podmínkové větě bývá ha, v hlavní větě často volna.",
+    "groups": [
+      {
+        "name_cs": "Podmínky a zdvořilé žádosti",
+        "suffix_hu": "-na/-ne · -ná/-né",
+        "examples": [
+          {
+            "form_hu": "Ha a tanács tudná az igazságot, válaszolna.",
+            "translation_cs": "Kdyby rada znala pravdu, odpověděla by."
+          },
+          {
+            "form_hu": "A jegyző elolvasná a kérvényt.",
+            "translation_cs": "Písař by si žádost přečetl."
+          },
+          {
+            "form_hu": "Kérem, segítene az ügyben?",
+            "translation_cs": "Pomohl byste prosím v této záležitosti?"
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Při určitém předmětu se používá určitá podoba slovesa; při neurčitém předmětu neurčitá.",
+      "Podmínková věta může popisovat hypotetickou situaci, nikoli událost po roce 1914."
+    ],
+    "tags": [
+      "q4",
+      "conditional_mood"
+    ]
+  },
+  {
+    "id": "q4-imperative-mood",
+    "title_cs": "Rozkazovací způsob a zdvořilé pokyny",
+    "level": "Q4 · SPOLEČNOST V ROCE 1914",
+    "summary_cs": "Rozkazovací tvar slouží k pokynu, žádosti nebo radě.",
+    "rule_cs": "Maďarský rozkazovací způsob se tvoří pomocí -j a jeho hláskových obměn. U zdvořilé žádosti se často užívá 3. osoba: Kérem, olvassa el az iratot! = Prosím, přečtěte si listinu! Je-li předmět určitý, sloveso má určitou koncovku; předpona se v rozkazu často přesune za sloveso.",
+    "groups": [
+      {
+        "name_cs": "Pokyny na úřadě",
+        "suffix_hu": "-j · -ja/-je",
+        "examples": [
+          {
+            "form_hu": "Kérem, írja alá a kérvényt!",
+            "translation_cs": "Podepište prosím žádost!"
+          },
+          {
+            "form_hu": "Olvassa el a rendeletet!",
+            "translation_cs": "Přečtěte si nařízení!"
+          },
+          {
+            "form_hu": "Ne beszéljen hangosan!",
+            "translation_cs": "Nemluvte nahlas!"
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Předpona slovesa může stát po rozkazovacím tvaru: olvassa el.",
+      "Zdvořilost vyjadřuje zejména tvar 3. osoby, případně slovo kérem."
+    ],
+    "tags": [
+      "q4",
+      "imperative_mood"
+    ]
+  },
+  {
+    "id": "q4-verbal-prefixes",
+    "title_cs": "Slovesné předpony a změna významu",
+    "level": "Q4 · SPOLEČNOST V ROCE 1914",
+    "summary_cs": "Předpony mění význam nebo vid slovesa a jejich poloha se řídí větou.",
+    "rule_cs": "Předpony meg-, el-, be-, ki-, fel-, le-, vissza- a další upřesňují výsledek nebo směr děje. V oznamovací větě bývají před slovesem: elolvasta. Při záporu, rozkazu nebo důrazu se často přesunou za sloveso: nem olvasta el; olvassa el! Učte se význam celého slovesa.",
+    "groups": [
+      {
+        "name_cs": "Předpona v různých větách",
+        "suffix_hu": "předpona + sloveso",
+        "examples": [
+          {
+            "form_hu": "A jegyző elolvasta az iratot.",
+            "translation_cs": "Písař si přečetl listinu."
+          },
+          {
+            "form_hu": "A jegyző nem olvasta el az iratot.",
+            "translation_cs": "Písař si listinu nepřečetl."
+          },
+          {
+            "form_hu": "Olvassa el az iratot!",
+            "translation_cs": "Přečtěte si listinu!"
+          }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Předpony mohou změnit význam základního slovesa, například adni = dát, odaadni = podat.",
+      "V rozkazu a záporu se předpona často odděluje a stojí za slovesem."
+    ],
+    "tags": [
+      "q4",
+      "verbal_prefixes"
     ]
   }
 ]

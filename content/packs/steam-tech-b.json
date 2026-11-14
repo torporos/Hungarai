@@ -1,0 +1,2473 @@
+{
+  "order": 35,
+  "quarter": "q3",
+  "lesson": {
+    "id": "steam-tech-b",
+    "theme_id": "uhersko-1913",
+    "theme_title_cs": "Q3 · Parní pokrok a cesta monarchií",
+    "module_number": 3,
+    "module_title_cs": "Cesta, technika a minulý čas",
+    "title_cs": "Telefon, telegraf a železnice",
+    "description": "Historická maďarština v Rakousko-Uhersku do roku 1914; technika, doprava, zeměpis, profese a minulý čas.",
+    "level": "Q3 · CESTOVÁNÍ A TECHNIKA",
+    "duration_min": 20,
+    "xp_required": 1500,
+    "prerequisite_lesson_ids": [
+      "steam-tech-a"
+    ],
+    "vocabulary_ids": [
+      "telefonvezetek",
+      "telefonkeszulek",
+      "tavirokeszulek",
+      "taviroallomas",
+      "szikrataviro",
+      "morseabece",
+      "jelzoharang",
+      "jelzoberendezes",
+      "jelzolampa",
+      "biztositek",
+      "kapcsolo",
+      "aramkor",
+      "gepalkatresz",
+      "aramfejleszto",
+      "dinamo",
+      "gozturbina",
+      "menetjegy",
+      "returjegy",
+      "menetdij",
+      "jegypenztar",
+      "jegyarus",
+      "jegyvizsgalat",
+      "utazo",
+      "utas",
+      "utastars",
+      "utitars",
+      "halokocsi",
+      "etkezokocsi",
+      "szemelykocsi",
+      "teherkocsi",
+      "postakocsi",
+      "futokocsi",
+      "vasutikocsi",
+      "vasutitarsasag",
+      "vasutvonal",
+      "fovonal",
+      "mellekvonal",
+      "vagany",
+      "sin",
+      "valto",
+      "sorompo",
+      "jelzo",
+      "szemafor",
+      "menetrenditabla",
+      "indulasiido",
+      "erkezesiido",
+      "keses",
+      "atszallas",
+      "csatlakozas",
+      "vegallomas"
+    ],
+    "new_vocabulary_ids": [
+      "telefonvezetek",
+      "telefonkeszulek",
+      "tavirokeszulek",
+      "taviroallomas",
+      "szikrataviro",
+      "morseabece",
+      "jelzoharang",
+      "jelzoberendezes",
+      "jelzolampa",
+      "biztositek",
+      "kapcsolo",
+      "aramkor",
+      "gepalkatresz",
+      "aramfejleszto",
+      "dinamo",
+      "gozturbina",
+      "menetjegy",
+      "returjegy",
+      "menetdij",
+      "jegypenztar",
+      "jegyarus",
+      "jegyvizsgalat",
+      "utazo",
+      "utas",
+      "utastars",
+      "utitars",
+      "halokocsi",
+      "etkezokocsi",
+      "szemelykocsi",
+      "teherkocsi",
+      "postakocsi",
+      "futokocsi",
+      "vasutikocsi",
+      "vasutitarsasag",
+      "vasutvonal",
+      "fovonal",
+      "mellekvonal",
+      "vagany",
+      "sin",
+      "valto",
+      "sorompo",
+      "jelzo",
+      "szemafor",
+      "menetrenditabla",
+      "indulasiido",
+      "erkezesiido",
+      "keses",
+      "atszallas",
+      "csatlakozas",
+      "vegallomas"
+    ],
+    "grammar_ids": [],
+    "grammar_label_cs": "Slovní zásoba techniky, cest a povolání",
+    "exercise_ids": [
+      "steam-tech-b-word-01",
+      "steam-tech-b-word-02",
+      "steam-tech-b-word-03",
+      "steam-tech-b-word-04",
+      "steam-tech-b-word-05",
+      "steam-tech-b-word-06",
+      "steam-tech-b-word-07",
+      "steam-tech-b-word-08",
+      "steam-tech-b-word-09",
+      "steam-tech-b-word-10",
+      "steam-tech-b-word-11",
+      "steam-tech-b-word-12",
+      "steam-tech-b-word-13",
+      "steam-tech-b-word-14",
+      "steam-tech-b-word-15",
+      "steam-tech-b-word-16",
+      "steam-tech-b-word-17",
+      "steam-tech-b-word-18",
+      "steam-tech-b-word-19",
+      "steam-tech-b-word-20",
+      "steam-tech-b-word-21",
+      "steam-tech-b-word-22",
+      "steam-tech-b-word-23",
+      "steam-tech-b-word-24",
+      "steam-tech-b-word-25",
+      "steam-tech-b-word-26",
+      "steam-tech-b-word-27",
+      "steam-tech-b-word-28",
+      "steam-tech-b-word-29",
+      "steam-tech-b-word-30",
+      "steam-tech-b-word-31",
+      "steam-tech-b-word-32",
+      "steam-tech-b-word-33",
+      "steam-tech-b-word-34",
+      "steam-tech-b-word-35",
+      "steam-tech-b-word-36",
+      "steam-tech-b-word-37",
+      "steam-tech-b-word-38",
+      "steam-tech-b-word-39",
+      "steam-tech-b-word-40",
+      "steam-tech-b-word-41",
+      "steam-tech-b-word-42",
+      "steam-tech-b-word-43",
+      "steam-tech-b-word-44",
+      "steam-tech-b-word-45",
+      "steam-tech-b-word-46",
+      "steam-tech-b-word-47",
+      "steam-tech-b-word-48",
+      "steam-tech-b-word-49",
+      "steam-tech-b-word-50"
+    ],
+    "story_ids": [
+      "steam-tech-b-story-01",
+      "steam-tech-b-story-02",
+      "steam-tech-b-story-03",
+      "steam-tech-b-story-04",
+      "steam-tech-b-story-05"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "telefonvezetek",
+      "word": "telefonvezeték",
+      "translation_cs": "telefonní vedení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "telefonvezeték",
+          "translation_cs": "telefonní vedení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „telefonvezeték” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „telefonní vedení“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "telefonkeszulek",
+      "word": "telefonkészülék",
+      "translation_cs": "telefonní přístroj",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "telefonkészülék",
+          "translation_cs": "telefonní přístroj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „telefonkészülék” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „telefonní přístroj“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "tavirokeszulek",
+      "word": "távírókészülék",
+      "translation_cs": "telegrafní přístroj",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "távírókészülék",
+          "translation_cs": "telegrafní přístroj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „távírókészülék” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „telegrafní přístroj“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "taviroallomas",
+      "word": "távíróállomás",
+      "translation_cs": "telegrafní stanice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "távíróállomás",
+          "translation_cs": "telegrafní stanice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „távíróállomás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „telegrafní stanice“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "szikrataviro",
+      "word": "szikratávíró",
+      "translation_cs": "bezdrátový telegraf",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szikratávíró",
+          "translation_cs": "bezdrátový telegraf",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „szikratávíró” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „bezdrátový telegraf“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "morseabece",
+      "word": "Morse-ábécé",
+      "translation_cs": "Morseova abeceda",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Morse-ábécé",
+          "translation_cs": "Morseova abeceda",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Morse-ábécé” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Morseova abeceda“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "jelzoharang",
+      "word": "jelzőharang",
+      "translation_cs": "signální zvon",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jelzőharang",
+          "translation_cs": "signální zvon",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „jelzőharang” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „signální zvon“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "jelzoberendezes",
+      "word": "jelzőberendezés",
+      "translation_cs": "signalizační zařízení",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jelzőberendezés",
+          "translation_cs": "signalizační zařízení",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „jelzőberendezés” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „signalizační zařízení“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "jelzolampa",
+      "word": "jelzőlámpa",
+      "translation_cs": "signální lampa",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jelzőlámpa",
+          "translation_cs": "signální lampa",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „jelzőlámpa” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „signální lampa“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "biztositek",
+      "word": "biztosíték",
+      "translation_cs": "pojistka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "biztosíték",
+          "translation_cs": "pojistka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „biztosíték” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „pojistka“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "kapcsolo",
+      "word": "kapcsoló",
+      "translation_cs": "spínač",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kapcsoló",
+          "translation_cs": "spínač",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „kapcsoló” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „spínač“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "aramkor",
+      "word": "áramkör",
+      "translation_cs": "elektrický obvod",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "áramkör",
+          "translation_cs": "elektrický obvod",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „áramkör” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „elektrický obvod“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "gepalkatresz",
+      "word": "gépalkatrész",
+      "translation_cs": "součást stroje",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gépalkatrész",
+          "translation_cs": "součást stroje",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „gépalkatrész” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „součást stroje“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "aramfejleszto",
+      "word": "áramfejlesztő",
+      "translation_cs": "generátor",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "áramfejlesztő",
+          "translation_cs": "generátor",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „áramfejlesztő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „generátor“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "dinamo",
+      "word": "dinamó",
+      "translation_cs": "dynamo",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "dinamó",
+          "translation_cs": "dynamo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „dinamó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „dynamo“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "gozturbina",
+      "word": "gőzturbina",
+      "translation_cs": "parní turbína",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "gőzturbina",
+          "translation_cs": "parní turbína",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „gőzturbina” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „parní turbína“.",
+      "tags": [
+        "q3",
+        "tech_1914"
+      ]
+    },
+    {
+      "id": "menetjegy",
+      "word": "menetjegy",
+      "translation_cs": "jízdenka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "menetjegy",
+          "translation_cs": "jízdenka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „menetjegy” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „jízdenka“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "returjegy",
+      "word": "retúrjegy",
+      "translation_cs": "zpáteční jízdenka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "retúrjegy",
+          "translation_cs": "zpáteční jízdenka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „retúrjegy” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „zpáteční jízdenka“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "menetdij",
+      "word": "menetdíj",
+      "translation_cs": "jízdné",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "menetdíj",
+          "translation_cs": "jízdné",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „menetdíj” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „jízdné“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "jegypenztar",
+      "word": "jegypénztár",
+      "translation_cs": "pokladna na jízdenky",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jegypénztár",
+          "translation_cs": "pokladna na jízdenky",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „jegypénztár” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „pokladna na jízdenky“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "jegyarus",
+      "word": "jegyárus",
+      "translation_cs": "prodavač jízdenek",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jegyárus",
+          "translation_cs": "prodavač jízdenek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „jegyárus” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „prodavač jízdenek“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "jegyvizsgalat",
+      "word": "jegyvizsgálat",
+      "translation_cs": "kontrola jízdenek",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jegyvizsgálat",
+          "translation_cs": "kontrola jízdenek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „jegyvizsgálat” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „kontrola jízdenek“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "utazo",
+      "word": "utazó",
+      "translation_cs": "cestující",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "utazó",
+          "translation_cs": "cestující",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „utazó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „cestující“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "utas",
+      "word": "utas",
+      "translation_cs": "cestující",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "utas",
+          "translation_cs": "cestující",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „utas” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „cestující“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "utastars",
+      "word": "utastárs",
+      "translation_cs": "spolucestující",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "utastárs",
+          "translation_cs": "spolucestující",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „utastárs” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „spolucestující“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "utitars",
+      "word": "útitárs",
+      "translation_cs": "společník na cestě",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "útitárs",
+          "translation_cs": "společník na cestě",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „útitárs” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „společník na cestě“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "halokocsi",
+      "word": "hálókocsi",
+      "translation_cs": "lůžkový vůz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hálókocsi",
+          "translation_cs": "lůžkový vůz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hálókocsi” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „lůžkový vůz“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "etkezokocsi",
+      "word": "étkezőkocsi",
+      "translation_cs": "jídelní vůz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "étkezőkocsi",
+          "translation_cs": "jídelní vůz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „étkezőkocsi” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „jídelní vůz“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "szemelykocsi",
+      "word": "személykocsi",
+      "translation_cs": "osobní vůz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "személykocsi",
+          "translation_cs": "osobní vůz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „személykocsi” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „osobní vůz“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "teherkocsi",
+      "word": "teherkocsi",
+      "translation_cs": "nákladní vůz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "teherkocsi",
+          "translation_cs": "nákladní vůz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „teherkocsi” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „nákladní vůz“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "postakocsi",
+      "word": "postakocsi",
+      "translation_cs": "poštovní vůz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "postakocsi",
+          "translation_cs": "poštovní vůz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „postakocsi” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „poštovní vůz“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "futokocsi",
+      "word": "fűtőkocsi",
+      "translation_cs": "vytápěcí vůz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fűtőkocsi",
+          "translation_cs": "vytápěcí vůz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „fűtőkocsi” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „vytápěcí vůz“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "vasutikocsi",
+      "word": "vasúti kocsi",
+      "translation_cs": "železniční vůz",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasúti kocsi",
+          "translation_cs": "železniční vůz",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vasúti kocsi” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „železniční vůz“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "vasutitarsasag",
+      "word": "vasúti társaság",
+      "translation_cs": "železniční společnost",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasúti társaság",
+          "translation_cs": "železniční společnost",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vasúti társaság” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „železniční společnost“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "vasutvonal",
+      "word": "vasútvonal",
+      "translation_cs": "železniční trať",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasútvonal",
+          "translation_cs": "železniční trať",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vasútvonal” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „železniční trať“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "fovonal",
+      "word": "fővonal",
+      "translation_cs": "hlavní trať",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fővonal",
+          "translation_cs": "hlavní trať",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „fővonal” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „hlavní trať“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "mellekvonal",
+      "word": "mellékvonal",
+      "translation_cs": "vedlejší trať",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mellékvonal",
+          "translation_cs": "vedlejší trať",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „mellékvonal” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „vedlejší trať“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "vagany",
+      "word": "vágány",
+      "translation_cs": "kolej",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vágány",
+          "translation_cs": "kolej",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vágány” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „kolej“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "sin",
+      "word": "sín",
+      "translation_cs": "kolejnice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sín",
+          "translation_cs": "kolejnice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „sín” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „kolejnice“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "valto",
+      "word": "váltó",
+      "translation_cs": "výhybka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "váltó",
+          "translation_cs": "výhybka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „váltó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „výhybka“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "sorompo",
+      "word": "sorompó",
+      "translation_cs": "závora",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "sorompó",
+          "translation_cs": "závora",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „sorompó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „závora“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "jelzo",
+      "word": "jelző",
+      "translation_cs": "návěstidlo",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "jelző",
+          "translation_cs": "návěstidlo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „jelző” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „návěstidlo“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "szemafor",
+      "word": "szemafor",
+      "translation_cs": "semafor",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szemafor",
+          "translation_cs": "semafor",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „szemafor” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „semafor“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "menetrenditabla",
+      "word": "menetrendi tábla",
+      "translation_cs": "jízdní tabule",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "menetrendi tábla",
+          "translation_cs": "jízdní tabule",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „menetrendi tábla” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „jízdní tabule“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "indulasiido",
+      "word": "indulási idő",
+      "translation_cs": "čas odjezdu",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "indulási idő",
+          "translation_cs": "čas odjezdu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „indulási idő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „čas odjezdu“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "erkezesiido",
+      "word": "érkezési idő",
+      "translation_cs": "čas příjezdu",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "érkezési idő",
+          "translation_cs": "čas příjezdu",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „érkezési idő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „čas příjezdu“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "keses",
+      "word": "késés",
+      "translation_cs": "zpoždění",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "késés",
+          "translation_cs": "zpoždění",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „késés” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „zpoždění“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "atszallas",
+      "word": "átszállás",
+      "translation_cs": "přestup",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "átszállás",
+          "translation_cs": "přestup",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „átszállás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „přestup“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "csatlakozas",
+      "word": "csatlakozás",
+      "translation_cs": "přípoj",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "csatlakozás",
+          "translation_cs": "přípoj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „csatlakozás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „přípoj“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    },
+    {
+      "id": "vegallomas",
+      "word": "végállomás",
+      "translation_cs": "konečná stanice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "végállomás",
+          "translation_cs": "konečná stanice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „végállomás” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „konečná stanice“.",
+      "tags": [
+        "q3",
+        "travel_transport"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "steam-tech-b-word-01",
+      "type": "cloze",
+      "vocabulary_id": "telefonvezetek",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „telefonní vedení“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "telefonvezeték",
+        "telefonkészülék",
+        "távírókészülék"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „telefonvezeték” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-02",
+      "type": "recall",
+      "vocabulary_id": "telefonkeszulek",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „telefonní přístroj“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "telefonkészülék"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „telefonkészülék” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-03",
+      "type": "order",
+      "vocabulary_id": "tavirokeszulek",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „távírókészülék” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„távírókészülék”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„távírókészülék”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „távírókészülék” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-04",
+      "type": "cloze",
+      "vocabulary_id": "taviroallomas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „telegrafní stanice“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "távíróállomás",
+        "szikratávíró",
+        "Morse-ábécé"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „távíróállomás” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-05",
+      "type": "recall",
+      "vocabulary_id": "szikrataviro",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „bezdrátový telegraf“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "szikratávíró"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szikratávíró” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-06",
+      "type": "order",
+      "vocabulary_id": "morseabece",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Morse-ábécé” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Morse-ábécé”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Morse-ábécé”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Morse-ábécé” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-07",
+      "type": "cloze",
+      "vocabulary_id": "jelzoharang",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „signální zvon“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "jelzőharang",
+        "jelzőberendezés",
+        "jelzőlámpa"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „jelzőharang” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-08",
+      "type": "recall",
+      "vocabulary_id": "jelzoberendezes",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „signalizační zařízení“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "jelzőberendezés"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „jelzőberendezés” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-09",
+      "type": "order",
+      "vocabulary_id": "jelzolampa",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „jelzőlámpa” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„jelzőlámpa”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„jelzőlámpa”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „jelzőlámpa” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-10",
+      "type": "cloze",
+      "vocabulary_id": "biztositek",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „pojistka“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "biztosíték",
+        "kapcsoló",
+        "áramkör"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „biztosíték” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-11",
+      "type": "recall",
+      "vocabulary_id": "kapcsolo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „spínač“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "kapcsoló"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „kapcsoló” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-12",
+      "type": "order",
+      "vocabulary_id": "aramkor",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „áramkör” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„áramkör”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„áramkör”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „áramkör” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-13",
+      "type": "cloze",
+      "vocabulary_id": "gepalkatresz",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „součást stroje“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "gépalkatrész",
+        "áramfejlesztő",
+        "dinamó"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „gépalkatrész” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-14",
+      "type": "recall",
+      "vocabulary_id": "aramfejleszto",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „generátor“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "áramfejlesztő"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „áramfejlesztő” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-15",
+      "type": "order",
+      "vocabulary_id": "dinamo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „dinamó” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„dinamó”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„dinamó”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „dinamó” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-16",
+      "type": "cloze",
+      "vocabulary_id": "gozturbina",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „parní turbína“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "gőzturbina",
+        "telefonvezeték",
+        "telefonkészülék"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „gőzturbina” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-17",
+      "type": "recall",
+      "vocabulary_id": "menetjegy",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „jízdenka“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "menetjegy"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „menetjegy” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-18",
+      "type": "order",
+      "vocabulary_id": "returjegy",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „retúrjegy” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„retúrjegy”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„retúrjegy”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „retúrjegy” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-19",
+      "type": "cloze",
+      "vocabulary_id": "menetdij",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „jízdné“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "menetdíj",
+        "jegypénztár",
+        "jegyárus"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „menetdíj” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-20",
+      "type": "recall",
+      "vocabulary_id": "jegypenztar",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „pokladna na jízdenky“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "jegypénztár"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „jegypénztár” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-21",
+      "type": "order",
+      "vocabulary_id": "jegyarus",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „jegyárus” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„jegyárus”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„jegyárus”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „jegyárus” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-22",
+      "type": "cloze",
+      "vocabulary_id": "jegyvizsgalat",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „kontrola jízdenek“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "jegyvizsgálat",
+        "utazó",
+        "utas"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „jegyvizsgálat” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-23",
+      "type": "recall",
+      "vocabulary_id": "utazo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „cestující“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "utazó"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „utazó” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-24",
+      "type": "order",
+      "vocabulary_id": "utas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „utas” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„utas”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„utas”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „utas” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-25",
+      "type": "cloze",
+      "vocabulary_id": "utastars",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „spolucestující“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "utastárs",
+        "útitárs",
+        "hálókocsi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „utastárs” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-26",
+      "type": "recall",
+      "vocabulary_id": "utitars",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „společník na cestě“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "útitárs"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „útitárs” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-27",
+      "type": "order",
+      "vocabulary_id": "halokocsi",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „hálókocsi” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„hálókocsi”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„hálókocsi”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hálókocsi” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-28",
+      "type": "cloze",
+      "vocabulary_id": "etkezokocsi",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „jídelní vůz“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "étkezőkocsi",
+        "személykocsi",
+        "teherkocsi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „étkezőkocsi” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-29",
+      "type": "recall",
+      "vocabulary_id": "szemelykocsi",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „osobní vůz“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "személykocsi"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „személykocsi” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-30",
+      "type": "order",
+      "vocabulary_id": "teherkocsi",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „teherkocsi” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„teherkocsi”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„teherkocsi”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „teherkocsi” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-31",
+      "type": "cloze",
+      "vocabulary_id": "postakocsi",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „poštovní vůz“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "postakocsi",
+        "fűtőkocsi",
+        "vasúti kocsi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „postakocsi” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-32",
+      "type": "recall",
+      "vocabulary_id": "futokocsi",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vytápěcí vůz“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "fűtőkocsi"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fűtőkocsi” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-33",
+      "type": "order",
+      "vocabulary_id": "vasutikocsi",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „vasúti kocsi” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "kocsi”",
+        "„vasúti",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„vasúti",
+          "kocsi”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vasúti kocsi” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-34",
+      "type": "cloze",
+      "vocabulary_id": "vasutitarsasag",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „železniční společnost“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "vasúti társaság",
+        "vasútvonal",
+        "fővonal"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vasúti társaság” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-35",
+      "type": "recall",
+      "vocabulary_id": "vasutvonal",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „železniční trať“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "vasútvonal"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vasútvonal” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-36",
+      "type": "order",
+      "vocabulary_id": "fovonal",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „fővonal” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„fővonal”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„fővonal”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fővonal” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-37",
+      "type": "cloze",
+      "vocabulary_id": "mellekvonal",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „vedlejší trať“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "mellékvonal",
+        "vágány",
+        "sín"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „mellékvonal” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-38",
+      "type": "recall",
+      "vocabulary_id": "vagany",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „kolej“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "vágány"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vágány” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-39",
+      "type": "order",
+      "vocabulary_id": "sin",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „sín” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„sín”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„sín”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „sín” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-40",
+      "type": "cloze",
+      "vocabulary_id": "valto",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „výhybka“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "váltó",
+        "sorompó",
+        "jelző"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „váltó” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-41",
+      "type": "recall",
+      "vocabulary_id": "sorompo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „závora“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "sorompó"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „sorompó” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-42",
+      "type": "order",
+      "vocabulary_id": "jelzo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „jelző” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„jelző”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„jelző”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „jelző” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-43",
+      "type": "cloze",
+      "vocabulary_id": "szemafor",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „semafor“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "szemafor",
+        "menetrendi tábla",
+        "indulási idő"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „szemafor” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-44",
+      "type": "recall",
+      "vocabulary_id": "menetrenditabla",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „jízdní tabule“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "menetrendi tábla"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „menetrendi tábla” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-45",
+      "type": "order",
+      "vocabulary_id": "indulasiido",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „indulási idő” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "idő”",
+        "„indulási",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„indulási",
+          "idő”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „indulási idő” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-46",
+      "type": "cloze",
+      "vocabulary_id": "erkezesiido",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „čas příjezdu“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "érkezési idő",
+        "késés",
+        "átszállás"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „érkezési idő” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-47",
+      "type": "recall",
+      "vocabulary_id": "keses",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „zpoždění“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "késés"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „késés” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-48",
+      "type": "order",
+      "vocabulary_id": "atszallas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „átszállás” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„átszállás”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„átszállás”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „átszállás” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-49",
+      "type": "cloze",
+      "vocabulary_id": "csatlakozas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „přípoj“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "csatlakozás",
+        "végállomás",
+        "menetjegy"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „csatlakozás” kifejezést."
+    },
+    {
+      "id": "steam-tech-b-word-50",
+      "type": "recall",
+      "vocabulary_id": "vegallomas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „konečná stanice“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "végállomás"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „végállomás” kifejezést."
+    }
+  ],
+  "stories": [
+    {
+      "id": "steam-tech-b-story-01",
+      "title_cs": "Jízdní řád v dešti · 1",
+      "title_hu": "Eső és menetrend · 1",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "steam-tech-b"
+      ],
+      "curriculum_lesson_id": "steam-tech-b",
+      "new_vocabulary_ids": [
+        "telefonvezetek",
+        "telefonkeszulek",
+        "tavirokeszulek"
+      ],
+      "vocabulary_ids": [
+        "telefonvezetek",
+        "telefonkeszulek",
+        "tavirokeszulek"
+      ],
+      "segments": [
+        {
+          "text": "1913 őszén az utas a pályaudvaron várta a vonatot. A jegyzetébe három új kifejezést írt: "
+        },
+        {
+          "text": "telefonvezeték",
+          "vocabulary_id": "telefonvezetek"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "telefonkészülék",
+          "vocabulary_id": "telefonkeszulek"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "távírókészülék",
+          "vocabulary_id": "tavirokeszulek"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "steam-tech-b-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Na podzim roku 1913 čekal cestující na nádraží. Do poznámek si zapsal tři nové výrazy: telefonní vedení, telefonní přístroj, telegrafní přístroj."
+    },
+    {
+      "id": "steam-tech-b-story-02",
+      "title_cs": "Zpráva z dílny · 2",
+      "title_hu": "Hír a műhelyből · 2",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "steam-tech-b"
+      ],
+      "curriculum_lesson_id": "steam-tech-b",
+      "new_vocabulary_ids": [
+        "jelzoberendezes",
+        "jelzolampa",
+        "biztositek"
+      ],
+      "vocabulary_ids": [
+        "jelzoberendezes",
+        "jelzolampa",
+        "biztositek"
+      ],
+      "segments": [
+        {
+          "text": "A mérnök 1913-ban megvizsgálta a gépet, majd feljegyezte a munkát. A lap szélére ezt írta: "
+        },
+        {
+          "text": "jelzőberendezés",
+          "vocabulary_id": "jelzoberendezes"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "jelzőlámpa",
+          "vocabulary_id": "jelzolampa"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "biztosíték",
+          "vocabulary_id": "biztositek"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "steam-tech-b-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Inženýr v roce 1913 prohlédl stroj a zapsal si poznámky o práci. Na okraj listu napsal: signalizační zařízení, signální lampa, pojistka."
+    },
+    {
+      "id": "steam-tech-b-story-03",
+      "title_cs": "Mapa monarchie · 3",
+      "title_hu": "A Monarchia térképe · 3",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "steam-tech-b"
+      ],
+      "curriculum_lesson_id": "steam-tech-b",
+      "new_vocabulary_ids": [
+        "dinamo",
+        "gozturbina",
+        "menetjegy"
+      ],
+      "vocabulary_ids": [
+        "dinamo",
+        "gozturbina",
+        "menetjegy"
+      ],
+      "segments": [
+        {
+          "text": "A térképész 1913-ban bejárta a vidéket, és a térkép mellé három szót jegyzett fel: "
+        },
+        {
+          "text": "dinamó",
+          "vocabulary_id": "dinamo"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "gőzturbina",
+          "vocabulary_id": "gozturbina"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "menetjegy",
+          "vocabulary_id": "menetjegy"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "steam-tech-b-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Kartograf v roce 1913 procházel krajinou a vedle mapy si poznamenal tři výrazy: dynamo, parní turbína, jízdenka."
+    },
+    {
+      "id": "steam-tech-b-story-04",
+      "title_cs": "Mimořádná směna · 4",
+      "title_hu": "Rendkívüli műszak · 4",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "steam-tech-b"
+      ],
+      "curriculum_lesson_id": "steam-tech-b",
+      "new_vocabulary_ids": [
+        "jegyvizsgalat",
+        "utazo",
+        "utas"
+      ],
+      "vocabulary_ids": [
+        "jegyvizsgalat",
+        "utazo",
+        "utas"
+      ],
+      "segments": [
+        {
+          "text": "A gyárban a munkások 1913-ban pontosan dolgoztak. A művezető naplójába három kifejezést írt: "
+        },
+        {
+          "text": "jegyvizsgálat",
+          "vocabulary_id": "jegyvizsgalat"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "utazó",
+          "vocabulary_id": "utazo"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "utas",
+          "vocabulary_id": "utas"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "steam-tech-b-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Dělníci v továrně pracovali roku 1913 přesně. Mistr si do deníku zapsal tři výrazy: kontrola jízdenek, cestující, cestující."
+    },
+    {
+      "id": "steam-tech-b-story-05",
+      "title_cs": "Telegram z cesty · 5",
+      "title_hu": "Távirat az útról · 5",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "steam-tech-b"
+      ],
+      "curriculum_lesson_id": "steam-tech-b",
+      "new_vocabulary_ids": [
+        "szemelykocsi",
+        "teherkocsi",
+        "postakocsi"
+      ],
+      "vocabulary_ids": [
+        "szemelykocsi",
+        "teherkocsi",
+        "postakocsi"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a távírász este megkapta az utas üzenetét, majd továbbította a hivatalnak. A jegyzékében három szó állt: "
+        },
+        {
+          "text": "személykocsi",
+          "vocabulary_id": "szemelykocsi"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "teherkocsi",
+          "vocabulary_id": "teherkocsi"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "postakocsi",
+          "vocabulary_id": "postakocsi"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "steam-tech-b-story-05-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1913 telegrafista večer přijal zprávu cestujícího a předal ji úřadu. V seznamu měl tři výrazy: osobní vůz, nákladní vůz, poštovní vůz."
+    }
+  ]
+}

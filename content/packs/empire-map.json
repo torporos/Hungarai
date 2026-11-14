@@ -1,0 +1,2471 @@
+{
+  "order": 37,
+  "quarter": "q3",
+  "lesson": {
+    "id": "empire-map",
+    "theme_id": "uhersko-1913",
+    "theme_title_cs": "Q3 · Parní pokrok a cesta monarchií",
+    "module_number": 3,
+    "module_title_cs": "Cesta, technika a minulý čas",
+    "title_cs": "Města a krajiny monarchie",
+    "description": "Historická maďarština v Rakousko-Uhersku do roku 1914; technika, doprava, zeměpis, profese a minulý čas.",
+    "level": "Q3 · CESTOVÁNÍ A TECHNIKA",
+    "duration_min": 20,
+    "xp_required": 1700,
+    "prerequisite_lesson_ids": [
+      "railways-and-river-routes"
+    ],
+    "vocabulary_ids": [
+      "krakko",
+      "szarajevo",
+      "mostar",
+      "nagyvarad",
+      "arad",
+      "pecs",
+      "gyor",
+      "szekesfehervar",
+      "sopron",
+      "eszek",
+      "ujvidek",
+      "duna",
+      "tisza",
+      "drava",
+      "szava",
+      "maros",
+      "karpatok",
+      "alpok",
+      "alfold",
+      "dunantul",
+      "erdely",
+      "felvidek",
+      "bansag",
+      "bacska",
+      "horvatorszag",
+      "szlavonia",
+      "bosznia",
+      "hercegovina",
+      "galicia",
+      "bukovina",
+      "dalmacia",
+      "isztria",
+      "morvaorszag",
+      "csehorszag",
+      "stajerorszag",
+      "tirol",
+      "alsoausztria",
+      "felsoausztria",
+      "dunatiszakoze",
+      "hatarvidek",
+      "patak",
+      "volgy",
+      "hegyseg",
+      "hago",
+      "siksag",
+      "mellekfolyo",
+      "vasutas",
+      "mozdonyvezeto",
+      "futo",
+      "fekezo"
+    ],
+    "new_vocabulary_ids": [
+      "krakko",
+      "szarajevo",
+      "mostar",
+      "nagyvarad",
+      "arad",
+      "pecs",
+      "gyor",
+      "szekesfehervar",
+      "sopron",
+      "eszek",
+      "ujvidek",
+      "duna",
+      "tisza",
+      "drava",
+      "szava",
+      "maros",
+      "karpatok",
+      "alpok",
+      "alfold",
+      "dunantul",
+      "erdely",
+      "felvidek",
+      "bansag",
+      "bacska",
+      "horvatorszag",
+      "szlavonia",
+      "bosznia",
+      "hercegovina",
+      "galicia",
+      "bukovina",
+      "dalmacia",
+      "isztria",
+      "morvaorszag",
+      "csehorszag",
+      "stajerorszag",
+      "tirol",
+      "alsoausztria",
+      "felsoausztria",
+      "dunatiszakoze",
+      "hatarvidek",
+      "patak",
+      "volgy",
+      "hegyseg",
+      "hago",
+      "siksag",
+      "mellekfolyo",
+      "vasutas",
+      "mozdonyvezeto",
+      "futo",
+      "fekezo"
+    ],
+    "grammar_ids": [],
+    "grammar_label_cs": "Slovní zásoba techniky, cest a povolání",
+    "exercise_ids": [
+      "empire-map-word-01",
+      "empire-map-word-02",
+      "empire-map-word-03",
+      "empire-map-word-04",
+      "empire-map-word-05",
+      "empire-map-word-06",
+      "empire-map-word-07",
+      "empire-map-word-08",
+      "empire-map-word-09",
+      "empire-map-word-10",
+      "empire-map-word-11",
+      "empire-map-word-12",
+      "empire-map-word-13",
+      "empire-map-word-14",
+      "empire-map-word-15",
+      "empire-map-word-16",
+      "empire-map-word-17",
+      "empire-map-word-18",
+      "empire-map-word-19",
+      "empire-map-word-20",
+      "empire-map-word-21",
+      "empire-map-word-22",
+      "empire-map-word-23",
+      "empire-map-word-24",
+      "empire-map-word-25",
+      "empire-map-word-26",
+      "empire-map-word-27",
+      "empire-map-word-28",
+      "empire-map-word-29",
+      "empire-map-word-30",
+      "empire-map-word-31",
+      "empire-map-word-32",
+      "empire-map-word-33",
+      "empire-map-word-34",
+      "empire-map-word-35",
+      "empire-map-word-36",
+      "empire-map-word-37",
+      "empire-map-word-38",
+      "empire-map-word-39",
+      "empire-map-word-40",
+      "empire-map-word-41",
+      "empire-map-word-42",
+      "empire-map-word-43",
+      "empire-map-word-44",
+      "empire-map-word-45",
+      "empire-map-word-46",
+      "empire-map-word-47",
+      "empire-map-word-48",
+      "empire-map-word-49",
+      "empire-map-word-50"
+    ],
+    "story_ids": [
+      "empire-map-story-01",
+      "empire-map-story-02",
+      "empire-map-story-03",
+      "empire-map-story-04",
+      "empire-map-story-05"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "krakko",
+      "word": "Krakkó",
+      "translation_cs": "Krakov",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Krakkó",
+          "translation_cs": "Krakov",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Krakkó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Krakov“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "szarajevo",
+      "word": "Szarajevó",
+      "translation_cs": "Sarajevo",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Szarajevó",
+          "translation_cs": "Sarajevo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Szarajevó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Sarajevo“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "mostar",
+      "word": "Mostar",
+      "translation_cs": "Mostar",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Mostar",
+          "translation_cs": "Mostar",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Mostar” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Mostar“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "nagyvarad",
+      "word": "Nagyvárad",
+      "translation_cs": "Velký Varadín",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Nagyvárad",
+          "translation_cs": "Velký Varadín",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Nagyvárad” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Velký Varadín“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "arad",
+      "word": "Arad",
+      "translation_cs": "Arad",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Arad",
+          "translation_cs": "Arad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Arad” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Arad“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "pecs",
+      "word": "Pécs",
+      "translation_cs": "Pětikostelí",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Pécs",
+          "translation_cs": "Pětikostelí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Pécs” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Pětikostelí“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "gyor",
+      "word": "Győr",
+      "translation_cs": "Ráb",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Győr",
+          "translation_cs": "Ráb",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Győr” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Ráb“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "szekesfehervar",
+      "word": "Székesfehérvár",
+      "translation_cs": "Stoličný Bělehrad",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Székesfehérvár",
+          "translation_cs": "Stoličný Bělehrad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Székesfehérvár” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Stoličný Bělehrad“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "sopron",
+      "word": "Sopron",
+      "translation_cs": "Šoproň",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Sopron",
+          "translation_cs": "Šoproň",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Sopron” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Šoproň“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "eszek",
+      "word": "Eszék",
+      "translation_cs": "Esseg",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Eszék",
+          "translation_cs": "Esseg",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Eszék” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Esseg“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "ujvidek",
+      "word": "Újvidék",
+      "translation_cs": "Nový Sad",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Újvidék",
+          "translation_cs": "Nový Sad",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Újvidék” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Nový Sad“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "duna",
+      "word": "Duna",
+      "translation_cs": "Dunaj",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Duna",
+          "translation_cs": "Dunaj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Duna” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Dunaj“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "tisza",
+      "word": "Tisza",
+      "translation_cs": "Tisa",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Tisza",
+          "translation_cs": "Tisa",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Tisza” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Tisa“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "drava",
+      "word": "Dráva",
+      "translation_cs": "Dráva",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Dráva",
+          "translation_cs": "Dráva",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Dráva” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Dráva“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "szava",
+      "word": "Száva",
+      "translation_cs": "Sáva",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Száva",
+          "translation_cs": "Sáva",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Száva” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Sáva“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "maros",
+      "word": "Maros",
+      "translation_cs": "Mureș",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Maros",
+          "translation_cs": "Mureș",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Maros” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Mureș“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "karpatok",
+      "word": "Kárpátok",
+      "translation_cs": "Karpaty",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Kárpátok",
+          "translation_cs": "Karpaty",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Kárpátok” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Karpaty“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "alpok",
+      "word": "Alpok",
+      "translation_cs": "Alpy",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Alpok",
+          "translation_cs": "Alpy",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Alpok” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Alpy“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "alfold",
+      "word": "Alföld",
+      "translation_cs": "Velká uherská nížina",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Alföld",
+          "translation_cs": "Velká uherská nížina",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Alföld” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Velká uherská nížina“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "dunantul",
+      "word": "Dunántúl",
+      "translation_cs": "Zadunají",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Dunántúl",
+          "translation_cs": "Zadunají",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Dunántúl” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Zadunají“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "erdely",
+      "word": "Erdély",
+      "translation_cs": "Sedmihradsko",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Erdély",
+          "translation_cs": "Sedmihradsko",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Erdély” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Sedmihradsko“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "felvidek",
+      "word": "Felvidék",
+      "translation_cs": "Horní Uhry",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Felvidék",
+          "translation_cs": "Horní Uhry",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Felvidék” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Horní Uhry“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "bansag",
+      "word": "Bánság",
+      "translation_cs": "Banát",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Bánság",
+          "translation_cs": "Banát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Bánság” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Banát“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "bacska",
+      "word": "Bácska",
+      "translation_cs": "Bačka",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Bácska",
+          "translation_cs": "Bačka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Bácska” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Bačka“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "horvatorszag",
+      "word": "Horvátország",
+      "translation_cs": "Chorvatsko",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Horvátország",
+          "translation_cs": "Chorvatsko",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Horvátország” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Chorvatsko“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "szlavonia",
+      "word": "Szlavónia",
+      "translation_cs": "Slavonie",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Szlavónia",
+          "translation_cs": "Slavonie",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Szlavónia” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Slavonie“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "bosznia",
+      "word": "Bosznia",
+      "translation_cs": "Bosna",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Bosznia",
+          "translation_cs": "Bosna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Bosznia” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Bosna“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "hercegovina",
+      "word": "Hercegovina",
+      "translation_cs": "Hercegovina",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Hercegovina",
+          "translation_cs": "Hercegovina",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Hercegovina” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Hercegovina“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "galicia",
+      "word": "Galícia",
+      "translation_cs": "Halič",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Galícia",
+          "translation_cs": "Halič",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Galícia” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Halič“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "bukovina",
+      "word": "Bukovina",
+      "translation_cs": "Bukovina",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Bukovina",
+          "translation_cs": "Bukovina",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Bukovina” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Bukovina“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "dalmacia",
+      "word": "Dalmácia",
+      "translation_cs": "Dalmácie",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Dalmácia",
+          "translation_cs": "Dalmácie",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Dalmácia” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Dalmácie“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "isztria",
+      "word": "Isztria",
+      "translation_cs": "Istrie",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Isztria",
+          "translation_cs": "Istrie",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Isztria” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Istrie“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "morvaorszag",
+      "word": "Morvaország",
+      "translation_cs": "Morava",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Morvaország",
+          "translation_cs": "Morava",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Morvaország” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Morava“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "csehorszag",
+      "word": "Csehország",
+      "translation_cs": "Čechy",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Csehország",
+          "translation_cs": "Čechy",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Csehország” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Čechy“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "stajerorszag",
+      "word": "Stájerország",
+      "translation_cs": "Štýrsko",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Stájerország",
+          "translation_cs": "Štýrsko",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Stájerország” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Štýrsko“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "tirol",
+      "word": "Tirol",
+      "translation_cs": "Tyrolsko",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Tirol",
+          "translation_cs": "Tyrolsko",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Tirol” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Tyrolsko“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "alsoausztria",
+      "word": "Alsó-Ausztria",
+      "translation_cs": "Dolní Rakousy",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Alsó-Ausztria",
+          "translation_cs": "Dolní Rakousy",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Alsó-Ausztria” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Dolní Rakousy“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "felsoausztria",
+      "word": "Felső-Ausztria",
+      "translation_cs": "Horní Rakousy",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Felső-Ausztria",
+          "translation_cs": "Horní Rakousy",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Felső-Ausztria” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „Horní Rakousy“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "dunatiszakoze",
+      "word": "Duna-Tisza köze",
+      "translation_cs": "mezi Dunajem a Tisou",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "Duna-Tisza köze",
+          "translation_cs": "mezi Dunajem a Tisou",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „Duna-Tisza köze” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „mezi Dunajem a Tisou“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "hatarvidek",
+      "word": "határvidék",
+      "translation_cs": "pohraniční kraj",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "határvidék",
+          "translation_cs": "pohraniční kraj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „határvidék” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „pohraniční kraj“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "patak",
+      "word": "patak",
+      "translation_cs": "potok",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "patak",
+          "translation_cs": "potok",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „patak” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „potok“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "volgy",
+      "word": "völgy",
+      "translation_cs": "údolí",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "völgy",
+          "translation_cs": "údolí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „völgy” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „údolí“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "hegyseg",
+      "word": "hegység",
+      "translation_cs": "pohoří",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hegység",
+          "translation_cs": "pohoří",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hegység” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „pohoří“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "hago",
+      "word": "hágó",
+      "translation_cs": "průsmyk",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hágó",
+          "translation_cs": "průsmyk",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „hágó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „průsmyk“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "siksag",
+      "word": "síkság",
+      "translation_cs": "rovina",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "síkság",
+          "translation_cs": "rovina",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „síkság” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „rovina“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "mellekfolyo",
+      "word": "mellékfolyó",
+      "translation_cs": "přítok",
+      "part_of_speech_cs": "zeměpisný název",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mellékfolyó",
+          "translation_cs": "přítok",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „mellékfolyó” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „přítok“.",
+      "tags": [
+        "q3",
+        "geography_empire"
+      ]
+    },
+    {
+      "id": "vasutas",
+      "word": "vasutas",
+      "translation_cs": "železničář",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vasutas",
+          "translation_cs": "železničář",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „vasutas” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „železničář“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "mozdonyvezeto",
+      "word": "mozdonyvezető",
+      "translation_cs": "strojvedoucí",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "mozdonyvezető",
+          "translation_cs": "strojvedoucí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „mozdonyvezető” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „strojvedoucí“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "futo",
+      "word": "fűtő",
+      "translation_cs": "topič",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fűtő",
+          "translation_cs": "topič",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „fűtő” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „topič“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    },
+    {
+      "id": "fekezo",
+      "word": "fékező",
+      "translation_cs": "brzdař",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "fékező",
+          "translation_cs": "brzdař",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A jegyzetben a „fékező” kifejezés szerepelt.",
+      "example_cs": "V poznámce se objevil výraz „brzdař“.",
+      "tags": [
+        "q3",
+        "professions_industry"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "empire-map-word-01",
+      "type": "cloze",
+      "vocabulary_id": "krakko",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Krakov“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Krakkó",
+        "Szarajevó",
+        "Mostar"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Krakkó” kifejezést."
+    },
+    {
+      "id": "empire-map-word-02",
+      "type": "recall",
+      "vocabulary_id": "szarajevo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Sarajevo“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Szarajevó"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Szarajevó” kifejezést."
+    },
+    {
+      "id": "empire-map-word-03",
+      "type": "order",
+      "vocabulary_id": "mostar",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Mostar” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Mostar”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Mostar”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Mostar” kifejezést."
+    },
+    {
+      "id": "empire-map-word-04",
+      "type": "cloze",
+      "vocabulary_id": "nagyvarad",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Velký Varadín“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Nagyvárad",
+        "Arad",
+        "Pécs"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Nagyvárad” kifejezést."
+    },
+    {
+      "id": "empire-map-word-05",
+      "type": "recall",
+      "vocabulary_id": "arad",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Arad“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Arad"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Arad” kifejezést."
+    },
+    {
+      "id": "empire-map-word-06",
+      "type": "order",
+      "vocabulary_id": "pecs",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Pécs” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Pécs”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Pécs”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Pécs” kifejezést."
+    },
+    {
+      "id": "empire-map-word-07",
+      "type": "cloze",
+      "vocabulary_id": "gyor",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Ráb“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Győr",
+        "Székesfehérvár",
+        "Sopron"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Győr” kifejezést."
+    },
+    {
+      "id": "empire-map-word-08",
+      "type": "recall",
+      "vocabulary_id": "szekesfehervar",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Stoličný Bělehrad“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Székesfehérvár"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Székesfehérvár” kifejezést."
+    },
+    {
+      "id": "empire-map-word-09",
+      "type": "order",
+      "vocabulary_id": "sopron",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Sopron” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Sopron”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Sopron”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Sopron” kifejezést."
+    },
+    {
+      "id": "empire-map-word-10",
+      "type": "cloze",
+      "vocabulary_id": "eszek",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Esseg“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Eszék",
+        "Újvidék",
+        "Duna"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Eszék” kifejezést."
+    },
+    {
+      "id": "empire-map-word-11",
+      "type": "recall",
+      "vocabulary_id": "ujvidek",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Nový Sad“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Újvidék"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Újvidék” kifejezést."
+    },
+    {
+      "id": "empire-map-word-12",
+      "type": "order",
+      "vocabulary_id": "duna",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Duna” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Duna”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Duna”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Duna” kifejezést."
+    },
+    {
+      "id": "empire-map-word-13",
+      "type": "cloze",
+      "vocabulary_id": "tisza",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Tisa“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Tisza",
+        "Dráva",
+        "Száva"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Tisza” kifejezést."
+    },
+    {
+      "id": "empire-map-word-14",
+      "type": "recall",
+      "vocabulary_id": "drava",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Dráva“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Dráva"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Dráva” kifejezést."
+    },
+    {
+      "id": "empire-map-word-15",
+      "type": "order",
+      "vocabulary_id": "szava",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Száva” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Száva”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Száva”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Száva” kifejezést."
+    },
+    {
+      "id": "empire-map-word-16",
+      "type": "cloze",
+      "vocabulary_id": "maros",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Mureș“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Maros",
+        "Kárpátok",
+        "Alpok"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Maros” kifejezést."
+    },
+    {
+      "id": "empire-map-word-17",
+      "type": "recall",
+      "vocabulary_id": "karpatok",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Karpaty“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Kárpátok"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Kárpátok” kifejezést."
+    },
+    {
+      "id": "empire-map-word-18",
+      "type": "order",
+      "vocabulary_id": "alpok",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Alpok” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Alpok”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Alpok”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Alpok” kifejezést."
+    },
+    {
+      "id": "empire-map-word-19",
+      "type": "cloze",
+      "vocabulary_id": "alfold",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Velká uherská nížina“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Alföld",
+        "Dunántúl",
+        "Erdély"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Alföld” kifejezést."
+    },
+    {
+      "id": "empire-map-word-20",
+      "type": "recall",
+      "vocabulary_id": "dunantul",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Zadunají“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Dunántúl"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Dunántúl” kifejezést."
+    },
+    {
+      "id": "empire-map-word-21",
+      "type": "order",
+      "vocabulary_id": "erdely",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Erdély” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Erdély”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Erdély”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Erdély” kifejezést."
+    },
+    {
+      "id": "empire-map-word-22",
+      "type": "cloze",
+      "vocabulary_id": "felvidek",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Horní Uhry“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Felvidék",
+        "Bánság",
+        "Bácska"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Felvidék” kifejezést."
+    },
+    {
+      "id": "empire-map-word-23",
+      "type": "recall",
+      "vocabulary_id": "bansag",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Banát“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Bánság"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Bánság” kifejezést."
+    },
+    {
+      "id": "empire-map-word-24",
+      "type": "order",
+      "vocabulary_id": "bacska",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Bácska” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Bácska”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Bácska”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Bácska” kifejezést."
+    },
+    {
+      "id": "empire-map-word-25",
+      "type": "cloze",
+      "vocabulary_id": "horvatorszag",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Chorvatsko“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Horvátország",
+        "Szlavónia",
+        "Bosznia"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Horvátország” kifejezést."
+    },
+    {
+      "id": "empire-map-word-26",
+      "type": "recall",
+      "vocabulary_id": "szlavonia",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Slavonie“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Szlavónia"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Szlavónia” kifejezést."
+    },
+    {
+      "id": "empire-map-word-27",
+      "type": "order",
+      "vocabulary_id": "bosznia",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Bosznia” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Bosznia”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Bosznia”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Bosznia” kifejezést."
+    },
+    {
+      "id": "empire-map-word-28",
+      "type": "cloze",
+      "vocabulary_id": "hercegovina",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Hercegovina“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Hercegovina",
+        "Galícia",
+        "Bukovina"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Hercegovina” kifejezést."
+    },
+    {
+      "id": "empire-map-word-29",
+      "type": "recall",
+      "vocabulary_id": "galicia",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Halič“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Galícia"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Galícia” kifejezést."
+    },
+    {
+      "id": "empire-map-word-30",
+      "type": "order",
+      "vocabulary_id": "bukovina",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Bukovina” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Bukovina”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Bukovina”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Bukovina” kifejezést."
+    },
+    {
+      "id": "empire-map-word-31",
+      "type": "cloze",
+      "vocabulary_id": "dalmacia",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Dalmácie“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Dalmácia",
+        "Isztria",
+        "Morvaország"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Dalmácia” kifejezést."
+    },
+    {
+      "id": "empire-map-word-32",
+      "type": "recall",
+      "vocabulary_id": "isztria",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Istrie“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Isztria"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Isztria” kifejezést."
+    },
+    {
+      "id": "empire-map-word-33",
+      "type": "order",
+      "vocabulary_id": "morvaorszag",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Morvaország” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Morvaország”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Morvaország”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Morvaország” kifejezést."
+    },
+    {
+      "id": "empire-map-word-34",
+      "type": "cloze",
+      "vocabulary_id": "csehorszag",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Čechy“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Csehország",
+        "Stájerország",
+        "Tirol"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Csehország” kifejezést."
+    },
+    {
+      "id": "empire-map-word-35",
+      "type": "recall",
+      "vocabulary_id": "stajerorszag",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Štýrsko“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Stájerország"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Stájerország” kifejezést."
+    },
+    {
+      "id": "empire-map-word-36",
+      "type": "order",
+      "vocabulary_id": "tirol",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Tirol” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„Tirol”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Tirol”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Tirol” kifejezést."
+    },
+    {
+      "id": "empire-map-word-37",
+      "type": "cloze",
+      "vocabulary_id": "alsoausztria",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Dolní Rakousy“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "Alsó-Ausztria",
+        "Felső-Ausztria",
+        "Duna-Tisza köze"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Alsó-Ausztria” kifejezést."
+    },
+    {
+      "id": "empire-map-word-38",
+      "type": "recall",
+      "vocabulary_id": "felsoausztria",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „Horní Rakousy“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "Felső-Ausztria"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Felső-Ausztria” kifejezést."
+    },
+    {
+      "id": "empire-map-word-39",
+      "type": "order",
+      "vocabulary_id": "dunatiszakoze",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „Duna-Tisza köze” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "köze”",
+        "„Duna-Tisza",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„Duna-Tisza",
+          "köze”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „Duna-Tisza köze” kifejezést."
+    },
+    {
+      "id": "empire-map-word-40",
+      "type": "cloze",
+      "vocabulary_id": "hatarvidek",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „pohraniční kraj“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "határvidék",
+        "patak",
+        "völgy"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „határvidék” kifejezést."
+    },
+    {
+      "id": "empire-map-word-41",
+      "type": "recall",
+      "vocabulary_id": "patak",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „potok“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "patak"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „patak” kifejezést."
+    },
+    {
+      "id": "empire-map-word-42",
+      "type": "order",
+      "vocabulary_id": "volgy",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „völgy” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„völgy”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„völgy”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „völgy” kifejezést."
+    },
+    {
+      "id": "empire-map-word-43",
+      "type": "cloze",
+      "vocabulary_id": "hegyseg",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „pohoří“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "hegység",
+        "hágó",
+        "síkság"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hegység” kifejezést."
+    },
+    {
+      "id": "empire-map-word-44",
+      "type": "recall",
+      "vocabulary_id": "hago",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „průsmyk“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "hágó"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „hágó” kifejezést."
+    },
+    {
+      "id": "empire-map-word-45",
+      "type": "order",
+      "vocabulary_id": "siksag",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „síkság” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„síkság”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„síkság”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „síkság” kifejezést."
+    },
+    {
+      "id": "empire-map-word-46",
+      "type": "cloze",
+      "vocabulary_id": "mellekfolyo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „přítok“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "mellékfolyó",
+        "Krakkó",
+        "Szarajevó"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „mellékfolyó” kifejezést."
+    },
+    {
+      "id": "empire-map-word-47",
+      "type": "recall",
+      "vocabulary_id": "vasutas",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „železničář“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "vasutas"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „vasutas” kifejezést."
+    },
+    {
+      "id": "empire-map-word-48",
+      "type": "order",
+      "vocabulary_id": "mozdonyvezeto",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Sestavte větu v minulém čase.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „mozdonyvezető” kifejezést.",
+      "words_hu": [
+        "kifejezést.",
+        "„mozdonyvezető”",
+        "a",
+        "feljegyezte",
+        "tegnap",
+        "jegyző",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "jegyző",
+          "tegnap",
+          "feljegyezte",
+          "a",
+          "„mozdonyvezető”",
+          "kifejezést."
+        ]
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „mozdonyvezető” kifejezést."
+    },
+    {
+      "id": "empire-map-word-49",
+      "type": "cloze",
+      "vocabulary_id": "futo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „topič“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "options_cs": [
+        "fűtő",
+        "fékező",
+        "vasutas"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fűtő” kifejezést."
+    },
+    {
+      "id": "empire-map-word-50",
+      "type": "recall",
+      "vocabulary_id": "fekezo",
+      "type_label_cs": "Výrazy z cestování a techniky",
+      "prompt_cs": "Doplňte výraz pro „brzdař“.",
+      "sentence_hu": "A jegyző tegnap feljegyezte a „______” kifejezést.",
+      "accepted_answers": [
+        "fékező"
+      ],
+      "explanation_cs": "A jegyző tegnap feljegyezte a „fékező” kifejezést."
+    }
+  ],
+  "stories": [
+    {
+      "id": "empire-map-story-01",
+      "title_cs": "Jízdní řád v dešti · 1",
+      "title_hu": "Eső és menetrend · 1",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "empire-map"
+      ],
+      "curriculum_lesson_id": "empire-map",
+      "new_vocabulary_ids": [
+        "krakko",
+        "szarajevo",
+        "mostar"
+      ],
+      "vocabulary_ids": [
+        "krakko",
+        "szarajevo",
+        "mostar"
+      ],
+      "segments": [
+        {
+          "text": "1913 őszén az utas a pályaudvaron várta a vonatot. A jegyzetébe három új kifejezést írt: "
+        },
+        {
+          "text": "Krakkó",
+          "vocabulary_id": "krakko"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Szarajevó",
+          "vocabulary_id": "szarajevo"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Mostar",
+          "vocabulary_id": "mostar"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "empire-map-story-01-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Na podzim roku 1913 čekal cestující na nádraží. Do poznámek si zapsal tři nové výrazy: Krakov, Sarajevo, Mostar."
+    },
+    {
+      "id": "empire-map-story-02",
+      "title_cs": "Zpráva z dílny · 2",
+      "title_hu": "Hír a műhelyből · 2",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "empire-map"
+      ],
+      "curriculum_lesson_id": "empire-map",
+      "new_vocabulary_ids": [
+        "szekesfehervar",
+        "sopron",
+        "eszek"
+      ],
+      "vocabulary_ids": [
+        "szekesfehervar",
+        "sopron",
+        "eszek"
+      ],
+      "segments": [
+        {
+          "text": "A mérnök 1913-ban megvizsgálta a gépet, majd feljegyezte a munkát. A lap szélére ezt írta: "
+        },
+        {
+          "text": "Székesfehérvár",
+          "vocabulary_id": "szekesfehervar"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Sopron",
+          "vocabulary_id": "sopron"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Eszék",
+          "vocabulary_id": "eszek"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "empire-map-story-02-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Inženýr v roce 1913 prohlédl stroj a zapsal si poznámky o práci. Na okraj listu napsal: Stoličný Bělehrad, Šoproň, Esseg."
+    },
+    {
+      "id": "empire-map-story-03",
+      "title_cs": "Mapa monarchie · 3",
+      "title_hu": "A Monarchia térképe · 3",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "empire-map"
+      ],
+      "curriculum_lesson_id": "empire-map",
+      "new_vocabulary_ids": [
+        "szava",
+        "maros",
+        "karpatok"
+      ],
+      "vocabulary_ids": [
+        "szava",
+        "maros",
+        "karpatok"
+      ],
+      "segments": [
+        {
+          "text": "A térképész 1913-ban bejárta a vidéket, és a térkép mellé három szót jegyzett fel: "
+        },
+        {
+          "text": "Száva",
+          "vocabulary_id": "szava"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Maros",
+          "vocabulary_id": "maros"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Kárpátok",
+          "vocabulary_id": "karpatok"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "empire-map-story-03-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Kartograf v roce 1913 procházel krajinou a vedle mapy si poznamenal tři výrazy: Sáva, Mureș, Karpaty."
+    },
+    {
+      "id": "empire-map-story-04",
+      "title_cs": "Mimořádná směna · 4",
+      "title_hu": "Rendkívüli műszak · 4",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "empire-map"
+      ],
+      "curriculum_lesson_id": "empire-map",
+      "new_vocabulary_ids": [
+        "felvidek",
+        "bansag",
+        "bacska"
+      ],
+      "vocabulary_ids": [
+        "felvidek",
+        "bansag",
+        "bacska"
+      ],
+      "segments": [
+        {
+          "text": "A gyárban a munkások 1913-ban pontosan dolgoztak. A művezető naplójába három kifejezést írt: "
+        },
+        {
+          "text": "Felvidék",
+          "vocabulary_id": "felvidek"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Bánság",
+          "vocabulary_id": "bansag"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Bácska",
+          "vocabulary_id": "bacska"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "empire-map-story-04-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "Dělníci v továrně pracovali roku 1913 přesně. Mistr si do deníku zapsal tři výrazy: Horní Uhry, Banát, Bačka."
+    },
+    {
+      "id": "empire-map-story-05",
+      "title_cs": "Telegram z cesty · 5",
+      "title_hu": "Távirat az útról · 5",
+      "level": "Q3 · STEAM AND PROGRESS",
+      "reading_time_min": 1,
+      "prerequisite_lesson_ids": [
+        "empire-map"
+      ],
+      "curriculum_lesson_id": "empire-map",
+      "new_vocabulary_ids": [
+        "galicia",
+        "bukovina",
+        "dalmacia"
+      ],
+      "vocabulary_ids": [
+        "galicia",
+        "bukovina",
+        "dalmacia"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a távírász este megkapta az utas üzenetét, majd továbbította a hivatalnak. A jegyzékében három szó állt: "
+        },
+        {
+          "text": "Galícia",
+          "vocabulary_id": "galicia"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Bukovina",
+          "vocabulary_id": "bukovina"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Dalmácia",
+          "vocabulary_id": "dalmacia"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "questions": [
+        {
+          "id": "empire-map-story-05-question",
+          "prompt_cs": "Který rok je v příběhu uveden?",
+          "options_cs": [
+            "1913.",
+            "1912.",
+            "1911."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "A történet 1913-ban játszódik."
+        }
+      ],
+      "translation_cs": "V roce 1913 telegrafista večer přijal zprávu cestujícího a předal ji úřadu. V seznamu měl tři výrazy: Halič, Bukovina, Dalmácie."
+    }
+  ]
+}

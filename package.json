@@ -8,7 +8,9 @@
     "build": "vite build",
     "lint": "oxlint",
     "test": "node --test",
+    "content:audit": "node scripts/audit-content.js",
     "content:build": "node scripts/build-content.js",
+    "content:build:q2": "node scripts/build-content.js --through-quarter q2",
     "android:sync": "npm run build && cap sync android",
     "android:debug": "npm run build && cap sync android && cd android && .\\gradlew.bat assembleDebug",
     "preview": "vite preview"
