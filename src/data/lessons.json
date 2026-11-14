@@ -15,7 +15,7 @@
     "new_vocabulary_ids": ["haz", "kert", "taska", "konyv", "szoba"],
     "grammar_ids": ["samohlaskova-harmonie", "umisteni-v"],
     "grammar_label_cs": "Samohlásková harmonie · -ban / -ben",
-    "exercise_ids": ["harmony-haz", "harmony-kert", "cloze-taska", "meaning-konyv", "recall-szoba"],
+    "exercise_ids": ["harmony-haz", "harmony-kert", "cloze-taska", "meaning-konyv", "recall-szoba", "recall-hazban", "cloze-taska-location", "order-home-bag"],
     "story_ids": []
   },
   {
@@ -34,7 +34,7 @@
     "new_vocabulary_ids": ["alma", "viz", "kenyer", "tej", "kave", "kerek", "mennyi"],
     "grammar_ids": ["targy-t", "zdvorila-zadost"],
     "grammar_label_cs": "Předmět -t · časování slovesa",
-    "exercise_ids": ["recall-alma-accusative", "listening-viz", "recall-kenyer-accusative", "meaning-tej", "recall-kave-accusative", "recall-ker-first-person", "meaning-mennyi"],
+    "exercise_ids": ["recall-alma-accusative", "listening-viz", "recall-kenyer-accusative", "meaning-tej", "recall-kave-accusative", "recall-ker-first-person", "meaning-mennyi", "cloze-alma-request", "recall-viz-accusative", "order-market-coffee"],
     "story_ids": ["reggel"]
   },
   {
@@ -53,7 +53,7 @@
     "new_vocabulary_ids": ["varos", "utca", "allomas", "vonat", "jegy", "balra", "jobbra", "egyenesen", "megy", "hova"],
     "grammar_ids": ["smer-dovnitr", "pohybova-slova"],
     "grammar_label_cs": "Směr -ba / -be · sloveso megy",
-    "exercise_ids": ["meaning-varos", "recall-utca", "meaning-allomas", "listening-vonat", "recall-jegy-accusative", "meaning-balra", "meaning-jobbra", "meaning-egyenesen", "order-city-sentence", "recall-hova"],
+    "exercise_ids": ["meaning-varos", "recall-utca", "meaning-allomas", "listening-vonat", "recall-jegy-accusative", "meaning-balra", "meaning-jobbra", "meaning-egyenesen", "order-city-sentence", "recall-hova", "cloze-city-direction", "order-city-straight", "meaning-direction-pair"],
     "story_ids": []
   },
   {
@@ -72,7 +72,7 @@
     "new_vocabulary_ids": ["ter", "hid", "folyo", "park", "muzeum", "kavezo", "bolt", "kozel", "messze", "van"],
     "grammar_ids": ["poloha-na-povrchu"],
     "grammar_label_cs": "Poloha -n / -on / -en · v parku vs. na náměstí",
-    "exercise_ids": ["meaning-ter", "recall-hid-on", "recall-folyo-on", "meaning-park", "listening-muzeum", "meaning-kavezo", "meaning-bolt", "meaning-kozel", "meaning-messze", "order-square-museum"],
+    "exercise_ids": ["meaning-ter", "recall-hid-on", "recall-folyo-on", "meaning-park", "listening-muzeum", "meaning-kavezo", "meaning-bolt", "meaning-kozel", "meaning-messze", "order-square-museum", "recall-parkban", "cloze-square-location", "order-square-cafe"],
     "story_ids": ["na-namesti"]
   },
   {
@@ -91,7 +91,7 @@
     "new_vocabulary_ids": ["vendeg", "barat", "csalad", "anya", "apa", "testver", "gyerek", "lakik", "szeret"],
     "grammar_ids": ["birtokos-m", "casovani-prvni-osoba"],
     "grammar_label_cs": "Moje rodina · osobní koncovky -m / -om / -em",
-    "exercise_ids": ["meaning-vendeg", "meaning-barat", "recall-csaladom", "meaning-anya", "meaning-apa", "meaning-testver", "recall-gyerekem", "recall-lakom", "recall-szeretek"],
+    "exercise_ids": ["meaning-vendeg", "meaning-barat", "recall-csaladom", "meaning-anya", "meaning-apa", "meaning-testver", "recall-gyerekem", "recall-lakom", "recall-szeretek", "cloze-baratom", "recall-baratom", "order-family-home"],
     "story_ids": ["na-namesti"]
   },
   {
@@ -110,7 +110,7 @@
     "new_vocabulary_ids": ["ajto", "ablak", "asztal", "szek"],
     "grammar_ids": ["tobbesszam-alapok"],
     "grammar_label_cs": "Množné číslo podstatných jmen",
-    "exercise_ids": ["meaning-ajto", "meaning-ablak", "meaning-asztal", "recall-szekek"],
+    "exercise_ids": ["meaning-ajto", "meaning-ablak", "meaning-asztal", "recall-szekek", "meaning-szekek", "recall-ajtok", "cloze-asztalok"],
     "story_ids": []
   },
   {
@@ -129,7 +129,7 @@
     "new_vocabulary_ids": ["sajt", "tea", "tojas", "leves"],
     "grammar_ids": ["targy-t", "zdvorila-zadost"],
     "grammar_label_cs": "Předmět -t · další objednávky",
-    "exercise_ids": ["meaning-sajt", "recall-teat", "meaning-tojas", "recall-levest"],
+    "exercise_ids": ["meaning-sajt", "recall-teat", "meaning-tojas", "recall-levest", "cloze-sajt-accusative", "recall-tojas-accusative", "order-food-request"],
     "story_ids": []
   },
   {
@@ -148,7 +148,7 @@
     "new_vocabulary_ids": ["szalloda", "etterem", "mozi", "korhaz"],
     "grammar_ids": ["mista-a-smery"],
     "grammar_label_cs": "Kam? -ba / -be · kde? -ban / -ben",
-    "exercise_ids": ["meaning-szalloda", "recall-etterembe", "meaning-mozi", "recall-korhazba"],
+    "exercise_ids": ["meaning-szalloda", "recall-etterembe", "meaning-mozi", "recall-korhazba", "recall-szallodaban", "cloze-mozi-location", "meaning-etterembe"],
     "story_ids": []
   },
   {
@@ -167,7 +167,7 @@
     "new_vocabulary_ids": ["konyvtar", "szinhaz", "templom", "iskola"],
     "grammar_ids": ["umisteni-v"],
     "grammar_label_cs": "Poloha -ban / -ben · místa ve městě",
-    "exercise_ids": ["meaning-konyvtar", "recall-szinhazban", "meaning-templom", "recall-iskolaban"],
+    "exercise_ids": ["meaning-konyvtar", "recall-szinhazban", "meaning-templom", "recall-iskolaban", "recall-konyvtarban", "cloze-szinhazban", "order-library-sentence"],
     "story_ids": []
   },
   {
@@ -186,7 +186,7 @@
     "new_vocabulary_ids": ["nagymama", "nagypapa", "unokatestver", "szulo"],
     "grammar_ids": ["birtokos-m", "targy-uragozas-hatarozott"],
     "grammar_label_cs": "Moje rodina · určitý předmět slovesa",
-    "exercise_ids": ["meaning-nagymama", "meaning-nagypapa", "meaning-unokatestver", "meaning-szulo", "recall-szeretem"],
+    "exercise_ids": ["meaning-nagymama", "meaning-nagypapa", "meaning-unokatestver", "meaning-szulo", "recall-szeretem", "meaning-nagymamam", "recall-szulom", "cloze-family-accusative", "order-grandfather-here"],
     "story_ids": []
   }
 ]
