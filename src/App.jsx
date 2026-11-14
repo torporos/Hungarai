@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { Capacitor } from '@capacitor/core'
+import { Capacitor, registerPlugin } from '@capacitor/core'
 import { App as CapacitorApp } from '@capacitor/app'
 import { loadProgress, saveProgress, recordAnswer, isLessonUnlocked, getDueVocabulary } from './lib/progress.js'
 import { loadContent } from './lib/content.js'
@@ -30,6 +30,7 @@ function normalizeSearch(value) {
 }
 
 const reviewLesson = { id: 'review', title_cs: 'Opakování slov' }
+const HungarianTts = registerPlugin('HungarianTts')
 
 function App() {
   const [view, setView] = useState('home')
@@ -39,6 +40,7 @@ function App() {
   const [isRefreshing, setIsRefreshing] = useState(true)
   const [progress, setProgress] = useState(loadProgress)
   const [storageWarning, setStorageWarning] = useState(() => progress.storage_error || '')
+  const [ttsSetupWarning, setTtsSetupWarning] = useState('')
   const [lessonId, setLessonId] = useState(null)
   const [questionIndex, setQuestionIndex] = useState(0)
   const [questionDeck, setQuestionDeck] = useState([])
@@ -69,6 +71,23 @@ function App() {
       controller.abort()
     }
   }, [loadAttempt])
+
+  useEffect(() => {
+    if (Capacitor.getPlatform() !== 'android') return undefined
+
+    let active = true
+    HungarianTts.ensureHungarianData()
+      .then(() => {
+        if (active) setTtsSetupWarning('')
+      })
+      .catch(() => {
+        if (active) setTtsSetupWarning('Nepodařilo se připravit maďarský hlas. Zkontrolujte hlasový výstup v nastavení Androidu.')
+      })
+
+    return () => {
+      active = false
+    }
+  }, [])
 
   useEffect(() => {
     if (!Capacitor.isNativePlatform()) return undefined
@@ -270,8 +289,10 @@ function App() {
         </aside>
 
         <main className="main-panel">
-          {(storageWarning || contentError || contentData.loadWarning) && (
-            <p className="storage-warning" role={storageWarning ? 'alert' : 'status'}>{storageWarning || contentError || contentData.loadWarning}</p>
+          {(storageWarning || contentError || contentData.loadWarning || ttsSetupWarning) && (
+            <p className="storage-warning" role={storageWarning || ttsSetupWarning ? 'alert' : 'status'}>
+              {storageWarning || contentError || contentData.loadWarning || ttsSetupWarning}
+            </p>
           )}
           {view === 'home' && (
             <Dashboard content={contentData} progress={progress} onStart={() => setView('lessons')} onReview={startReview} onNavigate={setView} />
