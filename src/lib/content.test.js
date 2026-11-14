@@ -99,7 +99,7 @@ test('uses bundled lesson data if GitHub and the offline cache are unavailable',
   const content = await loadContent({ storage: memoryStorage(), fetcher: async () => { throw new Error('offline') } })
 
   assert.equal(content.source, 'bundled')
-  assert.equal(content.lessons.length, 10)
+  assert.equal(content.lessons.length, 13)
   assert.ok(content.exercises.length >= 90)
 })
 

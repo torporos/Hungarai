@@ -26,7 +26,8 @@ V Android aplikaci se výslovnost přehrává přes systémový TextToSpeech, ne
 ## Zatím hotovo
 
 - Přehled a lekce s odemykáním podle zkušeností.
-- Deset navazujících modulů v pěti tématech; každá lekce začíná představením slov a gramatiky a obsahuje další procvičování nad rámec jedné otázky na nové slovo.
+- Třináct navazujících modulů v šesti tématech; každá lekce začíná představením slov a gramatiky a obsahuje další procvičování nad rámec jedné otázky na nové slovo.
+- Nová slovní zásoba, věty, gramatika i příběhy respektují historický cutoff roku 1914; nová série je zasazená do Uherska roku 1913.
 - Promíchané cvičení na rozpoznání, vybavení z paměti, psaní maďarských tvarů, skládání vět, poslech a doplňování.
 - Vyhledávání a řazení ve slovníčku, samostatná gramatická sekce a příběhy s kontextovou nápovědou ke slovům.
 - Slovník zobrazuje základní tvary; postupně odemyká skloňování, časování i související gramatiku.

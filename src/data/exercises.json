@@ -977,5 +977,290 @@
     "words_hu": ["itt", "A", "van.", "nagypapám"],
     "accepted_orders": [["A", "nagypapám", "itt", "van."]],
     "explanation_cs": "A nagypapám itt van. Přípona -m ve slově nagypapám znamená „můj“."
+  },
+  {
+    "id": "meaning-palyaudvar-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "palyaudvar",
+    "prompt_cs": "Co znamená maďarské slovo „pályaudvar“?",
+    "options_cs": ["pošta", "železniční nádraží", "nástupiště"],
+    "answer_index": 1,
+    "explanation_cs": "Pályaudvar je železniční nádraží; peron je nástupiště."
+  },
+  {
+    "id": "cloze-indul-1913",
+    "type": "cloze",
+    "type_label_cs": "Sloveso ve větě",
+    "vocabulary_id": "indul",
+    "grammar_id": "jelenido-harmadik-osoba",
+    "prompt_cs": "Doplňte základní tvar slovesa pro „vlak odjíždí“.",
+    "sentence_hu": "A vonat ______.",
+    "options_cs": ["indul", "indulok", "indult"],
+    "answer_index": 0,
+    "explanation_cs": "A vonat indul = Vlak odjíždí. Ve 3. osobě jednotného čísla zde použijeme základní tvar indul."
+  },
+  {
+    "id": "meaning-menetrend-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "menetrend",
+    "prompt_cs": "Co cestující hledá ve slově „menetrend“?",
+    "options_cs": ["jízdní řád", "cestovní kufr", "poštovní známku"],
+    "answer_index": 0,
+    "explanation_cs": "Menetrend je jízdní řád."
+  },
+  {
+    "id": "cloze-peron-1913",
+    "type": "cloze",
+    "type_label_cs": "Místo ve větě",
+    "vocabulary_id": "peron",
+    "grammar_id": "poloha-na-povrchu",
+    "prompt_cs": "Doplňte správný tvar: „Vlak je na nástupišti.“",
+    "sentence_hu": "A vonat a ______ van.",
+    "options_cs": ["peronon", "peronba", "peront"],
+    "answer_index": 0,
+    "explanation_cs": "Peronon znamená na nástupišti; koncovka -on vyjadřuje polohu."
+  },
+  {
+    "id": "recall-borond-1913",
+    "type": "recall",
+    "type_label_cs": "Aktivní vybavení",
+    "vocabulary_id": "borond",
+    "prompt_cs": "Napište maďarský základní tvar pro „cestovní kufr“.",
+    "accepted_answers": ["bőrönd"],
+    "explanation_cs": "Bőrönd je cestovní kufr. Zapište základní tvar bez koncovky."
+  },
+  {
+    "id": "listening-erkezik-1913",
+    "type": "listening",
+    "type_label_cs": "Poslech · význam",
+    "vocabulary_id": "erkezik",
+    "audio_text": "érkezik",
+    "prompt_cs": "Poslechněte si slovo z jízdního řádu. Co znamená?",
+    "options_cs": ["odjíždí", "přijíždí", "čeká"],
+    "answer_index": 1,
+    "explanation_cs": "Érkezik znamená přijíždět nebo přicházet."
+  },
+  {
+    "id": "order-vonat-1913",
+    "type": "order",
+    "type_label_cs": "Tvorba věty",
+    "vocabulary_id": "indul",
+    "grammar_id": "jelenido-harmadik-osoba",
+    "prompt_cs": "Sestavte větu „Vlak odjíždí do Budapešti.“",
+    "words_hu": ["Budapestre", "indul.", "A", "vonat"],
+    "accepted_orders": [["A", "vonat", "Budapestre", "indul."]],
+    "explanation_cs": "A vonat Budapestre indul. Sloveso indul stojí v základním tvaru."
+  },
+  {
+    "id": "meaning-borond-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "borond",
+    "prompt_cs": "Které slovo označuje zavazadlo na cestu?",
+    "options_cs": ["bőrönd", "peron", "menetrend"],
+    "answer_index": 0,
+    "explanation_cs": "Bőrönd je cestovní kufr."
+  },
+  {
+    "id": "harmony-palyaudvar-1913",
+    "type": "harmony",
+    "type_label_cs": "Tvar podle místa",
+    "vocabulary_id": "palyaudvar",
+    "grammar_id": "poloha-na-povrchu",
+    "prompt_cs": "Který tvar znamená „na železničním nádraží“?",
+    "options_cs": ["pályaudvaron", "pályaudvarben", "pályaudvarba"],
+    "answer_index": 0,
+    "explanation_cs": "Pályaudvaron znamená na nádraží. Slovo má zadní samohlásky a používá koncovku -on."
+  },
+  {
+    "id": "meaning-posta-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "posta",
+    "prompt_cs": "Kam jde Anna, když potřebuje poslat dopis?",
+    "options_cs": ["na poštu", "na nástupiště", "do kavárny"],
+    "answer_index": 0,
+    "explanation_cs": "Posta je pošta nebo poštovní úřad."
+  },
+  {
+    "id": "meaning-postas-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "postas",
+    "prompt_cs": "Kdo je „postás“?",
+    "options_cs": ["pošťák", "kočí", "cestující"],
+    "answer_index": 0,
+    "explanation_cs": "Postás je pošťák neboli poštovní doručovatel."
+  },
+  {
+    "id": "meaning-belyeg-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "belyeg",
+    "prompt_cs": "Co Anna potřebuje na dopis?",
+    "options_cs": ["bélyeg", "menetrend", "bőrönd"],
+    "answer_index": 0,
+    "explanation_cs": "Bélyeg je poštovní známka."
+  },
+  {
+    "id": "meaning-cim-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "cim",
+    "prompt_cs": "Co znamená slovo „cím“ na obálce?",
+    "options_cs": ["adresa", "známka", "dopis"],
+    "answer_index": 0,
+    "explanation_cs": "Cím je adresa; podle kontextu může znamenat také název."
+  },
+  {
+    "id": "cloze-adresat-1913",
+    "type": "cloze",
+    "type_label_cs": "Adresát dopisu",
+    "vocabulary_id": "level",
+    "grammar_id": "prijemce-nak-nek",
+    "prompt_cs": "Doplňte koncovku označujícího příjemce dopisu.",
+    "sentence_hu": "A család___ levelet írok.",
+    "options_cs": ["-nak", "-nek", "-ban"],
+    "answer_index": 0,
+    "explanation_cs": "Családnak znamená rodině. Slovo család má zadní samohlásky, proto volíme -nak."
+  },
+  {
+    "id": "recall-ir-1913",
+    "type": "recall",
+    "type_label_cs": "Aktivní vybavení",
+    "vocabulary_id": "ir",
+    "prompt_cs": "Napište maďarský základní tvar slovesa „psát“.",
+    "accepted_answers": ["ír"],
+    "explanation_cs": "Ír je základní tvar slovesa „psát“."
+  },
+  {
+    "id": "order-level-1913",
+    "type": "order",
+    "type_label_cs": "Tvorba věty · adresát",
+    "vocabulary_id": "ir",
+    "grammar_id": "prijemce-nak-nek",
+    "prompt_cs": "Sestavte větu „Píšu rodině dopis.“",
+    "words_hu": ["levelet", "írok.", "A", "családnak"],
+    "accepted_orders": [["A", "családnak", "levelet", "írok."]],
+    "explanation_cs": "A családnak levelet írok. Koncovka -nak označuje příjemce."
+  },
+  {
+    "id": "listening-belyeg-1913",
+    "type": "listening",
+    "type_label_cs": "Poslech · význam",
+    "vocabulary_id": "belyeg",
+    "audio_text": "bélyeg",
+    "prompt_cs": "Poslechněte si slovo. Co znamená?",
+    "options_cs": ["poštovní známka", "pošta", "adresa"],
+    "answer_index": 0,
+    "explanation_cs": "Bélyeg znamená poštovní známka."
+  },
+  {
+    "id": "possessive-levelem-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Přivlastnění",
+    "vocabulary_id": "level",
+    "grammar_id": "birtokos-m",
+    "prompt_cs": "Který tvar znamená „můj dopis“?",
+    "sentence_hu": "Ez a ______ a családnak szól.",
+    "options_cs": ["levelem", "levelet", "levélnek"],
+    "answer_index": 0,
+    "explanation_cs": "Levelem znamená můj dopis. U levél se při přivlastnění mění kmen na level-."
+  },
+  {
+    "id": "recall-ad-1913",
+    "type": "recall",
+    "type_label_cs": "Aktivní vybavení",
+    "vocabulary_id": "ad",
+    "prompt_cs": "Napište maďarský základní tvar slovesa „dát“.",
+    "accepted_answers": ["ad"],
+    "explanation_cs": "Ad znamená dát nebo dávat."
+  },
+  {
+    "id": "meaning-villamos-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "villamos",
+    "prompt_cs": "Jak se maďarsky řekne „tramvaj“?",
+    "options_cs": ["villamos", "kocsi", "pályaudvar"],
+    "answer_index": 0,
+    "explanation_cs": "Villamos je tramvaj; v Budapešti jezdila už před rokem 1914."
+  },
+  {
+    "id": "meaning-kocsi-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova · rok 1913",
+    "vocabulary_id": "kocsi",
+    "prompt_cs": "Co označuje „kocsi“ v tomto příběhu z roku 1913?",
+    "options_cs": ["kočár tažený koňmi", "tramvaj", "železniční nádraží"],
+    "answer_index": 0,
+    "explanation_cs": "V dobovém kontextu jde o kočár tažený koňmi."
+  },
+  {
+    "id": "cloze-villamossal-1913",
+    "type": "cloze",
+    "type_label_cs": "Dopravní prostředek",
+    "vocabulary_id": "villamos",
+    "grammar_id": "prepravni-prostredek-val-vel",
+    "prompt_cs": "Doplňte tvar „tramvají“.",
+    "sentence_hu": "Anna ______ megy.",
+    "options_cs": ["villamossal", "villamoson", "villamost"],
+    "answer_index": 0,
+    "explanation_cs": "Villamos + -val dává villamossal: Anna villamossal megy = Anna jede tramvají."
+  },
+  {
+    "id": "cloze-kocsival-1913",
+    "type": "cloze",
+    "type_label_cs": "Dopravní prostředek",
+    "vocabulary_id": "kocsi",
+    "grammar_id": "prepravni-prostredek-val-vel",
+    "prompt_cs": "Vyberte tvar „kočárem“.",
+    "sentence_hu": "A vendég ______ megy.",
+    "options_cs": ["kocsival", "kocsiban", "kocsit"],
+    "answer_index": 0,
+    "explanation_cs": "Kocsival znamená kočárem; -val vyjadřuje prostředek."
+  },
+  {
+    "id": "recall-lo-1913",
+    "type": "recall",
+    "type_label_cs": "Aktivní vybavení",
+    "vocabulary_id": "lo",
+    "prompt_cs": "Napište maďarský základní tvar slova „kůň“.",
+    "accepted_answers": ["ló"],
+    "explanation_cs": "Ló znamená kůň. Všimněte si dlouhého ó."
+  },
+  {
+    "id": "order-villamos-1913",
+    "type": "order",
+    "type_label_cs": "Tvorba věty · doprava",
+    "vocabulary_id": "villamos",
+    "grammar_id": "prepravni-prostredek-val-vel",
+    "prompt_cs": "Sestavte větu „Rodina jede tramvají.“",
+    "words_hu": ["villamossal", "A", "megy.", "család"],
+    "accepted_orders": [["A", "család", "villamossal", "megy."]],
+    "explanation_cs": "A család villamossal megy. Koncovka -val/-vel vyjadřuje dopravní prostředek."
+  },
+  {
+    "id": "listening-kocsis-1913",
+    "type": "listening",
+    "type_label_cs": "Poslech · význam",
+    "vocabulary_id": "kocsis",
+    "audio_text": "kocsis",
+    "prompt_cs": "Poslechněte si slovo z městské ulice. Kdo je „kocsis“?",
+    "options_cs": ["kočí", "kůň", "pošťák"],
+    "answer_index": 0,
+    "explanation_cs": "Kocsis je kočí, který řídí koňský povoz."
+  },
+  {
+    "id": "meaning-var-1913",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slovesa",
+    "vocabulary_id": "var",
+    "prompt_cs": "Co znamená základní tvar „vár“?",
+    "options_cs": ["čekat", "odjíždět", "psát"],
+    "answer_index": 0,
+    "explanation_cs": "Vár znamená čekat."
   }
 ]

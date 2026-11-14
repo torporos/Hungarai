@@ -315,5 +315,71 @@
       "Kontrastujte dvojici: Szeretek kávét = mám rád kávu obecně; Szeretem a kávét = mám rád tu kávu.",
       "V tomto příkladu se v podstatném jménu spojí přivlastnění a předmětová přípona."
     ]
+  },
+  {
+    "id": "jelenido-harmadik-osoba",
+    "title_cs": "Přítomný čas ve 3. osobě",
+    "level": "A1 · UHER PŘED ROKEM 1914",
+    "summary_cs": "Ve větě o vlaku či cestujícím se základní tvar slovesa často používá také pro „on/ona/to“.",
+    "rule_cs": "U mnoha sloves je tvar 3. osoby jednotného čísla přítomného času stejný jako základní tvar uváděný ve slovníčku: A vonat indul. (Vlak odjíždí.) Sloveso megy je nepravidelné a některá slovesa mají ve 3. osobě zakončení -ik, například érkezik.",
+    "groups": [
+      {
+        "name_cs": "Cestující a vlak",
+        "suffix_hu": "základní tvar",
+        "examples": [
+          { "form_hu": "indul → A vonat indul.", "translation_cs": "odjíždí → Vlak odjíždí." },
+          { "form_hu": "érkezik → A vonat érkezik.", "translation_cs": "přijíždí → Vlak přijíždí." },
+          { "form_hu": "megy → A vendég megy.", "translation_cs": "jde / jede → Host jde / jede." }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Základní tvar slovesa je ve slovníčku uveden bez osobní koncovky pro „já“.",
+      "U slovesa érkezik patří zakončení -ik k jeho základnímu tvaru."
+    ]
+  },
+  {
+    "id": "prijemce-nak-nek",
+    "title_cs": "Adresát: koncovka -nak/-nek",
+    "level": "A1 · DOPIS A POŠTA",
+    "summary_cs": "Koncovka označí člověka nebo skupinu, které něco dáváme či píšeme.",
+    "rule_cs": "K podstatnému jménu připojte -nak po zadních samohláskách a -nek po předních. Tvar označuje příjemce: a családnak = rodině, a vendégnek = hostovi.",
+    "groups": [
+      {
+        "name_cs": "Komu?",
+        "suffix_hu": "-nak / -nek",
+        "examples": [
+          { "form_hu": "család + -nak → családnak", "translation_cs": "rodina → rodině" },
+          { "form_hu": "vendég + -nek → vendégnek", "translation_cs": "host → hostovi" },
+          { "form_hu": "A családnak levelet írok.", "translation_cs": "Píšu rodině dopis." }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "Volbu -nak/-nek řídí samohlásková harmonie.",
+      "Vlastní jména se skloňují stejně: Anna → Annának, tedy Anně."
+    ]
+  },
+  {
+    "id": "prepravni-prostredek-val-vel",
+    "title_cs": "Čím jedu? Koncovka -val/-vel",
+    "level": "A1 · MĚSTO V ROCE 1913",
+    "summary_cs": "Koncovka -val/-vel vyjadřuje prostředek nebo doprovod.",
+    "rule_cs": "Po samohlásce připojte -val/-vel podle harmonie. Po souhlásce se počáteční v v koncovce přizpůsobí poslední souhlásce slova; v pravopisu se tato souhláska zdvojí: kocsi + -val = kocsival, villamos + -val = villamossal.",
+    "groups": [
+      {
+        "name_cs": "Cesta městem",
+        "suffix_hu": "-val / -vel",
+        "examples": [
+          { "form_hu": "kocsi + -val → kocsival", "translation_cs": "kočár → kočárem" },
+          { "form_hu": "villamos + -val → villamossal", "translation_cs": "tramvaj → tramvají" },
+          { "form_hu": "ló + -val → lóval", "translation_cs": "kůň → s koněm" }
+        ]
+      }
+    ],
+    "notes_cs": [
+      "U slov zakončených souhláskou se v -val/-vel zdvojí poslední souhláska: vonat + -val = vonattal.",
+      "Význam závisí na větě: villamossal megy = jede tramvají; lóval van = je s koněm."
+    ]
   }
 ]

@@ -424,7 +424,10 @@
     "translation_cs": "host",
     "part_of_speech_cs": "podstatné jméno",
     "vowel_harmony": "front",
-    "forms": [{ "form_hu": "vendégem", "translation_cs": "můj host", "grammar_id": "birtokos-m", "lesson_id": "rodina-a-pratele" }],
+    "forms": [
+      { "form_hu": "vendégem", "translation_cs": "můj host", "grammar_id": "birtokos-m", "lesson_id": "rodina-a-pratele" },
+      { "form_hu": "vendégnek", "translation_cs": "hostovi", "grammar_id": "prijemce-nak-nek", "lesson_id": "posta-1913" }
+    ],
     "morphemes": [{ "form": "vendég", "translation_cs": "host", "kind": "root" }],
     "example_hu": "A vendég a városba megy.",
     "example_cs": "Host jede do města."
@@ -448,7 +451,8 @@
     "vowel_harmony": "back",
     "forms": [
       { "form_hu": "családom", "translation_cs": "moje rodina", "grammar_id": "birtokos-m", "lesson_id": "rodina-a-pratele" },
-      { "form_hu": "családomat", "translation_cs": "moji rodinu (určitý předmět)", "grammar_id": "targy-uragozas-hatarozott", "lesson_id": "zivot-rodiny" }
+      { "form_hu": "családomat", "translation_cs": "moji rodinu (určitý předmět)", "grammar_id": "targy-uragozas-hatarozott", "lesson_id": "zivot-rodiny" },
+      { "form_hu": "családnak", "translation_cs": "rodině", "grammar_id": "prijemce-nak-nek", "lesson_id": "posta-1913" }
     ],
     "morphemes": [{ "form": "család", "translation_cs": "rodina", "kind": "root" }],
     "example_hu": "A családom itt van.",
@@ -757,5 +761,225 @@
     "morphemes": [{ "form": "szülő", "translation_cs": "rodič", "kind": "root" }],
     "example_hu": "A szülőm a városban van.",
     "example_cs": "Můj rodič je ve městě."
+  },
+  {
+    "id": "palyaudvar",
+    "word": "pályaudvar",
+    "translation_cs": "železniční nádraží",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "pályaudvaron", "translation_cs": "na železničním nádraží", "grammar_id": "poloha-na-povrchu", "lesson_id": "cesta-vlakem-1913" }],
+    "morphemes": [{ "form": "pályaudvar", "translation_cs": "železniční nádraží", "kind": "root" }],
+    "example_hu": "A pályaudvar a városban van.",
+    "example_cs": "Železniční nádraží je ve městě."
+  },
+  {
+    "id": "menetrend",
+    "word": "menetrend",
+    "translation_cs": "jízdní řád",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "menetrendet", "translation_cs": "jízdní řád jako předmět", "grammar_id": "targy-t", "lesson_id": "cesta-vlakem-1913" }],
+    "morphemes": [{ "form": "menetrend", "translation_cs": "jízdní řád", "kind": "root" }],
+    "example_hu": "A menetrend a pályaudvaron van.",
+    "example_cs": "Jízdní řád je na nádraží."
+  },
+  {
+    "id": "peron",
+    "word": "peron",
+    "translation_cs": "nástupiště",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "mixed",
+    "forms": [{ "form_hu": "peronon", "translation_cs": "na nástupišti", "grammar_id": "poloha-na-povrchu", "lesson_id": "cesta-vlakem-1913" }],
+    "morphemes": [{ "form": "peron", "translation_cs": "nástupiště", "kind": "root" }],
+    "example_hu": "A vonat a peronon van.",
+    "example_cs": "Vlak je na nástupišti."
+  },
+  {
+    "id": "borond",
+    "word": "bőrönd",
+    "translation_cs": "cestovní kufr",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "bőröndben", "translation_cs": "v cestovním kufru", "grammar_id": "umisteni-v", "lesson_id": "cesta-vlakem-1913" }],
+    "morphemes": [{ "form": "bőrönd", "translation_cs": "cestovní kufr", "kind": "root" }],
+    "example_hu": "A bőrönd a szobában van.",
+    "example_cs": "Cestovní kufr je v pokoji."
+  },
+  {
+    "id": "indul",
+    "word": "indul",
+    "translation_cs": "odjíždět; vyjíždět",
+    "part_of_speech_cs": "sloveso · základní tvar",
+    "vowel_harmony": "back",
+    "forms": [],
+    "morphemes": [{ "form": "indul", "translation_cs": "odjíždět", "kind": "root" }],
+    "example_hu": "A vonat reggel indul.",
+    "example_cs": "Vlak ráno odjíždí."
+  },
+  {
+    "id": "erkezik",
+    "word": "érkezik",
+    "translation_cs": "přijíždět; přicházet",
+    "part_of_speech_cs": "sloveso · základní tvar",
+    "vowel_harmony": "front",
+    "forms": [],
+    "morphemes": [{ "form": "érkezik", "translation_cs": "přijíždět", "kind": "root" }],
+    "example_hu": "A vonat Budapestre érkezik.",
+    "example_cs": "Vlak přijíždí do Budapešti."
+  },
+  {
+    "id": "posta",
+    "word": "posta",
+    "translation_cs": "pošta; poštovní úřad",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "postán", "translation_cs": "na poště", "grammar_id": "poloha-na-povrchu", "lesson_id": "posta-1913" }],
+    "morphemes": [{ "form": "posta", "translation_cs": "pošta", "kind": "root" }],
+    "example_hu": "A posta a téren van.",
+    "example_cs": "Pošta je na náměstí."
+  },
+  {
+    "id": "level",
+    "word": "levél",
+    "translation_cs": "dopis; list",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [
+      { "form_hu": "levelet", "translation_cs": "dopis jako předmět", "grammar_id": "targy-t", "lesson_id": "posta-1913" },
+      { "form_hu": "levelem", "translation_cs": "můj dopis", "grammar_id": "birtokos-m", "lesson_id": "posta-1913" },
+      { "form_hu": "levélen", "translation_cs": "na dopisu", "grammar_id": "poloha-na-povrchu", "lesson_id": "posta-1913" }
+    ],
+    "morphemes": [{ "form": "levél", "translation_cs": "dopis", "kind": "root" }],
+    "example_hu": "Anna levelet ír.",
+    "example_cs": "Anna píše dopis."
+  },
+  {
+    "id": "belyeg",
+    "word": "bélyeg",
+    "translation_cs": "poštovní známka",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [
+      { "form_hu": "bélyeget", "translation_cs": "známku jako předmět", "grammar_id": "targy-t", "lesson_id": "posta-1913" },
+      { "form_hu": "bélyegem", "translation_cs": "moje známka", "grammar_id": "birtokos-m", "lesson_id": "posta-1913" }
+    ],
+    "morphemes": [{ "form": "bélyeg", "translation_cs": "poštovní známka", "kind": "root" }],
+    "example_hu": "A bélyeg a levélen van.",
+    "example_cs": "Známka je na dopisu."
+  },
+  {
+    "id": "cim",
+    "word": "cím",
+    "translation_cs": "adresa; název",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [
+      { "form_hu": "címet", "translation_cs": "adresu jako předmět", "grammar_id": "targy-t", "lesson_id": "posta-1913" },
+      { "form_hu": "címem", "translation_cs": "moje adresa", "grammar_id": "birtokos-m", "lesson_id": "posta-1913" }
+    ],
+    "morphemes": [{ "form": "cím", "translation_cs": "adresa", "kind": "root" }],
+    "example_hu": "A cím a levélen van.",
+    "example_cs": "Adresa je na dopisu."
+  },
+  {
+    "id": "ir",
+    "word": "ír",
+    "translation_cs": "psát",
+    "part_of_speech_cs": "sloveso · základní tvar",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "írok", "translation_cs": "píšu", "grammar_id": "casovani-prvni-osoba", "lesson_id": "posta-1913" },
+      { "form_hu": "írja", "translation_cs": "píše konkrétní dopis", "grammar_id": "targy-uragozas-hatarozott", "lesson_id": "posta-1913" }
+    ],
+    "morphemes": [{ "form": "ír", "translation_cs": "psát", "kind": "root" }],
+    "example_hu": "Anna levelet ír.",
+    "example_cs": "Anna píše dopis."
+  },
+  {
+    "id": "ad",
+    "word": "ad",
+    "translation_cs": "dávat; dát",
+    "part_of_speech_cs": "sloveso · základní tvar",
+    "vowel_harmony": "back",
+    "forms": [],
+    "morphemes": [{ "form": "ad", "translation_cs": "dát", "kind": "root" }],
+    "example_hu": "A postás bélyeget ad Annának.",
+    "example_cs": "Pošťák dává Anně známku."
+  },
+  {
+    "id": "postas",
+    "word": "postás",
+    "translation_cs": "pošťák; poštovní doručovatel",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "postásnak", "translation_cs": "pošťákovi", "grammar_id": "prijemce-nak-nek", "lesson_id": "posta-1913" }],
+    "morphemes": [{ "form": "postás", "translation_cs": "pošťák", "kind": "root" }],
+    "example_hu": "A postás a postán van.",
+    "example_cs": "Pošťák je na poště."
+  },
+  {
+    "id": "lo",
+    "word": "ló",
+    "translation_cs": "kůň",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "lóval", "translation_cs": "s koněm; pomocí koně", "grammar_id": "prepravni-prostredek-val-vel", "lesson_id": "kozlekedes-1913" },
+      { "form_hu": "lovat", "translation_cs": "koně jako předmět", "grammar_id": "targy-t", "lesson_id": "kozlekedes-1913" }
+    ],
+    "morphemes": [{ "form": "ló", "translation_cs": "kůň", "kind": "root" }],
+    "example_hu": "A ló a téren van.",
+    "example_cs": "Kůň je na náměstí."
+  },
+  {
+    "id": "kocsi",
+    "word": "kocsi",
+    "translation_cs": "kočár tažený koňmi (v roce 1913)",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "kocsival", "translation_cs": "kočárem", "grammar_id": "prepravni-prostredek-val-vel", "lesson_id": "kozlekedes-1913" },
+      { "form_hu": "kocsiban", "translation_cs": "v kočáře", "grammar_id": "umisteni-v", "lesson_id": "kozlekedes-1913" }
+    ],
+    "morphemes": [{ "form": "kocsi", "translation_cs": "kočár", "kind": "root" }],
+    "example_hu": "A vendég kocsival megy a szállodába.",
+    "example_cs": "Host jede do hotelu kočárem."
+  },
+  {
+    "id": "kocsis",
+    "word": "kocsis",
+    "translation_cs": "kočí",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [],
+    "morphemes": [{ "form": "kocsis", "translation_cs": "kočí", "kind": "root" }],
+    "example_hu": "A kocsis a téren van.",
+    "example_cs": "Kočí je na náměstí."
+  },
+  {
+    "id": "villamos",
+    "word": "villamos",
+    "translation_cs": "tramvaj",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "villamossal", "translation_cs": "tramvají", "grammar_id": "prepravni-prostredek-val-vel", "lesson_id": "kozlekedes-1913" },
+      { "form_hu": "villamoson", "translation_cs": "na tramvaji / v tramvaji", "grammar_id": "poloha-na-povrchu", "lesson_id": "kozlekedes-1913" }
+    ],
+    "morphemes": [{ "form": "villamos", "translation_cs": "tramvaj", "kind": "root" }],
+    "example_hu": "A család villamossal megy.",
+    "example_cs": "Rodina jede tramvají."
+  },
+  {
+    "id": "var",
+    "word": "vár",
+    "translation_cs": "čekat",
+    "part_of_speech_cs": "sloveso · základní tvar",
+    "vowel_harmony": "back",
+    "forms": [],
+    "morphemes": [{ "form": "vár", "translation_cs": "čekat", "kind": "root" }],
+    "example_hu": "A vendég a téren vár.",
+    "example_cs": "Host čeká na náměstí."
   }
 ]
