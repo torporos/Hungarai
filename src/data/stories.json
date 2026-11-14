@@ -1,0 +1,134 @@
+[
+  {
+    "id": "reggel",
+    "title_cs": "Dům, zahrada a jablko",
+    "title_hu": "A ház és a kert",
+    "level": "A1 · I + 1 SLOVO",
+    "reading_time_min": 2,
+    "prerequisite_lesson_ids": ["prvni-kroky"],
+    "curriculum_lesson_id": "zvuk-a-vyznam",
+    "new_vocabulary_ids": ["alma"],
+    "vocabulary_ids": ["haz", "konyv", "szoba", "taska", "kert", "alma"],
+    "segments": [
+      { "text": "Anna a " },
+      { "text": "házban", "vocabulary_id": "haz" },
+      { "text": " van. A házban van egy " },
+      { "text": "könyv", "vocabulary_id": "konyv" },
+      { "text": ". A könyv a " },
+      { "text": "szobában", "vocabulary_id": "szoba" },
+      { "text": " van. A " },
+      { "text": "kertben", "vocabulary_id": "kert" },
+      { "text": " van egy " },
+      { "text": "táska", "vocabulary_id": "taska" },
+      { "text": ". A táska a kertben van. A kertben van egy " },
+      { "text": "alma", "vocabulary_id": "alma" },
+      { "text": ". Az alma a táskában van. A könyv a házban van, a táska a kertben van. Anna a kertben van. Az alma a táskában van." }
+    ],
+    "questions": [
+      {
+        "id": "reggel-book",
+        "prompt_cs": "Kde je kniha?",
+        "options_cs": ["V pokoji.", "V zahradě.", "V tašce."],
+        "answer_index": 0,
+        "feedback_cs": "Kniha je v pokoji: A könyv a szobában van."
+      },
+      {
+        "id": "reggel-bag",
+        "prompt_cs": "Co je v tašce?",
+        "options_cs": ["Jablko.", "Kniha.", "Taška."],
+        "answer_index": 0,
+        "feedback_cs": "V tašce je jablko: Az alma a táskában van."
+      },
+      {
+        "id": "reggel-anna",
+        "prompt_cs": "Kde je Anna?",
+        "options_cs": ["V zahradě.", "V pokoji.", "U řeky."],
+        "answer_index": 0,
+        "feedback_cs": "Anna je v zahradě: Anna a kertben van."
+      }
+    ],
+    "translation_cs": "Anna je v domě. V domě je kniha. Kniha je v pokoji. V zahradě je taška. Taška je v zahradě. V zahradě je jablko. Jablko je v tašce. Kniha je v domě, taška je v zahradě. Anna je v zahradě. Jablko je v tašce."
+  },
+  {
+    "id": "na-namesti",
+    "title_cs": "Host ve městě",
+    "title_hu": "A vendég a városban",
+    "level": "A1 · I + 1 SLOVO",
+    "reading_time_min": 3,
+    "prerequisite_lesson_ids": ["prochazka-mestem"],
+    "curriculum_lesson_id": "rodina-a-pratele",
+    "new_vocabulary_ids": ["vendeg"],
+    "vocabulary_ids": ["vendeg", "varos", "megy", "ter", "van", "muzeum", "kavezo", "kave", "kerek", "viz", "bolt", "park", "folyo", "kozel", "hid", "kenyer"],
+    "segments": [
+      { "text": "A " },
+      { "text": "vendég", "vocabulary_id": "vendeg" },
+      { "text": " a " },
+      { "text": "városba", "vocabulary_id": "varos" },
+      { "text": " " },
+      { "text": "megy", "vocabulary_id": "megy" },
+      { "text": ". A " },
+      { "text": "városban", "vocabulary_id": "varos" },
+      { "text": " van egy " },
+      { "text": "tér", "vocabulary_id": "ter" },
+      { "text": ". A " },
+      { "text": "téren", "vocabulary_id": "ter" },
+      { "text": " van egy " },
+      { "text": "múzeum", "vocabulary_id": "muzeum" },
+      { "text": " és egy " },
+      { "text": "kávézó", "vocabulary_id": "kavezo" },
+      { "text": ". A vendég a " },
+      { "text": "múzeumba", "vocabulary_id": "muzeum" },
+      { "text": " " },
+      { "text": "megy", "vocabulary_id": "megy" },
+      { "text": ". A múzeum a téren " },
+      { "text": "van", "vocabulary_id": "van" },
+      { "text": ". A kávézó a téren van. A vendég a " },
+      { "text": "kávézóba", "vocabulary_id": "kavezo" },
+      { "text": " megy. A kávézóban " },
+      { "text": "kávét", "vocabulary_id": "kave" },
+      { "text": " " },
+      { "text": "kér", "vocabulary_id": "kerek" },
+      { "text": ". " },
+      { "text": "Vizet", "vocabulary_id": "viz" },
+      { "text": " is kér. A " },
+      { "text": "bolt", "vocabulary_id": "bolt" },
+      { "text": " a " },
+      { "text": "parkban", "vocabulary_id": "park" },
+      { "text": " van. A vendég a " },
+      { "text": "boltba", "vocabulary_id": "bolt" },
+      { "text": " megy. A boltban " },
+      { "text": "kenyeret", "vocabulary_id": "kenyer" },
+      { "text": " kér. A " },
+      { "text": "folyó", "vocabulary_id": "folyo" },
+      { "text": " " },
+      { "text": "közel", "vocabulary_id": "kozel" },
+      { "text": " van. A " },
+      { "text": "híd", "vocabulary_id": "hid" },
+      { "text": " közel van. A vendég a városban van." }
+    ],
+    "questions": [
+      {
+        "id": "namesti-destination",
+        "prompt_cs": "Kam host jede jako první?",
+        "options_cs": ["Do města.", "Do parku.", "Do obchodu."],
+        "answer_index": 0,
+        "feedback_cs": "Host jede do města: A vendég a városba megy."
+      },
+      {
+        "id": "namesti-order",
+        "prompt_cs": "Co si host objedná v kavárně?",
+        "options_cs": ["Kávu a vodu.", "Chléb a mléko.", "Čaj a koláč."],
+        "answer_index": 0,
+        "feedback_cs": "V kavárně žádá o kávu a vodu; chléb si žádá až v obchodě."
+      },
+      {
+        "id": "namesti-shop",
+        "prompt_cs": "Kde je obchod?",
+        "options_cs": ["V parku.", "Na náměstí.", "V muzeu."],
+        "answer_index": 0,
+        "feedback_cs": "Obchod je v parku: A bolt a parkban van."
+      }
+    ],
+    "translation_cs": "Host jede do města. Ve městě je náměstí. Na náměstí je muzeum a kavárna. Host jde do muzea. Muzeum je na náměstí. Kavárna je na náměstí. Host jde do kavárny. V kavárně si objedná kávu. Požádá také o vodu. Obchod je v parku. Host jde do obchodu. V obchodě žádá o chléb. Řeka je blízko. Most je blízko. Host je ve městě."
+  }
+]

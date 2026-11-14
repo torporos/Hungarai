@@ -1,0 +1,761 @@
+[
+  {
+    "id": "haz",
+    "word": "ház",
+    "translation_cs": "dům",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "házban", "translation_cs": "v domě", "grammar_id": "umisteni-v", "lesson_id": "prvni-kroky" }],
+    "morphemes": [
+      { "form": "ház", "translation_cs": "dům", "kind": "root" },
+      { "form": "-ban", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "A házamban lakom.",
+    "example_cs": "Bydlím ve svém domě."
+  },
+  {
+    "id": "kert",
+    "word": "kert",
+    "translation_cs": "zahrada",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "kertben", "translation_cs": "na zahradě", "grammar_id": "umisteni-v", "lesson_id": "prvni-kroky" }],
+    "morphemes": [
+      { "form": "kert", "translation_cs": "zahrada", "kind": "root" },
+      { "form": "-ben", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "A kertben játszom.",
+    "example_cs": "Hraju si na zahradě."
+  },
+  {
+    "id": "konyv",
+    "word": "könyv",
+    "translation_cs": "kniha",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "könyvben", "translation_cs": "v knize", "grammar_id": "umisteni-v", "lesson_id": "prvni-kroky" }],
+    "morphemes": [{ "form": "könyv", "translation_cs": "kniha", "kind": "root" }],
+    "example_hu": "Ez a könyv érdekes.",
+    "example_cs": "Tato kniha je zajímavá."
+  },
+  {
+    "id": "taska",
+    "word": "táska",
+    "translation_cs": "taška",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "táskában", "translation_cs": "v tašce", "grammar_id": "umisteni-v", "lesson_id": "prvni-kroky" }],
+    "morphemes": [
+      { "form": "táska", "translation_cs": "taška", "kind": "root" },
+      { "form": "-ban", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "A táska az asztalon van.",
+    "example_cs": "Taška je na stole."
+  },
+  {
+    "id": "alma",
+    "word": "alma",
+    "translation_cs": "jablko",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "almát", "translation_cs": "jablko (jako předmět)", "grammar_id": "targy-t", "lesson_id": "zvuk-a-vyznam" },
+      { "form_hu": "almában", "translation_cs": "v jablku", "grammar_id": "umisteni-v", "lesson_id": "prvni-kroky" }
+    ],
+    "morphemes": [
+      { "form": "alma", "translation_cs": "jablko", "kind": "root" },
+      { "form": "-ban", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "Az alma piros.",
+    "example_cs": "Jablko je červené."
+  },
+  {
+    "id": "viz",
+    "word": "víz",
+    "translation_cs": "voda",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [
+      { "form_hu": "vizet", "translation_cs": "vodu (jako předmět)", "grammar_id": "targy-t", "lesson_id": "zvuk-a-vyznam" },
+      { "form_hu": "vízben", "translation_cs": "ve vodě", "grammar_id": "umisteni-v", "lesson_id": "zvuk-a-vyznam" }
+    ],
+    "morphemes": [
+      { "form": "víz", "translation_cs": "voda", "kind": "root" },
+      { "form": "-ben", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "A víz hideg.",
+    "example_cs": "Voda je studená."
+  },
+  {
+    "id": "szoba",
+    "word": "szoba",
+    "translation_cs": "pokoj",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "szobában", "translation_cs": "v pokoji", "grammar_id": "umisteni-v", "lesson_id": "prvni-kroky" }],
+    "morphemes": [
+      { "form": "szoba", "translation_cs": "pokoj", "kind": "root" },
+      { "form": "-ban", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "A szobában vagyok.",
+    "example_cs": "Jsem v pokoji."
+  },
+  {
+    "id": "kenyer",
+    "word": "kenyér",
+    "translation_cs": "chléb",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "kenyeret", "translation_cs": "chléb (jako předmět)", "grammar_id": "targy-t", "lesson_id": "zvuk-a-vyznam" }],
+    "morphemes": [
+      { "form": "kenyér", "translation_cs": "chléb", "kind": "root" },
+      { "form": "-et", "translation_cs": "předmětová přípona", "kind": "suffix" }
+    ],
+    "example_hu": "Kérek egy kenyeret.",
+    "example_cs": "Prosím si jeden chléb."
+  },
+  {
+    "id": "tej",
+    "word": "tej",
+    "translation_cs": "mléko",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "tejet", "translation_cs": "mléko (jako předmět)", "grammar_id": "targy-t", "lesson_id": "zvuk-a-vyznam" }],
+    "morphemes": [
+      { "form": "tej", "translation_cs": "mléko", "kind": "root" },
+      { "form": "-et", "translation_cs": "předmětová přípona", "kind": "suffix" }
+    ],
+    "example_hu": "Kérek tejet.",
+    "example_cs": "Prosím si mléko."
+  },
+  {
+    "id": "kave",
+    "word": "kávé",
+    "translation_cs": "káva",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "kávét", "translation_cs": "kávu (jako předmět)", "grammar_id": "targy-t", "lesson_id": "zvuk-a-vyznam" }],
+    "morphemes": [
+      { "form": "kávé", "translation_cs": "káva", "kind": "root" },
+      { "form": "-t", "translation_cs": "předmětová přípona", "kind": "suffix" }
+    ],
+    "example_hu": "Kérek egy kávét.",
+    "example_cs": "Prosím si jednu kávu."
+  },
+  {
+    "id": "kerek",
+    "word": "kér",
+    "translation_cs": "žádat / prosit si",
+    "part_of_speech_cs": "sloveso",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "kérek", "translation_cs": "prosím si (já)", "grammar_id": "zdvorila-zadost", "lesson_id": "zvuk-a-vyznam" }],
+    "morphemes": [
+      { "form": "kér", "translation_cs": "žádat", "kind": "root" },
+      { "form": "-ek", "translation_cs": "já", "kind": "suffix" }
+    ],
+    "example_hu": "Kérek egy kávét.",
+    "example_cs": "Prosím si jednu kávu."
+  },
+  {
+    "id": "mennyi",
+    "word": "mennyi",
+    "translation_cs": "kolik",
+    "part_of_speech_cs": "tázací zájmeno",
+    "vowel_harmony": "front",
+    "morphemes": [{ "form": "mennyi", "translation_cs": "kolik", "kind": "root" }],
+    "example_hu": "Mennyibe kerül?",
+    "example_cs": "Kolik to stojí?"
+  },
+  {
+    "id": "varos",
+    "word": "város",
+    "translation_cs": "město",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "városba", "translation_cs": "do města", "grammar_id": "smer-dovnitr", "lesson_id": "cesta-mestem" },
+      { "form_hu": "városban", "translation_cs": "ve městě", "grammar_id": "umisteni-v", "lesson_id": "prochazka-mestem" }
+    ],
+    "morphemes": [
+      { "form": "város", "translation_cs": "město", "kind": "root" },
+      { "form": "-ba", "translation_cs": "do", "kind": "suffix" }
+    ],
+    "example_hu": "A város nagy.",
+    "example_cs": "Město je velké."
+  },
+  {
+    "id": "utca",
+    "word": "utca",
+    "translation_cs": "ulice",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "utcában", "translation_cs": "na ulici", "grammar_id": "umisteni-v", "lesson_id": "cesta-mestem" }],
+    "morphemes": [
+      { "form": "utca", "translation_cs": "ulice", "kind": "root" },
+      { "form": "-ban", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "Az utca hosszú.",
+    "example_cs": "Ulice je dlouhá."
+  },
+  {
+    "id": "allomas",
+    "word": "állomás",
+    "translation_cs": "nádraží",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "morphemes": [{ "form": "állomás", "translation_cs": "nádraží", "kind": "root" }],
+    "example_hu": "Az állomás itt van.",
+    "example_cs": "Nádraží je tady."
+  },
+  {
+    "id": "vonat",
+    "word": "vonat",
+    "translation_cs": "vlak",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "morphemes": [{ "form": "vonat", "translation_cs": "vlak", "kind": "root" }],
+    "example_hu": "A vonat indul.",
+    "example_cs": "Vlak odjíždí."
+  },
+  {
+    "id": "jegy",
+    "word": "jegy",
+    "translation_cs": "jízdenka",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "jegyet", "translation_cs": "jízdenku (jako předmět)", "grammar_id": "targy-t", "lesson_id": "cesta-mestem" }],
+    "morphemes": [
+      { "form": "jegy", "translation_cs": "jízdenka", "kind": "root" },
+      { "form": "-et", "translation_cs": "předmětová přípona", "kind": "suffix" }
+    ],
+    "example_hu": "Kérek egy jegyet.",
+    "example_cs": "Prosím si jízdenku."
+  },
+  {
+    "id": "balra",
+    "word": "balra",
+    "translation_cs": "doleva",
+    "part_of_speech_cs": "příslovce",
+    "vowel_harmony": "back",
+    "morphemes": [{ "form": "balra", "translation_cs": "doleva", "kind": "root" }],
+    "example_hu": "Forduljon balra.",
+    "example_cs": "Zahněte doleva."
+  },
+  {
+    "id": "jobbra",
+    "word": "jobbra",
+    "translation_cs": "doprava",
+    "part_of_speech_cs": "příslovce",
+    "vowel_harmony": "back",
+    "morphemes": [{ "form": "jobbra", "translation_cs": "doprava", "kind": "root" }],
+    "example_hu": "Forduljon jobbra.",
+    "example_cs": "Zahněte doprava."
+  },
+  {
+    "id": "egyenesen",
+    "word": "egyenesen",
+    "translation_cs": "rovně / přímo",
+    "part_of_speech_cs": "příslovce",
+    "vowel_harmony": "none",
+    "morphemes": [{ "form": "egyenesen", "translation_cs": "rovně / přímo", "kind": "root" }],
+    "example_hu": "Menjen egyenesen.",
+    "example_cs": "Jeďte rovně."
+  },
+  {
+    "id": "megy",
+    "word": "megy",
+    "translation_cs": "jede / jde",
+    "part_of_speech_cs": "sloveso",
+    "vowel_harmony": "front",
+    "morphemes": [{ "form": "megy", "translation_cs": "jede / jde", "kind": "root" }],
+    "example_hu": "A vonat a városba megy.",
+    "example_cs": "Vlak jede do města."
+  },
+  {
+    "id": "hova",
+    "word": "hová",
+    "translation_cs": "kam",
+    "part_of_speech_cs": "tázací příslovce",
+    "vowel_harmony": "back",
+    "morphemes": [{ "form": "hová", "translation_cs": "kam", "kind": "root" }],
+    "example_hu": "Hová megy a vonat?",
+    "example_cs": "Kam jede vlak?"
+  },
+  {
+    "id": "ter",
+    "word": "tér",
+    "translation_cs": "náměstí",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "téren", "translation_cs": "na náměstí", "grammar_id": "poloha-na-povrchu", "lesson_id": "prochazka-mestem" }],
+    "morphemes": [
+      { "form": "tér", "translation_cs": "náměstí", "kind": "root" },
+      { "form": "-en", "translation_cs": "na", "kind": "suffix" }
+    ],
+    "example_hu": "A múzeum a téren van.",
+    "example_cs": "Muzeum je na náměstí."
+  },
+  {
+    "id": "hid",
+    "word": "híd",
+    "translation_cs": "most",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "hídon", "translation_cs": "na mostě", "grammar_id": "poloha-na-povrchu", "lesson_id": "prochazka-mestem" }],
+    "morphemes": [
+      { "form": "híd", "translation_cs": "most", "kind": "root" },
+      { "form": "-on", "translation_cs": "na", "kind": "suffix" }
+    ],
+    "example_hu": "A híd közel van.",
+    "example_cs": "Most je blízko."
+  },
+  {
+    "id": "folyo",
+    "word": "folyó",
+    "translation_cs": "řeka",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "folyón", "translation_cs": "na řece", "grammar_id": "poloha-na-povrchu", "lesson_id": "prochazka-mestem" }],
+    "morphemes": [
+      { "form": "folyó", "translation_cs": "řeka", "kind": "root" },
+      { "form": "-n", "translation_cs": "na", "kind": "suffix" }
+    ],
+    "example_hu": "A folyó közel van.",
+    "example_cs": "Řeka je blízko."
+  },
+  {
+    "id": "park",
+    "word": "park",
+    "translation_cs": "park",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "parkban", "translation_cs": "v parku", "grammar_id": "umisteni-v", "lesson_id": "prochazka-mestem" }],
+    "morphemes": [
+      { "form": "park", "translation_cs": "park", "kind": "root" },
+      { "form": "-ban", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "A park messze van.",
+    "example_cs": "Park je daleko."
+  },
+  {
+    "id": "muzeum",
+    "word": "múzeum",
+    "translation_cs": "muzeum",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "múzeumban", "translation_cs": "v muzeu", "grammar_id": "umisteni-v", "lesson_id": "prochazka-mestem" },
+      { "form_hu": "múzeumba", "translation_cs": "do muzea", "grammar_id": "smer-dovnitr", "lesson_id": "prochazka-mestem" }
+    ],
+    "morphemes": [
+      { "form": "múzeum", "translation_cs": "muzeum", "kind": "root" },
+      { "form": "-ban", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "A múzeum a téren van.",
+    "example_cs": "Muzeum je na náměstí."
+  },
+  {
+    "id": "kavezo",
+    "word": "kávézó",
+    "translation_cs": "kavárna",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "kávézóban", "translation_cs": "v kavárně", "grammar_id": "umisteni-v", "lesson_id": "prochazka-mestem" },
+      { "form_hu": "kávézóba", "translation_cs": "do kavárny", "grammar_id": "smer-dovnitr", "lesson_id": "prochazka-mestem" }
+    ],
+    "morphemes": [
+      { "form": "kávézó", "translation_cs": "kavárna", "kind": "root" },
+      { "form": "-ban", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "A kávézó a téren van.",
+    "example_cs": "Kavárna je na náměstí."
+  },
+  {
+    "id": "bolt",
+    "word": "bolt",
+    "translation_cs": "obchod",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "boltban", "translation_cs": "v obchodě", "grammar_id": "umisteni-v", "lesson_id": "prochazka-mestem" },
+      { "form_hu": "boltba", "translation_cs": "do obchodu", "grammar_id": "smer-dovnitr", "lesson_id": "prochazka-mestem" }
+    ],
+    "morphemes": [
+      { "form": "bolt", "translation_cs": "obchod", "kind": "root" },
+      { "form": "-ban", "translation_cs": "v", "kind": "suffix" }
+    ],
+    "example_hu": "A bolt a parkban van.",
+    "example_cs": "Obchod je v parku."
+  },
+  {
+    "id": "kozel",
+    "word": "közel",
+    "translation_cs": "blízko",
+    "part_of_speech_cs": "příslovce",
+    "vowel_harmony": "front",
+    "morphemes": [{ "form": "közel", "translation_cs": "blízko", "kind": "root" }],
+    "example_hu": "A híd közel van.",
+    "example_cs": "Most je blízko."
+  },
+  {
+    "id": "messze",
+    "word": "messze",
+    "translation_cs": "daleko",
+    "part_of_speech_cs": "příslovce",
+    "vowel_harmony": "front",
+    "morphemes": [{ "form": "messze", "translation_cs": "daleko", "kind": "root" }],
+    "example_hu": "A park messze van.",
+    "example_cs": "Park je daleko."
+  },
+  {
+    "id": "van",
+    "word": "van",
+    "translation_cs": "je / nachází se",
+    "part_of_speech_cs": "sloveso",
+    "vowel_harmony": "back",
+    "morphemes": [{ "form": "van", "translation_cs": "je / nachází se", "kind": "root" }],
+    "example_hu": "A múzeum a téren van.",
+    "example_cs": "Muzeum je na náměstí."
+  },
+  {
+    "id": "vendeg",
+    "word": "vendég",
+    "translation_cs": "host",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "vendégem", "translation_cs": "můj host", "grammar_id": "birtokos-m", "lesson_id": "rodina-a-pratele" }],
+    "morphemes": [{ "form": "vendég", "translation_cs": "host", "kind": "root" }],
+    "example_hu": "A vendég a városba megy.",
+    "example_cs": "Host jede do města."
+  },
+  {
+    "id": "barat",
+    "word": "barát",
+    "translation_cs": "přítel",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "barátom", "translation_cs": "můj přítel", "grammar_id": "birtokos-m", "lesson_id": "rodina-a-pratele" }],
+    "morphemes": [{ "form": "barát", "translation_cs": "přítel", "kind": "root" }],
+    "example_hu": "A barátom a városban lakik.",
+    "example_cs": "Můj přítel bydlí ve městě."
+  },
+  {
+    "id": "csalad",
+    "word": "család",
+    "translation_cs": "rodina",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "családom", "translation_cs": "moje rodina", "grammar_id": "birtokos-m", "lesson_id": "rodina-a-pratele" },
+      { "form_hu": "családomat", "translation_cs": "moji rodinu (určitý předmět)", "grammar_id": "targy-uragozas-hatarozott", "lesson_id": "zivot-rodiny" }
+    ],
+    "morphemes": [{ "form": "család", "translation_cs": "rodina", "kind": "root" }],
+    "example_hu": "A családom itt van.",
+    "example_cs": "Moje rodina je tady."
+  },
+  {
+    "id": "anya",
+    "word": "anya",
+    "translation_cs": "matka",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "anyám", "translation_cs": "moje matka", "grammar_id": "birtokos-m", "lesson_id": "rodina-a-pratele" }],
+    "morphemes": [{ "form": "anya", "translation_cs": "matka", "kind": "root" }],
+    "example_hu": "Anyám a városban lakik.",
+    "example_cs": "Moje matka bydlí ve městě."
+  },
+  {
+    "id": "apa",
+    "word": "apa",
+    "translation_cs": "otec",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "apám", "translation_cs": "můj otec", "grammar_id": "birtokos-m", "lesson_id": "rodina-a-pratele" }],
+    "morphemes": [{ "form": "apa", "translation_cs": "otec", "kind": "root" }],
+    "example_hu": "Apám a kertben van.",
+    "example_cs": "Můj otec je na zahradě."
+  },
+  {
+    "id": "testver",
+    "word": "testvér",
+    "translation_cs": "sourozenec",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [
+      { "form_hu": "testvérem", "translation_cs": "můj sourozenec", "grammar_id": "birtokos-m", "lesson_id": "rodina-a-pratele" },
+      { "form_hu": "testvéremet", "translation_cs": "mého sourozence (předmět)", "grammar_id": "targy-uragozas-hatarozott", "lesson_id": "zivot-rodiny" }
+    ],
+    "morphemes": [{ "form": "testvér", "translation_cs": "sourozenec", "kind": "root" }],
+    "example_hu": "A testvérem a parkban van.",
+    "example_cs": "Můj sourozenec je v parku."
+  },
+  {
+    "id": "gyerek",
+    "word": "gyerek",
+    "translation_cs": "dítě",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "gyerekem", "translation_cs": "moje dítě", "grammar_id": "birtokos-m", "lesson_id": "rodina-a-pratele" }],
+    "morphemes": [{ "form": "gyerek", "translation_cs": "dítě", "kind": "root" }],
+    "example_hu": "A gyerek a házban van.",
+    "example_cs": "Dítě je v domě."
+  },
+  {
+    "id": "lakik",
+    "word": "lakik",
+    "translation_cs": "bydlet",
+    "part_of_speech_cs": "sloveso",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "lakom", "translation_cs": "bydlím (já)", "grammar_id": "casovani-prvni-osoba", "lesson_id": "rodina-a-pratele" }],
+    "morphemes": [{ "form": "lakik", "translation_cs": "bydlet", "kind": "root" }],
+    "example_hu": "A barátom a városban lakik.",
+    "example_cs": "Můj přítel bydlí ve městě."
+  },
+  {
+    "id": "szeret",
+    "word": "szeret",
+    "translation_cs": "mít rád",
+    "part_of_speech_cs": "sloveso",
+    "vowel_harmony": "front",
+    "forms": [
+      { "form_hu": "szeretek", "translation_cs": "mám rád (neurčitý předmět)", "grammar_id": "casovani-prvni-osoba", "lesson_id": "rodina-a-pratele" },
+      { "form_hu": "szeretem", "translation_cs": "mám rád (určitý předmět)", "grammar_id": "targy-uragozas-hatarozott", "lesson_id": "zivot-rodiny" }
+    ],
+    "morphemes": [{ "form": "szeret", "translation_cs": "mít rád", "kind": "root" }],
+    "example_hu": "Szeretek kávét. Szeretem a családomat.",
+    "example_cs": "Mám rád kávu. Mám rád svou rodinu."
+  },
+  {
+    "id": "ajto",
+    "word": "ajtó",
+    "translation_cs": "dveře",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "ajtók", "translation_cs": "dveře (množné číslo)", "grammar_id": "tobbesszam-alapok", "lesson_id": "doma-predmety" }],
+    "morphemes": [{ "form": "ajtó", "translation_cs": "dveře", "kind": "root" }],
+    "example_hu": "A házban van egy ajtó.",
+    "example_cs": "V domě jsou dveře."
+  },
+  {
+    "id": "ablak",
+    "word": "ablak",
+    "translation_cs": "okno",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "ablakok", "translation_cs": "okna", "grammar_id": "tobbesszam-alapok", "lesson_id": "doma-predmety" }],
+    "morphemes": [{ "form": "ablak", "translation_cs": "okno", "kind": "root" }],
+    "example_hu": "A szobában van egy ablak.",
+    "example_cs": "V pokoji je okno."
+  },
+  {
+    "id": "asztal",
+    "word": "asztal",
+    "translation_cs": "stůl",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "asztalok", "translation_cs": "stoly", "grammar_id": "tobbesszam-alapok", "lesson_id": "doma-predmety" }],
+    "morphemes": [{ "form": "asztal", "translation_cs": "stůl", "kind": "root" }],
+    "example_hu": "Az asztal a szobában van.",
+    "example_cs": "Stůl je v pokoji."
+  },
+  {
+    "id": "szek",
+    "word": "szék",
+    "translation_cs": "židle",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "székek", "translation_cs": "židle (množné číslo)", "grammar_id": "tobbesszam-alapok", "lesson_id": "doma-predmety" }],
+    "morphemes": [{ "form": "szék", "translation_cs": "židle", "kind": "root" }],
+    "example_hu": "A szék a szobában van.",
+    "example_cs": "Židle je v pokoji."
+  },
+  {
+    "id": "sajt",
+    "word": "sajt",
+    "translation_cs": "sýr",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "sajtot", "translation_cs": "sýr (předmět)", "grammar_id": "targy-t", "lesson_id": "nakup-dalsi-chute" }],
+    "morphemes": [{ "form": "sajt", "translation_cs": "sýr", "kind": "root" }],
+    "example_hu": "Kérek sajtot.",
+    "example_cs": "Prosím si sýr."
+  },
+  {
+    "id": "tea",
+    "word": "tea",
+    "translation_cs": "čaj",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "teát", "translation_cs": "čaj (předmět)", "grammar_id": "targy-t", "lesson_id": "nakup-dalsi-chute" }],
+    "morphemes": [{ "form": "tea", "translation_cs": "čaj", "kind": "root" }],
+    "example_hu": "Kérek egy teát.",
+    "example_cs": "Prosím si čaj."
+  },
+  {
+    "id": "tojas",
+    "word": "tojás",
+    "translation_cs": "vejce",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "tojást", "translation_cs": "vejce (předmět)", "grammar_id": "targy-t", "lesson_id": "nakup-dalsi-chute" }],
+    "morphemes": [{ "form": "tojás", "translation_cs": "vejce", "kind": "root" }],
+    "example_hu": "Kérek egy tojást.",
+    "example_cs": "Prosím si jedno vejce."
+  },
+  {
+    "id": "leves",
+    "word": "leves",
+    "translation_cs": "polévka",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "levest", "translation_cs": "polévku (předmět)", "grammar_id": "targy-t", "lesson_id": "nakup-dalsi-chute" }],
+    "morphemes": [{ "form": "leves", "translation_cs": "polévka", "kind": "root" }],
+    "example_hu": "Kérek egy levest.",
+    "example_cs": "Prosím si polévku."
+  },
+  {
+    "id": "szalloda",
+    "word": "szálloda",
+    "translation_cs": "hotel",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "szállodában", "translation_cs": "v hotelu", "grammar_id": "mista-a-smery", "lesson_id": "doprava-a-cile" },
+      { "form_hu": "szállodába", "translation_cs": "do hotelu", "grammar_id": "mista-a-smery", "lesson_id": "doprava-a-cile" }
+    ],
+    "morphemes": [{ "form": "szálloda", "translation_cs": "hotel", "kind": "root" }],
+    "example_hu": "A szálloda a városban van.",
+    "example_cs": "Hotel je ve městě."
+  },
+  {
+    "id": "etterem",
+    "word": "étterem",
+    "translation_cs": "restaurace",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [
+      { "form_hu": "étteremben", "translation_cs": "v restauraci", "grammar_id": "mista-a-smery", "lesson_id": "doprava-a-cile" },
+      { "form_hu": "étterembe", "translation_cs": "do restaurace", "grammar_id": "mista-a-smery", "lesson_id": "doprava-a-cile" }
+    ],
+    "morphemes": [{ "form": "étterem", "translation_cs": "restaurace", "kind": "root" }],
+    "example_hu": "A vendég az étterembe megy.",
+    "example_cs": "Host jde do restaurace."
+  },
+  {
+    "id": "mozi",
+    "word": "mozi",
+    "translation_cs": "kino",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "moziban", "translation_cs": "v kině", "grammar_id": "mista-a-smery", "lesson_id": "doprava-a-cile" },
+      { "form_hu": "moziba", "translation_cs": "do kina", "grammar_id": "mista-a-smery", "lesson_id": "doprava-a-cile" }
+    ],
+    "morphemes": [{ "form": "mozi", "translation_cs": "kino", "kind": "root" }],
+    "example_hu": "A mozi a városban van.",
+    "example_cs": "Kino je ve městě."
+  },
+  {
+    "id": "korhaz",
+    "word": "kórház",
+    "translation_cs": "nemocnice",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [
+      { "form_hu": "kórházban", "translation_cs": "v nemocnici", "grammar_id": "mista-a-smery", "lesson_id": "doprava-a-cile" },
+      { "form_hu": "kórházba", "translation_cs": "do nemocnice", "grammar_id": "mista-a-smery", "lesson_id": "doprava-a-cile" }
+    ],
+    "morphemes": [{ "form": "kórház", "translation_cs": "nemocnice", "kind": "root" }],
+    "example_hu": "A kórház a városban van.",
+    "example_cs": "Nemocnice je ve městě."
+  },
+  {
+    "id": "konyvtar",
+    "word": "könyvtár",
+    "translation_cs": "knihovna",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "könyvtárban", "translation_cs": "v knihovně", "grammar_id": "umisteni-v", "lesson_id": "budovy-ve-meste" }],
+    "morphemes": [{ "form": "könyvtár", "translation_cs": "knihovna", "kind": "root" }],
+    "example_hu": "A könyvtár a városban van.",
+    "example_cs": "Knihovna je ve městě."
+  },
+  {
+    "id": "szinhaz",
+    "word": "színház",
+    "translation_cs": "divadlo",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "színházban", "translation_cs": "v divadle", "grammar_id": "umisteni-v", "lesson_id": "budovy-ve-meste" }],
+    "morphemes": [{ "form": "színház", "translation_cs": "divadlo", "kind": "root" }],
+    "example_hu": "A színház a téren van.",
+    "example_cs": "Divadlo je na náměstí."
+  },
+  {
+    "id": "templom",
+    "word": "templom",
+    "translation_cs": "kostel",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "templomban", "translation_cs": "v kostele", "grammar_id": "umisteni-v", "lesson_id": "budovy-ve-meste" }],
+    "morphemes": [{ "form": "templom", "translation_cs": "kostel", "kind": "root" }],
+    "example_hu": "A templom a városban van.",
+    "example_cs": "Kostel je ve městě."
+  },
+  {
+    "id": "iskola",
+    "word": "iskola",
+    "translation_cs": "škola",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "iskolában", "translation_cs": "ve škole", "grammar_id": "umisteni-v", "lesson_id": "budovy-ve-meste" }],
+    "morphemes": [{ "form": "iskola", "translation_cs": "škola", "kind": "root" }],
+    "example_hu": "Az iskola a városban van.",
+    "example_cs": "Škola je ve městě."
+  },
+  {
+    "id": "nagymama",
+    "word": "nagymama",
+    "translation_cs": "babička",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "nagymamám", "translation_cs": "moje babička", "grammar_id": "birtokos-m", "lesson_id": "zivot-rodiny" }],
+    "morphemes": [{ "form": "nagymama", "translation_cs": "babička", "kind": "root" }],
+    "example_hu": "A nagymamám a városban lakik.",
+    "example_cs": "Moje babička bydlí ve městě."
+  },
+  {
+    "id": "nagypapa",
+    "word": "nagypapa",
+    "translation_cs": "dědeček",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "back",
+    "forms": [{ "form_hu": "nagypapám", "translation_cs": "můj dědeček", "grammar_id": "birtokos-m", "lesson_id": "zivot-rodiny" }],
+    "morphemes": [{ "form": "nagypapa", "translation_cs": "dědeček", "kind": "root" }],
+    "example_hu": "A nagypapám a kertben van.",
+    "example_cs": "Můj dědeček je na zahradě."
+  },
+  {
+    "id": "unokatestver",
+    "word": "unokatestvér",
+    "translation_cs": "bratranec / sestřenice",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "unokatestvérem", "translation_cs": "můj bratranec / moje sestřenice", "grammar_id": "birtokos-m", "lesson_id": "zivot-rodiny" }],
+    "morphemes": [{ "form": "unokatestvér", "translation_cs": "bratranec / sestřenice", "kind": "root" }],
+    "example_hu": "Az unokatestvérem a városban lakik.",
+    "example_cs": "Můj bratranec bydlí ve městě."
+  },
+  {
+    "id": "szulo",
+    "word": "szülő",
+    "translation_cs": "rodič",
+    "part_of_speech_cs": "podstatné jméno",
+    "vowel_harmony": "front",
+    "forms": [{ "form_hu": "szülőm", "translation_cs": "můj rodič", "grammar_id": "birtokos-m", "lesson_id": "zivot-rodiny" }],
+    "morphemes": [{ "form": "szülő", "translation_cs": "rodič", "kind": "root" }],
+    "example_hu": "A szülőm a városban van.",
+    "example_cs": "Můj rodič je ve městě."
+  }
+]

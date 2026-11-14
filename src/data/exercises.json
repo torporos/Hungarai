@@ -1,0 +1,638 @@
+[
+  {
+    "id": "harmony-haz",
+    "type": "harmony",
+    "type_label_cs": "Rozpoznání koncovky",
+    "vocabulary_id": "haz",
+    "grammar_id": "samohlaskova-harmonie",
+    "prompt_cs": "Který tvar znamená „v domě“?",
+    "options_cs": ["házban", "házben", "ház"],
+    "answer_index": 0,
+    "explanation_cs": "Ház má zadní samohlásku á, proto používá -ban: házban."
+  },
+  {
+    "id": "harmony-kert",
+    "type": "harmony",
+    "type_label_cs": "Rozpoznání koncovky",
+    "vocabulary_id": "kert",
+    "grammar_id": "samohlaskova-harmonie",
+    "prompt_cs": "Vyberte správný tvar pro „na zahradě“.",
+    "options_cs": ["kertben", "kertban", "kert"],
+    "answer_index": 0,
+    "explanation_cs": "Kert má přední samohlásku e, proto používá -ben."
+  },
+  {
+    "id": "cloze-taska",
+    "type": "cloze",
+    "type_label_cs": "Doplňovačka",
+    "vocabulary_id": "taska",
+    "grammar_id": "umisteni-v",
+    "prompt_cs": "Doplňte správnou koncovku místa.",
+    "sentence_hu": "A kulcs a táská___ van.",
+    "options_cs": ["-ban", "-ben", "bez koncovky"],
+    "answer_index": 0,
+    "explanation_cs": "Táska má zadní samohlásky, proto říkáme táskában."
+  },
+  {
+    "id": "meaning-konyv",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "konyv",
+    "prompt_cs": "Co znamená maďarské slovo „könyv“?",
+    "options_cs": ["pokoj", "kniha", "zahrada"],
+    "answer_index": 1,
+    "explanation_cs": "Könyv znamená kniha."
+  },
+  {
+    "id": "recall-szoba",
+    "type": "recall",
+    "type_label_cs": "Aktivní vybavení",
+    "vocabulary_id": "szoba",
+    "prompt_cs": "Napište maďarsky základní tvar slova „pokoj“.",
+    "accepted_answers": ["szoba"],
+    "explanation_cs": "Szoba znamená pokoj. Základní tvar uvádíme bez koncovky."
+  },
+  {
+    "id": "recall-alma-accusative",
+    "type": "recall",
+    "type_label_cs": "Tvar slova · předmět",
+    "vocabulary_id": "alma",
+    "grammar_id": "targy-t",
+    "prompt_cs": "Doplňte předmětový tvar: „Prosím si jablko.“",
+    "sentence_hu": "Kérek egy ___.",
+    "accepted_answers": ["almát"],
+    "explanation_cs": "Alma je základní tvar; jako předmět se změní na almát."
+  },
+  {
+    "id": "listening-viz",
+    "type": "listening",
+    "type_label_cs": "Poslech · význam",
+    "vocabulary_id": "viz",
+    "audio_text": "víz",
+    "prompt_cs": "Poslechněte si slovo. Co znamená?",
+    "options_cs": ["mléko", "voda", "káva"],
+    "answer_index": 1,
+    "explanation_cs": "Víz znamená voda. Jeho předmětový tvar je vizet."
+  },
+  {
+    "id": "recall-kenyer-accusative",
+    "type": "recall",
+    "type_label_cs": "Tvar slova · předmět",
+    "vocabulary_id": "kenyer",
+    "grammar_id": "targy-t",
+    "prompt_cs": "Napište tvar slova kenyér ve větě „Prosím si chléb.“",
+    "sentence_hu": "Kérek egy ___.",
+    "accepted_answers": ["kenyeret"],
+    "explanation_cs": "Základní tvar kenyér mění kmen: předmětový tvar je kenyeret."
+  },
+  {
+    "id": "meaning-tej",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "tej",
+    "prompt_cs": "Které maďarské slovo znamená „mléko“?",
+    "options_cs": ["tej", "kávé", "víz"],
+    "answer_index": 0,
+    "explanation_cs": "Tej znamená mléko; tejet je předmětový tvar."
+  },
+  {
+    "id": "recall-kave-accusative",
+    "type": "recall",
+    "type_label_cs": "Tvar slova · předmět",
+    "vocabulary_id": "kave",
+    "grammar_id": "targy-t",
+    "prompt_cs": "Napište tvar kávé ve větě „Prosím si kávu.“",
+    "sentence_hu": "Kérek egy ___.",
+    "accepted_answers": ["kávét"],
+    "explanation_cs": "Základní tvar je kávé. Předmětový tvar je kávét."
+  },
+  {
+    "id": "recall-ker-first-person",
+    "type": "recall",
+    "type_label_cs": "Sloveso · já",
+    "vocabulary_id": "kerek",
+    "grammar_id": "zdvorila-zadost",
+    "prompt_cs": "Základní tvar kér znamená „žádat“. Jak řeknete „prosím si“ za sebe?",
+    "accepted_answers": ["kérek"],
+    "explanation_cs": "Kér je základní tvar slovesa; kérek znamená „já prosím / žádám“."
+  },
+  {
+    "id": "meaning-mennyi",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "mennyi",
+    "prompt_cs": "Co znamená otázka „mennyi?“",
+    "options_cs": ["kam", "kolik", "kde"],
+    "answer_index": 1,
+    "explanation_cs": "Mennyi znamená kolik. Mennyibe kerül? znamená Kolik to stojí?"
+  },
+  {
+    "id": "meaning-varos",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "varos",
+    "grammar_id": "smer-dovnitr",
+    "prompt_cs": "Co znamená „város“?",
+    "options_cs": ["město", "ulice", "nádraží"],
+    "answer_index": 0,
+    "explanation_cs": "Város znamená město. Směr do města vyjádříme tvarem városba."
+  },
+  {
+    "id": "recall-utca",
+    "type": "recall",
+    "type_label_cs": "Aktivní vybavení",
+    "vocabulary_id": "utca",
+    "prompt_cs": "Napište základní tvar maďarského slova „ulice“.",
+    "accepted_answers": ["utca"],
+    "explanation_cs": "Utca znamená ulice. Základní tvar je utca."
+  },
+  {
+    "id": "meaning-allomas",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "allomas",
+    "prompt_cs": "Co znamená „állomás“?",
+    "options_cs": ["vlak", "nádraží", "jízdenka"],
+    "answer_index": 1,
+    "explanation_cs": "Állomás znamená nádraží."
+  },
+  {
+    "id": "listening-vonat",
+    "type": "listening",
+    "type_label_cs": "Poslech · význam",
+    "vocabulary_id": "vonat",
+    "audio_text": "vonat",
+    "prompt_cs": "Poslechněte si maďarské slovo. Co jste slyšeli?",
+    "options_cs": ["jízdenka", "vlak", "nádraží"],
+    "answer_index": 1,
+    "explanation_cs": "Vonat znamená vlak."
+  },
+  {
+    "id": "recall-jegy-accusative",
+    "type": "recall",
+    "type_label_cs": "Tvar slova · předmět",
+    "vocabulary_id": "jegy",
+    "grammar_id": "targy-t",
+    "prompt_cs": "Doplňte tvar slova jegy: „Prosím si jízdenku.“",
+    "sentence_hu": "Kérek egy ___.",
+    "accepted_answers": ["jegyet"],
+    "explanation_cs": "Základní tvar jegy se mění na předmětový tvar jegyet."
+  },
+  {
+    "id": "meaning-balra",
+    "type": "vocabulary",
+    "type_label_cs": "Porozumění směru",
+    "vocabulary_id": "balra",
+    "prompt_cs": "Průvodce ukáže doleva. Které slovo použije?",
+    "options_cs": ["jobbra", "balra", "egyenesen"],
+    "answer_index": 1,
+    "explanation_cs": "Balra znamená doleva; jobbra znamená doprava."
+  },
+  {
+    "id": "meaning-jobbra",
+    "type": "vocabulary",
+    "type_label_cs": "Porozumění směru",
+    "vocabulary_id": "jobbra",
+    "prompt_cs": "Které slovo znamená „doprava“?",
+    "options_cs": ["jobbra", "balra", "egyenesen"],
+    "answer_index": 0,
+    "explanation_cs": "Jobbra znamená doprava."
+  },
+  {
+    "id": "meaning-egyenesen",
+    "type": "vocabulary",
+    "type_label_cs": "Porozumění směru",
+    "vocabulary_id": "egyenesen",
+    "prompt_cs": "Co znamená pokyn „egyenesen“?",
+    "options_cs": ["rovně", "doleva", "doprava"],
+    "answer_index": 0,
+    "explanation_cs": "Egyenesen znamená rovně nebo přímo."
+  },
+  {
+    "id": "order-city-sentence",
+    "type": "order",
+    "type_label_cs": "Tvorba věty",
+    "vocabulary_id": "megy",
+    "grammar_id": "pohybova-slova",
+    "prompt_cs": "Sestavte maďarskou větu „Vlak jede do města.“",
+    "words_hu": ["megy.", "városba", "A", "vonat"],
+    "accepted_orders": [["A", "vonat", "városba", "megy."]],
+    "explanation_cs": "A vonat a városba megy. Koncovka -ba vyjadřuje směr do města."
+  },
+  {
+    "id": "recall-hova",
+    "type": "recall",
+    "type_label_cs": "Aktivní vybavení",
+    "vocabulary_id": "hova",
+    "grammar_id": "pohybova-slova",
+    "prompt_cs": "Jak se maďarsky zeptáte jedním slovem „Kam?“",
+    "accepted_answers": ["hová"],
+    "explanation_cs": "Hová? znamená Kam? Je to základní tvar otázky na cíl pohybu."
+  },
+  {
+    "id": "meaning-ter",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "ter",
+    "prompt_cs": "Co znamená maďarské slovo „tér“?",
+    "options_cs": ["náměstí", "most", "ulice"],
+    "answer_index": 0,
+    "explanation_cs": "Tér znamená náměstí. Na náměstí řekneme a téren."
+  },
+  {
+    "id": "recall-hid-on",
+    "type": "recall",
+    "type_label_cs": "Tvar slova · místo",
+    "vocabulary_id": "hid",
+    "grammar_id": "poloha-na-povrchu",
+    "prompt_cs": "Slovníkový tvar je híd. Jak řeknete „na mostě“?",
+    "accepted_answers": ["hídon"],
+    "explanation_cs": "Híd znamená most. V tvaru „na mostě“ má koncovku -on: hídon."
+  },
+  {
+    "id": "recall-folyo-on",
+    "type": "recall",
+    "type_label_cs": "Tvar slova · místo",
+    "vocabulary_id": "folyo",
+    "grammar_id": "poloha-na-povrchu",
+    "prompt_cs": "Napište tvar folyó, který znamená „na řece“.",
+    "accepted_answers": ["folyón"],
+    "explanation_cs": "Folyó končí samohláskou, proto pro význam „na řece“ připojíme -n: folyón."
+  },
+  {
+    "id": "meaning-park",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "park",
+    "prompt_cs": "Jak se maďarsky řekne „park“?",
+    "options_cs": ["park", "tér", "ulice"],
+    "answer_index": 0,
+    "explanation_cs": "Park znamená park. Uvnitř parku řekneme a parkban."
+  },
+  {
+    "id": "listening-muzeum",
+    "type": "listening",
+    "type_label_cs": "Poslech · význam",
+    "vocabulary_id": "muzeum",
+    "audio_text": "múzeum",
+    "grammar_id": "poloha-na-povrchu",
+    "prompt_cs": "Poslechněte si slovo. Které místo jste slyšeli?",
+    "options_cs": ["most", "muzeum", "obchod"],
+    "answer_index": 1,
+    "explanation_cs": "Múzeum znamená muzeum. Muzeum je na náměstí: A múzeum a téren van."
+  },
+  {
+    "id": "meaning-kavezo",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "kavezo",
+    "prompt_cs": "Kam půjdete na kávu: do „kávézó“ nebo „bolt“?",
+    "options_cs": ["kávézó", "bolt", "múzeum"],
+    "answer_index": 0,
+    "explanation_cs": "Kávézó je kavárna; bolt znamená obchod."
+  },
+  {
+    "id": "meaning-bolt",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "bolt",
+    "prompt_cs": "Co znamená „bolt“?",
+    "options_cs": ["obchod", "park", "kavárna"],
+    "answer_index": 0,
+    "explanation_cs": "Bolt znamená obchod. A bolt a parkban van = Obchod je v parku."
+  },
+  {
+    "id": "meaning-kozel",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "kozel",
+    "prompt_cs": "Když je místo „közel“, je blízko, nebo daleko?",
+    "options_cs": ["blízko", "daleko", "vedle"],
+    "answer_index": 0,
+    "explanation_cs": "Közel znamená blízko."
+  },
+  {
+    "id": "meaning-messze",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "messze",
+    "prompt_cs": "Co znamená „messze“?",
+    "options_cs": ["daleko", "blízko", "uvnitř"],
+    "answer_index": 0,
+    "explanation_cs": "Messze znamená daleko; közel znamená blízko."
+  },
+  {
+    "id": "order-square-museum",
+    "type": "order",
+    "type_label_cs": "Tvorba věty",
+    "vocabulary_id": "van",
+    "grammar_id": "poloha-na-povrchu",
+    "prompt_cs": "Sestavte větu „Muzeum je na náměstí.“",
+    "words_hu": ["téren", "van.", "A", "múzeum", "a"],
+    "accepted_orders": [["A", "múzeum", "a", "téren", "van."]],
+    "explanation_cs": "A múzeum a téren van. Tvar téren znamená „na náměstí“."
+  },
+  {
+    "id": "meaning-vendeg",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "vendeg",
+    "prompt_cs": "Kdo je „vendég“?",
+    "options_cs": ["host", "sourozenec", "přítel"],
+    "answer_index": 0,
+    "explanation_cs": "Vendég znamená host. „Můj host“ je vendégem."
+  },
+  {
+    "id": "meaning-barat",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "barat",
+    "prompt_cs": "Co znamená „barát“?",
+    "options_cs": ["přítel", "otec", "host"],
+    "answer_index": 0,
+    "explanation_cs": "Barát znamená přítel. „Můj přítel“ je barátom."
+  },
+  {
+    "id": "recall-csaladom",
+    "type": "recall",
+    "type_label_cs": "Přivlastňování · moje",
+    "vocabulary_id": "csalad",
+    "grammar_id": "birtokos-m",
+    "prompt_cs": "Napište „moje rodina“ maďarsky.",
+    "accepted_answers": ["családom"],
+    "explanation_cs": "Család znamená rodina; přípona -om vyjadřuje „moje“: családom."
+  },
+  {
+    "id": "meaning-anya",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "anya",
+    "prompt_cs": "Které slovo znamená „matka“?",
+    "options_cs": ["anya", "apa", "testvér"],
+    "answer_index": 0,
+    "explanation_cs": "Anya znamená matka; „moje matka“ je anyám."
+  },
+  {
+    "id": "meaning-apa",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "apa",
+    "prompt_cs": "Co znamená maďarské slovo „apa“?",
+    "options_cs": ["otec", "dítě", "matka"],
+    "answer_index": 0,
+    "explanation_cs": "Apa znamená otec; „můj otec“ je apám."
+  },
+  {
+    "id": "meaning-testver",
+    "type": "vocabulary",
+    "type_label_cs": "Význam slova",
+    "vocabulary_id": "testver",
+    "prompt_cs": "Co znamená „testvér“?",
+    "options_cs": ["sourozenec", "přítel", "matka"],
+    "answer_index": 0,
+    "explanation_cs": "Testvér znamená sourozenec; „můj sourozenec“ je testvérem."
+  },
+  {
+    "id": "recall-gyerekem",
+    "type": "recall",
+    "type_label_cs": "Přivlastňování · moje",
+    "vocabulary_id": "gyerek",
+    "grammar_id": "birtokos-m",
+    "prompt_cs": "Jak řeknete „moje dítě“? Základní slovo je gyerek.",
+    "accepted_answers": ["gyerekem"],
+    "explanation_cs": "K přednímu slovu gyerek přidáme příponu -em: gyerekem."
+  },
+  {
+    "id": "recall-lakom",
+    "type": "recall",
+    "type_label_cs": "Sloveso · já",
+    "vocabulary_id": "lakik",
+    "grammar_id": "casovani-prvni-osoba",
+    "prompt_cs": "Základní tvar lakik: napište „bydlím“.",
+    "accepted_answers": ["lakom"],
+    "explanation_cs": "Lakik je slovníkový tvar „bydlí“. V 1. osobě řekneme lakom."
+  },
+  {
+    "id": "recall-szeretek",
+    "type": "recall",
+    "type_label_cs": "Sloveso · já",
+    "vocabulary_id": "szeret",
+    "grammar_id": "casovani-prvni-osoba",
+    "prompt_cs": "Základní tvar szeret: napište „mám rád“.",
+    "accepted_answers": ["szeretek"],
+    "explanation_cs": "Szeret je slovníkový tvar „má rád“. V 1. osobě je szeretek."
+  },
+  {
+    "id": "meaning-ajto",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · domov",
+    "vocabulary_id": "ajto",
+    "prompt_cs": "Co znamená „ajtó“?",
+    "options_cs": ["dveře", "okno", "židle"],
+    "answer_index": 0,
+    "explanation_cs": "Ajtó znamená dveře."
+  },
+  {
+    "id": "meaning-ablak",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · domov",
+    "vocabulary_id": "ablak",
+    "prompt_cs": "Které slovo znamená „okno“?",
+    "options_cs": ["ablak", "asztal", "ajtó"],
+    "answer_index": 0,
+    "explanation_cs": "Ablak znamená okno."
+  },
+  {
+    "id": "meaning-asztal",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · domov",
+    "vocabulary_id": "asztal",
+    "prompt_cs": "Co je „asztal“?",
+    "options_cs": ["stůl", "židle", "okno"],
+    "answer_index": 0,
+    "explanation_cs": "Asztal znamená stůl."
+  },
+  {
+    "id": "recall-szekek",
+    "type": "recall",
+    "type_label_cs": "Množné číslo · doma",
+    "vocabulary_id": "szek",
+    "grammar_id": "tobbesszam-alapok",
+    "prompt_cs": "Napište množné číslo slova szék (židle).",
+    "accepted_answers": ["székek"],
+    "explanation_cs": "Szék → székek. U předního slova se před -k přidá spojovací -e-."
+  },
+  {
+    "id": "meaning-sajt",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · jídlo",
+    "vocabulary_id": "sajt",
+    "prompt_cs": "Co znamená maďarské „sajt“?",
+    "options_cs": ["sýr", "čaj", "polévka"],
+    "answer_index": 0,
+    "explanation_cs": "Sajt znamená sýr."
+  },
+  {
+    "id": "recall-teat",
+    "type": "recall",
+    "type_label_cs": "Tvar slova · předmět",
+    "vocabulary_id": "tea",
+    "grammar_id": "targy-t",
+    "prompt_cs": "Doplňte předmětový tvar slova tea (čaj).",
+    "sentence_hu": "Kérek egy ___.",
+    "accepted_answers": ["teát"],
+    "explanation_cs": "Tea končí na samohlásku, která se před -t prodlouží: teát."
+  },
+  {
+    "id": "meaning-tojas",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · jídlo",
+    "vocabulary_id": "tojas",
+    "prompt_cs": "Co znamená „tojás“?",
+    "options_cs": ["vejce", "polévka", "sýr"],
+    "answer_index": 0,
+    "explanation_cs": "Tojás znamená vejce; předmětový tvar je tojást."
+  },
+  {
+    "id": "recall-levest",
+    "type": "recall",
+    "type_label_cs": "Tvar slova · předmět",
+    "vocabulary_id": "leves",
+    "grammar_id": "targy-t",
+    "prompt_cs": "Doplňte tvar slova leves ve větě „Prosím si polévku.“",
+    "sentence_hu": "Kérek egy ___.",
+    "accepted_answers": ["levest"],
+    "explanation_cs": "Leves dostane předmětovou koncovku -t: levest."
+  },
+  {
+    "id": "meaning-szalloda",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · cestování",
+    "vocabulary_id": "szalloda",
+    "prompt_cs": "Kde přespíte ve městě: v „szálloda“, „étterem“, nebo „mozi“?",
+    "options_cs": ["szálloda", "étterem", "mozi"],
+    "answer_index": 0,
+    "explanation_cs": "Szálloda znamená hotel."
+  },
+  {
+    "id": "recall-etterembe",
+    "type": "recall",
+    "type_label_cs": "Směr · -be",
+    "vocabulary_id": "etterem",
+    "grammar_id": "mista-a-smery",
+    "prompt_cs": "Základní tvar étterem: napište „do restaurace“.",
+    "accepted_answers": ["étterembe"],
+    "explanation_cs": "Ét­terem má přední samohlásky, proto směr dovnitř vyjádří -be: étterembe."
+  },
+  {
+    "id": "meaning-mozi",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · cestování",
+    "vocabulary_id": "mozi",
+    "prompt_cs": "Co znamená „mozi“?",
+    "options_cs": ["kino", "nemocnice", "hotel"],
+    "answer_index": 0,
+    "explanation_cs": "Mozi znamená kino. Do kina je moziba."
+  },
+  {
+    "id": "recall-korhazba",
+    "type": "recall",
+    "type_label_cs": "Směr · -ba",
+    "vocabulary_id": "korhaz",
+    "grammar_id": "mista-a-smery",
+    "prompt_cs": "Základní tvar kórház: napište „do nemocnice“.",
+    "accepted_answers": ["kórházba"],
+    "explanation_cs": "Kórház má zadní samohlásky, proto směr dovnitř vyjádří -ba: kórházba."
+  },
+  {
+    "id": "meaning-konyvtar",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · město",
+    "vocabulary_id": "konyvtar",
+    "prompt_cs": "Co znamená „könyvtár“?",
+    "options_cs": ["knihovna", "divadlo", "kostel"],
+    "answer_index": 0,
+    "explanation_cs": "Könyvtár znamená knihovna."
+  },
+  {
+    "id": "recall-szinhazban",
+    "type": "recall",
+    "type_label_cs": "Poloha · -ban",
+    "vocabulary_id": "szinhaz",
+    "grammar_id": "umisteni-v",
+    "prompt_cs": "Základní tvar színház: napište „v divadle“.",
+    "accepted_answers": ["színházban"],
+    "explanation_cs": "Színház má zadní samohlásky, proto říkáme színházban."
+  },
+  {
+    "id": "meaning-templom",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · město",
+    "vocabulary_id": "templom",
+    "prompt_cs": "Co znamená „templom“?",
+    "options_cs": ["kostel", "škola", "knihovna"],
+    "answer_index": 0,
+    "explanation_cs": "Templom znamená kostel."
+  },
+  {
+    "id": "recall-iskolaban",
+    "type": "recall",
+    "type_label_cs": "Poloha · -ban",
+    "vocabulary_id": "iskola",
+    "grammar_id": "umisteni-v",
+    "prompt_cs": "Základní tvar iskola: napište „ve škole“.",
+    "accepted_answers": ["iskolában"],
+    "explanation_cs": "Iskola má zadní samohlásky, proto říkáme iskolában."
+  },
+  {
+    "id": "meaning-nagymama",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · rodina",
+    "vocabulary_id": "nagymama",
+    "prompt_cs": "Kdo je „nagymama“?",
+    "options_cs": ["babička", "dědeček", "rodič"],
+    "answer_index": 0,
+    "explanation_cs": "Nagymama znamená babička; nagymamám je moje babička."
+  },
+  {
+    "id": "meaning-nagypapa",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · rodina",
+    "vocabulary_id": "nagypapa",
+    "prompt_cs": "Co znamená „nagypapa“?",
+    "options_cs": ["dědeček", "babička", "bratranec"],
+    "answer_index": 0,
+    "explanation_cs": "Nagypapa znamená dědeček."
+  },
+  {
+    "id": "meaning-unokatestver",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · rodina",
+    "vocabulary_id": "unokatestver",
+    "prompt_cs": "Které slovo znamená „bratranec nebo sestřenice“?",
+    "options_cs": ["unokatestvér", "szülő", "nagymama"],
+    "answer_index": 0,
+    "explanation_cs": "Unokatestvér označuje bratrance i sestřenici."
+  },
+  {
+    "id": "meaning-szulo",
+    "type": "vocabulary",
+    "type_label_cs": "Nová slovíčka · rodina",
+    "vocabulary_id": "szulo",
+    "prompt_cs": "Co znamená „szülő“?",
+    "options_cs": ["rodič", "babička", "sourozenec"],
+    "answer_index": 0,
+    "explanation_cs": "Szülő znamená rodič; szülőm je můj rodič."
+  },
+  {
+    "id": "recall-szeretem",
+    "type": "recall",
+    "type_label_cs": "Určité časování",
+    "vocabulary_id": "szeret",
+    "grammar_id": "targy-uragozas-hatarozott",
+    "prompt_cs": "Doplňte tvar pro určitý předmět: „Mám rád svou rodinu.“",
+    "sentence_hu": "___ a családomat.",
+    "accepted_answers": ["szeretem"],
+    "explanation_cs": "U určitého předmětu použijeme určité časování: Szeretem a családomat."
+  }
+]
