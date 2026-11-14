@@ -1,0 +1,533 @@
+{
+  "order": 13,
+  "lesson": {
+    "id": "kozlekedes-1913",
+    "theme_id": "uhersko-1913",
+    "theme_title_cs": "Uhersko před rokem 1914",
+    "module_number": 3,
+    "module_title_cs": "Městská doprava",
+    "title_cs": "Budapešť pěšky, kočárem i tramvají",
+    "description": "Poznejte souběžný svět koňských povozů a elektrických tramvají v Budapešti roku 1913. Procvičíte prostředek pomocí -val/-vel.",
+    "level": "A1 · MĚSTO V ROCE 1913",
+    "duration_min": 8,
+    "xp_required": 560,
+    "prerequisite_lesson_ids": [
+      "posta-1913"
+    ],
+    "vocabulary_ids": [
+      "lo",
+      "kocsi",
+      "kocsis",
+      "villamos",
+      "var"
+    ],
+    "new_vocabulary_ids": [
+      "lo",
+      "kocsi",
+      "kocsis",
+      "villamos",
+      "var"
+    ],
+    "grammar_ids": [
+      "prepravni-prostredek-val-vel",
+      "jelenido-harmadik-osoba"
+    ],
+    "grammar_label_cs": "Dopravní prostředek · -val/-vel",
+    "exercise_ids": [
+      "meaning-villamos-1913",
+      "meaning-kocsi-1913",
+      "cloze-villamossal-1913",
+      "cloze-kocsival-1913",
+      "recall-lo-1913",
+      "order-villamos-1913",
+      "listening-kocsis-1913",
+      "meaning-var-1913"
+    ],
+    "story_ids": [
+      "budapest-kozlekedes-1913"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "lo",
+      "word": "ló",
+      "translation_cs": "kůň",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "lóval",
+          "translation_cs": "s koněm; pomocí koně",
+          "grammar_id": "prepravni-prostredek-val-vel",
+          "lesson_id": "kozlekedes-1913"
+        },
+        {
+          "form_hu": "lovat",
+          "translation_cs": "koně jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "kozlekedes-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ló",
+          "translation_cs": "kůň",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A ló a téren van.",
+      "example_cs": "Kůň je na náměstí."
+    },
+    {
+      "id": "kocsi",
+      "word": "kocsi",
+      "translation_cs": "kočár tažený koňmi (v roce 1913)",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "kocsival",
+          "translation_cs": "kočárem",
+          "grammar_id": "prepravni-prostredek-val-vel",
+          "lesson_id": "kozlekedes-1913"
+        },
+        {
+          "form_hu": "kocsiban",
+          "translation_cs": "v kočáře",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "kozlekedes-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kocsi",
+          "translation_cs": "kočár",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vendég kocsival megy a szállodába.",
+      "example_cs": "Host jede do hotelu kočárem."
+    },
+    {
+      "id": "kocsis",
+      "word": "kocsis",
+      "translation_cs": "kočí",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "kocsis",
+          "translation_cs": "kočí",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kocsis a téren van.",
+      "example_cs": "Kočí je na náměstí."
+    },
+    {
+      "id": "villamos",
+      "word": "villamos",
+      "translation_cs": "tramvaj",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "villamossal",
+          "translation_cs": "tramvají",
+          "grammar_id": "prepravni-prostredek-val-vel",
+          "lesson_id": "kozlekedes-1913"
+        },
+        {
+          "form_hu": "villamoson",
+          "translation_cs": "na tramvaji / v tramvaji",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "kozlekedes-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "villamos",
+          "translation_cs": "tramvaj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A család villamossal megy.",
+      "example_cs": "Rodina jede tramvají."
+    },
+    {
+      "id": "var",
+      "word": "vár",
+      "translation_cs": "čekat",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "vár",
+          "translation_cs": "čekat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vendég a téren vár.",
+      "example_cs": "Host čeká na náměstí."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "prepravni-prostredek-val-vel",
+      "title_cs": "Čím jedu? Koncovka -val/-vel",
+      "level": "A1 · MĚSTO V ROCE 1913",
+      "summary_cs": "Koncovka -val/-vel vyjadřuje prostředek nebo doprovod.",
+      "rule_cs": "Po samohlásce připojte -val/-vel podle harmonie. Po souhlásce se počáteční v v koncovce přizpůsobí poslední souhlásce slova; v pravopisu se tato souhláska zdvojí: kocsi + -val = kocsival, villamos + -val = villamossal.",
+      "groups": [
+        {
+          "name_cs": "Cesta městem",
+          "suffix_hu": "-val / -vel",
+          "examples": [
+            {
+              "form_hu": "kocsi + -val → kocsival",
+              "translation_cs": "kočár → kočárem"
+            },
+            {
+              "form_hu": "villamos + -val → villamossal",
+              "translation_cs": "tramvaj → tramvají"
+            },
+            {
+              "form_hu": "ló + -val → lóval",
+              "translation_cs": "kůň → s koněm"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "U slov zakončených souhláskou se v -val/-vel zdvojí poslední souhláska: vonat + -val = vonattal.",
+        "Význam závisí na větě: villamossal megy = jede tramvají; lóval van = je s koněm."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "meaning-villamos-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "villamos",
+      "prompt_cs": "Jak se maďarsky řekne „tramvaj“?",
+      "options_cs": [
+        "villamos",
+        "kocsi",
+        "pályaudvar"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Villamos je tramvaj; v Budapešti jezdila už před rokem 1914."
+    },
+    {
+      "id": "meaning-kocsi-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · rok 1913",
+      "vocabulary_id": "kocsi",
+      "prompt_cs": "Co označuje „kocsi“ v tomto příběhu z roku 1913?",
+      "options_cs": [
+        "kočár tažený koňmi",
+        "tramvaj",
+        "železniční nádraží"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "V dobovém kontextu jde o kočár tažený koňmi."
+    },
+    {
+      "id": "cloze-villamossal-1913",
+      "type": "cloze",
+      "type_label_cs": "Dopravní prostředek",
+      "vocabulary_id": "villamos",
+      "grammar_id": "prepravni-prostredek-val-vel",
+      "prompt_cs": "Doplňte tvar „tramvají“.",
+      "sentence_hu": "Anna ______ megy.",
+      "options_cs": [
+        "villamossal",
+        "villamoson",
+        "villamost"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Villamos + -val dává villamossal: Anna villamossal megy = Anna jede tramvají."
+    },
+    {
+      "id": "cloze-kocsival-1913",
+      "type": "cloze",
+      "type_label_cs": "Dopravní prostředek",
+      "vocabulary_id": "kocsi",
+      "grammar_id": "prepravni-prostredek-val-vel",
+      "prompt_cs": "Vyberte tvar „kočárem“.",
+      "sentence_hu": "A vendég ______ megy.",
+      "options_cs": [
+        "kocsival",
+        "kocsiban",
+        "kocsit"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kocsival znamená kočárem; -val vyjadřuje prostředek."
+    },
+    {
+      "id": "recall-lo-1913",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení",
+      "vocabulary_id": "lo",
+      "prompt_cs": "Napište maďarský základní tvar slova „kůň“.",
+      "accepted_answers": [
+        "ló"
+      ],
+      "explanation_cs": "Ló znamená kůň. Všimněte si dlouhého ó."
+    },
+    {
+      "id": "order-villamos-1913",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · doprava",
+      "vocabulary_id": "villamos",
+      "grammar_id": "prepravni-prostredek-val-vel",
+      "prompt_cs": "Sestavte větu „Rodina jede tramvají.“",
+      "words_hu": [
+        "villamossal",
+        "A",
+        "megy.",
+        "család"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "család",
+          "villamossal",
+          "megy."
+        ]
+      ],
+      "explanation_cs": "A család villamossal megy. Koncovka -val/-vel vyjadřuje dopravní prostředek."
+    },
+    {
+      "id": "listening-kocsis-1913",
+      "type": "listening",
+      "type_label_cs": "Poslech · význam",
+      "vocabulary_id": "kocsis",
+      "audio_text": "kocsis",
+      "prompt_cs": "Poslechněte si slovo z městské ulice. Kdo je „kocsis“?",
+      "options_cs": [
+        "kočí",
+        "kůň",
+        "pošťák"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kocsis je kočí, který řídí koňský povoz."
+    },
+    {
+      "id": "meaning-var-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slovesa",
+      "vocabulary_id": "var",
+      "prompt_cs": "Co znamená základní tvar „vár“?",
+      "options_cs": [
+        "čekat",
+        "odjíždět",
+        "psát"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vár znamená čekat."
+    }
+  ],
+  "stories": [
+    {
+      "id": "budapest-kozlekedes-1913",
+      "title_cs": "Ulice Budapešti, 1913",
+      "title_hu": "A villamos és a kocsi",
+      "level": "A1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 2,
+      "prerequisite_lesson_ids": [
+        "kozlekedes-1913"
+      ],
+      "curriculum_lesson_id": "kozlekedes-1913",
+      "new_vocabulary_ids": [
+        "lo",
+        "kocsi",
+        "kocsis",
+        "villamos",
+        "var"
+      ],
+      "vocabulary_ids": [
+        "lo",
+        "kocsi",
+        "kocsis",
+        "villamos",
+        "var",
+        "ter",
+        "varos",
+        "vendeg",
+        "szalloda",
+        "muzeum"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban Anna Budapesten van. A "
+        },
+        {
+          "text": "városban",
+          "vocabulary_id": "varos"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "villamos",
+          "vocabulary_id": "villamos"
+        },
+        {
+          "text": " van. Anna "
+        },
+        {
+          "text": "villamossal",
+          "vocabulary_id": "villamos"
+        },
+        {
+          "text": " megy a "
+        },
+        {
+          "text": "térre",
+          "vocabulary_id": "ter"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "tér",
+          "vocabulary_id": "ter"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "városban",
+          "vocabulary_id": "varos"
+        },
+        {
+          "text": " van. A "
+        },
+        {
+          "text": "vendég",
+          "vocabulary_id": "vendeg"
+        },
+        {
+          "text": " a téren "
+        },
+        {
+          "text": "vár",
+          "vocabulary_id": "var"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "kocsis",
+          "vocabulary_id": "kocsis"
+        },
+        {
+          "text": " is a téren van. A "
+        },
+        {
+          "text": "ló",
+          "vocabulary_id": "lo"
+        },
+        {
+          "text": " a téren van. A "
+        },
+        {
+          "text": "kocsi",
+          "vocabulary_id": "kocsi"
+        },
+        {
+          "text": " a téren van. A "
+        },
+        {
+          "text": "vendég",
+          "vocabulary_id": "vendeg"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "kocsival",
+          "vocabulary_id": "kocsi"
+        },
+        {
+          "text": " megy a "
+        },
+        {
+          "text": "szállodába",
+          "vocabulary_id": "szalloda"
+        },
+        {
+          "text": ". Anna "
+        },
+        {
+          "text": "villamossal",
+          "vocabulary_id": "villamos"
+        },
+        {
+          "text": " megy a "
+        },
+        {
+          "text": "múzeumba",
+          "vocabulary_id": "muzeum"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "múzeum",
+          "vocabulary_id": "muzeum"
+        },
+        {
+          "text": " a téren van. Este Anna a "
+        },
+        {
+          "text": "szállodában",
+          "vocabulary_id": "szalloda"
+        },
+        {
+          "text": " van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "budapest-kozlekedes-1913-tram",
+          "prompt_cs": "Čím jede Anna na náměstí?",
+          "options_cs": [
+            "Tramvají.",
+            "Kočárem.",
+            "Vlakem."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Anna jede tramvají: Anna villamossal megy a térre."
+        },
+        {
+          "id": "budapest-kozlekedes-1913-wait",
+          "prompt_cs": "Kdo čeká na náměstí?",
+          "options_cs": [
+            "Host.",
+            "Pošťák.",
+            "Cestující Anna."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Host čeká na náměstí: A vendég a téren vár."
+        },
+        {
+          "id": "budapest-kozlekedes-1913-evening",
+          "prompt_cs": "Kde je Anna večer?",
+          "options_cs": [
+            "V hotelu.",
+            "Na poště.",
+            "Na nádraží."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Večer je Anna v hotelu: Este Anna a szállodában van."
+        }
+      ],
+      "translation_cs": "V roce 1913 je Anna v Budapešti. Ve městě jezdí tramvaj. Anna jede tramvají na náměstí. Náměstí je ve městě. Host čeká na náměstí. Kočí je také na náměstí. Kůň je na náměstí. Kočár je na náměstí. Host jede kočárem do hotelu. Anna jede tramvají do muzea. Muzeum je na náměstí. Večer je Anna v hotelu."
+    }
+  ]
+}

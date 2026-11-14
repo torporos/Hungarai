@@ -1,0 +1,433 @@
+{
+  "order": 1,
+  "lesson": {
+    "id": "prvni-kroky",
+    "theme_id": "domov",
+    "theme_title_cs": "Doma a na zahradě",
+    "module_number": 1,
+    "module_title_cs": "Základy domova",
+    "title_cs": "Doma a na zahradě",
+    "description": "Pět prvních slov kolem domova. Naučíte se rozlišit přední a zadní samohlásky a vytvořit první místní koncovky.",
+    "level": "A1 · PRVNÍ KONCOVKY",
+    "duration_min": 5,
+    "xp_required": 0,
+    "prerequisite_lesson_ids": [],
+    "vocabulary_ids": [
+      "haz",
+      "kert",
+      "taska",
+      "konyv",
+      "szoba"
+    ],
+    "new_vocabulary_ids": [
+      "haz",
+      "kert",
+      "taska",
+      "konyv",
+      "szoba"
+    ],
+    "grammar_ids": [
+      "samohlaskova-harmonie",
+      "umisteni-v"
+    ],
+    "grammar_label_cs": "Samohlásková harmonie · -ban / -ben",
+    "exercise_ids": [
+      "harmony-haz",
+      "harmony-kert",
+      "cloze-taska",
+      "meaning-konyv",
+      "recall-szoba",
+      "recall-hazban",
+      "cloze-taska-location",
+      "order-home-bag"
+    ],
+    "story_ids": []
+  },
+  "vocabulary": [
+    {
+      "id": "haz",
+      "word": "ház",
+      "translation_cs": "dům",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "házban",
+          "translation_cs": "v domě",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prvni-kroky"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ház",
+          "translation_cs": "dům",
+          "kind": "root"
+        },
+        {
+          "form": "-ban",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A házamban lakom.",
+      "example_cs": "Bydlím ve svém domě."
+    },
+    {
+      "id": "kert",
+      "word": "kert",
+      "translation_cs": "zahrada",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "kertben",
+          "translation_cs": "na zahradě",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prvni-kroky"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kert",
+          "translation_cs": "zahrada",
+          "kind": "root"
+        },
+        {
+          "form": "-ben",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A kertben játszom.",
+      "example_cs": "Hraju si na zahradě."
+    },
+    {
+      "id": "konyv",
+      "word": "könyv",
+      "translation_cs": "kniha",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "könyvben",
+          "translation_cs": "v knize",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prvni-kroky"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "könyv",
+          "translation_cs": "kniha",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Ez a könyv érdekes.",
+      "example_cs": "Tato kniha je zajímavá."
+    },
+    {
+      "id": "taska",
+      "word": "táska",
+      "translation_cs": "taška",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "táskában",
+          "translation_cs": "v tašce",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prvni-kroky"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "táska",
+          "translation_cs": "taška",
+          "kind": "root"
+        },
+        {
+          "form": "-ban",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A táska az asztalon van.",
+      "example_cs": "Taška je na stole."
+    },
+    {
+      "id": "szoba",
+      "word": "szoba",
+      "translation_cs": "pokoj",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "szobában",
+          "translation_cs": "v pokoji",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prvni-kroky"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "szoba",
+          "translation_cs": "pokoj",
+          "kind": "root"
+        },
+        {
+          "form": "-ban",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A szobában vagyok.",
+      "example_cs": "Jsem v pokoji."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "samohlaskova-harmonie",
+      "title_cs": "Samohlásková harmonie",
+      "level": "A1 · ZÁKLADY",
+      "summary_cs": "Maďarské přípony mění svou podobu podle samohlásek v kořeni slova.",
+      "rule_cs": "U mnoha přípon vybíráme zadní nebo přední variantu podle samohlásek ve slově. Jde o základní vodítko; některá slova mají zvláštní nebo smíšené chování.",
+      "groups": [
+        {
+          "name_cs": "Zadní samohlásky",
+          "vowels_hu": [
+            "a",
+            "á",
+            "o",
+            "ó",
+            "u",
+            "ú"
+          ],
+          "suffix_hu": "-ban",
+          "examples": [
+            {
+              "form_hu": "házban",
+              "translation_cs": "v domě"
+            },
+            {
+              "form_hu": "almában",
+              "translation_cs": "v jablku"
+            },
+            {
+              "form_hu": "táskában",
+              "translation_cs": "v tašce"
+            }
+          ]
+        },
+        {
+          "name_cs": "Přední samohlásky",
+          "vowels_hu": [
+            "e",
+            "é",
+            "i",
+            "í",
+            "ö",
+            "ő",
+            "ü",
+            "ű"
+          ],
+          "suffix_hu": "-ben",
+          "examples": [
+            {
+              "form_hu": "kertben",
+              "translation_cs": "na zahradě"
+            },
+            {
+              "form_hu": "könyvben",
+              "translation_cs": "v knize"
+            },
+            {
+              "form_hu": "vízben",
+              "translation_cs": "ve vodě"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Dlouhé a krátké samohlásky patří do stejné skupiny: a/á, e/é, i/í.",
+        "U některých slov mohou neutrální samohlásky nebo ustálené výjimky ovlivnit výběr přípony."
+      ]
+    },
+    {
+      "id": "umisteni-v",
+      "title_cs": "Poloha uvnitř: -ban / -ben",
+      "level": "A1 · KONCOVKY",
+      "summary_cs": "Koncovky -ban a -ben vyjadřují, že se něco nachází uvnitř.",
+      "rule_cs": "Koncovku připojíme přímo ke slovu. Její přední či zadní varianta se řídí samohláskovou harmonií.",
+      "groups": [
+        {
+          "name_cs": "Zadní varianta",
+          "suffix_hu": "-ban",
+          "examples": [
+            {
+              "form_hu": "a házban",
+              "translation_cs": "v domě"
+            },
+            {
+              "form_hu": "a táskában",
+              "translation_cs": "v tašce"
+            },
+            {
+              "form_hu": "az almában",
+              "translation_cs": "v jablku"
+            }
+          ]
+        },
+        {
+          "name_cs": "Přední varianta",
+          "suffix_hu": "-ben",
+          "examples": [
+            {
+              "form_hu": "a kertben",
+              "translation_cs": "na zahradě"
+            },
+            {
+              "form_hu": "a könyvben",
+              "translation_cs": "v knize"
+            },
+            {
+              "form_hu": "a vízben",
+              "translation_cs": "ve vodě"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Přípona se píše dohromady se slovem.",
+        "Pozor na význam: -ban/-ben popisuje polohu uvnitř, zatímco -ba/-be vyjadřuje směr dovnitř."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "harmony-haz",
+      "type": "harmony",
+      "type_label_cs": "Rozpoznání koncovky",
+      "vocabulary_id": "haz",
+      "grammar_id": "samohlaskova-harmonie",
+      "prompt_cs": "Který tvar znamená „v domě“?",
+      "options_cs": [
+        "házban",
+        "házben",
+        "ház"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ház má zadní samohlásku á, proto používá -ban: házban."
+    },
+    {
+      "id": "harmony-kert",
+      "type": "harmony",
+      "type_label_cs": "Rozpoznání koncovky",
+      "vocabulary_id": "kert",
+      "grammar_id": "samohlaskova-harmonie",
+      "prompt_cs": "Vyberte správný tvar pro „na zahradě“.",
+      "options_cs": [
+        "kertben",
+        "kertban",
+        "kert"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kert má přední samohlásku e, proto používá -ben."
+    },
+    {
+      "id": "cloze-taska",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka",
+      "vocabulary_id": "taska",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Doplňte správnou koncovku místa.",
+      "sentence_hu": "A kulcs a táská___ van.",
+      "options_cs": [
+        "-ban",
+        "-ben",
+        "bez koncovky"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Táska má zadní samohlásky, proto říkáme táskában."
+    },
+    {
+      "id": "meaning-konyv",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "konyv",
+      "prompt_cs": "Co znamená maďarské slovo „könyv“?",
+      "options_cs": [
+        "pokoj",
+        "kniha",
+        "zahrada"
+      ],
+      "answer_index": 1,
+      "explanation_cs": "Könyv znamená kniha."
+    },
+    {
+      "id": "recall-szoba",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení",
+      "vocabulary_id": "szoba",
+      "prompt_cs": "Napište maďarsky základní tvar slova „pokoj“.",
+      "accepted_answers": [
+        "szoba"
+      ],
+      "explanation_cs": "Szoba znamená pokoj. Základní tvar uvádíme bez koncovky."
+    },
+    {
+      "id": "recall-hazban",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · koncovky",
+      "vocabulary_id": "haz",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Napište tvar slova „ház“, který znamená „v domě“.",
+      "accepted_answers": [
+        "házban"
+      ],
+      "explanation_cs": "Ház má zadní samohlásku, proto se připojí koncovka -ban: házban."
+    },
+    {
+      "id": "cloze-taska-location",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · harmonie",
+      "vocabulary_id": "taska",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Doplňte správnou koncovku: „Kniha je v tašce.“",
+      "sentence_hu": "A könyv a táská___ van.",
+      "options_cs": [
+        "-ban",
+        "-ben",
+        "-ból"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Táska má zadní samohlásky, proto má místní tvar táskában."
+    },
+    {
+      "id": "order-home-bag",
+      "type": "order",
+      "type_label_cs": "Tvorba věty",
+      "vocabulary_id": "konyv",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Sestavte maďarskou větu „Kniha je v tašce.“",
+      "words_hu": [
+        "van.",
+        "A",
+        "táskában",
+        "könyv",
+        "a"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "könyv",
+          "a",
+          "táskában",
+          "van."
+        ]
+      ],
+      "explanation_cs": "A könyv a táskában van. Tvar táskában označuje umístění uvnitř tašky."
+    }
+  ],
+  "stories": []
+}

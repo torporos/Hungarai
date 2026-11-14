@@ -1,0 +1,301 @@
+{
+  "order": 8,
+  "lesson": {
+    "id": "doprava-a-cile",
+    "theme_id": "cestovani",
+    "theme_title_cs": "Cesta městem",
+    "module_number": 2,
+    "module_title_cs": "Doprava a cíle",
+    "title_cs": "Cesta městem",
+    "description": "Rozšiřte cestovní slovník o další cíle a procvičte rozdíl mezi místem a směrem.",
+    "level": "A1 · KAM MÍŘÍME",
+    "duration_min": 8,
+    "xp_required": 150,
+    "prerequisite_lesson_ids": [
+      "cesta-mestem"
+    ],
+    "vocabulary_ids": [
+      "szalloda",
+      "etterem",
+      "mozi",
+      "korhaz"
+    ],
+    "new_vocabulary_ids": [
+      "szalloda",
+      "etterem",
+      "mozi",
+      "korhaz"
+    ],
+    "grammar_ids": [
+      "mista-a-smery"
+    ],
+    "grammar_label_cs": "Kam? -ba / -be · kde? -ban / -ben",
+    "exercise_ids": [
+      "meaning-szalloda",
+      "recall-etterembe",
+      "meaning-mozi",
+      "recall-korhazba",
+      "recall-szallodaban",
+      "cloze-mozi-location",
+      "meaning-etterembe"
+    ],
+    "story_ids": []
+  },
+  "vocabulary": [
+    {
+      "id": "szalloda",
+      "word": "szálloda",
+      "translation_cs": "hotel",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "szállodában",
+          "translation_cs": "v hotelu",
+          "grammar_id": "mista-a-smery",
+          "lesson_id": "doprava-a-cile"
+        },
+        {
+          "form_hu": "szállodába",
+          "translation_cs": "do hotelu",
+          "grammar_id": "mista-a-smery",
+          "lesson_id": "doprava-a-cile"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "szálloda",
+          "translation_cs": "hotel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szálloda a városban van.",
+      "example_cs": "Hotel je ve městě."
+    },
+    {
+      "id": "etterem",
+      "word": "étterem",
+      "translation_cs": "restaurace",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "étteremben",
+          "translation_cs": "v restauraci",
+          "grammar_id": "mista-a-smery",
+          "lesson_id": "doprava-a-cile"
+        },
+        {
+          "form_hu": "étterembe",
+          "translation_cs": "do restaurace",
+          "grammar_id": "mista-a-smery",
+          "lesson_id": "doprava-a-cile"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "étterem",
+          "translation_cs": "restaurace",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vendég az étterembe megy.",
+      "example_cs": "Host jde do restaurace."
+    },
+    {
+      "id": "mozi",
+      "word": "mozi",
+      "translation_cs": "kino",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "moziban",
+          "translation_cs": "v kině",
+          "grammar_id": "mista-a-smery",
+          "lesson_id": "doprava-a-cile"
+        },
+        {
+          "form_hu": "moziba",
+          "translation_cs": "do kina",
+          "grammar_id": "mista-a-smery",
+          "lesson_id": "doprava-a-cile"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "mozi",
+          "translation_cs": "kino",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A mozi a városban van.",
+      "example_cs": "Kino je ve městě."
+    },
+    {
+      "id": "korhaz",
+      "word": "kórház",
+      "translation_cs": "nemocnice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "kórházban",
+          "translation_cs": "v nemocnici",
+          "grammar_id": "mista-a-smery",
+          "lesson_id": "doprava-a-cile"
+        },
+        {
+          "form_hu": "kórházba",
+          "translation_cs": "do nemocnice",
+          "grammar_id": "mista-a-smery",
+          "lesson_id": "doprava-a-cile"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kórház",
+          "translation_cs": "nemocnice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A kórház a városban van.",
+      "example_cs": "Nemocnice je ve městě."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "mista-a-smery",
+      "title_cs": "Kde jsem a kam jdu?",
+      "level": "A1 · CESTOVÁNÍ",
+      "summary_cs": "Rozlišujte místo, kde něco je, od cíle, kam někdo míří.",
+      "rule_cs": "Koncovky -ban/-ben vyjadřují polohu uvnitř; -ba/-be vyjadřují směr dovnitř. Otázka hol? znamená kde?, zatímco hová? znamená kam?",
+      "groups": [
+        {
+          "name_cs": "Místo a cíl",
+          "suffix_hu": "-ban/-ben · -ba/-be",
+          "examples": [
+            {
+              "form_hu": "szálloda → szállodában / szállodába",
+              "translation_cs": "hotel → v hotelu / do hotelu"
+            },
+            {
+              "form_hu": "étterem → étteremben / étterembe",
+              "translation_cs": "restaurace → v restauraci / do restaurace"
+            },
+            {
+              "form_hu": "mozi → moziban / moziba",
+              "translation_cs": "kino → v kině / do kina"
+            },
+            {
+              "form_hu": "kórház → kórházban / kórházba",
+              "translation_cs": "nemocnice → v nemocnici / do nemocnice"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Pomůcka: hol? se ptá na místo, hová? na směr.",
+        "Učte se obě koncovky s celým slovem, protože harmonie určuje jejich podobu."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "meaning-szalloda",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · cestování",
+      "vocabulary_id": "szalloda",
+      "prompt_cs": "Kde přespíte ve městě: v „szálloda“, „étterem“, nebo „mozi“?",
+      "options_cs": [
+        "szálloda",
+        "étterem",
+        "mozi"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Szálloda znamená hotel."
+    },
+    {
+      "id": "recall-etterembe",
+      "type": "recall",
+      "type_label_cs": "Směr · -be",
+      "vocabulary_id": "etterem",
+      "grammar_id": "mista-a-smery",
+      "prompt_cs": "Základní tvar étterem: napište „do restaurace“.",
+      "accepted_answers": [
+        "étterembe"
+      ],
+      "explanation_cs": "Ét­terem má přední samohlásky, proto směr dovnitř vyjádří -be: étterembe."
+    },
+    {
+      "id": "meaning-mozi",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · cestování",
+      "vocabulary_id": "mozi",
+      "prompt_cs": "Co znamená „mozi“?",
+      "options_cs": [
+        "kino",
+        "nemocnice",
+        "hotel"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Mozi znamená kino. Do kina je moziba."
+    },
+    {
+      "id": "recall-korhazba",
+      "type": "recall",
+      "type_label_cs": "Směr · -ba",
+      "vocabulary_id": "korhaz",
+      "grammar_id": "mista-a-smery",
+      "prompt_cs": "Základní tvar kórház: napište „do nemocnice“.",
+      "accepted_answers": [
+        "kórházba"
+      ],
+      "explanation_cs": "Kórház má zadní samohlásky, proto směr dovnitř vyjádří -ba: kórházba."
+    },
+    {
+      "id": "recall-szallodaban",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · místo",
+      "vocabulary_id": "szalloda",
+      "grammar_id": "mista-a-smery",
+      "prompt_cs": "Jak řeknete „v hotelu“?",
+      "accepted_answers": [
+        "szállodában"
+      ],
+      "explanation_cs": "Tvar szállodában označuje místo uvnitř hotelu."
+    },
+    {
+      "id": "cloze-mozi-location",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · místo a směr",
+      "vocabulary_id": "mozi",
+      "grammar_id": "mista-a-smery",
+      "prompt_cs": "Doplňte tvar pro místo „v kině“.",
+      "sentence_hu": "A mozi___ vagyok.",
+      "options_cs": [
+        "-ban",
+        "-ba",
+        "-ból"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A moziban znamená „v kině“; tvar moziba by označoval směr „do kina“."
+    },
+    {
+      "id": "meaning-etterembe",
+      "type": "vocabulary",
+      "type_label_cs": "Význam koncovky · směr",
+      "vocabulary_id": "etterem",
+      "grammar_id": "mista-a-smery",
+      "prompt_cs": "Který tvar znamená „do restaurace“?",
+      "options_cs": [
+        "étterembe",
+        "étteremben",
+        "étterem"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Koncovka -be vyjadřuje směr dovnitř: étterembe, do restaurace."
+    }
+  ],
+  "stories": []
+}

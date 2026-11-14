@@ -1,0 +1,256 @@
+{
+  "order": 7,
+  "lesson": {
+    "id": "nakup-dalsi-chute",
+    "theme_id": "jidlo",
+    "theme_title_cs": "Na trhu a v obchodě",
+    "module_number": 2,
+    "module_title_cs": "Další jídlo a pití",
+    "title_cs": "Na trhu",
+    "description": "Přidejte další potraviny a procvičte jejich předmětové tvary v krátkých objednávkách.",
+    "level": "A1 · JÍDLO A OBJEDNÁVÁNÍ",
+    "duration_min": 7,
+    "xp_required": 90,
+    "prerequisite_lesson_ids": [
+      "zvuk-a-vyznam"
+    ],
+    "vocabulary_ids": [
+      "sajt",
+      "tea",
+      "tojas",
+      "leves"
+    ],
+    "new_vocabulary_ids": [
+      "sajt",
+      "tea",
+      "tojas",
+      "leves"
+    ],
+    "grammar_ids": [
+      "targy-t",
+      "zdvorila-zadost"
+    ],
+    "grammar_label_cs": "Předmět -t · další objednávky",
+    "exercise_ids": [
+      "meaning-sajt",
+      "recall-teat",
+      "meaning-tojas",
+      "recall-levest",
+      "cloze-sajt-accusative",
+      "recall-tojas-accusative",
+      "order-food-request"
+    ],
+    "story_ids": []
+  },
+  "vocabulary": [
+    {
+      "id": "sajt",
+      "word": "sajt",
+      "translation_cs": "sýr",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "sajtot",
+          "translation_cs": "sýr (předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "nakup-dalsi-chute"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "sajt",
+          "translation_cs": "sýr",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Kérek sajtot.",
+      "example_cs": "Prosím si sýr."
+    },
+    {
+      "id": "tea",
+      "word": "tea",
+      "translation_cs": "čaj",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "teát",
+          "translation_cs": "čaj (předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "nakup-dalsi-chute"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "tea",
+          "translation_cs": "čaj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Kérek egy teát.",
+      "example_cs": "Prosím si čaj."
+    },
+    {
+      "id": "tojas",
+      "word": "tojás",
+      "translation_cs": "vejce",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "tojást",
+          "translation_cs": "vejce (předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "nakup-dalsi-chute"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "tojás",
+          "translation_cs": "vejce",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Kérek egy tojást.",
+      "example_cs": "Prosím si jedno vejce."
+    },
+    {
+      "id": "leves",
+      "word": "leves",
+      "translation_cs": "polévka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "levest",
+          "translation_cs": "polévku (předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "nakup-dalsi-chute"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "leves",
+          "translation_cs": "polévka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Kérek egy levest.",
+      "example_cs": "Prosím si polévku."
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "meaning-sajt",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · jídlo",
+      "vocabulary_id": "sajt",
+      "prompt_cs": "Co znamená maďarské „sajt“?",
+      "options_cs": [
+        "sýr",
+        "čaj",
+        "polévka"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Sajt znamená sýr."
+    },
+    {
+      "id": "recall-teat",
+      "type": "recall",
+      "type_label_cs": "Tvar slova · předmět",
+      "vocabulary_id": "tea",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Doplňte předmětový tvar slova tea (čaj).",
+      "sentence_hu": "Kérek egy ___.",
+      "accepted_answers": [
+        "teát"
+      ],
+      "explanation_cs": "Tea končí na samohlásku, která se před -t prodlouží: teát."
+    },
+    {
+      "id": "meaning-tojas",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · jídlo",
+      "vocabulary_id": "tojas",
+      "prompt_cs": "Co znamená „tojás“?",
+      "options_cs": [
+        "vejce",
+        "polévka",
+        "sýr"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Tojás znamená vejce; předmětový tvar je tojást."
+    },
+    {
+      "id": "recall-levest",
+      "type": "recall",
+      "type_label_cs": "Tvar slova · předmět",
+      "vocabulary_id": "leves",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Doplňte tvar slova leves ve větě „Prosím si polévku.“",
+      "sentence_hu": "Kérek egy ___.",
+      "accepted_answers": [
+        "levest"
+      ],
+      "explanation_cs": "Leves dostane předmětovou koncovku -t: levest."
+    },
+    {
+      "id": "cloze-sajt-accusative",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · předmět",
+      "vocabulary_id": "sajt",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Doplňte předmětový tvar slova sajt.",
+      "sentence_hu": "Kérek egy ___.",
+      "options_cs": [
+        "sajtot",
+        "sajt",
+        "sajtban"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Sajt dostává předmětovou koncovku -ot: sajtot."
+    },
+    {
+      "id": "recall-tojas-accusative",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · předmět",
+      "vocabulary_id": "tojas",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Napište předmětový tvar slova tojás.",
+      "accepted_answers": [
+        "tojást"
+      ],
+      "explanation_cs": "Předmětový tvar slova tojás je tojást."
+    },
+    {
+      "id": "order-food-request",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · objednávka",
+      "vocabulary_id": "leves",
+      "grammar_id": "zdvorila-zadost",
+      "prompt_cs": "Sestavte větu „Prosím si polévku a vejce.“",
+      "words_hu": [
+        "egy",
+        "Kérek",
+        "tojást.",
+        "és",
+        "egy",
+        "levest"
+      ],
+      "accepted_orders": [
+        [
+          "Kérek",
+          "egy",
+          "levest",
+          "és",
+          "egy",
+          "tojást."
+        ]
+      ],
+      "explanation_cs": "Kérek egy levest és egy tojást. Obě jídla jsou předmětem žádosti."
+    }
+  ],
+  "stories": []
+}

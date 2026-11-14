@@ -1,0 +1,726 @@
+{
+  "order": 17,
+  "lesson": {
+    "id": "q1-vyzbroj",
+    "theme_id": "q1-novacek-kasarny",
+    "theme_title_cs": "Q1 · Nováček v kasárnách",
+    "module_number": 4,
+    "module_title_cs": "Výstroj a výzbroj",
+    "title_cs": "Vojenský inventář roku 1913",
+    "description": "Rozšiřte slovní zásobu o historickou výstroj a naučte se popisovat věci pomocí krátkých vět v přítomném čase.",
+    "level": "Q1 · VÝSTROJ",
+    "duration_min": 8,
+    "xp_required": 900,
+    "prerequisite_lesson_ids": [
+      "q1-kasarna"
+    ],
+    "vocabulary_ids": [
+      "puska",
+      "kard",
+      "agyu",
+      "szurony",
+      "tolteny",
+      "loszer",
+      "pisztoly",
+      "revolver",
+      "tor",
+      "tavcso"
+    ],
+    "new_vocabulary_ids": [
+      "puska",
+      "kard",
+      "agyu",
+      "szurony",
+      "tolteny",
+      "loszer",
+      "pisztoly",
+      "revolver",
+      "tor",
+      "tavcso"
+    ],
+    "grammar_ids": [
+      "targy-t",
+      "q1-neurcite-casovani"
+    ],
+    "grammar_label_cs": "Předmět -t · neurčité časování",
+    "exercise_ids": [
+      "q1-weapons-01",
+      "q1-weapons-02",
+      "q1-weapons-03",
+      "q1-weapons-04",
+      "q1-weapons-05",
+      "q1-weapons-06",
+      "q1-weapons-07",
+      "q1-weapons-08",
+      "q1-weapons-09",
+      "q1-weapons-10",
+      "q1-weapons-11",
+      "q1-weapons-12",
+      "q1-weapons-13"
+    ],
+    "story_ids": [
+      "q1-story-inventory"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "puska",
+      "word": "puska",
+      "translation_cs": "puška",
+      "part_of_speech_cs": "vojenská výzbroj",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "puskát",
+          "translation_cs": "pušku jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "q1-vyzbroj"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "puska",
+          "translation_cs": "puška",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd puskát kér.",
+      "example_cs": "Voják žádá o pušku.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "weapon"
+      ]
+    },
+    {
+      "id": "kard",
+      "word": "kard",
+      "translation_cs": "šavle; meč",
+      "part_of_speech_cs": "vojenská výzbroj",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "kardot",
+          "translation_cs": "šavli jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "q1-vyzbroj"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kard",
+          "translation_cs": "šavle",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A százados kardot ad.",
+      "example_cs": "Kapitán dává šavli.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "weapon"
+      ]
+    },
+    {
+      "id": "agyu",
+      "word": "ágyú",
+      "translation_cs": "dělo",
+      "part_of_speech_cs": "vojenská výzbroj",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "ágyút",
+          "translation_cs": "dělo jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "q1-vyzbroj"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ágyú",
+          "translation_cs": "dělo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az ágyú a laktanyában van.",
+      "example_cs": "Dělo je v kasárnách.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "weapon"
+      ]
+    },
+    {
+      "id": "szurony",
+      "word": "szurony",
+      "translation_cs": "bajonet",
+      "part_of_speech_cs": "vojenská výzbroj",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "szuronyt",
+          "translation_cs": "bajonet jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "q1-vyzbroj"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "szurony",
+          "translation_cs": "bajonet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szurony a puskán van.",
+      "example_cs": "Bajonet je na pušce.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "weapon"
+      ]
+    },
+    {
+      "id": "tolteny",
+      "word": "töltény",
+      "translation_cs": "náboj",
+      "part_of_speech_cs": "vojenská výzbroj",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "töltényt",
+          "translation_cs": "náboj jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "q1-vyzbroj"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "töltény",
+          "translation_cs": "náboj",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A töltény a ládában van.",
+      "example_cs": "Náboj je v bedně.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "weapon"
+      ]
+    },
+    {
+      "id": "loszer",
+      "word": "lőszer",
+      "translation_cs": "munice",
+      "part_of_speech_cs": "vojenská výzbroj",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "lőszert",
+          "translation_cs": "munici jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "q1-vyzbroj"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "lőszer",
+          "translation_cs": "munice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A lőszer a ládában van.",
+      "example_cs": "Munice je v bedně.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "weapon"
+      ]
+    },
+    {
+      "id": "pisztoly",
+      "word": "pisztoly",
+      "translation_cs": "pistole",
+      "part_of_speech_cs": "vojenská výzbroj",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "pisztolyt",
+          "translation_cs": "pistoli jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "q1-vyzbroj"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "pisztoly",
+          "translation_cs": "pistole",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A pisztoly az asztalon van.",
+      "example_cs": "Pistole je na stole.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "weapon"
+      ]
+    },
+    {
+      "id": "revolver",
+      "word": "revolver",
+      "translation_cs": "revolver",
+      "part_of_speech_cs": "vojenská výzbroj",
+      "vowel_harmony": "mixed",
+      "forms": [
+        {
+          "form_hu": "revolvert",
+          "translation_cs": "revolver jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "q1-vyzbroj"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "revolver",
+          "translation_cs": "revolver",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A revolver a ládában van.",
+      "example_cs": "Revolver je v bedně.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "weapon"
+      ]
+    },
+    {
+      "id": "tor",
+      "word": "tőr",
+      "translation_cs": "dýka",
+      "part_of_speech_cs": "vojenská výzbroj",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "tőrt",
+          "translation_cs": "dýku jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "q1-vyzbroj"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "tőr",
+          "translation_cs": "dýka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A tőr a szekrényben van.",
+      "example_cs": "Dýka je ve skříni.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "weapon"
+      ]
+    },
+    {
+      "id": "tavcso",
+      "word": "távcső",
+      "translation_cs": "dalekohled; polní kukátko",
+      "part_of_speech_cs": "vojenská výzbroj",
+      "vowel_harmony": "mixed",
+      "forms": [
+        {
+          "form_hu": "távcsövet",
+          "translation_cs": "dalekohled jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "q1-vyzbroj"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "távcső",
+          "translation_cs": "dalekohled",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A távcső a szekrényben van.",
+      "example_cs": "Dalekohled je ve skříni.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "weapon"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q1-weapons-01",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · výzbroj",
+      "vocabulary_id": "puska",
+      "prompt_cs": "Co znamená „puska“?",
+      "options_cs": [
+        "puška",
+        "šavle",
+        "munice"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Puska znamená puška."
+    },
+    {
+      "id": "q1-weapons-02",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · předmět -t",
+      "vocabulary_id": "kard",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Vyberte předmětový tvar „šavli“.",
+      "sentence_hu": "A százados ______ ad.",
+      "options_cs": [
+        "kardot",
+        "kardat",
+        "kard"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kard + -ot dává kardot."
+    },
+    {
+      "id": "q1-weapons-03",
+      "type": "listening",
+      "type_label_cs": "Poslech · výzbroj",
+      "vocabulary_id": "agyu",
+      "audio_text": "ágyú",
+      "prompt_cs": "Co znamená poslechnuté slovo „ágyú“?",
+      "options_cs": [
+        "dělo",
+        "bajonet",
+        "pistole"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ágyú znamená dělo."
+    },
+    {
+      "id": "q1-weapons-04",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · výzbroj",
+      "vocabulary_id": "szurony",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Napište předmětový tvar slova „szurony“.",
+      "accepted_answers": [
+        "szuronyt"
+      ],
+      "sentence_hu": "A szuronyt a puskára teszi.",
+      "explanation_cs": "Szurony jako předmět má tvar szuronyt."
+    },
+    {
+      "id": "q1-weapons-05",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · výzbroj",
+      "vocabulary_id": "tolteny",
+      "prompt_cs": "Co znamená „töltény“?",
+      "options_cs": [
+        "náboj",
+        "šavle",
+        "dalekohled"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Töltény znamená náboj."
+    },
+    {
+      "id": "q1-weapons-06",
+      "type": "listening",
+      "type_label_cs": "Poslech · výzbroj",
+      "vocabulary_id": "loszer",
+      "audio_text": "lőszer",
+      "prompt_cs": "Který český výraz odpovídá slovu „lőszer“?",
+      "options_cs": [
+        "munice",
+        "pistole",
+        "puška"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Lőszer znamená munice."
+    },
+    {
+      "id": "q1-weapons-07",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · výzbroj",
+      "vocabulary_id": "pisztoly",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Napište předmětový tvar slova „pisztoly“.",
+      "accepted_answers": [
+        "pisztolyt"
+      ],
+      "sentence_hu": "A százados pisztolyt kér.",
+      "explanation_cs": "Pisztoly jako předmět má tvar pisztolyt."
+    },
+    {
+      "id": "q1-weapons-08",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · výzbroj",
+      "vocabulary_id": "revolver",
+      "prompt_cs": "Co znamená „revolver“?",
+      "options_cs": [
+        "revolver",
+        "bajonet",
+        "dělo"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Revolver znamená revolver."
+    },
+    {
+      "id": "q1-weapons-09",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · výzbroj",
+      "vocabulary_id": "tor",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Doplňte předmětový tvar slova „tőr“.",
+      "sentence_hu": "A honvéd ______ kér.",
+      "options_cs": [
+        "tőrt",
+        "tőröt",
+        "tőr"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Tőr jako předmět má tvar tőrt."
+    },
+    {
+      "id": "q1-weapons-10",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · výzbroj",
+      "vocabulary_id": "tavcso",
+      "prompt_cs": "Co označuje „távcső“?",
+      "options_cs": [
+        "dalekohled",
+        "náboj",
+        "šavle"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Távcső je dalekohled nebo polní kukátko."
+    },
+    {
+      "id": "q1-weapons-11",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · výzbroj",
+      "vocabulary_id": "puska",
+      "grammar_id": "q1-neurcite-casovani",
+      "prompt_cs": "Sestavte větu „Voják žádá o pušku.“",
+      "words_hu": [
+        "kér.",
+        "A",
+        "puskát",
+        "honvéd"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "honvéd",
+          "puskát",
+          "kér."
+        ]
+      ],
+      "explanation_cs": "A honvéd puskát kér. Předmět puska má tvar puskát."
+    },
+    {
+      "id": "q1-weapons-12",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · výzbroj",
+      "vocabulary_id": "tolteny",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Doplňte slovo „náboj“.",
+      "sentence_hu": "A honvéd ______ kér.",
+      "options_cs": [
+        "töltényt",
+        "töltényet",
+        "töltény"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Töltény jako předmět má tvar töltényt."
+    },
+    {
+      "id": "q1-weapons-13",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · výzbroj",
+      "vocabulary_id": "tavcso",
+      "prompt_cs": "Sestavte větu „Dalekohled je ve skříni.“",
+      "words_hu": [
+        "szekrényben",
+        "A",
+        "van.",
+        "távcső",
+        "a"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "távcső",
+          "a",
+          "szekrényben",
+          "van."
+        ]
+      ],
+      "explanation_cs": "A távcső a szekrényben van. = Dalekohled je ve skříni."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-story-inventory",
+      "title_cs": "Inventář roku 1913",
+      "title_hu": "A felszerelés 1913-ban",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 2,
+      "prerequisite_lesson_ids": [
+        "q1-vyzbroj"
+      ],
+      "curriculum_lesson_id": "q1-vyzbroj",
+      "new_vocabulary_ids": [
+        "puska",
+        "kard",
+        "agyu",
+        "szurony",
+        "tolteny",
+        "loszer",
+        "pisztoly",
+        "revolver",
+        "tor",
+        "tavcso"
+      ],
+      "vocabulary_ids": [
+        "puska",
+        "kard",
+        "agyu",
+        "szurony",
+        "tolteny",
+        "loszer",
+        "pisztoly",
+        "revolver",
+        "tor",
+        "tavcso",
+        "laktanya",
+        "lada",
+        "szekreny",
+        "honved"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban a "
+        },
+        {
+          "text": "laktanyában",
+          "vocabulary_id": "laktanya"
+        },
+        {
+          "text": " leltárt tartanak. A "
+        },
+        {
+          "text": "puska",
+          "vocabulary_id": "puska"
+        },
+        {
+          "text": " a ládában van. A "
+        },
+        {
+          "text": "szurony",
+          "vocabulary_id": "szurony"
+        },
+        {
+          "text": " a puska mellett van. A "
+        },
+        {
+          "text": "töltény",
+          "vocabulary_id": "tolteny"
+        },
+        {
+          "text": " a ládában van. A "
+        },
+        {
+          "text": "lőszer",
+          "vocabulary_id": "loszer"
+        },
+        {
+          "text": " is a ládában van. A "
+        },
+        {
+          "text": "kard",
+          "vocabulary_id": "kard"
+        },
+        {
+          "text": " a szekrényben van. A "
+        },
+        {
+          "text": "pisztoly",
+          "vocabulary_id": "pisztoly"
+        },
+        {
+          "text": " az asztalon van. A "
+        },
+        {
+          "text": "revolver",
+          "vocabulary_id": "revolver"
+        },
+        {
+          "text": " a szekrényben van. A "
+        },
+        {
+          "text": "tőr",
+          "vocabulary_id": "tor"
+        },
+        {
+          "text": " a ládában van. A "
+        },
+        {
+          "text": "távcső",
+          "vocabulary_id": "tavcso"
+        },
+        {
+          "text": " a szekrényben van. Az "
+        },
+        {
+          "text": "ágyú",
+          "vocabulary_id": "agyu"
+        },
+        {
+          "text": " az udvaron van. A honvéd a leltárt látja."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-story-inventory-bayonet",
+          "prompt_cs": "Kde je bajonet?",
+          "options_cs": [
+            "Vedle pušky.",
+            "Na stole.",
+            "V pokoji."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Bajonet je vedle pušky: A szurony a puska mellett van."
+        },
+        {
+          "id": "q1-story-inventory-cannon",
+          "prompt_cs": "Kde je dělo?",
+          "options_cs": [
+            "Na dvoře.",
+            "V truhle.",
+            "Na posteli."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Dělo je na dvoře: Az ágyú az udvaron van."
+        },
+        {
+          "id": "q1-story-inventory-telescope",
+          "prompt_cs": "Kde je dalekohled?",
+          "options_cs": [
+            "Ve skříni.",
+            "Na dvoře.",
+            "V kasárenském pokoji."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Dalekohled je ve skříni: A távcső a szekrényben van."
+        }
+      ],
+      "translation_cs": "V roce 1913 se v posádce provádí inventura. Puška je v bedně. Bajonet je vedle pušky. Náboj je v bedně. Munice je také v bedně. Šavle je ve skříni. Pistole je na stole. Revolver je ve skříni. Dýka je v bedně. Dalekohled je ve skříni. Dělo je na dvoře. Voják vidí inventář."
+    }
+  ]
+}

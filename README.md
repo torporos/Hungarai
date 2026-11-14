@@ -26,7 +26,7 @@ V Android aplikaci se výslovnost přehrává přes systémový TextToSpeech, ne
 ## Zatím hotovo
 
 - Přehled a lekce s odemykáním podle zkušeností.
-- Třináct navazujících modulů v šesti tématech; každá lekce začíná představením slov a gramatiky a obsahuje další procvičování nad rámec jedné otázky na nové slovo.
+- Osmnáct navazujících modulů v sedmi tématech; každá lekce začíná představením slov a gramatiky a obsahuje další procvičování nad rámec jedné otázky na nové slovo.
 - Nová slovní zásoba, věty, gramatika i příběhy respektují historický cutoff roku 1914; nová série je zasazená do Uherska roku 1913.
 - Promíchané cvičení na rozpoznání, vybavení z paměti, psaní maďarských tvarů, skládání vět, poslech a doplňování.
 - Vyhledávání a řazení ve slovníčku, samostatná gramatická sekce a příběhy s kontextovou nápovědou ke slovům.
@@ -44,4 +44,4 @@ Cvičení využívají aktivní vybavování místo pouhého opakovaného čten�
 
 Rozvrh opakování je lehká lokální heuristika, nikoli plná implementace FSRS.
 
-Při spuštění aplikace se lekce, slovíčka, gramatika, cvičení a příběhy načítají z JSON souborů v [GitHub repozitáři](https://github.com/torporos/Hungarai/tree/main/src/data). Obsah lze ručně aktualizovat přímo v aplikaci; po úpravě JSON na GitHubu se změny projeví při příštím spuštění nebo obnovení obsahu, bez nového sestavení APK. Při výpadku internetu aplikace použije poslední staženou kopii, případně obsah přibalený v APK. Pokrok uživatele zůstává uložený místně v zařízení. Lokální kopie obsahu v `src/data/` se používají při vývoji a testech; jejich změny je nutné také publikovat na GitHub.
+Při spuštění aplikace se lekce, slovíčka, gramatika, cvičení a příběhy načítají z JSON souborů v [GitHub repozitáři](https://github.com/torporos/Hungarai/tree/main/src/data). Obsah lze ručně aktualizovat přímo v aplikaci; po úpravě JSON na GitHubu se změny projeví při příštím spuštění nebo obnovení obsahu, bez nového sestavení APK. Při výpadku internetu aplikace použije poslední staženou kopii, případně obsah přibalený v APK. Pokrok uživatele zůstává uložený místně v zařízení. Autoritativní JSON balíčky jsou v `content/packs/`; po jejich úpravě spusťte `npm.cmd run content:build`, který ověří odkazy a vygeneruje pět souborů v `src/data/`. Publikujte balíčky i vygenerované soubory společně.

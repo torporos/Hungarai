@@ -1,0 +1,592 @@
+{
+  "order": 4,
+  "lesson": {
+    "id": "prochazka-mestem",
+    "theme_id": "mesta",
+    "theme_title_cs": "Město a jeho místa",
+    "module_number": 1,
+    "module_title_cs": "Náměstí a okolí",
+    "title_cs": "Na náměstí",
+    "description": "Deset nových slov pro orientaci ve městě. Naučíte se rozlišit „v parku“ od „na náměstí“ a procvičíte koncovky -n, -on a -en.",
+    "level": "A1 · MÍSTNÍ KONCOVKY",
+    "duration_min": 10,
+    "xp_required": 180,
+    "prerequisite_lesson_ids": [
+      "cesta-mestem"
+    ],
+    "vocabulary_ids": [
+      "ter",
+      "hid",
+      "folyo",
+      "park",
+      "muzeum",
+      "kavezo",
+      "bolt",
+      "kozel",
+      "messze",
+      "van"
+    ],
+    "new_vocabulary_ids": [
+      "ter",
+      "hid",
+      "folyo",
+      "park",
+      "muzeum",
+      "kavezo",
+      "bolt",
+      "kozel",
+      "messze",
+      "van"
+    ],
+    "grammar_ids": [
+      "poloha-na-povrchu"
+    ],
+    "grammar_label_cs": "Poloha -n / -on / -en · v parku vs. na náměstí",
+    "exercise_ids": [
+      "meaning-ter",
+      "recall-hid-on",
+      "recall-folyo-on",
+      "meaning-park",
+      "listening-muzeum",
+      "meaning-kavezo",
+      "meaning-bolt",
+      "meaning-kozel",
+      "meaning-messze",
+      "order-square-museum",
+      "recall-parkban",
+      "cloze-square-location",
+      "order-square-cafe"
+    ],
+    "story_ids": [
+      "na-namesti"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "ter",
+      "word": "tér",
+      "translation_cs": "náměstí",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "téren",
+          "translation_cs": "na náměstí",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "prochazka-mestem"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "tér",
+          "translation_cs": "náměstí",
+          "kind": "root"
+        },
+        {
+          "form": "-en",
+          "translation_cs": "na",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A múzeum a téren van.",
+      "example_cs": "Muzeum je na náměstí."
+    },
+    {
+      "id": "hid",
+      "word": "híd",
+      "translation_cs": "most",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "hídon",
+          "translation_cs": "na mostě",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "prochazka-mestem"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "híd",
+          "translation_cs": "most",
+          "kind": "root"
+        },
+        {
+          "form": "-on",
+          "translation_cs": "na",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A híd közel van.",
+      "example_cs": "Most je blízko."
+    },
+    {
+      "id": "folyo",
+      "word": "folyó",
+      "translation_cs": "řeka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "folyón",
+          "translation_cs": "na řece",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "prochazka-mestem"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "folyó",
+          "translation_cs": "řeka",
+          "kind": "root"
+        },
+        {
+          "form": "-n",
+          "translation_cs": "na",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A folyó közel van.",
+      "example_cs": "Řeka je blízko."
+    },
+    {
+      "id": "park",
+      "word": "park",
+      "translation_cs": "park",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "parkban",
+          "translation_cs": "v parku",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prochazka-mestem"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "park",
+          "translation_cs": "park",
+          "kind": "root"
+        },
+        {
+          "form": "-ban",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A park messze van.",
+      "example_cs": "Park je daleko."
+    },
+    {
+      "id": "muzeum",
+      "word": "múzeum",
+      "translation_cs": "muzeum",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "múzeumban",
+          "translation_cs": "v muzeu",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prochazka-mestem"
+        },
+        {
+          "form_hu": "múzeumba",
+          "translation_cs": "do muzea",
+          "grammar_id": "smer-dovnitr",
+          "lesson_id": "prochazka-mestem"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "múzeum",
+          "translation_cs": "muzeum",
+          "kind": "root"
+        },
+        {
+          "form": "-ban",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A múzeum a téren van.",
+      "example_cs": "Muzeum je na náměstí."
+    },
+    {
+      "id": "kavezo",
+      "word": "kávézó",
+      "translation_cs": "kavárna",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "kávézóban",
+          "translation_cs": "v kavárně",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prochazka-mestem"
+        },
+        {
+          "form_hu": "kávézóba",
+          "translation_cs": "do kavárny",
+          "grammar_id": "smer-dovnitr",
+          "lesson_id": "prochazka-mestem"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kávézó",
+          "translation_cs": "kavárna",
+          "kind": "root"
+        },
+        {
+          "form": "-ban",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A kávézó a téren van.",
+      "example_cs": "Kavárna je na náměstí."
+    },
+    {
+      "id": "bolt",
+      "word": "bolt",
+      "translation_cs": "obchod",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "boltban",
+          "translation_cs": "v obchodě",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prochazka-mestem"
+        },
+        {
+          "form_hu": "boltba",
+          "translation_cs": "do obchodu",
+          "grammar_id": "smer-dovnitr",
+          "lesson_id": "prochazka-mestem"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "bolt",
+          "translation_cs": "obchod",
+          "kind": "root"
+        },
+        {
+          "form": "-ban",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A bolt a parkban van.",
+      "example_cs": "Obchod je v parku."
+    },
+    {
+      "id": "kozel",
+      "word": "közel",
+      "translation_cs": "blízko",
+      "part_of_speech_cs": "příslovce",
+      "vowel_harmony": "front",
+      "morphemes": [
+        {
+          "form": "közel",
+          "translation_cs": "blízko",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A híd közel van.",
+      "example_cs": "Most je blízko."
+    },
+    {
+      "id": "messze",
+      "word": "messze",
+      "translation_cs": "daleko",
+      "part_of_speech_cs": "příslovce",
+      "vowel_harmony": "front",
+      "morphemes": [
+        {
+          "form": "messze",
+          "translation_cs": "daleko",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A park messze van.",
+      "example_cs": "Park je daleko."
+    },
+    {
+      "id": "van",
+      "word": "van",
+      "translation_cs": "je / nachází se",
+      "part_of_speech_cs": "sloveso",
+      "vowel_harmony": "back",
+      "morphemes": [
+        {
+          "form": "van",
+          "translation_cs": "je / nachází se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A múzeum a téren van.",
+      "example_cs": "Muzeum je na náměstí."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "poloha-na-povrchu",
+      "title_cs": "Poloha na místě: -n / -on / -en / -ön",
+      "level": "A1 · DALŠÍ MÍSTNÍ KONCOVKY",
+      "summary_cs": "Pro polohu na náměstí nebo na mostě se používá další skupina místních koncovek.",
+      "rule_cs": "U slov zakončených samohláskou často připojíme -n. Po souhlásce vybíráme -on, -en nebo -ön podle harmonie. Konkrétní podobu je dobré ověřit na daném slově; existují i ustálené výjimky.",
+      "groups": [
+        {
+          "name_cs": "Po samohlásce a na náměstí",
+          "suffix_hu": "-n / -en",
+          "examples": [
+            {
+              "form_hu": "folyó → folyón",
+              "translation_cs": "řeka → na řece"
+            },
+            {
+              "form_hu": "tér → téren",
+              "translation_cs": "náměstí → na náměstí"
+            },
+            {
+              "form_hu": "A múzeum a téren van.",
+              "translation_cs": "Muzeum je na náměstí."
+            }
+          ]
+        },
+        {
+          "name_cs": "Varianty po souhlásce",
+          "suffix_hu": "-on / -en / -ön",
+          "examples": [
+            {
+              "form_hu": "híd → hídon",
+              "translation_cs": "most → na mostě"
+            },
+            {
+              "form_hu": "asztal → asztalon",
+              "translation_cs": "stůl → na stole"
+            },
+            {
+              "form_hu": "A híd közel van.",
+              "translation_cs": "Most je blízko."
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Slovo híd obsahuje přední neutrální í, přesto má ustálený tvar hídon.",
+        "Srovnejte význam: a parkban = v parku, a téren = na náměstí.",
+        "Koncovka pro povrch nebo místo není vždy doslovný překlad českého předložkového pádu."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "meaning-ter",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "ter",
+      "prompt_cs": "Co znamená maďarské slovo „tér“?",
+      "options_cs": [
+        "náměstí",
+        "most",
+        "ulice"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Tér znamená náměstí. Na náměstí řekneme a téren."
+    },
+    {
+      "id": "recall-hid-on",
+      "type": "recall",
+      "type_label_cs": "Tvar slova · místo",
+      "vocabulary_id": "hid",
+      "grammar_id": "poloha-na-povrchu",
+      "prompt_cs": "Slovníkový tvar je híd. Jak řeknete „na mostě“?",
+      "accepted_answers": [
+        "hídon"
+      ],
+      "explanation_cs": "Híd znamená most. V tvaru „na mostě“ má koncovku -on: hídon."
+    },
+    {
+      "id": "recall-folyo-on",
+      "type": "recall",
+      "type_label_cs": "Tvar slova · místo",
+      "vocabulary_id": "folyo",
+      "grammar_id": "poloha-na-povrchu",
+      "prompt_cs": "Napište tvar folyó, který znamená „na řece“.",
+      "accepted_answers": [
+        "folyón"
+      ],
+      "explanation_cs": "Folyó končí samohláskou, proto pro význam „na řece“ připojíme -n: folyón."
+    },
+    {
+      "id": "meaning-park",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "park",
+      "prompt_cs": "Jak se maďarsky řekne „park“?",
+      "options_cs": [
+        "park",
+        "tér",
+        "ulice"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Park znamená park. Uvnitř parku řekneme a parkban."
+    },
+    {
+      "id": "listening-muzeum",
+      "type": "listening",
+      "type_label_cs": "Poslech · význam",
+      "vocabulary_id": "muzeum",
+      "audio_text": "múzeum",
+      "grammar_id": "poloha-na-povrchu",
+      "prompt_cs": "Poslechněte si slovo. Které místo jste slyšeli?",
+      "options_cs": [
+        "most",
+        "muzeum",
+        "obchod"
+      ],
+      "answer_index": 1,
+      "explanation_cs": "Múzeum znamená muzeum. Muzeum je na náměstí: A múzeum a téren van."
+    },
+    {
+      "id": "meaning-kavezo",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "kavezo",
+      "prompt_cs": "Kam půjdete na kávu: do „kávézó“ nebo „bolt“?",
+      "options_cs": [
+        "kávézó",
+        "bolt",
+        "múzeum"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kávézó je kavárna; bolt znamená obchod."
+    },
+    {
+      "id": "meaning-bolt",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "bolt",
+      "prompt_cs": "Co znamená „bolt“?",
+      "options_cs": [
+        "obchod",
+        "park",
+        "kavárna"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Bolt znamená obchod. A bolt a parkban van = Obchod je v parku."
+    },
+    {
+      "id": "meaning-kozel",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "kozel",
+      "prompt_cs": "Když je místo „közel“, je blízko, nebo daleko?",
+      "options_cs": [
+        "blízko",
+        "daleko",
+        "vedle"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Közel znamená blízko."
+    },
+    {
+      "id": "meaning-messze",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "messze",
+      "prompt_cs": "Co znamená „messze“?",
+      "options_cs": [
+        "daleko",
+        "blízko",
+        "uvnitř"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Messze znamená daleko; közel znamená blízko."
+    },
+    {
+      "id": "order-square-museum",
+      "type": "order",
+      "type_label_cs": "Tvorba věty",
+      "vocabulary_id": "van",
+      "grammar_id": "poloha-na-povrchu",
+      "prompt_cs": "Sestavte větu „Muzeum je na náměstí.“",
+      "words_hu": [
+        "téren",
+        "van.",
+        "A",
+        "múzeum",
+        "a"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "múzeum",
+          "a",
+          "téren",
+          "van."
+        ]
+      ],
+      "explanation_cs": "A múzeum a téren van. Tvar téren znamená „na náměstí“."
+    },
+    {
+      "id": "recall-parkban",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · místo",
+      "vocabulary_id": "park",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Jak řeknete „v parku“? Použijte slovo park.",
+      "accepted_answers": [
+        "parkban"
+      ],
+      "explanation_cs": "Park má zadní samohlásku, proto se pro umístění použije -ban: parkban."
+    },
+    {
+      "id": "cloze-square-location",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · poloha",
+      "vocabulary_id": "ter",
+      "grammar_id": "poloha-na-povrchu",
+      "prompt_cs": "Doplňte tvar pro polohu „na náměstí“.",
+      "sentence_hu": "A kávézó a ___ van.",
+      "options_cs": [
+        "téren",
+        "térben",
+        "térbe"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Při poloze na otevřené ploše náměstí se používá tvar téren."
+    },
+    {
+      "id": "order-square-cafe",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · poloha",
+      "vocabulary_id": "kavezo",
+      "grammar_id": "poloha-na-povrchu",
+      "prompt_cs": "Sestavte větu „Kavárna je na náměstí.“",
+      "words_hu": [
+        "van.",
+        "téren",
+        "A",
+        "kávézó",
+        "a"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "kávézó",
+          "a",
+          "téren",
+          "van."
+        ]
+      ],
+      "explanation_cs": "A kávézó a téren van. Tvar téren označuje polohu na náměstí."
+    }
+  ],
+  "stories": []
+}

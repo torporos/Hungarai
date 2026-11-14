@@ -1,7 +1,8 @@
 import assert from 'node:assert/strict'
-import { readFileSync } from 'node:fs'
+import { readFileSync, readdirSync } from 'node:fs'
 import { test } from 'node:test'
 import { loadContent, validateContent } from './content.js'
+import { compileContent } from '../../scripts/build-content.js'
 
 function validContent() {
   return {
@@ -44,6 +45,38 @@ test('rejects broken lesson references', () => {
   const content = validContent()
   content.lessons[0].exercise_ids = ['missing-exercise']
   assert.throws(() => validateContent(content), /missing ID "missing-exercise"/u)
+})
+
+test('rejects lesson packs with duplicate display order', () => {
+  const content = validContent()
+  const pack = {
+    order: 1,
+    lesson: content.lessons[0],
+    vocabulary: content.vocabulary,
+    grammar: content.grammar,
+    exercises: content.exercises,
+    stories: content.stories,
+  }
+  assert.throws(() => compileContent([pack, { ...pack }]), /unique positive order/u)
+})
+
+test('lesson packs compile to the committed runtime JSON', () => {
+  const packDirectory = new URL('../../content/packs/', import.meta.url)
+  const packs = readdirSync(packDirectory)
+    .filter((filename) => filename.endsWith('.json'))
+    .map((filename) => JSON.parse(readFileSync(new URL(filename, packDirectory), 'utf8')))
+  const compiled = compileContent(packs)
+
+  for (const name of ['vocabulary', 'grammar', 'exercises', 'stories', 'lessons']) {
+    const published = JSON.parse(readFileSync(new URL(`../data/${name}.json`, import.meta.url), 'utf8'))
+    const byId = (items) => [...items].sort((left, right) => left.id.localeCompare(right.id))
+    assert.deepEqual(byId(compiled[name]), byId(published), `${name}.json is out of sync with lesson packs`)
+  }
+  assert.deepEqual(
+    compiled.lessons.map((lesson) => lesson.id),
+    JSON.parse(readFileSync(new URL('../data/lessons.json', import.meta.url), 'utf8')).map((lesson) => lesson.id),
+    'lesson pack order must preserve the published lesson order',
+  )
 })
 
 test('published curriculum data is linked and lessons include reinforcement practice', () => {

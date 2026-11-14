@@ -1,0 +1,546 @@
+{
+  "order": 3,
+  "lesson": {
+    "id": "cesta-mestem",
+    "theme_id": "cestovani",
+    "theme_title_cs": "Cesta městem",
+    "module_number": 1,
+    "module_title_cs": "První cesta",
+    "title_cs": "Cesta městem",
+    "description": "Deset základních slov pro cestování. Procvičíte předmětový tvar jízdenky, směrové koncovky a pořadí slov ve větě.",
+    "level": "A1 · POHYB A SMĚR",
+    "duration_min": 10,
+    "xp_required": 100,
+    "prerequisite_lesson_ids": [
+      "zvuk-a-vyznam"
+    ],
+    "vocabulary_ids": [
+      "varos",
+      "utca",
+      "allomas",
+      "vonat",
+      "jegy",
+      "balra",
+      "jobbra",
+      "egyenesen",
+      "megy",
+      "hova"
+    ],
+    "new_vocabulary_ids": [
+      "varos",
+      "utca",
+      "allomas",
+      "vonat",
+      "jegy",
+      "balra",
+      "jobbra",
+      "egyenesen",
+      "megy",
+      "hova"
+    ],
+    "grammar_ids": [
+      "smer-dovnitr",
+      "pohybova-slova"
+    ],
+    "grammar_label_cs": "Směr -ba / -be · sloveso megy",
+    "exercise_ids": [
+      "meaning-varos",
+      "recall-utca",
+      "meaning-allomas",
+      "listening-vonat",
+      "recall-jegy-accusative",
+      "meaning-balra",
+      "meaning-jobbra",
+      "meaning-egyenesen",
+      "order-city-sentence",
+      "recall-hova",
+      "cloze-city-direction",
+      "order-city-straight",
+      "meaning-direction-pair"
+    ],
+    "story_ids": []
+  },
+  "vocabulary": [
+    {
+      "id": "varos",
+      "word": "város",
+      "translation_cs": "město",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "városba",
+          "translation_cs": "do města",
+          "grammar_id": "smer-dovnitr",
+          "lesson_id": "cesta-mestem"
+        },
+        {
+          "form_hu": "városban",
+          "translation_cs": "ve městě",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prochazka-mestem"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "város",
+          "translation_cs": "město",
+          "kind": "root"
+        },
+        {
+          "form": "-ba",
+          "translation_cs": "do",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A város nagy.",
+      "example_cs": "Město je velké."
+    },
+    {
+      "id": "utca",
+      "word": "utca",
+      "translation_cs": "ulice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "utcában",
+          "translation_cs": "na ulici",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "cesta-mestem"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "utca",
+          "translation_cs": "ulice",
+          "kind": "root"
+        },
+        {
+          "form": "-ban",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "Az utca hosszú.",
+      "example_cs": "Ulice je dlouhá."
+    },
+    {
+      "id": "allomas",
+      "word": "állomás",
+      "translation_cs": "nádraží",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "morphemes": [
+        {
+          "form": "állomás",
+          "translation_cs": "nádraží",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az állomás itt van.",
+      "example_cs": "Nádraží je tady."
+    },
+    {
+      "id": "vonat",
+      "word": "vonat",
+      "translation_cs": "vlak",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "morphemes": [
+        {
+          "form": "vonat",
+          "translation_cs": "vlak",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vonat indul.",
+      "example_cs": "Vlak odjíždí."
+    },
+    {
+      "id": "jegy",
+      "word": "jegy",
+      "translation_cs": "jízdenka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "jegyet",
+          "translation_cs": "jízdenku (jako předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "cesta-mestem"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "jegy",
+          "translation_cs": "jízdenka",
+          "kind": "root"
+        },
+        {
+          "form": "-et",
+          "translation_cs": "předmětová přípona",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "Kérek egy jegyet.",
+      "example_cs": "Prosím si jízdenku."
+    },
+    {
+      "id": "balra",
+      "word": "balra",
+      "translation_cs": "doleva",
+      "part_of_speech_cs": "příslovce",
+      "vowel_harmony": "back",
+      "morphemes": [
+        {
+          "form": "balra",
+          "translation_cs": "doleva",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Forduljon balra.",
+      "example_cs": "Zahněte doleva."
+    },
+    {
+      "id": "jobbra",
+      "word": "jobbra",
+      "translation_cs": "doprava",
+      "part_of_speech_cs": "příslovce",
+      "vowel_harmony": "back",
+      "morphemes": [
+        {
+          "form": "jobbra",
+          "translation_cs": "doprava",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Forduljon jobbra.",
+      "example_cs": "Zahněte doprava."
+    },
+    {
+      "id": "egyenesen",
+      "word": "egyenesen",
+      "translation_cs": "rovně / přímo",
+      "part_of_speech_cs": "příslovce",
+      "vowel_harmony": "none",
+      "morphemes": [
+        {
+          "form": "egyenesen",
+          "translation_cs": "rovně / přímo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Menjen egyenesen.",
+      "example_cs": "Jeďte rovně."
+    },
+    {
+      "id": "megy",
+      "word": "megy",
+      "translation_cs": "jede / jde",
+      "part_of_speech_cs": "sloveso",
+      "vowel_harmony": "front",
+      "morphemes": [
+        {
+          "form": "megy",
+          "translation_cs": "jede / jde",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vonat a városba megy.",
+      "example_cs": "Vlak jede do města."
+    },
+    {
+      "id": "hova",
+      "word": "hová",
+      "translation_cs": "kam",
+      "part_of_speech_cs": "tázací příslovce",
+      "vowel_harmony": "back",
+      "morphemes": [
+        {
+          "form": "hová",
+          "translation_cs": "kam",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Hová megy a vonat?",
+      "example_cs": "Kam jede vlak?"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "smer-dovnitr",
+      "title_cs": "Směr dovnitř: -ba / -be",
+      "level": "A1 · KONCOVKY",
+      "summary_cs": "Koncovky -ba a -be říkají, že někdo nebo něco míří dovnitř.",
+      "rule_cs": "Stejně jako u dalších maďarských přípon vybíráme variantu podle samohláskové harmonie.",
+      "groups": [
+        {
+          "name_cs": "Zadní varianta",
+          "suffix_hu": "-ba",
+          "examples": [
+            {
+              "form_hu": "a házba",
+              "translation_cs": "do domu"
+            },
+            {
+              "form_hu": "a táskába",
+              "translation_cs": "do tašky"
+            }
+          ]
+        },
+        {
+          "name_cs": "Přední varianta",
+          "suffix_hu": "-be",
+          "examples": [
+            {
+              "form_hu": "a kertbe",
+              "translation_cs": "na zahradu"
+            },
+            {
+              "form_hu": "a könyvbe",
+              "translation_cs": "do knihy"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Porovnejte: a házban = v domě, ale a házba = do domu.",
+        "Po slovesech pohybu se často používá tvar vyjadřující směr."
+      ]
+    },
+    {
+      "id": "pohybova-slova",
+      "title_cs": "Kam jedeme? Hová a megy",
+      "level": "A1 · POHYB",
+      "summary_cs": "Spojte otázku na cíl, sloveso pohybu a koncovku směru.",
+      "rule_cs": "Hová? znamená Kam? Ve větě A vonat a városba megy sloveso megy označuje pohyb a -ba vyjadřuje cíl: Vlak jede do města.",
+      "groups": [
+        {
+          "name_cs": "Otázka a odpověď",
+          "suffix_hu": "hová",
+          "examples": [
+            {
+              "form_hu": "Hová megy?",
+              "translation_cs": "Kam jede / jde?"
+            },
+            {
+              "form_hu": "A vonat a városba megy.",
+              "translation_cs": "Vlak jede do města."
+            },
+            {
+              "form_hu": "Hová megy a vonat?",
+              "translation_cs": "Kam jede vlak?"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Hová se ptá na směr; hol se ptá na místo, kde se něco nachází.",
+        "U podmětu ve 3. osobě jednotného čísla použijte megy."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "meaning-varos",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "varos",
+      "grammar_id": "smer-dovnitr",
+      "prompt_cs": "Co znamená „város“?",
+      "options_cs": [
+        "město",
+        "ulice",
+        "nádraží"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Város znamená město. Směr do města vyjádříme tvarem városba."
+    },
+    {
+      "id": "recall-utca",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení",
+      "vocabulary_id": "utca",
+      "prompt_cs": "Napište základní tvar maďarského slova „ulice“.",
+      "accepted_answers": [
+        "utca"
+      ],
+      "explanation_cs": "Utca znamená ulice. Základní tvar je utca."
+    },
+    {
+      "id": "meaning-allomas",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "allomas",
+      "prompt_cs": "Co znamená „állomás“?",
+      "options_cs": [
+        "vlak",
+        "nádraží",
+        "jízdenka"
+      ],
+      "answer_index": 1,
+      "explanation_cs": "Állomás znamená nádraží."
+    },
+    {
+      "id": "listening-vonat",
+      "type": "listening",
+      "type_label_cs": "Poslech · význam",
+      "vocabulary_id": "vonat",
+      "audio_text": "vonat",
+      "prompt_cs": "Poslechněte si maďarské slovo. Co jste slyšeli?",
+      "options_cs": [
+        "jízdenka",
+        "vlak",
+        "nádraží"
+      ],
+      "answer_index": 1,
+      "explanation_cs": "Vonat znamená vlak."
+    },
+    {
+      "id": "recall-jegy-accusative",
+      "type": "recall",
+      "type_label_cs": "Tvar slova · předmět",
+      "vocabulary_id": "jegy",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Doplňte tvar slova jegy: „Prosím si jízdenku.“",
+      "sentence_hu": "Kérek egy ___.",
+      "accepted_answers": [
+        "jegyet"
+      ],
+      "explanation_cs": "Základní tvar jegy se mění na předmětový tvar jegyet."
+    },
+    {
+      "id": "meaning-balra",
+      "type": "vocabulary",
+      "type_label_cs": "Porozumění směru",
+      "vocabulary_id": "balra",
+      "prompt_cs": "Průvodce ukáže doleva. Které slovo použije?",
+      "options_cs": [
+        "jobbra",
+        "balra",
+        "egyenesen"
+      ],
+      "answer_index": 1,
+      "explanation_cs": "Balra znamená doleva; jobbra znamená doprava."
+    },
+    {
+      "id": "meaning-jobbra",
+      "type": "vocabulary",
+      "type_label_cs": "Porozumění směru",
+      "vocabulary_id": "jobbra",
+      "prompt_cs": "Které slovo znamená „doprava“?",
+      "options_cs": [
+        "jobbra",
+        "balra",
+        "egyenesen"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Jobbra znamená doprava."
+    },
+    {
+      "id": "meaning-egyenesen",
+      "type": "vocabulary",
+      "type_label_cs": "Porozumění směru",
+      "vocabulary_id": "egyenesen",
+      "prompt_cs": "Co znamená pokyn „egyenesen“?",
+      "options_cs": [
+        "rovně",
+        "doleva",
+        "doprava"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Egyenesen znamená rovně nebo přímo."
+    },
+    {
+      "id": "order-city-sentence",
+      "type": "order",
+      "type_label_cs": "Tvorba věty",
+      "vocabulary_id": "megy",
+      "grammar_id": "pohybova-slova",
+      "prompt_cs": "Sestavte maďarskou větu „Vlak jede do města.“",
+      "words_hu": [
+        "megy.",
+        "városba",
+        "A",
+        "vonat"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "vonat",
+          "városba",
+          "megy."
+        ]
+      ],
+      "explanation_cs": "A vonat a városba megy. Koncovka -ba vyjadřuje směr do města."
+    },
+    {
+      "id": "recall-hova",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení",
+      "vocabulary_id": "hova",
+      "grammar_id": "pohybova-slova",
+      "prompt_cs": "Jak se maďarsky zeptáte jedním slovem „Kam?“",
+      "accepted_answers": [
+        "hová"
+      ],
+      "explanation_cs": "Hová? znamená Kam? Je to základní tvar otázky na cíl pohybu."
+    },
+    {
+      "id": "cloze-city-direction",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · směr",
+      "vocabulary_id": "varos",
+      "grammar_id": "smer-dovnitr",
+      "prompt_cs": "Vyberte tvar, který vyjadřuje směr „do města“.",
+      "sentence_hu": "A vonat a ___ megy.",
+      "options_cs": [
+        "városba",
+        "városban",
+        "városból"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Koncovka -ba vyjadřuje směr dovnitř: a városba znamená do města."
+    },
+    {
+      "id": "order-city-straight",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · směr",
+      "vocabulary_id": "megy",
+      "grammar_id": "pohybova-slova",
+      "prompt_cs": "Sestavte větu „Vlak jede rovně.“",
+      "words_hu": [
+        "egyenesen",
+        "A",
+        "megy.",
+        "vonat"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "vonat",
+          "egyenesen",
+          "megy."
+        ]
+      ],
+      "explanation_cs": "A vonat egyenesen megy. Směrové příslovce egyenesen stojí před slovesem."
+    },
+    {
+      "id": "meaning-direction-pair",
+      "type": "vocabulary",
+      "type_label_cs": "Slovní zásoba · směry",
+      "vocabulary_id": "balra",
+      "grammar_id": "pohybova-slova",
+      "prompt_cs": "Která dvojice znamená „doleva a doprava“?",
+      "options_cs": [
+        "balra és jobbra",
+        "jobbra és egyenesen",
+        "balra és egyenesen"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Balra znamená doleva a jobbra doprava."
+    }
+  ],
+  "stories": []
+}

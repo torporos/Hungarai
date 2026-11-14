@@ -1,0 +1,279 @@
+{
+  "order": 6,
+  "lesson": {
+    "id": "doma-predmety",
+    "theme_id": "domov",
+    "theme_title_cs": "Doma a na zahradě",
+    "module_number": 2,
+    "module_title_cs": "Pokoj a vybavení",
+    "title_cs": "Doma a na zahradě",
+    "description": "Rozšiřte domácí slovní zásobu a naučte se tvořit množné číslo u předmětů v pokoji.",
+    "level": "A1 · POKOJ A VĚCI",
+    "duration_min": 7,
+    "xp_required": 50,
+    "prerequisite_lesson_ids": [
+      "prvni-kroky"
+    ],
+    "vocabulary_ids": [
+      "ajto",
+      "ablak",
+      "asztal",
+      "szek"
+    ],
+    "new_vocabulary_ids": [
+      "ajto",
+      "ablak",
+      "asztal",
+      "szek"
+    ],
+    "grammar_ids": [
+      "tobbesszam-alapok"
+    ],
+    "grammar_label_cs": "Množné číslo podstatných jmen",
+    "exercise_ids": [
+      "meaning-ajto",
+      "meaning-ablak",
+      "meaning-asztal",
+      "recall-szekek",
+      "meaning-szekek",
+      "recall-ajtok",
+      "cloze-asztalok"
+    ],
+    "story_ids": []
+  },
+  "vocabulary": [
+    {
+      "id": "ajto",
+      "word": "ajtó",
+      "translation_cs": "dveře",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "ajtók",
+          "translation_cs": "dveře (množné číslo)",
+          "grammar_id": "tobbesszam-alapok",
+          "lesson_id": "doma-predmety"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ajtó",
+          "translation_cs": "dveře",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A házban van egy ajtó.",
+      "example_cs": "V domě jsou dveře."
+    },
+    {
+      "id": "ablak",
+      "word": "ablak",
+      "translation_cs": "okno",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "ablakok",
+          "translation_cs": "okna",
+          "grammar_id": "tobbesszam-alapok",
+          "lesson_id": "doma-predmety"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ablak",
+          "translation_cs": "okno",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szobában van egy ablak.",
+      "example_cs": "V pokoji je okno."
+    },
+    {
+      "id": "asztal",
+      "word": "asztal",
+      "translation_cs": "stůl",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "asztalok",
+          "translation_cs": "stoly",
+          "grammar_id": "tobbesszam-alapok",
+          "lesson_id": "doma-predmety"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "asztal",
+          "translation_cs": "stůl",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az asztal a szobában van.",
+      "example_cs": "Stůl je v pokoji."
+    },
+    {
+      "id": "szek",
+      "word": "szék",
+      "translation_cs": "židle",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "székek",
+          "translation_cs": "židle (množné číslo)",
+          "grammar_id": "tobbesszam-alapok",
+          "lesson_id": "doma-predmety"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "szék",
+          "translation_cs": "židle",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szék a szobában van.",
+      "example_cs": "Židle je v pokoji."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "tobbesszam-alapok",
+      "title_cs": "Množné číslo: několik věcí",
+      "level": "A1 · DOMOV",
+      "summary_cs": "V maďarštině se množné číslo běžně tvoří příponou -k.",
+      "rule_cs": "Po samohlásce připojíme -k. Po souhlásce se často přidává spojovací samohláska -o- nebo -e- podle harmonie: zadní slova mají obvykle -ok, přední -ek.",
+      "groups": [
+        {
+          "name_cs": "Předměty doma",
+          "suffix_hu": "-k / -ok / -ek",
+          "examples": [
+            {
+              "form_hu": "ajtó → ajtók",
+              "translation_cs": "dveře → dveře (množné číslo)"
+            },
+            {
+              "form_hu": "ablak → ablakok",
+              "translation_cs": "okno → okna"
+            },
+            {
+              "form_hu": "asztal → asztalok",
+              "translation_cs": "stůl → stoly"
+            },
+            {
+              "form_hu": "szék → székek",
+              "translation_cs": "židle → židle (množné číslo)"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Konkrétní spojovací samohlásku vybíráme podle harmonie slova.",
+        "V běžných větách se tvar slovesa přizpůsobuje podmětu; zde se soustředíme jen na podstatná jména."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "meaning-ajto",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · domov",
+      "vocabulary_id": "ajto",
+      "prompt_cs": "Co znamená „ajtó“?",
+      "options_cs": [
+        "dveře",
+        "okno",
+        "židle"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ajtó znamená dveře."
+    },
+    {
+      "id": "meaning-ablak",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · domov",
+      "vocabulary_id": "ablak",
+      "prompt_cs": "Které slovo znamená „okno“?",
+      "options_cs": [
+        "ablak",
+        "asztal",
+        "ajtó"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ablak znamená okno."
+    },
+    {
+      "id": "meaning-asztal",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · domov",
+      "vocabulary_id": "asztal",
+      "prompt_cs": "Co je „asztal“?",
+      "options_cs": [
+        "stůl",
+        "židle",
+        "okno"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Asztal znamená stůl."
+    },
+    {
+      "id": "recall-szekek",
+      "type": "recall",
+      "type_label_cs": "Množné číslo · doma",
+      "vocabulary_id": "szek",
+      "grammar_id": "tobbesszam-alapok",
+      "prompt_cs": "Napište množné číslo slova szék (židle).",
+      "accepted_answers": [
+        "székek"
+      ],
+      "explanation_cs": "Szék → székek. U předního slova se před -k přidá spojovací -e-."
+    },
+    {
+      "id": "meaning-szekek",
+      "type": "vocabulary",
+      "type_label_cs": "Gramatika · množné číslo",
+      "vocabulary_id": "szek",
+      "grammar_id": "tobbesszam-alapok",
+      "prompt_cs": "Který tvar znamená „židle“ v množném čísle?",
+      "options_cs": [
+        "székek",
+        "szék",
+        "széket"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Székek je množné číslo od szék. Koncovka -ek se volí podle samohláskové harmonie."
+    },
+    {
+      "id": "recall-ajtok",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · množné číslo",
+      "vocabulary_id": "ajto",
+      "grammar_id": "tobbesszam-alapok",
+      "prompt_cs": "Napište množné číslo slova ajtó (dveře).",
+      "accepted_answers": [
+        "ajtók"
+      ],
+      "explanation_cs": "Slovo ajtó tvoří množné číslo tvarem ajtók s koncovkou -k."
+    },
+    {
+      "id": "cloze-asztalok",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · množné číslo",
+      "vocabulary_id": "asztal",
+      "grammar_id": "tobbesszam-alapok",
+      "prompt_cs": "Doplňte množné číslo slova asztal.",
+      "sentence_hu": "asztal → asztal___",
+      "options_cs": [
+        "-ok",
+        "-ek",
+        "-ak"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Asztal obsahuje zadní samohlásky, proto se přidá koncovka -ok: asztalok."
+    }
+  ],
+  "stories": []
+}

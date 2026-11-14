@@ -1,0 +1,635 @@
+{
+  "order": 12,
+  "lesson": {
+    "id": "posta-1913",
+    "theme_id": "uhersko-1913",
+    "theme_title_cs": "Uhersko před rokem 1914",
+    "module_number": 2,
+    "module_title_cs": "Dopis z města",
+    "title_cs": "Na poště v roce 1913",
+    "description": "Napište dopis rodině a vyřiďte jej na poště. Procvičíte adresáta v koncovce -nak/-nek, předmětové tvary i přivlastnění.",
+    "level": "A1 · DOPIS V ROCE 1913",
+    "duration_min": 9,
+    "xp_required": 480,
+    "prerequisite_lesson_ids": [
+      "cesta-vlakem-1913"
+    ],
+    "vocabulary_ids": [
+      "posta",
+      "level",
+      "belyeg",
+      "cim",
+      "ir",
+      "ad",
+      "postas"
+    ],
+    "new_vocabulary_ids": [
+      "posta",
+      "level",
+      "belyeg",
+      "cim",
+      "ir",
+      "ad",
+      "postas"
+    ],
+    "grammar_ids": [
+      "prijemce-nak-nek",
+      "birtokos-m",
+      "targy-t"
+    ],
+    "grammar_label_cs": "Adresát · -nak/-nek · přivlastnění",
+    "exercise_ids": [
+      "meaning-posta-1913",
+      "meaning-postas-1913",
+      "meaning-belyeg-1913",
+      "meaning-cim-1913",
+      "cloze-adresat-1913",
+      "recall-ir-1913",
+      "order-level-1913",
+      "listening-belyeg-1913",
+      "possessive-levelem-1913",
+      "recall-ad-1913"
+    ],
+    "story_ids": [
+      "anna-levele-1913"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "posta",
+      "word": "posta",
+      "translation_cs": "pošta; poštovní úřad",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "postán",
+          "translation_cs": "na poště",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "posta-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "posta",
+          "translation_cs": "pošta",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A posta a téren van.",
+      "example_cs": "Pošta je na náměstí."
+    },
+    {
+      "id": "level",
+      "word": "levél",
+      "translation_cs": "dopis; list",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "levelet",
+          "translation_cs": "dopis jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "posta-1913"
+        },
+        {
+          "form_hu": "levelem",
+          "translation_cs": "můj dopis",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "posta-1913"
+        },
+        {
+          "form_hu": "levélen",
+          "translation_cs": "na dopisu",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "posta-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "levél",
+          "translation_cs": "dopis",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Anna levelet ír.",
+      "example_cs": "Anna píše dopis."
+    },
+    {
+      "id": "belyeg",
+      "word": "bélyeg",
+      "translation_cs": "poštovní známka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "bélyeget",
+          "translation_cs": "známku jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "posta-1913"
+        },
+        {
+          "form_hu": "bélyegem",
+          "translation_cs": "moje známka",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "posta-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "bélyeg",
+          "translation_cs": "poštovní známka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bélyeg a levélen van.",
+      "example_cs": "Známka je na dopisu."
+    },
+    {
+      "id": "cim",
+      "word": "cím",
+      "translation_cs": "adresa; název",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "címet",
+          "translation_cs": "adresu jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "posta-1913"
+        },
+        {
+          "form_hu": "címem",
+          "translation_cs": "moje adresa",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "posta-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "cím",
+          "translation_cs": "adresa",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A cím a levélen van.",
+      "example_cs": "Adresa je na dopisu."
+    },
+    {
+      "id": "ir",
+      "word": "ír",
+      "translation_cs": "psát",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "írok",
+          "translation_cs": "píšu",
+          "grammar_id": "casovani-prvni-osoba",
+          "lesson_id": "posta-1913"
+        },
+        {
+          "form_hu": "írja",
+          "translation_cs": "píše konkrétní dopis",
+          "grammar_id": "targy-uragozas-hatarozott",
+          "lesson_id": "posta-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ír",
+          "translation_cs": "psát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Anna levelet ír.",
+      "example_cs": "Anna píše dopis."
+    },
+    {
+      "id": "ad",
+      "word": "ad",
+      "translation_cs": "dávat; dát",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ad",
+          "translation_cs": "dát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A postás bélyeget ad Annának.",
+      "example_cs": "Pošťák dává Anně známku."
+    },
+    {
+      "id": "postas",
+      "word": "postás",
+      "translation_cs": "pošťák; poštovní doručovatel",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "postásnak",
+          "translation_cs": "pošťákovi",
+          "grammar_id": "prijemce-nak-nek",
+          "lesson_id": "posta-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "postás",
+          "translation_cs": "pošťák",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A postás a postán van.",
+      "example_cs": "Pošťák je na poště."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "prijemce-nak-nek",
+      "title_cs": "Adresát: koncovka -nak/-nek",
+      "level": "A1 · DOPIS A POŠTA",
+      "summary_cs": "Koncovka označí člověka nebo skupinu, které něco dáváme či píšeme.",
+      "rule_cs": "K podstatnému jménu připojte -nak po zadních samohláskách a -nek po předních. Tvar označuje příjemce: a családnak = rodině, a vendégnek = hostovi.",
+      "groups": [
+        {
+          "name_cs": "Komu?",
+          "suffix_hu": "-nak / -nek",
+          "examples": [
+            {
+              "form_hu": "család + -nak → családnak",
+              "translation_cs": "rodina → rodině"
+            },
+            {
+              "form_hu": "vendég + -nek → vendégnek",
+              "translation_cs": "host → hostovi"
+            },
+            {
+              "form_hu": "A családnak levelet írok.",
+              "translation_cs": "Píšu rodině dopis."
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Volbu -nak/-nek řídí samohlásková harmonie.",
+        "Vlastní jména se skloňují stejně: Anna → Annának, tedy Anně."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "meaning-posta-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "posta",
+      "prompt_cs": "Kam jde Anna, když potřebuje poslat dopis?",
+      "options_cs": [
+        "na poštu",
+        "na nástupiště",
+        "do kavárny"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Posta je pošta nebo poštovní úřad."
+    },
+    {
+      "id": "meaning-postas-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "postas",
+      "prompt_cs": "Kdo je „postás“?",
+      "options_cs": [
+        "pošťák",
+        "kočí",
+        "cestující"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Postás je pošťák neboli poštovní doručovatel."
+    },
+    {
+      "id": "meaning-belyeg-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "belyeg",
+      "prompt_cs": "Co Anna potřebuje na dopis?",
+      "options_cs": [
+        "bélyeg",
+        "menetrend",
+        "bőrönd"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Bélyeg je poštovní známka."
+    },
+    {
+      "id": "meaning-cim-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "cim",
+      "prompt_cs": "Co znamená slovo „cím“ na obálce?",
+      "options_cs": [
+        "adresa",
+        "známka",
+        "dopis"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Cím je adresa; podle kontextu může znamenat také název."
+    },
+    {
+      "id": "cloze-adresat-1913",
+      "type": "cloze",
+      "type_label_cs": "Adresát dopisu",
+      "vocabulary_id": "level",
+      "grammar_id": "prijemce-nak-nek",
+      "prompt_cs": "Doplňte koncovku označujícího příjemce dopisu.",
+      "sentence_hu": "A család___ levelet írok.",
+      "options_cs": [
+        "-nak",
+        "-nek",
+        "-ban"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Családnak znamená rodině. Slovo család má zadní samohlásky, proto volíme -nak."
+    },
+    {
+      "id": "recall-ir-1913",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení",
+      "vocabulary_id": "ir",
+      "prompt_cs": "Napište maďarský základní tvar slovesa „psát“.",
+      "accepted_answers": [
+        "ír"
+      ],
+      "explanation_cs": "Ír je základní tvar slovesa „psát“."
+    },
+    {
+      "id": "order-level-1913",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · adresát",
+      "vocabulary_id": "ir",
+      "grammar_id": "prijemce-nak-nek",
+      "prompt_cs": "Sestavte větu „Píšu rodině dopis.“",
+      "words_hu": [
+        "levelet",
+        "írok.",
+        "A",
+        "családnak"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "családnak",
+          "levelet",
+          "írok."
+        ]
+      ],
+      "explanation_cs": "A családnak levelet írok. Koncovka -nak označuje příjemce."
+    },
+    {
+      "id": "listening-belyeg-1913",
+      "type": "listening",
+      "type_label_cs": "Poslech · význam",
+      "vocabulary_id": "belyeg",
+      "audio_text": "bélyeg",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "poštovní známka",
+        "pošta",
+        "adresa"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Bélyeg znamená poštovní známka."
+    },
+    {
+      "id": "possessive-levelem-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Přivlastnění",
+      "vocabulary_id": "level",
+      "grammar_id": "birtokos-m",
+      "prompt_cs": "Který tvar znamená „můj dopis“?",
+      "sentence_hu": "Ez a ______ a családnak szól.",
+      "options_cs": [
+        "levelem",
+        "levelet",
+        "levélnek"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Levelem znamená můj dopis. U levél se při přivlastnění mění kmen na level-."
+    },
+    {
+      "id": "recall-ad-1913",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení",
+      "vocabulary_id": "ad",
+      "prompt_cs": "Napište maďarský základní tvar slovesa „dát“.",
+      "accepted_answers": [
+        "ad"
+      ],
+      "explanation_cs": "Ad znamená dát nebo dávat."
+    }
+  ],
+  "stories": [
+    {
+      "id": "anna-levele-1913",
+      "title_cs": "Dopis z Budapešti, 1913",
+      "title_hu": "Anna levele",
+      "level": "A1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 2,
+      "prerequisite_lesson_ids": [
+        "posta-1913"
+      ],
+      "curriculum_lesson_id": "posta-1913",
+      "new_vocabulary_ids": [
+        "posta",
+        "level",
+        "belyeg",
+        "cim",
+        "ir",
+        "ad",
+        "postas"
+      ],
+      "vocabulary_ids": [
+        "posta",
+        "level",
+        "belyeg",
+        "cim",
+        "ir",
+        "ad",
+        "postas",
+        "csalad",
+        "jegy",
+        "szalloda",
+        "taska"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban Anna Budapesten van. A "
+        },
+        {
+          "text": "család",
+          "vocabulary_id": "csalad"
+        },
+        {
+          "text": " Prágában van. Anna a "
+        },
+        {
+          "text": "postán",
+          "vocabulary_id": "posta"
+        },
+        {
+          "text": " van. A "
+        },
+        {
+          "text": "családnak",
+          "vocabulary_id": "csalad"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "levelet",
+          "vocabulary_id": "level"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ír",
+          "vocabulary_id": "ir"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "cím",
+          "vocabulary_id": "cim"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "levélen",
+          "vocabulary_id": "level"
+        },
+        {
+          "text": " van. Anna "
+        },
+        {
+          "text": "bélyeget",
+          "vocabulary_id": "belyeg"
+        },
+        {
+          "text": " kér. A "
+        },
+        {
+          "text": "postás",
+          "vocabulary_id": "postas"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "bélyeget",
+          "vocabulary_id": "belyeg"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ad",
+          "vocabulary_id": "ad"
+        },
+        {
+          "text": " Annának. A "
+        },
+        {
+          "text": "bélyeg",
+          "vocabulary_id": "belyeg"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "levélen",
+          "vocabulary_id": "level"
+        },
+        {
+          "text": " van. Anna a "
+        },
+        {
+          "text": "levelet",
+          "vocabulary_id": "level"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "családnak",
+          "vocabulary_id": "csalad"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "írja",
+          "vocabulary_id": "ir"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "posta",
+          "vocabulary_id": "posta"
+        },
+        {
+          "text": " a téren van. Anna a "
+        },
+        {
+          "text": "szállodába",
+          "vocabulary_id": "szalloda"
+        },
+        {
+          "text": " megy."
+        }
+      ],
+      "questions": [
+        {
+          "id": "anna-levele-1913-location",
+          "prompt_cs": "Kde je Anna, když píše dopis?",
+          "options_cs": [
+            "Na poště.",
+            "Na nástupišti.",
+            "V muzeu."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Anna je na poště: Anna a postán van."
+        },
+        {
+          "id": "anna-levele-1913-stamp",
+          "prompt_cs": "O co Anna požádá?",
+          "options_cs": [
+            "O známku.",
+            "O jízdenku.",
+            "O kufr."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Anna žádá o známku: Anna bélyeget kér."
+        },
+        {
+          "id": "anna-levele-1913-giver",
+          "prompt_cs": "Kdo dá Anně známku?",
+          "options_cs": [
+            "Pošťák.",
+            "Kočí.",
+            "Host."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Známku dává pošťák: A postás bélyeget ad Annának."
+        }
+      ],
+      "translation_cs": "V roce 1913 je Anna v Budapešti. Rodina je v Praze. Anna je na poště. Píše dopis rodině. Adresa je na dopisu. Anna žádá o známku. Pošťák dá Anně známku. Známka je na dopisu. Anna píše dopis rodině. Pošta je na náměstí. Anna jde do hotelu."
+    }
+  ]
+}

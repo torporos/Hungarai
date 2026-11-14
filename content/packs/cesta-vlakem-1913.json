@@ -1,0 +1,558 @@
+{
+  "order": 11,
+  "lesson": {
+    "id": "cesta-vlakem-1913",
+    "theme_id": "uhersko-1913",
+    "theme_title_cs": "Uhersko před rokem 1914",
+    "module_number": 1,
+    "module_title_cs": "Na železničním nádraží",
+    "title_cs": "Vlakem do Budapešti",
+    "description": "Vydejte se v roce 1913 na cestu vlakem. Naučíte se číst jízdní řád, najít nástupiště a popsat odjezd i příjezd.",
+    "level": "A1 · CESTOVÁNÍ V ROCE 1913",
+    "duration_min": 8,
+    "xp_required": 400,
+    "prerequisite_lesson_ids": [
+      "zivot-rodiny"
+    ],
+    "vocabulary_ids": [
+      "palyaudvar",
+      "menetrend",
+      "peron",
+      "borond",
+      "indul",
+      "erkezik"
+    ],
+    "new_vocabulary_ids": [
+      "palyaudvar",
+      "menetrend",
+      "peron",
+      "borond",
+      "indul",
+      "erkezik"
+    ],
+    "grammar_ids": [
+      "jelenido-harmadik-osoba"
+    ],
+    "grammar_label_cs": "Přítomný čas · 3. osoba",
+    "exercise_ids": [
+      "meaning-palyaudvar-1913",
+      "cloze-indul-1913",
+      "meaning-menetrend-1913",
+      "cloze-peron-1913",
+      "recall-borond-1913",
+      "listening-erkezik-1913",
+      "order-vonat-1913",
+      "meaning-borond-1913",
+      "harmony-palyaudvar-1913"
+    ],
+    "story_ids": [
+      "budapest-vonat-1913"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "palyaudvar",
+      "word": "pályaudvar",
+      "translation_cs": "železniční nádraží",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "pályaudvaron",
+          "translation_cs": "na železničním nádraží",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "cesta-vlakem-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "pályaudvar",
+          "translation_cs": "železniční nádraží",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A pályaudvar a városban van.",
+      "example_cs": "Železniční nádraží je ve městě."
+    },
+    {
+      "id": "menetrend",
+      "word": "menetrend",
+      "translation_cs": "jízdní řád",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "menetrendet",
+          "translation_cs": "jízdní řád jako předmět",
+          "grammar_id": "targy-t",
+          "lesson_id": "cesta-vlakem-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "menetrend",
+          "translation_cs": "jízdní řád",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A menetrend a pályaudvaron van.",
+      "example_cs": "Jízdní řád je na nádraží."
+    },
+    {
+      "id": "peron",
+      "word": "peron",
+      "translation_cs": "nástupiště",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "mixed",
+      "forms": [
+        {
+          "form_hu": "peronon",
+          "translation_cs": "na nástupišti",
+          "grammar_id": "poloha-na-povrchu",
+          "lesson_id": "cesta-vlakem-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "peron",
+          "translation_cs": "nástupiště",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vonat a peronon van.",
+      "example_cs": "Vlak je na nástupišti."
+    },
+    {
+      "id": "borond",
+      "word": "bőrönd",
+      "translation_cs": "cestovní kufr",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "bőröndben",
+          "translation_cs": "v cestovním kufru",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "cesta-vlakem-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "bőrönd",
+          "translation_cs": "cestovní kufr",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A bőrönd a szobában van.",
+      "example_cs": "Cestovní kufr je v pokoji."
+    },
+    {
+      "id": "indul",
+      "word": "indul",
+      "translation_cs": "odjíždět; vyjíždět",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "indul",
+          "translation_cs": "odjíždět",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vonat reggel indul.",
+      "example_cs": "Vlak ráno odjíždí."
+    },
+    {
+      "id": "erkezik",
+      "word": "érkezik",
+      "translation_cs": "přijíždět; přicházet",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "érkezik",
+          "translation_cs": "přijíždět",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vonat Budapestre érkezik.",
+      "example_cs": "Vlak přijíždí do Budapešti."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "jelenido-harmadik-osoba",
+      "title_cs": "Přítomný čas ve 3. osobě",
+      "level": "A1 · UHER PŘED ROKEM 1914",
+      "summary_cs": "Ve větě o vlaku či cestujícím se základní tvar slovesa často používá také pro „on/ona/to“.",
+      "rule_cs": "U mnoha sloves je tvar 3. osoby jednotného čísla přítomného času stejný jako základní tvar uváděný ve slovníčku: A vonat indul. (Vlak odjíždí.) Sloveso megy je nepravidelné a některá slovesa mají ve 3. osobě zakončení -ik, například érkezik.",
+      "groups": [
+        {
+          "name_cs": "Cestující a vlak",
+          "suffix_hu": "základní tvar",
+          "examples": [
+            {
+              "form_hu": "indul → A vonat indul.",
+              "translation_cs": "odjíždí → Vlak odjíždí."
+            },
+            {
+              "form_hu": "érkezik → A vonat érkezik.",
+              "translation_cs": "přijíždí → Vlak přijíždí."
+            },
+            {
+              "form_hu": "megy → A vendég megy.",
+              "translation_cs": "jde / jede → Host jde / jede."
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Základní tvar slovesa je ve slovníčku uveden bez osobní koncovky pro „já“.",
+        "U slovesa érkezik patří zakončení -ik k jeho základnímu tvaru."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "meaning-palyaudvar-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "palyaudvar",
+      "prompt_cs": "Co znamená maďarské slovo „pályaudvar“?",
+      "options_cs": [
+        "pošta",
+        "železniční nádraží",
+        "nástupiště"
+      ],
+      "answer_index": 1,
+      "explanation_cs": "Pályaudvar je železniční nádraží; peron je nástupiště."
+    },
+    {
+      "id": "cloze-indul-1913",
+      "type": "cloze",
+      "type_label_cs": "Sloveso ve větě",
+      "vocabulary_id": "indul",
+      "grammar_id": "jelenido-harmadik-osoba",
+      "prompt_cs": "Doplňte základní tvar slovesa pro „vlak odjíždí“.",
+      "sentence_hu": "A vonat ______.",
+      "options_cs": [
+        "indul",
+        "indulok",
+        "indult"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A vonat indul = Vlak odjíždí. Ve 3. osobě jednotného čísla zde použijeme základní tvar indul."
+    },
+    {
+      "id": "meaning-menetrend-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "menetrend",
+      "prompt_cs": "Co cestující hledá ve slově „menetrend“?",
+      "options_cs": [
+        "jízdní řád",
+        "cestovní kufr",
+        "poštovní známku"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Menetrend je jízdní řád."
+    },
+    {
+      "id": "cloze-peron-1913",
+      "type": "cloze",
+      "type_label_cs": "Místo ve větě",
+      "vocabulary_id": "peron",
+      "grammar_id": "poloha-na-povrchu",
+      "prompt_cs": "Doplňte správný tvar: „Vlak je na nástupišti.“",
+      "sentence_hu": "A vonat a ______ van.",
+      "options_cs": [
+        "peronon",
+        "peronba",
+        "peront"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Peronon znamená na nástupišti; koncovka -on vyjadřuje polohu."
+    },
+    {
+      "id": "recall-borond-1913",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení",
+      "vocabulary_id": "borond",
+      "prompt_cs": "Napište maďarský základní tvar pro „cestovní kufr“.",
+      "accepted_answers": [
+        "bőrönd"
+      ],
+      "explanation_cs": "Bőrönd je cestovní kufr. Zapište základní tvar bez koncovky."
+    },
+    {
+      "id": "listening-erkezik-1913",
+      "type": "listening",
+      "type_label_cs": "Poslech · význam",
+      "vocabulary_id": "erkezik",
+      "audio_text": "érkezik",
+      "prompt_cs": "Poslechněte si slovo z jízdního řádu. Co znamená?",
+      "options_cs": [
+        "odjíždí",
+        "přijíždí",
+        "čeká"
+      ],
+      "answer_index": 1,
+      "explanation_cs": "Érkezik znamená přijíždět nebo přicházet."
+    },
+    {
+      "id": "order-vonat-1913",
+      "type": "order",
+      "type_label_cs": "Tvorba věty",
+      "vocabulary_id": "indul",
+      "grammar_id": "jelenido-harmadik-osoba",
+      "prompt_cs": "Sestavte větu „Vlak odjíždí do Budapešti.“",
+      "words_hu": [
+        "Budapestre",
+        "indul.",
+        "A",
+        "vonat"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "vonat",
+          "Budapestre",
+          "indul."
+        ]
+      ],
+      "explanation_cs": "A vonat Budapestre indul. Sloveso indul stojí v základním tvaru."
+    },
+    {
+      "id": "meaning-borond-1913",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "borond",
+      "prompt_cs": "Které slovo označuje zavazadlo na cestu?",
+      "options_cs": [
+        "bőrönd",
+        "peron",
+        "menetrend"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Bőrönd je cestovní kufr."
+    },
+    {
+      "id": "harmony-palyaudvar-1913",
+      "type": "harmony",
+      "type_label_cs": "Tvar podle místa",
+      "vocabulary_id": "palyaudvar",
+      "grammar_id": "poloha-na-povrchu",
+      "prompt_cs": "Který tvar znamená „na železničním nádraží“?",
+      "options_cs": [
+        "pályaudvaron",
+        "pályaudvarben",
+        "pályaudvarba"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Pályaudvaron znamená na nádraží. Slovo má zadní samohlásky a používá koncovku -on."
+    }
+  ],
+  "stories": [
+    {
+      "id": "budapest-vonat-1913",
+      "title_cs": "Cesta do Budapešti, 1913",
+      "title_hu": "Utazás Budapestre",
+      "level": "A1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 2,
+      "prerequisite_lesson_ids": [
+        "cesta-vlakem-1913"
+      ],
+      "curriculum_lesson_id": "cesta-vlakem-1913",
+      "new_vocabulary_ids": [
+        "palyaudvar",
+        "menetrend",
+        "peron",
+        "borond",
+        "indul",
+        "erkezik"
+      ],
+      "vocabulary_ids": [
+        "palyaudvar",
+        "menetrend",
+        "peron",
+        "borond",
+        "indul",
+        "erkezik",
+        "vonat",
+        "jegy",
+        "szalloda",
+        "szoba",
+        "varos"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban Anna Budapestre utazik. Reggel a "
+        },
+        {
+          "text": "pályaudvaron",
+          "vocabulary_id": "palyaudvar"
+        },
+        {
+          "text": " van. A "
+        },
+        {
+          "text": "menetrend",
+          "vocabulary_id": "menetrend"
+        },
+        {
+          "text": " a falon van. Anna a "
+        },
+        {
+          "text": "menetrendet",
+          "vocabulary_id": "menetrend"
+        },
+        {
+          "text": " nézi. A "
+        },
+        {
+          "text": "vonat",
+          "vocabulary_id": "vonat"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "peronon",
+          "vocabulary_id": "peron"
+        },
+        {
+          "text": " van. A "
+        },
+        {
+          "text": "bőrönd",
+          "vocabulary_id": "borond"
+        },
+        {
+          "text": " is a "
+        },
+        {
+          "text": "peronon",
+          "vocabulary_id": "peron"
+        },
+        {
+          "text": " van. Anna "
+        },
+        {
+          "text": "jegyet",
+          "vocabulary_id": "jegy"
+        },
+        {
+          "text": " kér. A "
+        },
+        {
+          "text": "vonat",
+          "vocabulary_id": "vonat"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "indul",
+          "vocabulary_id": "indul"
+        },
+        {
+          "text": ". Anna a "
+        },
+        {
+          "text": "vonaton",
+          "vocabulary_id": "vonat"
+        },
+        {
+          "text": " van. A "
+        },
+        {
+          "text": "vonat",
+          "vocabulary_id": "vonat"
+        },
+        {
+          "text": " Budapestre "
+        },
+        {
+          "text": "érkezik",
+          "vocabulary_id": "erkezik"
+        },
+        {
+          "text": ". Anna a "
+        },
+        {
+          "text": "szállodába",
+          "vocabulary_id": "szalloda"
+        },
+        {
+          "text": " megy. A "
+        },
+        {
+          "text": "szálloda",
+          "vocabulary_id": "szalloda"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "városban",
+          "vocabulary_id": "varos"
+        },
+        {
+          "text": " van. A "
+        },
+        {
+          "text": "bőrönd",
+          "vocabulary_id": "borond"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "szobában",
+          "vocabulary_id": "szoba"
+        },
+        {
+          "text": " van. Anna Budapesten van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "budapest-vonat-1913-destination",
+          "prompt_cs": "Kam Anna cestuje?",
+          "options_cs": [
+            "Do Budapešti.",
+            "Do Prahy.",
+            "Do Vídně."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Anna cestuje do Budapešti: Anna Budapestre utazik."
+        },
+        {
+          "id": "budapest-vonat-1913-schedule",
+          "prompt_cs": "Kde je jízdní řád?",
+          "options_cs": [
+            "Na stěně.",
+            "V pokoji.",
+            "V kavárně."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Jízdní řád je na stěně: A menetrend a falon van."
+        },
+        {
+          "id": "budapest-vonat-1913-arrival",
+          "prompt_cs": "Co se stane s vlakem?",
+          "options_cs": [
+            "Přijede do Budapešti.",
+            "Odjede do Vídně.",
+            "Zůstane na nádraží."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Vlak přijíždí do Budapešti: A vonat Budapestre érkezik."
+        }
+      ],
+      "translation_cs": "V roce 1913 Anna cestuje do Budapešti. Ráno je na nádraží. Jízdní řád je na stěně. Anna se dívá do jízdního řádu. Vlak je na nástupišti. Kufr je také na nástupišti. Anna žádá o jízdenku. Vlak odjíždí. Anna je ve vlaku. Vlak přijíždí do Budapešti. Anna jde do hotelu. Hotel je ve městě. Kufr je v pokoji. Anna je v Budapešti."
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "order": 10,
+  "lesson": {
+    "id": "zivot-rodiny",
+    "theme_id": "rodina",
+    "theme_title_cs": "Rodina a přátelé",
+    "module_number": 2,
+    "module_title_cs": "Širší rodina a vztahy",
+    "title_cs": "Rodina a přátelé",
+    "description": "Poznejte další členy rodiny, rozšiřte přivlastňování a naučte se rozlišit dva typy časování slovesa „mít rád“.",
+    "level": "A1 · RODINA A VZTAHY",
+    "duration_min": 9,
+    "xp_required": 330,
+    "prerequisite_lesson_ids": [
+      "rodina-a-pratele"
+    ],
+    "vocabulary_ids": [
+      "nagymama",
+      "nagypapa",
+      "unokatestver",
+      "szulo"
+    ],
+    "new_vocabulary_ids": [
+      "nagymama",
+      "nagypapa",
+      "unokatestver",
+      "szulo"
+    ],
+    "grammar_ids": [
+      "birtokos-m",
+      "targy-uragozas-hatarozott"
+    ],
+    "grammar_label_cs": "Moje rodina · určitý předmět slovesa",
+    "exercise_ids": [
+      "meaning-nagymama",
+      "meaning-nagypapa",
+      "meaning-unokatestver",
+      "meaning-szulo",
+      "recall-szeretem",
+      "meaning-nagymamam",
+      "recall-szulom",
+      "cloze-family-accusative",
+      "order-grandfather-here"
+    ],
+    "story_ids": []
+  },
+  "vocabulary": [
+    {
+      "id": "nagymama",
+      "word": "nagymama",
+      "translation_cs": "babička",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "nagymamám",
+          "translation_cs": "moje babička",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "zivot-rodiny"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "nagymama",
+          "translation_cs": "babička",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A nagymamám a városban lakik.",
+      "example_cs": "Moje babička bydlí ve městě."
+    },
+    {
+      "id": "nagypapa",
+      "word": "nagypapa",
+      "translation_cs": "dědeček",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "nagypapám",
+          "translation_cs": "můj dědeček",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "zivot-rodiny"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "nagypapa",
+          "translation_cs": "dědeček",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A nagypapám a kertben van.",
+      "example_cs": "Můj dědeček je na zahradě."
+    },
+    {
+      "id": "unokatestver",
+      "word": "unokatestvér",
+      "translation_cs": "bratranec / sestřenice",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "unokatestvérem",
+          "translation_cs": "můj bratranec / moje sestřenice",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "zivot-rodiny"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "unokatestvér",
+          "translation_cs": "bratranec / sestřenice",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az unokatestvérem a városban lakik.",
+      "example_cs": "Můj bratranec bydlí ve městě."
+    },
+    {
+      "id": "szulo",
+      "word": "szülő",
+      "translation_cs": "rodič",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "szülőm",
+          "translation_cs": "můj rodič",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "zivot-rodiny"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "szülő",
+          "translation_cs": "rodič",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szülőm a városban van.",
+      "example_cs": "Můj rodič je ve městě."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "targy-uragozas-hatarozott",
+      "title_cs": "Mám rád obecně, nebo právě tohle?",
+      "level": "A1 · RODINA",
+      "summary_cs": "Maďarský tvar slovesa se mění podle toho, zda je předmět neurčitý, nebo určitý.",
+      "rule_cs": "U slovesa szeret použijeme neurčité časování, když mluvíme obecně nebo o neurčitém předmětu: Szeretek kávét. Pokud je předmět určitý (často s a/az), použijeme určité časování: Szeretem a családomat.",
+      "groups": [
+        {
+          "name_cs": "Srovnání",
+          "suffix_hu": "szeretek · szeretem",
+          "examples": [
+            {
+              "form_hu": "Szeretek kávét.",
+              "translation_cs": "Mám rád kávu (obecně)."
+            },
+            {
+              "form_hu": "Szeretem a családomat.",
+              "translation_cs": "Mám rád svou rodinu."
+            },
+            {
+              "form_hu": "család + -om + -at → családomat",
+              "translation_cs": "rodina + moje + předmět"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Kontrastujte dvojici: Szeretek kávét = mám rád kávu obecně; Szeretem a kávét = mám rád tu kávu.",
+        "V tomto příkladu se v podstatném jménu spojí přivlastnění a předmětová přípona."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "meaning-nagymama",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · rodina",
+      "vocabulary_id": "nagymama",
+      "prompt_cs": "Kdo je „nagymama“?",
+      "options_cs": [
+        "babička",
+        "dědeček",
+        "rodič"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nagymama znamená babička; nagymamám je moje babička."
+    },
+    {
+      "id": "meaning-nagypapa",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · rodina",
+      "vocabulary_id": "nagypapa",
+      "prompt_cs": "Co znamená „nagypapa“?",
+      "options_cs": [
+        "dědeček",
+        "babička",
+        "bratranec"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nagypapa znamená dědeček."
+    },
+    {
+      "id": "meaning-unokatestver",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · rodina",
+      "vocabulary_id": "unokatestver",
+      "prompt_cs": "Které slovo znamená „bratranec nebo sestřenice“?",
+      "options_cs": [
+        "unokatestvér",
+        "szülő",
+        "nagymama"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Unokatestvér označuje bratrance i sestřenici."
+    },
+    {
+      "id": "meaning-szulo",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · rodina",
+      "vocabulary_id": "szulo",
+      "prompt_cs": "Co znamená „szülő“?",
+      "options_cs": [
+        "rodič",
+        "babička",
+        "sourozenec"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Szülő znamená rodič; szülőm je můj rodič."
+    },
+    {
+      "id": "recall-szeretem",
+      "type": "recall",
+      "type_label_cs": "Určité časování",
+      "vocabulary_id": "szeret",
+      "grammar_id": "targy-uragozas-hatarozott",
+      "prompt_cs": "Doplňte tvar pro určitý předmět: „Mám rád svou rodinu.“",
+      "sentence_hu": "___ a családomat.",
+      "accepted_answers": [
+        "szeretem"
+      ],
+      "explanation_cs": "U určitého předmětu použijeme určité časování: Szeretem a családomat."
+    },
+    {
+      "id": "meaning-nagymamam",
+      "type": "vocabulary",
+      "type_label_cs": "Gramatika · přivlastnění",
+      "vocabulary_id": "nagymama",
+      "grammar_id": "birtokos-m",
+      "prompt_cs": "Který tvar znamená „moje babička“?",
+      "options_cs": [
+        "nagymamám",
+        "nagymama",
+        "nagymamát"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přípona -m vyjadřuje přivlastnění: nagymamám znamená moje babička."
+    },
+    {
+      "id": "recall-szulom",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · přivlastnění",
+      "vocabulary_id": "szulo",
+      "grammar_id": "birtokos-m",
+      "prompt_cs": "Napište „můj rodič“ maďarsky.",
+      "accepted_answers": [
+        "szülőm"
+      ],
+      "explanation_cs": "K základnímu tvaru szülő připojíme přivlastňovací příponu -m: szülőm."
+    },
+    {
+      "id": "cloze-family-accusative",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · určitý předmět",
+      "vocabulary_id": "csalad",
+      "grammar_id": "targy-uragozas-hatarozott",
+      "prompt_cs": "Doplňte slovo „rodinu“ do věty „Mám rád svou rodinu.“",
+      "sentence_hu": "Szeretem a ___.",
+      "options_cs": [
+        "családomat",
+        "családom",
+        "családomban"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Určitý předmět dostává u slova család tvar családomat."
+    },
+    {
+      "id": "order-grandfather-here",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · přivlastnění",
+      "vocabulary_id": "nagypapa",
+      "grammar_id": "birtokos-m",
+      "prompt_cs": "Sestavte větu „Můj dědeček je tady.“",
+      "words_hu": [
+        "itt",
+        "A",
+        "van.",
+        "nagypapám"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "nagypapám",
+          "itt",
+          "van."
+        ]
+      ],
+      "explanation_cs": "A nagypapám itt van. Přípona -m ve slově nagypapám znamená „můj“."
+    }
+  ],
+  "stories": []
+}

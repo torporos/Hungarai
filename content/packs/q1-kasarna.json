@@ -1,0 +1,722 @@
+{
+  "order": 16,
+  "lesson": {
+    "id": "q1-kasarna",
+    "theme_id": "q1-novacek-kasarny",
+    "theme_title_cs": "Q1 · Nováček v kasárnách",
+    "module_number": 3,
+    "module_title_cs": "Pokoj a ubytování",
+    "title_cs": "Život v kasárenském pokoji",
+    "description": "Naučte se slova pro společný pokoj, lůžko a osobní věci. Množné číslo procvičíte v krátkých popisech místnosti.",
+    "level": "Q1 · KASÁRNA",
+    "duration_min": 8,
+    "xp_required": 800,
+    "prerequisite_lesson_ids": [
+      "q1-uniforma"
+    ],
+    "vocabulary_ids": [
+      "kaszarnya",
+      "laktanya",
+      "agy",
+      "takaro",
+      "lepedo",
+      "szalmazsak",
+      "lada",
+      "szekreny",
+      "lampa",
+      "gyertya"
+    ],
+    "new_vocabulary_ids": [
+      "kaszarnya",
+      "laktanya",
+      "agy",
+      "takaro",
+      "lepedo",
+      "szalmazsak",
+      "lada",
+      "szekreny",
+      "lampa",
+      "gyertya"
+    ],
+    "grammar_ids": [
+      "q1-mnozne-cislo"
+    ],
+    "grammar_label_cs": "Množné číslo v popisu pokoje",
+    "exercise_ids": [
+      "q1-barracks-01",
+      "q1-barracks-02",
+      "q1-barracks-03",
+      "q1-barracks-04",
+      "q1-barracks-05",
+      "q1-barracks-06",
+      "q1-barracks-07",
+      "q1-barracks-08",
+      "q1-barracks-09",
+      "q1-barracks-10",
+      "q1-barracks-11",
+      "q1-barracks-12",
+      "q1-barracks-13"
+    ],
+    "story_ids": [
+      "q1-story-barracks"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "kaszarnya",
+      "word": "kaszárnya",
+      "translation_cs": "kasárna",
+      "part_of_speech_cs": "místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "kaszárnyák",
+          "translation_cs": "kasárna (množné číslo)",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-kasarna"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kaszárnya",
+          "translation_cs": "kasárna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd a kaszárnyában van.",
+      "example_cs": "Voják je v kasárnách.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "barracks"
+      ]
+    },
+    {
+      "id": "laktanya",
+      "word": "laktanya",
+      "translation_cs": "posádka; kasárna",
+      "part_of_speech_cs": "místo",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "laktanyák",
+          "translation_cs": "posádky",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-kasarna"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "laktanya",
+          "translation_cs": "posádka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A laktanya a városban van.",
+      "example_cs": "Kasárna jsou ve městě.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "barracks"
+      ]
+    },
+    {
+      "id": "agy",
+      "word": "ágy",
+      "translation_cs": "postel",
+      "part_of_speech_cs": "vybavení pokoje",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "ágyak",
+          "translation_cs": "postele",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-kasarna"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ágy",
+          "translation_cs": "postel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az ágy a szobában van.",
+      "example_cs": "Postel je v pokoji.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "barracks"
+      ]
+    },
+    {
+      "id": "takaro",
+      "word": "takaró",
+      "translation_cs": "přikrývka",
+      "part_of_speech_cs": "vybavení pokoje",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "takarók",
+          "translation_cs": "přikrývky",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-kasarna"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "takaró",
+          "translation_cs": "přikrývka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A takaró az ágyon van.",
+      "example_cs": "Přikrývka je na posteli.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "barracks"
+      ]
+    },
+    {
+      "id": "lepedo",
+      "word": "lepedő",
+      "translation_cs": "prostěradlo",
+      "part_of_speech_cs": "vybavení pokoje",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "lepedők",
+          "translation_cs": "prostěradla",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-kasarna"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "lepedő",
+          "translation_cs": "prostěradlo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A lepedő az ágyon van.",
+      "example_cs": "Prostěradlo je na posteli.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "barracks"
+      ]
+    },
+    {
+      "id": "szalmazsak",
+      "word": "szalmazsák",
+      "translation_cs": "slamník; matrace plněná slámou",
+      "part_of_speech_cs": "vybavení pokoje",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "szalmazsákok",
+          "translation_cs": "slamníky",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-kasarna"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "szalmazsák",
+          "translation_cs": "slamník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szalmazsák az ágyon van.",
+      "example_cs": "Slamník je na posteli.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "barracks"
+      ]
+    },
+    {
+      "id": "lada",
+      "word": "láda",
+      "translation_cs": "truhla; bedna",
+      "part_of_speech_cs": "vybavení pokoje",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "ládák",
+          "translation_cs": "truhly; bedny",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-kasarna"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "láda",
+          "translation_cs": "truhla",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A láda a szobában van.",
+      "example_cs": "Truhla je v pokoji.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "barracks"
+      ]
+    },
+    {
+      "id": "szekreny",
+      "word": "szekrény",
+      "translation_cs": "skříň",
+      "part_of_speech_cs": "vybavení pokoje",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "szekrények",
+          "translation_cs": "skříně",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-kasarna"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "szekrény",
+          "translation_cs": "skříň",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szekrény a szobában van.",
+      "example_cs": "Skříň je v pokoji.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "barracks"
+      ]
+    },
+    {
+      "id": "lampa",
+      "word": "lámpa",
+      "translation_cs": "lampa",
+      "part_of_speech_cs": "vybavení pokoje",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "lámpák",
+          "translation_cs": "lampy",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-kasarna"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "lámpa",
+          "translation_cs": "lampa",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A lámpa az asztalon van.",
+      "example_cs": "Lampa je na stole.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "barracks"
+      ]
+    },
+    {
+      "id": "gyertya",
+      "word": "gyertya",
+      "translation_cs": "svíčka",
+      "part_of_speech_cs": "vybavení pokoje",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "gyertyák",
+          "translation_cs": "svíčky",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-kasarna"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "gyertya",
+          "translation_cs": "svíčka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gyertya az asztalon van.",
+      "example_cs": "Svíčka je na stole.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "barracks"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q1-barracks-01",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · kasárna",
+      "vocabulary_id": "kaszarnya",
+      "prompt_cs": "Co znamená „kaszárnya“?",
+      "options_cs": [
+        "kasárna",
+        "skříň",
+        "postel"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Kaszárnya znamená kasárna."
+    },
+    {
+      "id": "q1-barracks-02",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · kasárna",
+      "vocabulary_id": "laktanya",
+      "prompt_cs": "Napište maďarsky „posádka; kasárna“.",
+      "accepted_answers": [
+        "laktanya"
+      ],
+      "sentence_hu": "A ______ a városban van.",
+      "explanation_cs": "Laktanya znamená posádka nebo kasárna."
+    },
+    {
+      "id": "q1-barracks-03",
+      "type": "listening",
+      "type_label_cs": "Poslech · kasárna",
+      "vocabulary_id": "agy",
+      "audio_text": "ágy",
+      "prompt_cs": "Co znamená poslechnuté slovo „ágy“?",
+      "options_cs": [
+        "postel",
+        "přikrývka",
+        "lampa"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ágy znamená postel."
+    },
+    {
+      "id": "q1-barracks-04",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · kasárna",
+      "vocabulary_id": "takaro",
+      "prompt_cs": "Doplňte „přikrývka“ do věty.",
+      "sentence_hu": "A ______ az ágyon van.",
+      "options_cs": [
+        "takaró",
+        "lepedő",
+        "lámpa"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Takaró znamená přikrývka."
+    },
+    {
+      "id": "q1-barracks-05",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · kasárna",
+      "vocabulary_id": "lepedo",
+      "prompt_cs": "Co znamená „lepedő“?",
+      "options_cs": [
+        "prostěradlo",
+        "slamník",
+        "truhla"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Lepedő znamená prostěradlo."
+    },
+    {
+      "id": "q1-barracks-06",
+      "type": "listening",
+      "type_label_cs": "Poslech · kasárna",
+      "vocabulary_id": "szalmazsak",
+      "audio_text": "szalmazsák",
+      "prompt_cs": "Který předmět je „szalmazsák“?",
+      "options_cs": [
+        "slamník",
+        "skříň",
+        "svíčka"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Szalmazsák je slamník, tedy matrace plněná slámou."
+    },
+    {
+      "id": "q1-barracks-07",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · kasárna",
+      "vocabulary_id": "lada",
+      "grammar_id": "q1-mnozne-cislo",
+      "prompt_cs": "Napište množné číslo slova „láda“.",
+      "accepted_answers": [
+        "ládák"
+      ],
+      "sentence_hu": "A ______ a szobában vannak.",
+      "explanation_cs": "Láda má v množném čísle tvar ládák."
+    },
+    {
+      "id": "q1-barracks-08",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · kasárna",
+      "vocabulary_id": "szekreny",
+      "prompt_cs": "Co znamená „szekrény“?",
+      "options_cs": [
+        "skříň",
+        "postel",
+        "kasárna"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Szekrény znamená skříň."
+    },
+    {
+      "id": "q1-barracks-09",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · množné číslo",
+      "vocabulary_id": "lampa",
+      "grammar_id": "q1-mnozne-cislo",
+      "prompt_cs": "Doplňte množné číslo slova „lámpa“.",
+      "sentence_hu": "A ______ az asztalon vannak.",
+      "options_cs": [
+        "lámpák",
+        "lámpék",
+        "lámpa"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Lámpa má v množném čísle tvar lámpák."
+    },
+    {
+      "id": "q1-barracks-10",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · kasárna",
+      "vocabulary_id": "gyertya",
+      "prompt_cs": "Co znamená „gyertya“?",
+      "options_cs": [
+        "svíčka",
+        "lampa",
+        "přikrývka"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Gyertya znamená svíčka."
+    },
+    {
+      "id": "q1-barracks-11",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · kasárna",
+      "vocabulary_id": "agy",
+      "grammar_id": "q1-neurcite-casovani",
+      "prompt_cs": "Sestavte větu „Postel je v pokoji.“",
+      "words_hu": [
+        "szobában",
+        "Az",
+        "van.",
+        "ágy",
+        "a"
+      ],
+      "accepted_orders": [
+        [
+          "Az",
+          "ágy",
+          "a",
+          "szobában",
+          "van."
+        ]
+      ],
+      "explanation_cs": "Az ágy a szobában van. = Postel je v pokoji."
+    },
+    {
+      "id": "q1-barracks-12",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · kasárna",
+      "vocabulary_id": "szekreny",
+      "prompt_cs": "Doplňte „skříň“ do věty.",
+      "sentence_hu": "A ______ a szobában van.",
+      "options_cs": [
+        "szekrény",
+        "szalmazsák",
+        "takaró"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Szekrény znamená skříň."
+    },
+    {
+      "id": "q1-barracks-13",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · kasárna",
+      "vocabulary_id": "gyertya",
+      "prompt_cs": "Sestavte větu „Svíčka je na stole.“",
+      "words_hu": [
+        "az",
+        "van.",
+        "gyertya",
+        "asztalon",
+        "A"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "gyertya",
+          "az",
+          "asztalon",
+          "van."
+        ]
+      ],
+      "explanation_cs": "A gyertya az asztalon van. = Svíčka je na stole."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-story-barracks",
+      "title_cs": "Pokoj v kasárnách",
+      "title_hu": "A kaszárnya szobája",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 2,
+      "prerequisite_lesson_ids": [
+        "q1-kasarna"
+      ],
+      "curriculum_lesson_id": "q1-kasarna",
+      "new_vocabulary_ids": [
+        "kaszarnya",
+        "laktanya",
+        "agy",
+        "takaro",
+        "lepedo",
+        "szalmazsak",
+        "lada",
+        "szekreny",
+        "lampa",
+        "gyertya"
+      ],
+      "vocabulary_ids": [
+        "kaszarnya",
+        "laktanya",
+        "agy",
+        "takaro",
+        "lepedo",
+        "szalmazsak",
+        "lada",
+        "szekreny",
+        "lampa",
+        "gyertya",
+        "honved",
+        "szoba"
+      ],
+      "segments": [
+        {
+          "text": "A honvéd a "
+        },
+        {
+          "text": "kaszárnyában",
+          "vocabulary_id": "kaszarnya"
+        },
+        {
+          "text": " lakik. A "
+        },
+        {
+          "text": "laktanya",
+          "vocabulary_id": "laktanya"
+        },
+        {
+          "text": " a városban van. A "
+        },
+        {
+          "text": "szobában",
+          "vocabulary_id": "szoba"
+        },
+        {
+          "text": " van egy "
+        },
+        {
+          "text": "ágy",
+          "vocabulary_id": "agy"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "szalmazsák",
+          "vocabulary_id": "szalmazsak"
+        },
+        {
+          "text": " az ágyon van. A "
+        },
+        {
+          "text": "lepedő",
+          "vocabulary_id": "lepedo"
+        },
+        {
+          "text": " az ágyon van. A "
+        },
+        {
+          "text": "takaró",
+          "vocabulary_id": "takaro"
+        },
+        {
+          "text": " is az ágyon van. A "
+        },
+        {
+          "text": "láda",
+          "vocabulary_id": "lada"
+        },
+        {
+          "text": " a szobában van. A "
+        },
+        {
+          "text": "szekrény",
+          "vocabulary_id": "szekreny"
+        },
+        {
+          "text": " a láda mellett van. A "
+        },
+        {
+          "text": "lámpa",
+          "vocabulary_id": "lampa"
+        },
+        {
+          "text": " az asztalon van. Este a "
+        },
+        {
+          "text": "gyertya",
+          "vocabulary_id": "gyertya"
+        },
+        {
+          "text": " is az asztalon van. A honvéd a szobában pihen."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-story-barracks-bed",
+          "prompt_cs": "Co je na posteli?",
+          "options_cs": [
+            "Slamník, prostěradlo a přikrývka.",
+            "Puška, šavle a náboj.",
+            "Čákó, košile a opasek."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Na posteli jsou slamník, prostěradlo a přikrývka."
+        },
+        {
+          "id": "q1-story-barracks-lamp",
+          "prompt_cs": "Kde je lampa?",
+          "options_cs": [
+            "Na stole.",
+            "V truhle.",
+            "Na posteli."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Lampa je na stole: A lámpa az asztalon van."
+        },
+        {
+          "id": "q1-story-barracks-evening",
+          "prompt_cs": "Kde odpočívá voják?",
+          "options_cs": [
+            "V pokoji.",
+            "Na náměstí.",
+            "V kočáře."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Voják odpočívá v pokoji."
+        }
+      ],
+      "translation_cs": "Voják bydlí v kasárnách. Posádka je ve městě. V pokoji je postel. Na posteli je slamník. Na posteli je prostěradlo. Přikrývka je také na posteli. V pokoji je truhla. Skříň je vedle truhly. Lampa je na stole. Večer je na stole také svíčka. Voják odpočívá v pokoji."
+    }
+  ]
+}

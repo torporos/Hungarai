@@ -1,0 +1,594 @@
+{
+  "order": 2,
+  "lesson": {
+    "id": "zvuk-a-vyznam",
+    "theme_id": "jidlo",
+    "theme_title_cs": "Na trhu a v obchodě",
+    "module_number": 1,
+    "module_title_cs": "Základní nákup",
+    "title_cs": "Na trhu",
+    "description": "Sedm základních slov pro nákup. Přidáte předmětovou koncovku -t a časování slovesa kér; při opakování si otázky procvičíte v novém pořadí.",
+    "level": "A1 · VĚTY A PŘEDMĚT",
+    "duration_min": 7,
+    "xp_required": 40,
+    "prerequisite_lesson_ids": [
+      "prvni-kroky"
+    ],
+    "vocabulary_ids": [
+      "alma",
+      "viz",
+      "kenyer",
+      "tej",
+      "kave",
+      "kerek",
+      "mennyi"
+    ],
+    "new_vocabulary_ids": [
+      "alma",
+      "viz",
+      "kenyer",
+      "tej",
+      "kave",
+      "kerek",
+      "mennyi"
+    ],
+    "grammar_ids": [
+      "targy-t",
+      "zdvorila-zadost"
+    ],
+    "grammar_label_cs": "Předmět -t · časování slovesa",
+    "exercise_ids": [
+      "recall-alma-accusative",
+      "listening-viz",
+      "recall-kenyer-accusative",
+      "meaning-tej",
+      "recall-kave-accusative",
+      "recall-ker-first-person",
+      "meaning-mennyi",
+      "cloze-alma-request",
+      "recall-viz-accusative",
+      "order-market-coffee"
+    ],
+    "story_ids": [
+      "reggel"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "alma",
+      "word": "alma",
+      "translation_cs": "jablko",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "almát",
+          "translation_cs": "jablko (jako předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "zvuk-a-vyznam"
+        },
+        {
+          "form_hu": "almában",
+          "translation_cs": "v jablku",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "prvni-kroky"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "alma",
+          "translation_cs": "jablko",
+          "kind": "root"
+        },
+        {
+          "form": "-ban",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "Az alma piros.",
+      "example_cs": "Jablko je červené."
+    },
+    {
+      "id": "viz",
+      "word": "víz",
+      "translation_cs": "voda",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "vizet",
+          "translation_cs": "vodu (jako předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "zvuk-a-vyznam"
+        },
+        {
+          "form_hu": "vízben",
+          "translation_cs": "ve vodě",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "zvuk-a-vyznam"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "víz",
+          "translation_cs": "voda",
+          "kind": "root"
+        },
+        {
+          "form": "-ben",
+          "translation_cs": "v",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "A víz hideg.",
+      "example_cs": "Voda je studená."
+    },
+    {
+      "id": "kenyer",
+      "word": "kenyér",
+      "translation_cs": "chléb",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "kenyeret",
+          "translation_cs": "chléb (jako předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "zvuk-a-vyznam"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kenyér",
+          "translation_cs": "chléb",
+          "kind": "root"
+        },
+        {
+          "form": "-et",
+          "translation_cs": "předmětová přípona",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "Kérek egy kenyeret.",
+      "example_cs": "Prosím si jeden chléb."
+    },
+    {
+      "id": "tej",
+      "word": "tej",
+      "translation_cs": "mléko",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "tejet",
+          "translation_cs": "mléko (jako předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "zvuk-a-vyznam"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "tej",
+          "translation_cs": "mléko",
+          "kind": "root"
+        },
+        {
+          "form": "-et",
+          "translation_cs": "předmětová přípona",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "Kérek tejet.",
+      "example_cs": "Prosím si mléko."
+    },
+    {
+      "id": "kave",
+      "word": "kávé",
+      "translation_cs": "káva",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "kávét",
+          "translation_cs": "kávu (jako předmět)",
+          "grammar_id": "targy-t",
+          "lesson_id": "zvuk-a-vyznam"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kávé",
+          "translation_cs": "káva",
+          "kind": "root"
+        },
+        {
+          "form": "-t",
+          "translation_cs": "předmětová přípona",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "Kérek egy kávét.",
+      "example_cs": "Prosím si jednu kávu."
+    },
+    {
+      "id": "kerek",
+      "word": "kér",
+      "translation_cs": "žádat / prosit si",
+      "part_of_speech_cs": "sloveso",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "kérek",
+          "translation_cs": "prosím si (já)",
+          "grammar_id": "zdvorila-zadost",
+          "lesson_id": "zvuk-a-vyznam"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "kér",
+          "translation_cs": "žádat",
+          "kind": "root"
+        },
+        {
+          "form": "-ek",
+          "translation_cs": "já",
+          "kind": "suffix"
+        }
+      ],
+      "example_hu": "Kérek egy kávét.",
+      "example_cs": "Prosím si jednu kávu."
+    },
+    {
+      "id": "mennyi",
+      "word": "mennyi",
+      "translation_cs": "kolik",
+      "part_of_speech_cs": "tázací zájmeno",
+      "vowel_harmony": "front",
+      "morphemes": [
+        {
+          "form": "mennyi",
+          "translation_cs": "kolik",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Mennyibe kerül?",
+      "example_cs": "Kolik to stojí?"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "targy-t",
+      "title_cs": "Předmět ve větě: koncovka -t",
+      "level": "A1 · PRVNÍ VĚTY",
+      "summary_cs": "Přímý předmět často poznáte podle koncovky -t.",
+      "rule_cs": "Předmětová přípona se připojuje k podstatnému jménu; její podoba závisí na zakončení a kmeni. U některých slov na -a/-e se samohláska prodlouží, jinde se před příponou objeví spojovací samohláska nebo se změní kmen.",
+      "groups": [
+        {
+          "name_cs": "Jídlo jako předmět",
+          "suffix_hu": "-t",
+          "examples": [
+            {
+              "form_hu": "almát",
+              "translation_cs": "jablko (jako předmět)"
+            },
+            {
+              "form_hu": "kávét",
+              "translation_cs": "kávu"
+            },
+            {
+              "form_hu": "kenyeret",
+              "translation_cs": "chléb (jako předmět)"
+            },
+            {
+              "form_hu": "tejet",
+              "translation_cs": "mléko (jako předmět)"
+            },
+            {
+              "form_hu": "jegyet",
+              "translation_cs": "jízdenku"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Věta Kérek egy almát znamená Prosím si jablko.",
+        "Tvar se někdy mění víc než pouhým přidáním -t; učte se ho spolu s novým slovem.",
+        "Například kenyér → kenyeret mění kmenovou samohlásku; alma → almát prodlužuje koncové a."
+      ]
+    },
+    {
+      "id": "zdvorila-zadost",
+      "title_cs": "Sloveso kér: od základního tvaru k „prosím si“",
+      "level": "A1 · V OBCHODĚ",
+      "summary_cs": "Slovníkový tvar slovesa je kér; kérek je jeho tvar pro „já“.",
+      "rule_cs": "Maďarská slovesa se ve slovníku běžně uvádějí ve 3. osobě jednotného čísla: kér = žádá. V 1. osobě přidáme osobní koncovku: kérek = žádám / prosím si. Předmět žádosti mívá také vlastní koncovku.",
+      "groups": [
+        {
+          "name_cs": "Užitečné věty",
+          "suffix_hu": "kér → kérek",
+          "examples": [
+            {
+              "form_hu": "kér",
+              "translation_cs": "on / ona žádá · slovníkový tvar"
+            },
+            {
+              "form_hu": "kérek",
+              "translation_cs": "já žádám / prosím si"
+            },
+            {
+              "form_hu": "Kérek egy kávét.",
+              "translation_cs": "Prosím si kávu."
+            },
+            {
+              "form_hu": "Kérek egy almát.",
+              "translation_cs": "Prosím si jablko."
+            },
+            {
+              "form_hu": "Mennyibe kerül?",
+              "translation_cs": "Kolik to stojí?"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Egy znamená jeden nebo jedna; v běžné objednávce odpovídá českému neurčitému členu.",
+        "Mennyi? znamená Kolik?"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "recall-alma-accusative",
+      "type": "recall",
+      "type_label_cs": "Tvar slova · předmět",
+      "vocabulary_id": "alma",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Doplňte předmětový tvar: „Prosím si jablko.“",
+      "sentence_hu": "Kérek egy ___.",
+      "accepted_answers": [
+        "almát"
+      ],
+      "explanation_cs": "Alma je základní tvar; jako předmět se změní na almát."
+    },
+    {
+      "id": "listening-viz",
+      "type": "listening",
+      "type_label_cs": "Poslech · význam",
+      "vocabulary_id": "viz",
+      "audio_text": "víz",
+      "prompt_cs": "Poslechněte si slovo. Co znamená?",
+      "options_cs": [
+        "mléko",
+        "voda",
+        "káva"
+      ],
+      "answer_index": 1,
+      "explanation_cs": "Víz znamená voda. Jeho předmětový tvar je vizet."
+    },
+    {
+      "id": "recall-kenyer-accusative",
+      "type": "recall",
+      "type_label_cs": "Tvar slova · předmět",
+      "vocabulary_id": "kenyer",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Napište tvar slova kenyér ve větě „Prosím si chléb.“",
+      "sentence_hu": "Kérek egy ___.",
+      "accepted_answers": [
+        "kenyeret"
+      ],
+      "explanation_cs": "Základní tvar kenyér mění kmen: předmětový tvar je kenyeret."
+    },
+    {
+      "id": "meaning-tej",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "tej",
+      "prompt_cs": "Které maďarské slovo znamená „mléko“?",
+      "options_cs": [
+        "tej",
+        "kávé",
+        "víz"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Tej znamená mléko; tejet je předmětový tvar."
+    },
+    {
+      "id": "recall-kave-accusative",
+      "type": "recall",
+      "type_label_cs": "Tvar slova · předmět",
+      "vocabulary_id": "kave",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Napište tvar kávé ve větě „Prosím si kávu.“",
+      "sentence_hu": "Kérek egy ___.",
+      "accepted_answers": [
+        "kávét"
+      ],
+      "explanation_cs": "Základní tvar je kávé. Předmětový tvar je kávét."
+    },
+    {
+      "id": "recall-ker-first-person",
+      "type": "recall",
+      "type_label_cs": "Sloveso · já",
+      "vocabulary_id": "kerek",
+      "grammar_id": "zdvorila-zadost",
+      "prompt_cs": "Základní tvar kér znamená „žádat“. Jak řeknete „prosím si“ za sebe?",
+      "accepted_answers": [
+        "kérek"
+      ],
+      "explanation_cs": "Kér je základní tvar slovesa; kérek znamená „já prosím / žádám“."
+    },
+    {
+      "id": "meaning-mennyi",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "mennyi",
+      "prompt_cs": "Co znamená otázka „mennyi?“",
+      "options_cs": [
+        "kam",
+        "kolik",
+        "kde"
+      ],
+      "answer_index": 1,
+      "explanation_cs": "Mennyi znamená kolik. Mennyibe kerül? znamená Kolik to stojí?"
+    },
+    {
+      "id": "cloze-alma-request",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · předmět",
+      "vocabulary_id": "alma",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Doplňte předmětový tvar: „Prosím si jedno jablko.“",
+      "sentence_hu": "Kérek egy ___.",
+      "options_cs": [
+        "almát",
+        "alma",
+        "almában"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Po slovese kérek označíme jablko jako předmět tvarem almát."
+    },
+    {
+      "id": "recall-viz-accusative",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · předmět",
+      "vocabulary_id": "viz",
+      "grammar_id": "targy-t",
+      "prompt_cs": "Napište předmětový tvar slova víz ve větě „Prosím si vodu.“",
+      "sentence_hu": "Kérek egy ___.",
+      "accepted_answers": [
+        "vizet"
+      ],
+      "explanation_cs": "U slova víz se kořen v předmětovém tvaru změní na viz- a přidá se -et: vizet."
+    },
+    {
+      "id": "order-market-coffee",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · objednávka",
+      "vocabulary_id": "kave",
+      "grammar_id": "zdvorila-zadost",
+      "prompt_cs": "Sestavte větu „Prosím si kávu.“",
+      "words_hu": [
+        "kávét.",
+        "egy",
+        "Kérek"
+      ],
+      "accepted_orders": [
+        [
+          "Kérek",
+          "egy",
+          "kávét."
+        ]
+      ],
+      "explanation_cs": "Kérek egy kávét. Kér zdvořile vyjadřuje žádost a kávét je předmětový tvar."
+    }
+  ],
+  "stories": [
+    {
+      "id": "reggel",
+      "title_cs": "Dům, zahrada a jablko",
+      "title_hu": "A ház és a kert",
+      "level": "A1 · I + 1 SLOVO",
+      "reading_time_min": 2,
+      "prerequisite_lesson_ids": [
+        "prvni-kroky"
+      ],
+      "curriculum_lesson_id": "zvuk-a-vyznam",
+      "new_vocabulary_ids": [
+        "alma"
+      ],
+      "vocabulary_ids": [
+        "haz",
+        "konyv",
+        "szoba",
+        "taska",
+        "kert",
+        "alma"
+      ],
+      "segments": [
+        {
+          "text": "Anna a "
+        },
+        {
+          "text": "házban",
+          "vocabulary_id": "haz"
+        },
+        {
+          "text": " van. A házban van egy "
+        },
+        {
+          "text": "könyv",
+          "vocabulary_id": "konyv"
+        },
+        {
+          "text": ". A könyv a "
+        },
+        {
+          "text": "szobában",
+          "vocabulary_id": "szoba"
+        },
+        {
+          "text": " van. A "
+        },
+        {
+          "text": "kertben",
+          "vocabulary_id": "kert"
+        },
+        {
+          "text": " van egy "
+        },
+        {
+          "text": "táska",
+          "vocabulary_id": "taska"
+        },
+        {
+          "text": ". A táska a kertben van. A kertben van egy "
+        },
+        {
+          "text": "alma",
+          "vocabulary_id": "alma"
+        },
+        {
+          "text": ". Az alma a táskában van. A könyv a házban van, a táska a kertben van. Anna a kertben van. Az alma a táskában van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "reggel-book",
+          "prompt_cs": "Kde je kniha?",
+          "options_cs": [
+            "V pokoji.",
+            "V zahradě.",
+            "V tašce."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Kniha je v pokoji: A könyv a szobában van."
+        },
+        {
+          "id": "reggel-bag",
+          "prompt_cs": "Co je v tašce?",
+          "options_cs": [
+            "Jablko.",
+            "Kniha.",
+            "Taška."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "V tašce je jablko: Az alma a táskában van."
+        },
+        {
+          "id": "reggel-anna",
+          "prompt_cs": "Kde je Anna?",
+          "options_cs": [
+            "V zahradě.",
+            "V pokoji.",
+            "U řeky."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Anna je v zahradě: Anna a kertben van."
+        }
+      ],
+      "translation_cs": "Anna je v domě. V domě je kniha. Kniha je v pokoji. V zahradě je taška. Taška je v zahradě. V zahradě je jablko. Jablko je v tašce. Kniha je v domě, taška je v zahradě. Anna je v zahradě. Jablko je v tašce."
+    }
+  ]
+}

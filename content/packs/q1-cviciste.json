@@ -1,0 +1,709 @@
+{
+  "order": 18,
+  "lesson": {
+    "id": "q1-cviciste",
+    "theme_id": "q1-novacek-kasarny",
+    "theme_title_cs": "Q1 · Nováček v kasárnách",
+    "module_number": 5,
+    "module_title_cs": "Na cvičišti",
+    "title_cs": "Poslouchejte povely",
+    "description": "Rozpoznejte základní činnosti při každodenním výcviku a spojte slovníkové tvary sloves s krátkými povely.",
+    "level": "Q1 · POVELY",
+    "duration_min": 9,
+    "xp_required": 1000,
+    "prerequisite_lesson_ids": [
+      "q1-vyzbroj"
+    ],
+    "vocabulary_ids": [
+      "vigyaz",
+      "pihen",
+      "all",
+      "fordul",
+      "sorakozik",
+      "lo-1913",
+      "tolt",
+      "tiszteleg",
+      "vezenyel",
+      "lep"
+    ],
+    "new_vocabulary_ids": [
+      "vigyaz",
+      "pihen",
+      "all",
+      "fordul",
+      "sorakozik",
+      "lo-1913",
+      "tolt",
+      "tiszteleg",
+      "vezenyel",
+      "lep"
+    ],
+    "grammar_ids": [
+      "q1-neurcite-casovani",
+      "q1-mnozne-cislo"
+    ],
+    "grammar_label_cs": "Přítomný čas · povely jako ustálené tvary",
+    "exercise_ids": [
+      "q1-drill-01",
+      "q1-drill-02",
+      "q1-drill-03",
+      "q1-drill-04",
+      "q1-drill-05",
+      "q1-drill-06",
+      "q1-drill-07",
+      "q1-drill-08",
+      "q1-drill-09",
+      "q1-drill-10",
+      "q1-drill-11",
+      "q1-drill-12",
+      "q1-drill-13"
+    ],
+    "story_ids": [
+      "q1-story-drill"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "vigyaz",
+      "word": "vigyáz",
+      "translation_cs": "dávat pozor; střežit",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "Vigyázz!",
+          "translation_cs": "Pozor!; Dávej pozor!",
+          "lesson_id": "q1-cviciste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "vigyáz",
+          "translation_cs": "dávat pozor",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd vigyáz.",
+      "example_cs": "Voják dává pozor.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "command"
+      ]
+    },
+    {
+      "id": "pihen",
+      "word": "pihen",
+      "translation_cs": "odpočívat",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "Pihenj!",
+          "translation_cs": "Odpočívej!",
+          "lesson_id": "q1-cviciste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "pihen",
+          "translation_cs": "odpočívat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd pihen.",
+      "example_cs": "Voják odpočívá.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "command"
+      ]
+    },
+    {
+      "id": "all",
+      "word": "áll",
+      "translation_cs": "stát",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "Állj!",
+          "translation_cs": "Stůj!; Zastav!",
+          "lesson_id": "q1-cviciste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "áll",
+          "translation_cs": "stát",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd a szobában áll.",
+      "example_cs": "Voják stojí v pokoji.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "command"
+      ]
+    },
+    {
+      "id": "fordul",
+      "word": "fordul",
+      "translation_cs": "otáčet se; obracet se",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "Fordulj!",
+          "translation_cs": "Otoč se!",
+          "lesson_id": "q1-cviciste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "fordul",
+          "translation_cs": "otáčet se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd jobbra fordul.",
+      "example_cs": "Voják se otočí doprava.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "command"
+      ]
+    },
+    {
+      "id": "sorakozik",
+      "word": "sorakozik",
+      "translation_cs": "řadit se; nastupovat do řady",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "Sorakozz!",
+          "translation_cs": "Nastoupit do řady!",
+          "lesson_id": "q1-cviciste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "sorakozik",
+          "translation_cs": "řadit se",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd sorakozik.",
+      "example_cs": "Voják nastupuje do řady.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "command"
+      ]
+    },
+    {
+      "id": "lo-1913",
+      "word": "lő",
+      "translation_cs": "střílet",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "Lőj!",
+          "translation_cs": "Vystřel!",
+          "lesson_id": "q1-cviciste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "lő",
+          "translation_cs": "střílet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd célra lő.",
+      "example_cs": "Voják střílí na cíl.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "command"
+      ]
+    },
+    {
+      "id": "tolt",
+      "word": "tölt",
+      "translation_cs": "nabíjet; plnit",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "Tölts!",
+          "translation_cs": "Nabij!",
+          "lesson_id": "q1-cviciste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "tölt",
+          "translation_cs": "nabíjet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd tölt.",
+      "example_cs": "Voják nabíjí.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "command"
+      ]
+    },
+    {
+      "id": "tiszteleg",
+      "word": "tiszteleg",
+      "translation_cs": "salutovat",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "Tisztelegj!",
+          "translation_cs": "Salutuj!",
+          "lesson_id": "q1-cviciste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "tiszteleg",
+          "translation_cs": "salutovat",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd tiszteleg.",
+      "example_cs": "Voják salutuje.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "command"
+      ]
+    },
+    {
+      "id": "vezenyel",
+      "word": "vezényel",
+      "translation_cs": "velet; udílet povely",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "Vezényelj!",
+          "translation_cs": "Velet!",
+          "lesson_id": "q1-cviciste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "vezényel",
+          "translation_cs": "velet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az őrmester vezényel.",
+      "example_cs": "Seržant velí.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "command"
+      ]
+    },
+    {
+      "id": "lep",
+      "word": "lép",
+      "translation_cs": "vykročit; udělat krok",
+      "part_of_speech_cs": "sloveso · základní tvar",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "Lépj!",
+          "translation_cs": "Vykroč!",
+          "lesson_id": "q1-cviciste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "lép",
+          "translation_cs": "vykročit",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd egyet lép.",
+      "example_cs": "Voják udělá jeden krok.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "command"
+      ]
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "q1-drill-01",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slovesa · výcvik",
+      "vocabulary_id": "vigyaz",
+      "prompt_cs": "Co znamená „vigyáz“?",
+      "options_cs": [
+        "dávat pozor; střežit",
+        "odpočívat",
+        "vykročit"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vigyáz znamená dávat pozor nebo střežit."
+    },
+    {
+      "id": "q1-drill-02",
+      "type": "listening",
+      "type_label_cs": "Poslech · výcvik",
+      "vocabulary_id": "pihen",
+      "audio_text": "pihen",
+      "prompt_cs": "Co znamená poslechnuté sloveso „pihen“?",
+      "options_cs": [
+        "odpočívat",
+        "stát",
+        "salutovat"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Pihen znamená odpočívat."
+    },
+    {
+      "id": "q1-drill-03",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · výcvik",
+      "vocabulary_id": "all",
+      "prompt_cs": "Napište maďarsky základní tvar slovesa „stát“.",
+      "accepted_answers": [
+        "áll"
+      ],
+      "sentence_hu": "A honvéd a szobában ______.",
+      "explanation_cs": "Áll znamená stát."
+    },
+    {
+      "id": "q1-drill-04",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slovesa · výcvik",
+      "vocabulary_id": "fordul",
+      "prompt_cs": "Co znamená „fordul“?",
+      "options_cs": [
+        "otáčet se",
+        "velet",
+        "nabíjet"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Fordul znamená otáčet se nebo obracet se."
+    },
+    {
+      "id": "q1-drill-05",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · povel",
+      "vocabulary_id": "sorakozik",
+      "prompt_cs": "Vyberte povel „Nastoupit do řady!“",
+      "sentence_hu": "______!",
+      "options_cs": [
+        "Sorakozz",
+        "Pihenj",
+        "Vigyázz"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Sorakozz! je rozkazovací tvar od sorakozik."
+    },
+    {
+      "id": "q1-drill-06",
+      "type": "listening",
+      "type_label_cs": "Poslech · výcvik",
+      "vocabulary_id": "lo-1913",
+      "audio_text": "lő",
+      "prompt_cs": "Co znamená sloveso „lő“?",
+      "options_cs": [
+        "střílet",
+        "vykročit",
+        "odpočívat"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Lő znamená střílet."
+    },
+    {
+      "id": "q1-drill-07",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · povel",
+      "vocabulary_id": "tolt",
+      "prompt_cs": "Napište povel „Nabij!“ maďarsky.",
+      "accepted_answers": [
+        "Tölts",
+        "Tölts!"
+      ],
+      "sentence_hu": "______!",
+      "explanation_cs": "Povel od slovesa tölt je Tölts!"
+    },
+    {
+      "id": "q1-drill-08",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slovesa · výcvik",
+      "vocabulary_id": "tiszteleg",
+      "prompt_cs": "Co znamená „tiszteleg“?",
+      "options_cs": [
+        "salutovat",
+        "střežit",
+        "řadit se"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Tiszteleg znamená salutovat."
+    },
+    {
+      "id": "q1-drill-09",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · výcvik",
+      "vocabulary_id": "vezenyel",
+      "prompt_cs": "Napište maďarsky základní tvar slovesa „velet“.",
+      "accepted_answers": [
+        "vezényel"
+      ],
+      "sentence_hu": "Az őrmester ______.",
+      "explanation_cs": "Vezényel znamená velet nebo udílet povely."
+    },
+    {
+      "id": "q1-drill-10",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slovesa · výcvik",
+      "vocabulary_id": "lep",
+      "prompt_cs": "Co znamená „lép“?",
+      "options_cs": [
+        "vykročit; udělat krok",
+        "otočit se",
+        "střílet"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Lép znamená vykročit nebo udělat krok."
+    },
+    {
+      "id": "q1-drill-11",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · výcvik",
+      "vocabulary_id": "pihen",
+      "grammar_id": "q1-neurcite-casovani",
+      "prompt_cs": "Sestavte větu „Voják odpočívá.“",
+      "words_hu": [
+        "pihen.",
+        "A",
+        "honvéd"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "honvéd",
+          "pihen."
+        ]
+      ],
+      "explanation_cs": "A honvéd pihen. = Voják odpočívá."
+    },
+    {
+      "id": "q1-drill-12",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · povel",
+      "vocabulary_id": "fordul",
+      "prompt_cs": "Doplňte povel „Otoč se!“",
+      "sentence_hu": "______ jobbra!",
+      "options_cs": [
+        "Fordulj",
+        "Állj",
+        "Pihenj"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Fordulj! je rozkazovací tvar slovesa fordul."
+    },
+    {
+      "id": "q1-drill-13",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · výcvik",
+      "vocabulary_id": "tiszteleg",
+      "prompt_cs": "Sestavte větu „Voják salutuje.“",
+      "words_hu": [
+        "tiszteleg.",
+        "A",
+        "honvéd"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "honvéd",
+          "tiszteleg."
+        ]
+      ],
+      "explanation_cs": "A honvéd tiszteleg. = Voják salutuje."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-story-drill",
+      "title_cs": "Ranní cvičení",
+      "title_hu": "Reggeli gyakorlat",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 2,
+      "prerequisite_lesson_ids": [
+        "q1-cviciste"
+      ],
+      "curriculum_lesson_id": "q1-cviciste",
+      "new_vocabulary_ids": [
+        "vigyaz",
+        "pihen",
+        "all",
+        "fordul",
+        "sorakozik",
+        "lo-1913",
+        "tolt",
+        "tiszteleg",
+        "vezenyel",
+        "lep"
+      ],
+      "vocabulary_ids": [
+        "vigyaz",
+        "pihen",
+        "all",
+        "fordul",
+        "sorakozik",
+        "lo-1913",
+        "tolt",
+        "tiszteleg",
+        "vezenyel",
+        "lep",
+        "honved",
+        "orrmester",
+        "kaszarnya"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban reggel a honvéd a "
+        },
+        {
+          "text": "kaszárnyában",
+          "vocabulary_id": "kaszarnya"
+        },
+        {
+          "text": " van. Az "
+        },
+        {
+          "text": "őrmester",
+          "vocabulary_id": "orrmester"
+        },
+        {
+          "text": " vezényel. A "
+        },
+        {
+          "text": "honvéd",
+          "vocabulary_id": "honved"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sorakozik",
+          "vocabulary_id": "sorakozik"
+        },
+        {
+          "text": ". A honvéd "
+        },
+        {
+          "text": "áll",
+          "vocabulary_id": "all"
+        },
+        {
+          "text": ". A honvéd "
+        },
+        {
+          "text": "vigyáz",
+          "vocabulary_id": "vigyaz"
+        },
+        {
+          "text": ". Az őrmester "
+        },
+        {
+          "text": "pihen",
+          "vocabulary_id": "pihen"
+        },
+        {
+          "text": ". A honvéd jobbra "
+        },
+        {
+          "text": "fordul",
+          "vocabulary_id": "fordul"
+        },
+        {
+          "text": ". A honvéd egyet "
+        },
+        {
+          "text": "lép",
+          "vocabulary_id": "lep"
+        },
+        {
+          "text": ". A honvéd "
+        },
+        {
+          "text": "tiszteleg",
+          "vocabulary_id": "tiszteleg"
+        },
+        {
+          "text": ". A honvéd "
+        },
+        {
+          "text": "tölt",
+          "vocabulary_id": "tolt"
+        },
+        {
+          "text": ". A honvéd célra "
+        },
+        {
+          "text": "lő",
+          "vocabulary_id": "lo-1913"
+        },
+        {
+          "text": ". A gyakorlat után a honvéd pihen."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-story-drill-officer",
+          "prompt_cs": "Kdo velí rannímu cvičení?",
+          "options_cs": [
+            "Seržant.",
+            "Kočí.",
+            "Praporčík."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Cvičení řídí seržant: Az őrmester vezényel."
+        },
+        {
+          "id": "q1-story-drill-direction",
+          "prompt_cs": "Kam se voják otočí?",
+          "options_cs": [
+            "Doprava.",
+            "Doleva.",
+            "Do města."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Voják se otočí doprava: A honvéd jobbra fordul."
+        },
+        {
+          "id": "q1-story-drill-after",
+          "prompt_cs": "Co dělá voják po cvičení?",
+          "options_cs": [
+            "Odpočívá.",
+            "Jede kočárem.",
+            "Píše dopis."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Po cvičení voják odpočívá: A gyakorlat után a honvéd pihen."
+        }
+      ],
+      "translation_cs": "V roce 1913 je ráno voják v kasárnách. Seržant velí. Voják nastupuje do řady. Voják stojí. Voják dává pozor. Seržant odpočívá. Voják se otočí doprava. Voják udělá jeden krok. Voják salutuje. Voják nabíjí. Voják střílí na cíl. Po cvičení voják odpočívá."
+    }
+  ]
+}

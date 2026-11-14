@@ -1,0 +1,790 @@
+{
+  "order": 5,
+  "lesson": {
+    "id": "rodina-a-pratele",
+    "theme_id": "rodina",
+    "theme_title_cs": "Rodina a přátelé",
+    "module_number": 1,
+    "module_title_cs": "Lidé kolem nás",
+    "title_cs": "Rodina a přátelé",
+    "description": "Devět slov o lidech kolem vás. Přidáte přivlastňovací příponu „můj“ a první tvary sloves v první osobě.",
+    "level": "A1 · LIDÉ A VZTAHY",
+    "duration_min": 10,
+    "xp_required": 280,
+    "prerequisite_lesson_ids": [
+      "prochazka-mestem"
+    ],
+    "vocabulary_ids": [
+      "vendeg",
+      "barat",
+      "csalad",
+      "anya",
+      "apa",
+      "testver",
+      "gyerek",
+      "lakik",
+      "szeret"
+    ],
+    "new_vocabulary_ids": [
+      "vendeg",
+      "barat",
+      "csalad",
+      "anya",
+      "apa",
+      "testver",
+      "gyerek",
+      "lakik",
+      "szeret"
+    ],
+    "grammar_ids": [
+      "birtokos-m",
+      "casovani-prvni-osoba"
+    ],
+    "grammar_label_cs": "Moje rodina · osobní koncovky -m / -om / -em",
+    "exercise_ids": [
+      "meaning-vendeg",
+      "meaning-barat",
+      "recall-csaladom",
+      "meaning-anya",
+      "meaning-apa",
+      "meaning-testver",
+      "recall-gyerekem",
+      "recall-lakom",
+      "recall-szeretek",
+      "cloze-baratom",
+      "recall-baratom",
+      "order-family-home"
+    ],
+    "story_ids": [
+      "na-namesti"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "vendeg",
+      "word": "vendég",
+      "translation_cs": "host",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "vendégem",
+          "translation_cs": "můj host",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "rodina-a-pratele"
+        },
+        {
+          "form_hu": "vendégnek",
+          "translation_cs": "hostovi",
+          "grammar_id": "prijemce-nak-nek",
+          "lesson_id": "posta-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "vendég",
+          "translation_cs": "host",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A vendég a városba megy.",
+      "example_cs": "Host jede do města."
+    },
+    {
+      "id": "barat",
+      "word": "barát",
+      "translation_cs": "přítel",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "barátom",
+          "translation_cs": "můj přítel",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "rodina-a-pratele"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "barát",
+          "translation_cs": "přítel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A barátom a városban lakik.",
+      "example_cs": "Můj přítel bydlí ve městě."
+    },
+    {
+      "id": "csalad",
+      "word": "család",
+      "translation_cs": "rodina",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "családom",
+          "translation_cs": "moje rodina",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "rodina-a-pratele"
+        },
+        {
+          "form_hu": "családomat",
+          "translation_cs": "moji rodinu (určitý předmět)",
+          "grammar_id": "targy-uragozas-hatarozott",
+          "lesson_id": "zivot-rodiny"
+        },
+        {
+          "form_hu": "családnak",
+          "translation_cs": "rodině",
+          "grammar_id": "prijemce-nak-nek",
+          "lesson_id": "posta-1913"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "család",
+          "translation_cs": "rodina",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A családom itt van.",
+      "example_cs": "Moje rodina je tady."
+    },
+    {
+      "id": "anya",
+      "word": "anya",
+      "translation_cs": "matka",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "anyám",
+          "translation_cs": "moje matka",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "rodina-a-pratele"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "anya",
+          "translation_cs": "matka",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Anyám a városban lakik.",
+      "example_cs": "Moje matka bydlí ve městě."
+    },
+    {
+      "id": "apa",
+      "word": "apa",
+      "translation_cs": "otec",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "apám",
+          "translation_cs": "můj otec",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "rodina-a-pratele"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "apa",
+          "translation_cs": "otec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Apám a kertben van.",
+      "example_cs": "Můj otec je na zahradě."
+    },
+    {
+      "id": "testver",
+      "word": "testvér",
+      "translation_cs": "sourozenec",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "testvérem",
+          "translation_cs": "můj sourozenec",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "rodina-a-pratele"
+        },
+        {
+          "form_hu": "testvéremet",
+          "translation_cs": "mého sourozence (předmět)",
+          "grammar_id": "targy-uragozas-hatarozott",
+          "lesson_id": "zivot-rodiny"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "testvér",
+          "translation_cs": "sourozenec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A testvérem a parkban van.",
+      "example_cs": "Můj sourozenec je v parku."
+    },
+    {
+      "id": "gyerek",
+      "word": "gyerek",
+      "translation_cs": "dítě",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "gyerekem",
+          "translation_cs": "moje dítě",
+          "grammar_id": "birtokos-m",
+          "lesson_id": "rodina-a-pratele"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "gyerek",
+          "translation_cs": "dítě",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gyerek a házban van.",
+      "example_cs": "Dítě je v domě."
+    },
+    {
+      "id": "lakik",
+      "word": "lakik",
+      "translation_cs": "bydlet",
+      "part_of_speech_cs": "sloveso",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "lakom",
+          "translation_cs": "bydlím (já)",
+          "grammar_id": "casovani-prvni-osoba",
+          "lesson_id": "rodina-a-pratele"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "lakik",
+          "translation_cs": "bydlet",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A barátom a városban lakik.",
+      "example_cs": "Můj přítel bydlí ve městě."
+    },
+    {
+      "id": "szeret",
+      "word": "szeret",
+      "translation_cs": "mít rád",
+      "part_of_speech_cs": "sloveso",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "szeretek",
+          "translation_cs": "mám rád (neurčitý předmět)",
+          "grammar_id": "casovani-prvni-osoba",
+          "lesson_id": "rodina-a-pratele"
+        },
+        {
+          "form_hu": "szeretem",
+          "translation_cs": "mám rád (určitý předmět)",
+          "grammar_id": "targy-uragozas-hatarozott",
+          "lesson_id": "zivot-rodiny"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "szeret",
+          "translation_cs": "mít rád",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Szeretek kávét. Szeretem a családomat.",
+      "example_cs": "Mám rád kávu. Mám rád svou rodinu."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "birtokos-m",
+      "title_cs": "Přivlastnění: moje věc nebo osoba",
+      "level": "A1 · RODINA",
+      "summary_cs": "Maďarština připojuje „můj/moje“ přímo ke jménu.",
+      "rule_cs": "Pro přivlastnění v 1. osobě jednotného čísla připojíme k podstatnému jménu příponu. Podoba se řídí harmonií a zakončením slova: často -om/-em po souhlásce, zatímco slova končící na -a mohou délku samohlásky změnit.",
+      "groups": [
+        {
+          "name_cs": "Přítel a rodina",
+          "suffix_hu": "-om / -em",
+          "examples": [
+            {
+              "form_hu": "barát → barátom",
+              "translation_cs": "přítel → můj přítel"
+            },
+            {
+              "form_hu": "család → családom",
+              "translation_cs": "rodina → moje rodina"
+            },
+            {
+              "form_hu": "vendég → vendégem",
+              "translation_cs": "host → můj host"
+            },
+            {
+              "form_hu": "testvér → testvérem",
+              "translation_cs": "sourozenec → můj sourozenec"
+            }
+          ]
+        },
+        {
+          "name_cs": "Slova zakončená na -a",
+          "suffix_hu": "-m",
+          "examples": [
+            {
+              "form_hu": "anya → anyám",
+              "translation_cs": "matka → moje matka"
+            },
+            {
+              "form_hu": "apa → apám",
+              "translation_cs": "otec → můj otec"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Přípona se připojuje ke slovu; české „můj/moje“ stojí zvlášť, maďarsky je součástí slova.",
+        "Neučte se jen samotnou příponu: zapamatujte si i změny kmene, například anya → anyám."
+      ]
+    },
+    {
+      "id": "casovani-prvni-osoba",
+      "title_cs": "Slovesa: „já“ v přítomném čase",
+      "level": "A1 · MŮJ DEN",
+      "summary_cs": "Slovníkový tvar slovesa se při „já“ mění podle osobní koncovky.",
+      "rule_cs": "Maďarská slovesa se ve slovníku běžně uvádějí ve 3. osobě jednotného čísla. Pro jednoduchý přítomný čas v 1. osobě přidáme osobní koncovku; její podoba závisí na harmonii i na tvaru slovesa.",
+      "groups": [
+        {
+          "name_cs": "Základní tvary v první osobě",
+          "suffix_hu": "já",
+          "examples": [
+            {
+              "form_hu": "lakik → lakom",
+              "translation_cs": "bydlí → bydlím"
+            },
+            {
+              "form_hu": "szeret → szeretek",
+              "translation_cs": "má rád → mám rád"
+            },
+            {
+              "form_hu": "kér → kérek",
+              "translation_cs": "žádá → žádám / prosím si"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Základní slovníkový tvar ponecháváme ve slovníčku; osobní tvary se učíme postupně jako samostatné tvary.",
+        "U slovesa lakik se v běžné mluvě objevuje také lakok; tato lekce procvičuje tradiční tvar lakom."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "meaning-vendeg",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "vendeg",
+      "prompt_cs": "Kdo je „vendég“?",
+      "options_cs": [
+        "host",
+        "sourozenec",
+        "přítel"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Vendég znamená host. „Můj host“ je vendégem."
+    },
+    {
+      "id": "meaning-barat",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "barat",
+      "prompt_cs": "Co znamená „barát“?",
+      "options_cs": [
+        "přítel",
+        "otec",
+        "host"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Barát znamená přítel. „Můj přítel“ je barátom."
+    },
+    {
+      "id": "recall-csaladom",
+      "type": "recall",
+      "type_label_cs": "Přivlastňování · moje",
+      "vocabulary_id": "csalad",
+      "grammar_id": "birtokos-m",
+      "prompt_cs": "Napište „moje rodina“ maďarsky.",
+      "accepted_answers": [
+        "családom"
+      ],
+      "explanation_cs": "Család znamená rodina; přípona -om vyjadřuje „moje“: családom."
+    },
+    {
+      "id": "meaning-anya",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "anya",
+      "prompt_cs": "Které slovo znamená „matka“?",
+      "options_cs": [
+        "anya",
+        "apa",
+        "testvér"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Anya znamená matka; „moje matka“ je anyám."
+    },
+    {
+      "id": "meaning-apa",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "apa",
+      "prompt_cs": "Co znamená maďarské slovo „apa“?",
+      "options_cs": [
+        "otec",
+        "dítě",
+        "matka"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Apa znamená otec; „můj otec“ je apám."
+    },
+    {
+      "id": "meaning-testver",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova",
+      "vocabulary_id": "testver",
+      "prompt_cs": "Co znamená „testvér“?",
+      "options_cs": [
+        "sourozenec",
+        "přítel",
+        "matka"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Testvér znamená sourozenec; „můj sourozenec“ je testvérem."
+    },
+    {
+      "id": "recall-gyerekem",
+      "type": "recall",
+      "type_label_cs": "Přivlastňování · moje",
+      "vocabulary_id": "gyerek",
+      "grammar_id": "birtokos-m",
+      "prompt_cs": "Jak řeknete „moje dítě“? Základní slovo je gyerek.",
+      "accepted_answers": [
+        "gyerekem"
+      ],
+      "explanation_cs": "K přednímu slovu gyerek přidáme příponu -em: gyerekem."
+    },
+    {
+      "id": "recall-lakom",
+      "type": "recall",
+      "type_label_cs": "Sloveso · já",
+      "vocabulary_id": "lakik",
+      "grammar_id": "casovani-prvni-osoba",
+      "prompt_cs": "Základní tvar lakik: napište „bydlím“.",
+      "accepted_answers": [
+        "lakom"
+      ],
+      "explanation_cs": "Lakik je slovníkový tvar „bydlí“. V 1. osobě řekneme lakom."
+    },
+    {
+      "id": "recall-szeretek",
+      "type": "recall",
+      "type_label_cs": "Sloveso · já",
+      "vocabulary_id": "szeret",
+      "grammar_id": "casovani-prvni-osoba",
+      "prompt_cs": "Základní tvar szeret: napište „mám rád“.",
+      "accepted_answers": [
+        "szeretek"
+      ],
+      "explanation_cs": "Szeret je slovníkový tvar „má rád“. V 1. osobě je szeretek."
+    },
+    {
+      "id": "cloze-baratom",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · přivlastnění",
+      "vocabulary_id": "barat",
+      "grammar_id": "birtokos-m",
+      "prompt_cs": "Doplňte „můj přítel“.",
+      "sentence_hu": "A ___ itt lakik.",
+      "options_cs": [
+        "barátom",
+        "barátot",
+        "barátban"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Přípona -om vyjadřuje „můj“: barátom."
+    },
+    {
+      "id": "recall-baratom",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · přivlastnění",
+      "vocabulary_id": "barat",
+      "grammar_id": "birtokos-m",
+      "prompt_cs": "Napište maďarsky „můj přítel“.",
+      "accepted_answers": [
+        "barátom"
+      ],
+      "explanation_cs": "K základnímu tvaru barát připojíme přivlastňovací příponu -om: barátom."
+    },
+    {
+      "id": "order-family-home",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · časování",
+      "vocabulary_id": "lakik",
+      "grammar_id": "casovani-prvni-osoba",
+      "prompt_cs": "Sestavte větu „Bydlím tady.“",
+      "words_hu": [
+        "lakom.",
+        "Én",
+        "itt"
+      ],
+      "accepted_orders": [
+        [
+          "Én",
+          "itt",
+          "lakom."
+        ]
+      ],
+      "explanation_cs": "Én itt lakom. V první osobě se ke slovesu lakik přidá koncovka -om."
+    }
+  ],
+  "stories": [
+    {
+      "id": "na-namesti",
+      "title_cs": "Host ve městě",
+      "title_hu": "A vendég a városban",
+      "level": "A1 · I + 1 SLOVO",
+      "reading_time_min": 3,
+      "prerequisite_lesson_ids": [
+        "prochazka-mestem"
+      ],
+      "curriculum_lesson_id": "rodina-a-pratele",
+      "new_vocabulary_ids": [
+        "vendeg"
+      ],
+      "vocabulary_ids": [
+        "vendeg",
+        "varos",
+        "megy",
+        "ter",
+        "van",
+        "muzeum",
+        "kavezo",
+        "kave",
+        "kerek",
+        "viz",
+        "bolt",
+        "park",
+        "folyo",
+        "kozel",
+        "hid",
+        "kenyer"
+      ],
+      "segments": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "vendég",
+          "vocabulary_id": "vendeg"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "városba",
+          "vocabulary_id": "varos"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "megy",
+          "vocabulary_id": "megy"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "városban",
+          "vocabulary_id": "varos"
+        },
+        {
+          "text": " van egy "
+        },
+        {
+          "text": "tér",
+          "vocabulary_id": "ter"
+        },
+        {
+          "text": ". A "
+        },
+        {
+          "text": "téren",
+          "vocabulary_id": "ter"
+        },
+        {
+          "text": " van egy "
+        },
+        {
+          "text": "múzeum",
+          "vocabulary_id": "muzeum"
+        },
+        {
+          "text": " és egy "
+        },
+        {
+          "text": "kávézó",
+          "vocabulary_id": "kavezo"
+        },
+        {
+          "text": ". A vendég a "
+        },
+        {
+          "text": "múzeumba",
+          "vocabulary_id": "muzeum"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "megy",
+          "vocabulary_id": "megy"
+        },
+        {
+          "text": ". A múzeum a téren "
+        },
+        {
+          "text": "van",
+          "vocabulary_id": "van"
+        },
+        {
+          "text": ". A kávézó a téren van. A vendég a "
+        },
+        {
+          "text": "kávézóba",
+          "vocabulary_id": "kavezo"
+        },
+        {
+          "text": " megy. A kávézóban "
+        },
+        {
+          "text": "kávét",
+          "vocabulary_id": "kave"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "kér",
+          "vocabulary_id": "kerek"
+        },
+        {
+          "text": ". "
+        },
+        {
+          "text": "Vizet",
+          "vocabulary_id": "viz"
+        },
+        {
+          "text": " is kér. A "
+        },
+        {
+          "text": "bolt",
+          "vocabulary_id": "bolt"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "parkban",
+          "vocabulary_id": "park"
+        },
+        {
+          "text": " van. A vendég a "
+        },
+        {
+          "text": "boltba",
+          "vocabulary_id": "bolt"
+        },
+        {
+          "text": " megy. A boltban "
+        },
+        {
+          "text": "kenyeret",
+          "vocabulary_id": "kenyer"
+        },
+        {
+          "text": " kér. A "
+        },
+        {
+          "text": "folyó",
+          "vocabulary_id": "folyo"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "közel",
+          "vocabulary_id": "kozel"
+        },
+        {
+          "text": " van. A "
+        },
+        {
+          "text": "híd",
+          "vocabulary_id": "hid"
+        },
+        {
+          "text": " közel van. A vendég a városban van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "namesti-destination",
+          "prompt_cs": "Kam host jede jako první?",
+          "options_cs": [
+            "Do města.",
+            "Do parku.",
+            "Do obchodu."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Host jede do města: A vendég a városba megy."
+        },
+        {
+          "id": "namesti-order",
+          "prompt_cs": "Co si host objedná v kavárně?",
+          "options_cs": [
+            "Kávu a vodu.",
+            "Chléb a mléko.",
+            "Čaj a koláč."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "V kavárně žádá o kávu a vodu; chléb si žádá až v obchodě."
+        },
+        {
+          "id": "namesti-shop",
+          "prompt_cs": "Kde je obchod?",
+          "options_cs": [
+            "V parku.",
+            "Na náměstí.",
+            "V muzeu."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Obchod je v parku: A bolt a parkban van."
+        }
+      ],
+      "translation_cs": "Host jede do města. Ve městě je náměstí. Na náměstí je muzeum a kavárna. Host jde do muzea. Muzeum je na náměstí. Kavárna je na náměstí. Host jde do kavárny. V kavárně si objedná kávu. Požádá také o vodu. Obchod je v parku. Host jde do obchodu. V obchodě žádá o chléb. Řeka je blízko. Most je blízko. Host je ve městě."
+    }
+  ]
+}

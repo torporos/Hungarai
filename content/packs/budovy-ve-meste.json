@@ -1,0 +1,251 @@
+{
+  "order": 9,
+  "lesson": {
+    "id": "budovy-ve-meste",
+    "theme_id": "mesta",
+    "theme_title_cs": "Město a jeho místa",
+    "module_number": 2,
+    "module_title_cs": "Veřejné budovy",
+    "title_cs": "Na náměstí",
+    "description": "Poznejte další důležitá místa ve městě a procvičte, kde se nacházejí.",
+    "level": "A1 · VE MĚSTĚ",
+    "duration_min": 8,
+    "xp_required": 230,
+    "prerequisite_lesson_ids": [
+      "prochazka-mestem"
+    ],
+    "vocabulary_ids": [
+      "konyvtar",
+      "szinhaz",
+      "templom",
+      "iskola"
+    ],
+    "new_vocabulary_ids": [
+      "konyvtar",
+      "szinhaz",
+      "templom",
+      "iskola"
+    ],
+    "grammar_ids": [
+      "umisteni-v"
+    ],
+    "grammar_label_cs": "Poloha -ban / -ben · místa ve městě",
+    "exercise_ids": [
+      "meaning-konyvtar",
+      "recall-szinhazban",
+      "meaning-templom",
+      "recall-iskolaban",
+      "recall-konyvtarban",
+      "cloze-szinhazban",
+      "order-library-sentence"
+    ],
+    "story_ids": []
+  },
+  "vocabulary": [
+    {
+      "id": "konyvtar",
+      "word": "könyvtár",
+      "translation_cs": "knihovna",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "könyvtárban",
+          "translation_cs": "v knihovně",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "budovy-ve-meste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "könyvtár",
+          "translation_cs": "knihovna",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A könyvtár a városban van.",
+      "example_cs": "Knihovna je ve městě."
+    },
+    {
+      "id": "szinhaz",
+      "word": "színház",
+      "translation_cs": "divadlo",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "színházban",
+          "translation_cs": "v divadle",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "budovy-ve-meste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "színház",
+          "translation_cs": "divadlo",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A színház a téren van.",
+      "example_cs": "Divadlo je na náměstí."
+    },
+    {
+      "id": "templom",
+      "word": "templom",
+      "translation_cs": "kostel",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "templomban",
+          "translation_cs": "v kostele",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "budovy-ve-meste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "templom",
+          "translation_cs": "kostel",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A templom a városban van.",
+      "example_cs": "Kostel je ve městě."
+    },
+    {
+      "id": "iskola",
+      "word": "iskola",
+      "translation_cs": "škola",
+      "part_of_speech_cs": "podstatné jméno",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "iskolában",
+          "translation_cs": "ve škole",
+          "grammar_id": "umisteni-v",
+          "lesson_id": "budovy-ve-meste"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "iskola",
+          "translation_cs": "škola",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az iskola a városban van.",
+      "example_cs": "Škola je ve městě."
+    }
+  ],
+  "grammar": [],
+  "exercises": [
+    {
+      "id": "meaning-konyvtar",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · město",
+      "vocabulary_id": "konyvtar",
+      "prompt_cs": "Co znamená „könyvtár“?",
+      "options_cs": [
+        "knihovna",
+        "divadlo",
+        "kostel"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Könyvtár znamená knihovna."
+    },
+    {
+      "id": "recall-szinhazban",
+      "type": "recall",
+      "type_label_cs": "Poloha · -ban",
+      "vocabulary_id": "szinhaz",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Základní tvar színház: napište „v divadle“.",
+      "accepted_answers": [
+        "színházban"
+      ],
+      "explanation_cs": "Színház má zadní samohlásky, proto říkáme színházban."
+    },
+    {
+      "id": "meaning-templom",
+      "type": "vocabulary",
+      "type_label_cs": "Nová slovíčka · město",
+      "vocabulary_id": "templom",
+      "prompt_cs": "Co znamená „templom“?",
+      "options_cs": [
+        "kostel",
+        "škola",
+        "knihovna"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Templom znamená kostel."
+    },
+    {
+      "id": "recall-iskolaban",
+      "type": "recall",
+      "type_label_cs": "Poloha · -ban",
+      "vocabulary_id": "iskola",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Základní tvar iskola: napište „ve škole“.",
+      "accepted_answers": [
+        "iskolában"
+      ],
+      "explanation_cs": "Iskola má zadní samohlásky, proto říkáme iskolában."
+    },
+    {
+      "id": "recall-konyvtarban",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · místo",
+      "vocabulary_id": "konyvtar",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Jak řeknete „v knihovně“?",
+      "accepted_answers": [
+        "könyvtárban"
+      ],
+      "explanation_cs": "Könyvtár má zadní samohlásky, proto se připojí -ban: könyvtárban."
+    },
+    {
+      "id": "cloze-szinhazban",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · místo",
+      "vocabulary_id": "szinhaz",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Doplňte tvar, který znamená „v divadle“.",
+      "sentence_hu": "A színház___ vagyok.",
+      "options_cs": [
+        "-ban",
+        "-ba",
+        "-ból"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "A színházban vyjadřuje polohu v divadle; -ba by označilo směr dovnitř."
+    },
+    {
+      "id": "order-library-sentence",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · místo",
+      "vocabulary_id": "konyvtar",
+      "grammar_id": "umisteni-v",
+      "prompt_cs": "Sestavte větu „Kniha je v knihovně.“",
+      "words_hu": [
+        "van.",
+        "könyvtárban",
+        "A",
+        "könyv",
+        "a"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "könyv",
+          "a",
+          "könyvtárban",
+          "van."
+        ]
+      ],
+      "explanation_cs": "A könyv a könyvtárban van. Knihovna je místo, proto použijeme -ban."
+    }
+  ],
+  "stories": []
+}

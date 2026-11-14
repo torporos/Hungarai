@@ -1,0 +1,760 @@
+{
+  "order": 15,
+  "lesson": {
+    "id": "q1-uniforma",
+    "theme_id": "q1-novacek-kasarny",
+    "theme_title_cs": "Q1 · Nováček v kasárnách",
+    "module_number": 2,
+    "module_title_cs": "Uniforma honvéda",
+    "title_cs": "Co patří k uniformě",
+    "description": "Pojmenujte součásti dobové uniformy a procvičte tvoření množného čísla.",
+    "level": "Q1 · UNIFORMA",
+    "duration_min": 8,
+    "xp_required": 700,
+    "prerequisite_lesson_ids": [
+      "q1-hodnosti"
+    ],
+    "vocabulary_ids": [
+      "csako",
+      "zubbony",
+      "csizma",
+      "nadrag",
+      "ing",
+      "kopeny",
+      "ov",
+      "galler",
+      "gomb",
+      "vall-lap"
+    ],
+    "new_vocabulary_ids": [
+      "csako",
+      "zubbony",
+      "csizma",
+      "nadrag",
+      "ing",
+      "kopeny",
+      "ov",
+      "galler",
+      "gomb",
+      "vall-lap"
+    ],
+    "grammar_ids": [
+      "q1-mnozne-cislo"
+    ],
+    "grammar_label_cs": "Množné číslo · -k",
+    "exercise_ids": [
+      "q1-uniform-01",
+      "q1-uniform-02",
+      "q1-uniform-03",
+      "q1-uniform-04",
+      "q1-uniform-05",
+      "q1-uniform-06",
+      "q1-uniform-07",
+      "q1-uniform-08",
+      "q1-uniform-09",
+      "q1-uniform-10",
+      "q1-uniform-11",
+      "q1-uniform-12",
+      "q1-uniform-13"
+    ],
+    "story_ids": [
+      "q1-story-uniform"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "csako",
+      "word": "csákó",
+      "translation_cs": "čákó; vojenská pokrývka hlavy",
+      "part_of_speech_cs": "součást uniformy",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "csákók",
+          "translation_cs": "čákó (množné číslo)",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-uniforma"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "csákó",
+          "translation_cs": "čákó",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A csákó az asztalon van.",
+      "example_cs": "Čákó je na stole.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "uniform"
+      ]
+    },
+    {
+      "id": "zubbony",
+      "word": "zubbony",
+      "translation_cs": "vojenská blůza; kabátec",
+      "part_of_speech_cs": "součást uniformy",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "zubbonyok",
+          "translation_cs": "vojenské blůzy",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-uniforma"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "zubbony",
+          "translation_cs": "vojenská blůza",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A zubbony a széken van.",
+      "example_cs": "Vojenská blůza je na židli.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "uniform"
+      ]
+    },
+    {
+      "id": "csizma",
+      "word": "csizma",
+      "translation_cs": "vysoká bota; holínka",
+      "part_of_speech_cs": "součást uniformy",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "csizmák",
+          "translation_cs": "vysoké boty",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-uniforma"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "csizma",
+          "translation_cs": "vysoká bota",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A csizma a szobában van.",
+      "example_cs": "Vysoká bota je v pokoji.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "uniform"
+      ]
+    },
+    {
+      "id": "nadrag",
+      "word": "nadrág",
+      "translation_cs": "kalhoty",
+      "part_of_speech_cs": "součást uniformy",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "nadrágok",
+          "translation_cs": "kalhoty (množné číslo)",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-uniforma"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "nadrág",
+          "translation_cs": "kalhoty",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A nadrág az ágyon van.",
+      "example_cs": "Kalhoty jsou na posteli.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "uniform"
+      ]
+    },
+    {
+      "id": "ing",
+      "word": "ing",
+      "translation_cs": "košile",
+      "part_of_speech_cs": "součást uniformy",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "ingek",
+          "translation_cs": "košile (množné číslo)",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-uniforma"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ing",
+          "translation_cs": "košile",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az ing a szobában van.",
+      "example_cs": "Košile je v pokoji.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "uniform"
+      ]
+    },
+    {
+      "id": "kopeny",
+      "word": "köpeny",
+      "translation_cs": "plášť",
+      "part_of_speech_cs": "součást uniformy",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "köpenyek",
+          "translation_cs": "pláště",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-uniforma"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "köpeny",
+          "translation_cs": "plášť",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A köpeny a széken van.",
+      "example_cs": "Plášť je na židli.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "uniform"
+      ]
+    },
+    {
+      "id": "ov",
+      "word": "öv",
+      "translation_cs": "opasek",
+      "part_of_speech_cs": "součást uniformy",
+      "vowel_harmony": "front",
+      "forms": [
+        {
+          "form_hu": "övek",
+          "translation_cs": "opasky",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-uniforma"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "öv",
+          "translation_cs": "opasek",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az öv az asztalon van.",
+      "example_cs": "Opasek je na stole.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "uniform"
+      ]
+    },
+    {
+      "id": "galler",
+      "word": "gallér",
+      "translation_cs": "límec",
+      "part_of_speech_cs": "součást uniformy",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "gallérok",
+          "translation_cs": "límce",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-uniforma"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "gallér",
+          "translation_cs": "límec",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gallér a zubbonyon van.",
+      "example_cs": "Límec je na blůze.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "uniform"
+      ]
+    },
+    {
+      "id": "gomb",
+      "word": "gomb",
+      "translation_cs": "knoflík",
+      "part_of_speech_cs": "součást uniformy",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "gombok",
+          "translation_cs": "knoflíky",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-uniforma"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "gomb",
+          "translation_cs": "knoflík",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A gomb a zubbonyon van.",
+      "example_cs": "Knoflík je na blůze.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "uniform"
+      ]
+    },
+    {
+      "id": "vall-lap",
+      "word": "váll-lap",
+      "translation_cs": "nárameník; výložka",
+      "part_of_speech_cs": "součást uniformy",
+      "vowel_harmony": "back",
+      "forms": [
+        {
+          "form_hu": "váll-lapok",
+          "translation_cs": "nárameníky",
+          "grammar_id": "q1-mnozne-cislo",
+          "lesson_id": "q1-uniforma"
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "váll-lap",
+          "translation_cs": "nárameník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A váll-lap a zubbonyon van.",
+      "example_cs": "Nárameník je na blůze.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "uniform"
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "q1-mnozne-cislo",
+      "title_cs": "Množné číslo: koncovka -k",
+      "level": "Q1 · ZÁKLADNÍ TVARY",
+      "summary_cs": "Koncovka -k tvoří množné číslo; před ní se často vloží samohláska podle zakončení a harmonie.",
+      "rule_cs": "Po samohlásce obvykle připojte -k: csákó → csákók. Po souhlásce se často vloží harmonická samohláska: gomb → gombok, ing → ingek. Některá slova mění kmen nebo délku samohlásky, proto se učte celý tvar.",
+      "groups": [
+        {
+          "name_cs": "Věci v kasárnách",
+          "suffix_hu": "-k",
+          "examples": [
+            {
+              "form_hu": "csákó → csákók",
+              "translation_cs": "čákó (jeden kus) → více čákó"
+            },
+            {
+              "form_hu": "gomb → gombok",
+              "translation_cs": "knoflík → knoflíky"
+            },
+            {
+              "form_hu": "ing → ingek",
+              "translation_cs": "košile (jedna) → košile (množné číslo)"
+            },
+            {
+              "form_hu": "ágy → ágyak",
+              "translation_cs": "postel → postele"
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Po zadních samohláskách bývá vkládací samohláska -o/-a; po předních často -e/-ö.",
+        "Jednotlivé tvary se mohou lišit, například csizma → csizmák; množné číslo se proto procvičuje spolu se slovem."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1-uniform-01",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · uniforma",
+      "vocabulary_id": "csako",
+      "prompt_cs": "Co je „csákó“?",
+      "options_cs": [
+        "čákó; vojenská pokrývka hlavy",
+        "opasek",
+        "plášť"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Csákó je historická vojenská pokrývka hlavy."
+    },
+    {
+      "id": "q1-uniform-02",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · uniforma",
+      "vocabulary_id": "zubbony",
+      "prompt_cs": "Napište maďarsky „vojenská blůza“.",
+      "accepted_answers": [
+        "zubbony"
+      ],
+      "sentence_hu": "A ______ a széken van.",
+      "explanation_cs": "Zubbony znamená vojenská blůza nebo kabátec."
+    },
+    {
+      "id": "q1-uniform-03",
+      "type": "listening",
+      "type_label_cs": "Poslech · uniforma",
+      "vocabulary_id": "csizma",
+      "audio_text": "csizma",
+      "prompt_cs": "Co znamená poslechnuté slovo „csizma“?",
+      "options_cs": [
+        "vysoká bota",
+        "košile",
+        "límec"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Csizma je vysoká bota nebo holínka."
+    },
+    {
+      "id": "q1-uniform-04",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · uniforma",
+      "vocabulary_id": "nadrag",
+      "grammar_id": "q1-mnozne-cislo",
+      "prompt_cs": "Doplňte množné číslo slova „nadrág“.",
+      "sentence_hu": "A ______ az ágyon vannak.",
+      "options_cs": [
+        "nadrágok",
+        "nadrágek",
+        "nadrág"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Nadrág má v množném čísle tvar nadrágok."
+    },
+    {
+      "id": "q1-uniform-05",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · uniforma",
+      "vocabulary_id": "ing",
+      "prompt_cs": "Co znamená „ing“?",
+      "options_cs": [
+        "košile",
+        "kalhoty",
+        "čákó"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Ing znamená košile."
+    },
+    {
+      "id": "q1-uniform-06",
+      "type": "listening",
+      "type_label_cs": "Poslech · uniforma",
+      "vocabulary_id": "kopeny",
+      "audio_text": "köpeny",
+      "prompt_cs": "Který český překlad odpovídá slovu „köpeny“?",
+      "options_cs": [
+        "plášť",
+        "knoflík",
+        "nárameník"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Köpeny znamená plášť."
+    },
+    {
+      "id": "q1-uniform-07",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · uniforma",
+      "vocabulary_id": "ov",
+      "grammar_id": "q1-mnozne-cislo",
+      "prompt_cs": "Napište množné číslo maďarského slova „öv“.",
+      "accepted_answers": [
+        "övek"
+      ],
+      "sentence_hu": "Az ______ az asztalon vannak.",
+      "explanation_cs": "Öv má v množném čísle tvar övek."
+    },
+    {
+      "id": "q1-uniform-08",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · uniforma",
+      "vocabulary_id": "galler",
+      "prompt_cs": "Co znamená „gallér“?",
+      "options_cs": [
+        "límec",
+        "opasek",
+        "vysoká bota"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Gallér znamená límec."
+    },
+    {
+      "id": "q1-uniform-09",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · množné číslo",
+      "vocabulary_id": "gomb",
+      "grammar_id": "q1-mnozne-cislo",
+      "prompt_cs": "Vyberte správné množné číslo slova „gomb“.",
+      "sentence_hu": "A ______ a zubbonyon vannak.",
+      "options_cs": [
+        "gombok",
+        "gombek",
+        "gomb"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Gomb má zadní samohlásku, proto je množné číslo gombok."
+    },
+    {
+      "id": "q1-uniform-10",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · uniforma",
+      "vocabulary_id": "vall-lap",
+      "prompt_cs": "Co je „váll-lap“ na uniformě?",
+      "options_cs": [
+        "nárameník; výložka",
+        "límec",
+        "knoflík"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Váll-lap je nárameník nebo výložka."
+    },
+    {
+      "id": "q1-uniform-11",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · uniforma",
+      "vocabulary_id": "csako",
+      "grammar_id": "q1-mnozne-cislo",
+      "prompt_cs": "Sestavte větu „Čákó je na stole.“",
+      "words_hu": [
+        "asztalon",
+        "az",
+        "A",
+        "van.",
+        "csákó"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "csákó",
+          "az",
+          "asztalon",
+          "van."
+        ]
+      ],
+      "explanation_cs": "A csákó az asztalon van. Před asztalon stojí az."
+    },
+    {
+      "id": "q1-uniform-12",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · uniforma",
+      "vocabulary_id": "zubbony",
+      "prompt_cs": "Doplňte slovo „límec“ do věty.",
+      "sentence_hu": "A ______ a zubbonyon van.",
+      "options_cs": [
+        "gallér",
+        "öv",
+        "ing"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Gallér znamená límec."
+    },
+    {
+      "id": "q1-uniform-13",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · uniforma",
+      "vocabulary_id": "ing",
+      "grammar_id": "q1-mnozne-cislo",
+      "prompt_cs": "Sestavte větu „Košile je v pokoji.“",
+      "words_hu": [
+        "szobában",
+        "Az",
+        "van.",
+        "ing",
+        "a"
+      ],
+      "accepted_orders": [
+        [
+          "Az",
+          "ing",
+          "a",
+          "szobában",
+          "van."
+        ]
+      ],
+      "explanation_cs": "Az ing a szobában van. = Košile je v pokoji."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-story-uniform",
+      "title_cs": "Příprava uniformy",
+      "title_hu": "A honvéd ruhája",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 2,
+      "prerequisite_lesson_ids": [
+        "q1-uniforma"
+      ],
+      "curriculum_lesson_id": "q1-uniforma",
+      "new_vocabulary_ids": [
+        "csako",
+        "zubbony",
+        "csizma",
+        "nadrag",
+        "ing",
+        "kopeny",
+        "ov",
+        "galler",
+        "gomb",
+        "vall-lap"
+      ],
+      "vocabulary_ids": [
+        "csako",
+        "zubbony",
+        "csizma",
+        "nadrag",
+        "ing",
+        "kopeny",
+        "ov",
+        "galler",
+        "gomb",
+        "vall-lap",
+        "kaszarnya",
+        "honved"
+      ],
+      "segments": [
+        {
+          "text": "Reggel a honvéd a "
+        },
+        {
+          "text": "kaszárnyában",
+          "vocabulary_id": "kaszarnya"
+        },
+        {
+          "text": " van. A "
+        },
+        {
+          "text": "csákó",
+          "vocabulary_id": "csako"
+        },
+        {
+          "text": " az asztalon van. A "
+        },
+        {
+          "text": "zubbony",
+          "vocabulary_id": "zubbony"
+        },
+        {
+          "text": " a széken van. A "
+        },
+        {
+          "text": "ing",
+          "vocabulary_id": "ing"
+        },
+        {
+          "text": " a ládában van. A "
+        },
+        {
+          "text": "nadrág",
+          "vocabulary_id": "nadrag"
+        },
+        {
+          "text": " az ágyon van. A "
+        },
+        {
+          "text": "csizma",
+          "vocabulary_id": "csizma"
+        },
+        {
+          "text": " a szobában van. A "
+        },
+        {
+          "text": "köpeny",
+          "vocabulary_id": "kopeny"
+        },
+        {
+          "text": " a széken van. Az "
+        },
+        {
+          "text": "öv",
+          "vocabulary_id": "ov"
+        },
+        {
+          "text": " az asztalon van. A "
+        },
+        {
+          "text": "gallér",
+          "vocabulary_id": "galler"
+        },
+        {
+          "text": " a zubbonyon van. A "
+        },
+        {
+          "text": "gomb",
+          "vocabulary_id": "gomb"
+        },
+        {
+          "text": " a zubbonyon van. A "
+        },
+        {
+          "text": "váll-lap",
+          "vocabulary_id": "vall-lap"
+        },
+        {
+          "text": " is a zubbonyon van. A honvéd felveszi a ruhát."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-story-uniform-csako",
+          "prompt_cs": "Kde je čákó?",
+          "options_cs": [
+            "Na stole.",
+            "Na posteli.",
+            "Ve skříni."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Čákó je na stole: A csákó az asztalon van."
+        },
+        {
+          "id": "q1-story-uniform-shirt",
+          "prompt_cs": "Kde je košile?",
+          "options_cs": [
+            "V truhle.",
+            "Na židli.",
+            "Na stole."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Košile je v truhle: A ing a ládában van."
+        },
+        {
+          "id": "q1-story-uniform-collar",
+          "prompt_cs": "Co je na blůze?",
+          "options_cs": [
+            "Límec, knoflík a nárameník.",
+            "Postel a přikrývka.",
+            "Puška a náboj."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Na blůze jsou límec, knoflík a nárameník."
+        }
+      ],
+      "translation_cs": "Ráno je voják v kasárnách. Čákó je na stole. Blůza je na židli. Košile je v truhle. Kalhoty jsou na posteli. Vysoká bota je v pokoji. Plášť je na židli. Opasek je na stole. Límec je na blůze. Knoflík je na blůze. Nárameník je také na blůze. Voják si obléká uniformu."
+    }
+  ]
+}

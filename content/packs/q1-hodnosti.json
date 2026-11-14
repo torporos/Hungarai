@@ -1,0 +1,691 @@
+{
+  "order": 14,
+  "lesson": {
+    "id": "q1-hodnosti",
+    "theme_id": "q1-novacek-kasarny",
+    "theme_title_cs": "Q1 · Nováček v kasárnách",
+    "module_number": 1,
+    "module_title_cs": "Hodnosti a lidé",
+    "title_cs": "První den v kasárnách",
+    "description": "Seznamte se s vojáky a hodnostmi uherské domobrany v roce 1913. Začínáme krátkými větami, zdvořilými žádostmi a samohláskovou harmonií.",
+    "level": "Q1 · ZÁKLADY",
+    "duration_min": 8,
+    "xp_required": 600,
+    "prerequisite_lesson_ids": [
+      "kozlekedes-1913"
+    ],
+    "vocabulary_ids": [
+      "honved",
+      "orrmester",
+      "hadnagy",
+      "szazados",
+      "ezredes",
+      "tabornok",
+      "kozlegeny",
+      "orvezeto",
+      "szakaszvezeto",
+      "zaszlos"
+    ],
+    "new_vocabulary_ids": [
+      "honved",
+      "orrmester",
+      "hadnagy",
+      "szazados",
+      "ezredes",
+      "tabornok",
+      "kozlegeny",
+      "orvezeto",
+      "szakaszvezeto",
+      "zaszlos"
+    ],
+    "grammar_ids": [
+      "samohlaskova-harmonie",
+      "q1-neurcite-casovani"
+    ],
+    "grammar_label_cs": "Samohlásková harmonie · krátká přítomná věta",
+    "exercise_ids": [
+      "q1-rank-01",
+      "q1-rank-02",
+      "q1-rank-03",
+      "q1-rank-04",
+      "q1-rank-05",
+      "q1-rank-06",
+      "q1-rank-07",
+      "q1-rank-08",
+      "q1-rank-09",
+      "q1-rank-10",
+      "q1-rank-11",
+      "q1-rank-12",
+      "q1-rank-13"
+    ],
+    "story_ids": [
+      "q1-story-ranks"
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "honved",
+      "word": "honvéd",
+      "translation_cs": "honvéd; uherský voják",
+      "part_of_speech_cs": "vojenská hodnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "honvéd",
+          "translation_cs": "honvéd",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A honvéd vizet kér.",
+      "example_cs": "Honvéd žádá o vodu.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "rank"
+      ]
+    },
+    {
+      "id": "orrmester",
+      "word": "őrmester",
+      "translation_cs": "seržant",
+      "part_of_speech_cs": "vojenská hodnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "őrmester",
+          "translation_cs": "seržant",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az őrmester kenyeret kér.",
+      "example_cs": "Seržant žádá o chléb.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "rank"
+      ]
+    },
+    {
+      "id": "hadnagy",
+      "word": "hadnagy",
+      "translation_cs": "poručík",
+      "part_of_speech_cs": "vojenská hodnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "hadnagy",
+          "translation_cs": "poručík",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A hadnagy a városban van.",
+      "example_cs": "Poručík je ve městě.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "rank"
+      ]
+    },
+    {
+      "id": "szazados",
+      "word": "százados",
+      "translation_cs": "kapitán",
+      "part_of_speech_cs": "vojenská hodnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "százados",
+          "translation_cs": "kapitán",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A százados vizet ad.",
+      "example_cs": "Kapitán dává vodu.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "rank"
+      ]
+    },
+    {
+      "id": "ezredes",
+      "word": "ezredes",
+      "translation_cs": "plukovník",
+      "part_of_speech_cs": "vojenská hodnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "ezredes",
+          "translation_cs": "plukovník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az ezredes Budapesten van.",
+      "example_cs": "Plukovník je v Budapešti.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "rank"
+      ]
+    },
+    {
+      "id": "tabornok",
+      "word": "tábornok",
+      "translation_cs": "generál",
+      "part_of_speech_cs": "vojenská hodnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "tábornok",
+          "translation_cs": "generál",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A tábornok a városban van.",
+      "example_cs": "Generál je ve městě.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "rank"
+      ]
+    },
+    {
+      "id": "kozlegeny",
+      "word": "közlegény",
+      "translation_cs": "vojín",
+      "part_of_speech_cs": "vojenská hodnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "közlegény",
+          "translation_cs": "vojín",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A közlegény kenyeret kér.",
+      "example_cs": "Vojín žádá o chléb.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "rank"
+      ]
+    },
+    {
+      "id": "orvezeto",
+      "word": "őrvezető",
+      "translation_cs": "desátník",
+      "part_of_speech_cs": "vojenská hodnost",
+      "vowel_harmony": "front",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "őrvezető",
+          "translation_cs": "desátník",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "Az őrvezető vizet kér.",
+      "example_cs": "Desátník žádá o vodu.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "rank"
+      ]
+    },
+    {
+      "id": "szakaszvezeto",
+      "word": "szakaszvezető",
+      "translation_cs": "četař",
+      "part_of_speech_cs": "vojenská hodnost",
+      "vowel_harmony": "mixed",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "szakaszvezető",
+          "translation_cs": "četař",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A szakaszvezető a szobában van.",
+      "example_cs": "Četař je v pokoji.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "rank"
+      ]
+    },
+    {
+      "id": "zaszlos",
+      "word": "zászlós",
+      "translation_cs": "praporčík; nižší důstojník",
+      "part_of_speech_cs": "vojenská hodnost",
+      "vowel_harmony": "back",
+      "forms": [],
+      "morphemes": [
+        {
+          "form": "zászlós",
+          "translation_cs": "praporčík",
+          "kind": "root"
+        }
+      ],
+      "example_hu": "A zászlós a városban van.",
+      "example_cs": "Praporčík je ve městě.",
+      "tags": [
+        "q1",
+        "military_basic",
+        "rank"
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "q1-neurcite-casovani",
+      "title_cs": "Přítomný čas: neurčitý předmět",
+      "level": "Q1 · PRVNÍ VĚTY",
+      "summary_cs": "U neurčitého předmětu použijte neurčité časování; u sloves bez předmětu zůstává jednoduchý přítomný tvar.",
+      "rule_cs": "Věta A honvéd vizet kér znamená „Voják žádá o vodu“. Předmět vizet není určitý konkrétní předmět, proto je sloveso kér v neurčitém časování. V této úvodní lekci procvičujeme hlavně krátké věty se slovníkovým tvarem slovesa.",
+      "groups": [
+        {
+          "name_cs": "Krátké věty z kasáren",
+          "suffix_hu": "neurčité časování",
+          "examples": [
+            {
+              "form_hu": "A honvéd vizet kér.",
+              "translation_cs": "Voják žádá o vodu."
+            },
+            {
+              "form_hu": "A közlegény kenyeret kér.",
+              "translation_cs": "Vojín žádá o chléb."
+            },
+            {
+              "form_hu": "Az őrmester parancsot ad.",
+              "translation_cs": "Seržant dává rozkaz."
+            }
+          ]
+        }
+      ],
+      "notes_cs": [
+        "Neurčité časování se používá také tehdy, když sloveso nemá předmět: A honvéd pihen. = Voják odpočívá.",
+        "Rozdíl mezi neurčitým a určitým časováním se bude rozvíjet v pozdějším čtvrtletí."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q1-rank-01",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · hodnosti",
+      "vocabulary_id": "honved",
+      "prompt_cs": "Kdo je „honvéd“?",
+      "options_cs": [
+        "uherský voják",
+        "kočí",
+        "pošťák"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Honvéd označuje uherského vojáka."
+    },
+    {
+      "id": "q1-rank-02",
+      "type": "listening",
+      "type_label_cs": "Poslech · hodnosti",
+      "vocabulary_id": "orrmester",
+      "audio_text": "őrmester",
+      "prompt_cs": "Poslechněte si hodnost. Co znamená „őrmester“?",
+      "options_cs": [
+        "seržant",
+        "plukovník",
+        "vojín"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Őrmester znamená seržant."
+    },
+    {
+      "id": "q1-rank-03",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · hodnosti",
+      "vocabulary_id": "hadnagy",
+      "prompt_cs": "Napište maďarsky „poručík“.",
+      "accepted_answers": [
+        "hadnagy"
+      ],
+      "sentence_hu": "A ______ a városban van.",
+      "explanation_cs": "Hadnagy znamená poručík."
+    },
+    {
+      "id": "q1-rank-04",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · hodnosti",
+      "vocabulary_id": "szazados",
+      "prompt_cs": "Která hodnost znamená „kapitán“?",
+      "options_cs": [
+        "százados",
+        "tábornok",
+        "közlegény"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Százados je kapitán."
+    },
+    {
+      "id": "q1-rank-05",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · hodnosti",
+      "vocabulary_id": "ezredes",
+      "prompt_cs": "Napište maďarsky základní tvar slova „plukovník“.",
+      "accepted_answers": [
+        "ezredes"
+      ],
+      "sentence_hu": "Az ______ Budapesten van.",
+      "explanation_cs": "Ezredes znamená plukovník."
+    },
+    {
+      "id": "q1-rank-06",
+      "type": "listening",
+      "type_label_cs": "Poslech · hodnosti",
+      "vocabulary_id": "tabornok",
+      "audio_text": "tábornok",
+      "prompt_cs": "Co znamená poslechnutá hodnost „tábornok“?",
+      "options_cs": [
+        "generál",
+        "četař",
+        "desátník"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Tábornok znamená generál."
+    },
+    {
+      "id": "q1-rank-07",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · hodnosti",
+      "vocabulary_id": "kozlegeny",
+      "prompt_cs": "Co znamená „közlegény“?",
+      "options_cs": [
+        "vojín",
+        "kapitán",
+        "seržant"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Közlegény je vojín, tedy řadový voják."
+    },
+    {
+      "id": "q1-rank-08",
+      "type": "recall",
+      "type_label_cs": "Aktivní vybavení · hodnosti",
+      "vocabulary_id": "orvezeto",
+      "prompt_cs": "Napište maďarsky základní tvar slova „desátník“.",
+      "accepted_answers": [
+        "őrvezető"
+      ],
+      "sentence_hu": "Az ______ vizet kér.",
+      "explanation_cs": "Őrvezető znamená desátník."
+    },
+    {
+      "id": "q1-rank-09",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · hodnosti",
+      "vocabulary_id": "szakaszvezeto",
+      "prompt_cs": "Jaká hodnost je „szakaszvezető“?",
+      "options_cs": [
+        "četař",
+        "vojín",
+        "generál"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Szakaszvezető označuje četaře."
+    },
+    {
+      "id": "q1-rank-10",
+      "type": "vocabulary",
+      "type_label_cs": "Význam slova · hodnosti",
+      "vocabulary_id": "zaszlos",
+      "prompt_cs": "Co označuje „zászlós“?",
+      "options_cs": [
+        "praporčík; nižší důstojník",
+        "kočí",
+        "vojenský lékař"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Zászlós je historická nižší důstojnická hodnost."
+    },
+    {
+      "id": "q1-rank-11",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · hodnosti",
+      "vocabulary_id": "honved",
+      "grammar_id": "q1-neurcite-casovani",
+      "prompt_cs": "Sestavte větu „Voják žádá o vodu.“",
+      "words_hu": [
+        "kér.",
+        "A",
+        "vizet",
+        "honvéd"
+      ],
+      "accepted_orders": [
+        [
+          "A",
+          "honvéd",
+          "vizet",
+          "kér."
+        ]
+      ],
+      "explanation_cs": "A honvéd vizet kér. = Voják žádá o vodu."
+    },
+    {
+      "id": "q1-rank-12",
+      "type": "cloze",
+      "type_label_cs": "Doplňovačka · hodnosti",
+      "vocabulary_id": "orrmester",
+      "grammar_id": "q1-neurcite-casovani",
+      "prompt_cs": "Doplňte hodnost do věty „Seržant dává rozkaz.“",
+      "sentence_hu": "Az ______ parancsot ad.",
+      "options_cs": [
+        "őrmester",
+        "közlegény",
+        "tábornok"
+      ],
+      "answer_index": 0,
+      "explanation_cs": "Őrmester znamená seržant."
+    },
+    {
+      "id": "q1-rank-13",
+      "type": "order",
+      "type_label_cs": "Tvorba věty · hodnosti",
+      "vocabulary_id": "ezredes",
+      "prompt_cs": "Sestavte větu „Plukovník je ve městě.“",
+      "words_hu": [
+        "van.",
+        "Az",
+        "a",
+        "ezredes",
+        "városban"
+      ],
+      "accepted_orders": [
+        [
+          "Az",
+          "ezredes",
+          "a",
+          "városban",
+          "van."
+        ]
+      ],
+      "explanation_cs": "Az ezredes a városban van. = Plukovník je ve městě."
+    }
+  ],
+  "stories": [
+    {
+      "id": "q1-story-ranks",
+      "title_cs": "Nováček a jeho nadřízení",
+      "title_hu": "Az újonc a tisztek",
+      "level": "Q1 · UHER PŘED ROKEM 1914",
+      "reading_time_min": 2,
+      "prerequisite_lesson_ids": [
+        "q1-hodnosti"
+      ],
+      "curriculum_lesson_id": "q1-hodnosti",
+      "new_vocabulary_ids": [
+        "honved",
+        "orrmester",
+        "hadnagy",
+        "szazados",
+        "ezredes",
+        "tabornok",
+        "kozlegeny",
+        "orvezeto",
+        "szakaszvezeto",
+        "zaszlos"
+      ],
+      "vocabulary_ids": [
+        "honved",
+        "orrmester",
+        "hadnagy",
+        "szazados",
+        "ezredes",
+        "tabornok",
+        "kozlegeny",
+        "orvezeto",
+        "szakaszvezeto",
+        "zaszlos",
+        "kaszarnya",
+        "laktanya",
+        "viz",
+        "kenyer",
+        "varos"
+      ],
+      "segments": [
+        {
+          "text": "1913-ban János a "
+        },
+        {
+          "text": "kaszárnyában",
+          "vocabulary_id": "kaszarnya"
+        },
+        {
+          "text": " van. János "
+        },
+        {
+          "text": "honvéd",
+          "vocabulary_id": "honved"
+        },
+        {
+          "text": "."
+        },
+        {
+          "text": " A "
+        },
+        {
+          "text": "közlegény",
+          "vocabulary_id": "kozlegeny"
+        },
+        {
+          "text": " vizet kér. Az "
+        },
+        {
+          "text": "őrmester",
+          "vocabulary_id": "orrmester"
+        },
+        {
+          "text": " vizet ad. A "
+        },
+        {
+          "text": "hadnagy",
+          "vocabulary_id": "hadnagy"
+        },
+        {
+          "text": " a szobában van. A "
+        },
+        {
+          "text": "százados",
+          "vocabulary_id": "szazados"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "laktanyában",
+          "vocabulary_id": "laktanya"
+        },
+        {
+          "text": " van. Az "
+        },
+        {
+          "text": "őrvezető",
+          "vocabulary_id": "orvezeto"
+        },
+        {
+          "text": " kenyeret kér. A "
+        },
+        {
+          "text": "szakaszvezető",
+          "vocabulary_id": "szakaszvezeto"
+        },
+        {
+          "text": " a kaszárnyában van. Az "
+        },
+        {
+          "text": "ezredes",
+          "vocabulary_id": "ezredes"
+        },
+        {
+          "text": " a városban van. A "
+        },
+        {
+          "text": "tábornok",
+          "vocabulary_id": "tabornok"
+        },
+        {
+          "text": " Budapesten van. A "
+        },
+        {
+          "text": "zászlós",
+          "vocabulary_id": "zaszlos"
+        },
+        {
+          "text": " vizet kér. János a kaszárnyában van."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1-story-ranks-location",
+          "prompt_cs": "Kde je János v roce 1913?",
+          "options_cs": [
+            "V kasárnách.",
+            "Na nádraží.",
+            "V kavárně."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "János je v kasárnách: János a kaszárnyában van."
+        },
+        {
+          "id": "q1-story-ranks-water",
+          "prompt_cs": "Kdo dává vodu?",
+          "options_cs": [
+            "Seržant.",
+            "Vojín.",
+            "Praporčík."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Vodu dává seržant: Az őrmester vizet ad."
+        },
+        {
+          "id": "q1-story-ranks-colonel",
+          "prompt_cs": "Kde je plukovník?",
+          "options_cs": [
+            "Ve městě.",
+            "V pokoji.",
+            "Na náměstí."
+          ],
+          "answer_index": 0,
+          "feedback_cs": "Plukovník je ve městě: Az ezredes a városban van."
+        }
+      ],
+      "translation_cs": "V roce 1913 je János v kasárnách. János je honvéd. Vojín žádá o vodu. Seržant mu vodu dává. Poručík je v pokoji. Kapitán je v kasárnách. Desátník žádá o chléb. Četař je v kasárnách. Plukovník je ve městě. Generál je v Budapešti. Praporčík žádá o vodu. János je v kasárnách."
+    }
+  ]
+}
